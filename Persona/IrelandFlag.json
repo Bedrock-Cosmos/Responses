@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0d4d25f8-3033-4c31-a038-53574e375a5b",
+      "Contents": [
+        {
+          "Id": "91e130ab-b0a9-4501-99c7-4bfe0b6df7e3",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/IrelandFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e70d9e7b-d5a8-48b9-8a86-6d22c9b59b09",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

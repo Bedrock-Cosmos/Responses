@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "565a6e41-b0d1-4dd9-8c41-bff0affa3f55",
+      "Contents": [
+        {
+          "Id": "c777587b-8243-45f6-8cf4-2d47d7d20945",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/1 MILL.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2ce32c20-dbf2-42a9-a8a9-8704ab525d08",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

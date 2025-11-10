@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "06a029bf-5fb1-4d19-a833-de9ad34c336d",
+      "Contents": [
+        {
+          "Id": "d090688d-0114-4610-bfc9-c4405c975849",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapePink10Anniversary.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b314c09a-92a2-42d1-8c3f-296d20f5552a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

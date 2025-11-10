@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ae6a285c-522c-4aca-bf90-f13e59b0f604",
+      "Contents": [
+        {
+          "Id": "2b537d74-06d5-4f36-a130-ea28e55ade3b",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Rocket.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3ead1de1-bb79-40b9-a0e0-143099af0699",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

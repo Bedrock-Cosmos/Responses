@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ceae69dd-f050-43da-8810-9e1236f8f52f",
+      "Contents": [
+        {
+          "Id": "141b941d-8e34-4c57-abb8-42d55c0645a5",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BlazePowder.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e7c85e38-25cc-4806-9449-30beacc2b31f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

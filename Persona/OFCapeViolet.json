@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cf99a81e-b872-4bb5-9683-3f1723bb433b",
+      "Contents": [
+        {
+          "Id": "59c647e3-f055-4358-ac74-8cab9d4971ca",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapeViolet.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "70035b98-406c-4e12-95a9-c27674ea26be",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0b9578bc-bac7-4e8d-9209-65264efd3a73",
+      "Contents": [
+        {
+          "Id": "abd33a3d-0fc7-462a-9fa6-64306f38e8ca",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Fist Warrior.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "23cbebf9-08cf-43c9-95ed-76a51c877a4c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

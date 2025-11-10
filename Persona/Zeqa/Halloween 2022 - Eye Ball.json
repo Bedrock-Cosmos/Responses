@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "57e639a2-9bd8-4b53-8bc3-ec0f4deea8bc",
+      "Contents": [
+        {
+          "Id": "412e0d71-eee1-43c3-a152-0de2b1fb98aa",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Halloween 2022 - Eye Ball.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5ba9fcc4-7b35-471e-bd23-f82d84bb3d83",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

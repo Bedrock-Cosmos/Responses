@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "82a81d64-2e18-4850-81f6-e8e90776de92",
+      "Contents": [
+        {
+          "Id": "1814d1ab-bb0b-403b-8a29-30bbd3599588",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Gravestone.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "13f0d212-ab43-4b57-8ff7-1ecb4bc13f82",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

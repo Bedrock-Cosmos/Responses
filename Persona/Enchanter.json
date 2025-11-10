@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8dffe5fd-31b9-48bb-9405-ff5e01a73579",
+      "Contents": [
+        {
+          "Id": "fc6610e9-0ac5-43a5-b71f-f55d50834d19",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Enchanter.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "cba054a5-cbf9-495e-ad32-c0dc35947345",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

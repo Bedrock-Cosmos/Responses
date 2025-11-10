@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "02aae3a8-476e-4116-8b46-0abe34c34958",
+      "Contents": [
+        {
+          "Id": "787fa271-b3f3-4b22-9248-b6c87829d311",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Iron Man.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "01267846-d776-48da-b47a-1ed27530f608",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

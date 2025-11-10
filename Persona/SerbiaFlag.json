@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b56cc54b-d624-40eb-bfab-7da975ceeb2b",
+      "Contents": [
+        {
+          "Id": "9048646a-80d2-42a6-91b6-627216e6a1e2",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SerbiaFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8322c5d5-f989-49cb-a8be-397ee19a44e6",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

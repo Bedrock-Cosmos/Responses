@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f6de2acf-35b3-47ad-975d-0bb10b646760",
+      "Contents": [
+        {
+          "Id": "5a0cdc2e-8945-4873-81b6-2746e529045f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/UFO.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "50919aff-98cb-444c-95b4-e17cdf3b1669",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

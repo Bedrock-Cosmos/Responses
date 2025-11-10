@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bbb6b9eb-35e6-4fa5-a53f-50b0021845ef",
+      "Contents": [
+        {
+          "Id": "ae1cf42a-03ea-4708-a647-787eae9957f9",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapeBrown.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3b6e3e5b-5a18-4dd5-967d-d688179ac300",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

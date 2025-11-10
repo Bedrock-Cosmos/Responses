@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "92e23db5-1e3d-41af-b583-2010b245c3d2",
+      "Contents": [
+        {
+          "Id": "892e6c85-43d0-4bd4-a6a9-a046e6cde826",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Boxing Champion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e29d5e68-c241-4ddd-ac15-6129f1295a15",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

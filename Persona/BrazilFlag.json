@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "56f3961c-476b-4851-adc5-fe3fc9fafa4c",
+      "Contents": [
+        {
+          "Id": "13446507-572f-47df-98d4-859af662750b",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BrazilFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7b5390f0-9d60-4ffb-a22f-47c64db8e4bd",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

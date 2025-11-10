@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "5a02b6e4-f1e7-482a-bbef-6b7ce036bd22",
+      "Contents": [
+        {
+          "Id": "804c665e-1fcc-41db-a036-38b842e11591",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Candy.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1d5faecb-7430-4e23-b670-4643f07a6c7a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

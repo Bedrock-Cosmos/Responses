@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c9a9f005-fcc2-46d1-b353-a31233710805",
+      "Contents": [
+        {
+          "Id": "8b9805b2-72cb-44f5-814a-61ec5cc15aa9",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Cake.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d3579035-517e-4348-b4cc-6ff3ab93c2cf",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

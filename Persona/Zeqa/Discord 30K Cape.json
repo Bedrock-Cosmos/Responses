@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "5f5a9172-8ec7-4a2c-ba7a-ca03efbdd4d0",
+      "Contents": [
+        {
+          "Id": "f33cd6fc-c9b0-4317-96d9-03b1f0fc2006",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Discord 30K Cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0ec85ca9-5e71-4a81-974f-a465231fc397",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

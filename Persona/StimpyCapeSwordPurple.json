@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6fd3355f-d86c-4dd9-b123-e1869858761d",
+      "Contents": [
+        {
+          "Id": "24dd9d1b-9e28-42c3-909e-e2431be884d8",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/StimpyCapeSwordPurple.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "bb5dee77-3880-413c-9595-b821e75f3bb2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

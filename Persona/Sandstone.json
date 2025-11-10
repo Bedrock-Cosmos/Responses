@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7a56c9bb-efc7-435a-8209-2cad252f0ba5",
+      "Contents": [
+        {
+          "Id": "bc66144d-c3a9-4951-bfd8-ae6baa1980f0",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Sandstone.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b9ebea2c-e037-44b5-84f8-3b36b6e4d32c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

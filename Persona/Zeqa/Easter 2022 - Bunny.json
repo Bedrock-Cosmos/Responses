@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c0362798-4dcc-4fc2-b458-342635b269af",
+      "Contents": [
+        {
+          "Id": "af837291-77bc-46f2-a685-c96b40630891",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Easter 2022 - Bunny.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0e0db6d3-3eca-4555-89de-843826d422b5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

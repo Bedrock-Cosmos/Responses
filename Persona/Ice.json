@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c78a9ada-9135-40f0-afdf-9af71dcc50da",
+      "Contents": [
+        {
+          "Id": "1afcbd07-7084-48f6-84af-a8391c8e92ea",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Ice.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2b1470db-eae7-4565-90fd-6c0970b969a2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

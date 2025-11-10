@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d3713ee2-23e9-46f5-936c-a8f077e53b8b",
+      "Contents": [
+        {
+          "Id": "e5522bde-eaab-48c5-ba65-5cebe6468f8d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SuchSpeedCapeFireball.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0a5ae966-fbbc-472e-a80b-8cde4d5aef07",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

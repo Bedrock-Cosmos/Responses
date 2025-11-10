@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "929b9595-b965-4409-9916-aea02c455d84",
+      "Contents": [
+        {
+          "Id": "74ba6583-9379-43d9-b58a-9b00620bd702",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Black Devil Smile.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fd41ac3c-2427-47f5-ad8d-efb8a1fd18e6",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "33c8864b-ad9b-4f2c-be76-c3f29599cf65",
+      "Contents": [
+        {
+          "Id": "50227253-8408-47bd-b129-77f4ebb4558e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Wizards Cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1da4783b-4702-429e-bf08-380f97e3c539",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

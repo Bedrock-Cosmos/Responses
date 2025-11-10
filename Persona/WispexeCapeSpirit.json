@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1d7b5f04-be40-450a-91fb-2e25c4ea9083",
+      "Contents": [
+        {
+          "Id": "febcbbe4-9ccd-4e75-b477-80603a98a034",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/WispexeCapeSpirit.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ff8c35e8-7a6a-408c-9d40-a878d4f83852",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

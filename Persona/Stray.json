@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ffa2f7d8-509e-437d-905f-9c89be00c2c1",
+      "Contents": [
+        {
+          "Id": "cfa9f869-1dc8-4529-a7d8-9ccb17aa23b2",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Stray.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "4153d8ba-b894-4fc9-a5bc-37f0b71318d7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

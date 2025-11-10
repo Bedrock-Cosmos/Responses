@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "476ee6ae-600c-44af-9968-07bb6e052765",
+      "Contents": [
+        {
+          "Id": "4a79cec9-4f90-4a87-b518-aa7ea5158712",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Bad Piggie.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3410eb56-a9cb-4cc8-bce1-87f53d25c2e4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

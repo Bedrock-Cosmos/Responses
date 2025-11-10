@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c2cbd67e-3750-4c2b-adff-37d97a39526b",
+      "Contents": [
+        {
+          "Id": "b014de80-52b2-410d-959a-1d5eb779bdc7",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/RainbowCreeper.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "23fb408c-0120-48e9-a993-a93891184234",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

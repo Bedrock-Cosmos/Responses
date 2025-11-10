@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ec9c38d6-9665-48d7-b380-5f01fc058477",
+      "Contents": [
+        {
+          "Id": "2986b05a-ad63-416f-97ea-24e447eb12b5",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Easter 2022 - Basket.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "cd7824ea-e124-4207-b83f-cc9eac44424f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

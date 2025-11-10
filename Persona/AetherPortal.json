@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0e2a8475-f93c-47d0-a7d0-954e8ce22cdf",
+      "Contents": [
+        {
+          "Id": "9fbb4acc-7196-49f7-ab63-666e9cdce889",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/AetherPortal.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6fe8123c-432c-4fda-aa0c-457ab35a1310",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

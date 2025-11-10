@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "fb8481cd-f9ed-4336-b8b0-1defc7918f6c",
+      "Contents": [
+        {
+          "Id": "f6a2f3ee-d3b1-4c17-b92c-6aed37f1cd3d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Llama.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b268580a-dedb-404f-9c3b-e1a774fd20ac",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

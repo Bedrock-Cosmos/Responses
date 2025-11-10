@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0441e358-6f17-46f7-bd24-980fdc2cc5f3",
+      "Contents": [
+        {
+          "Id": "1e111fe7-b5fc-4081-bbba-7c95bd3168e4",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Christmas 2021 - Candy.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d15fdc21-d492-4098-9795-88c3799d2297",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cef7e601-e280-4654-b465-ed428a3f812d",
+      "Contents": [
+        {
+          "Id": "29c22961-816e-42b8-af84-45d018a6ba51",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Soul.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2f8c8462-fea2-49a8-b781-32a4e6cc870f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ef1a86e0-7297-4662-a76d-1e5a20561dbe",
+      "Contents": [
+        {
+          "Id": "bb7dbba3-4420-4fb4-92b6-ce310917b701",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/PartyCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "25f5f41f-1ce3-4361-8d29-ee6751593bb2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

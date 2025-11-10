@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7544a248-fbd2-4e12-b9c4-3aadd2e37147",
+      "Contents": [
+        {
+          "Id": "628d307b-8301-4936-90f4-43a6e319c629",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/FifteenthAnniversaryVillager.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5739a53f-eca1-4753-a68e-706453257a2f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

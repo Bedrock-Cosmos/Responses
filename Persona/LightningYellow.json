@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "732aac9a-9bab-4188-a5d7-f5d712de8e03",
+      "Contents": [
+        {
+          "Id": "dc6b85c2-b4d7-4b88-b7fb-2a1fa08e7858",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LightningYellow.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8c0e8e87-e208-46d4-be55-ae42f6b69236",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

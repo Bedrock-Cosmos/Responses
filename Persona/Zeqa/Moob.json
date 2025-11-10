@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "65c7ea21-d6e2-4e97-92fc-bf596dfef0db",
+      "Contents": [
+        {
+          "Id": "8a6be4dd-2e59-433f-a27d-5031d9ba37ad",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Moob.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "cae42ef3-1fd7-40aa-b455-a9232e8c3a6f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

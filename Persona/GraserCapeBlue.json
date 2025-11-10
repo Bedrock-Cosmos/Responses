@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d7fa9e11-8d16-47c1-8b7b-0a38b7ecb142",
+      "Contents": [
+        {
+          "Id": "30f8c923-4899-4420-9b93-20578f67fd19",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/GraserCapeBlue.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "af202104-2426-43ea-bb78-ebc06b89e800",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

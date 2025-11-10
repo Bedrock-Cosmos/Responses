@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a43bfe1b-1dfd-4a08-acff-3947896159e4",
+      "Contents": [
+        {
+          "Id": "7b3555e3-5d66-420b-9165-64e401e8a0e4",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/CawPe.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3e972a76-d8af-4a54-937b-0b561135738d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

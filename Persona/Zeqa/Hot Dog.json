@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "397fed6a-b19d-42fd-95af-989b065c9b83",
+      "Contents": [
+        {
+          "Id": "dae86863-3ec2-41e6-a5af-d25d4d23d7f5",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Hot Dog.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "847b41bc-51bd-420a-a4eb-a4c72a4d66d9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

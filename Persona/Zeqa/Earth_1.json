@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3055815c-f525-4be9-bd86-42d87e1d3b8a",
+      "Contents": [
+        {
+          "Id": "cfc1e428-2373-44f3-8952-16ec9fcc393f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Earth_1.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ccd66c49-c06e-4db3-bb30-cc9a3d2cbf95",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

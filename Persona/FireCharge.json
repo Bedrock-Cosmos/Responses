@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "66e15a8c-e1a0-445c-bfa6-502db632843c",
+      "Contents": [
+        {
+          "Id": "07f7e135-71fb-462f-8ccb-41843ae0ec47",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/FireCharge.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0ff2741e-8933-4e20-bf23-b33114983187",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

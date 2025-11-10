@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "27572ef7-47be-453a-bd8c-446d9129b94b",
+      "Contents": [
+        {
+          "Id": "1cd112a5-5673-4495-b6e0-19a942467f0d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Potato.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7a226997-793d-475a-bd95-fea5e14ffa99",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

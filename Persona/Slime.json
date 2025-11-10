@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1be6c88b-0978-4048-9314-d02f3786a29f",
+      "Contents": [
+        {
+          "Id": "f4b6aa11-c30d-4907-ad92-4fb2d335c853",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Slime.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fb1c8a9f-69f3-42dd-af2c-c21729bb64ea",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "74dabbc3-4178-42e6-9338-1fd720c19986",
+      "Contents": [
+        {
+          "Id": "8ebef123-03af-4f5e-994d-d3c34cf401e8",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/NotroDanCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "004d148a-7ab9-4d68-a02a-e10a05087ff6",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

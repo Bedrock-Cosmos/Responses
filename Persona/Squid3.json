@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "215202bf-64aa-468a-8d57-14448a91b504",
+      "Contents": [
+        {
+          "Id": "bacd2a74-8ce9-49fa-a7a6-3b2eb23aaac3",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Squid3.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5ee5c39d-6e19-436f-a96f-eaf7ef294922",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

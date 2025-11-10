@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "edcf508e-7dfe-4cdc-93a3-2ffa452be026",
+      "Contents": [
+        {
+          "Id": "1d3b8cd5-939c-415e-a5c1-4d11f56e9977",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/GreenLantern.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "417fdd29-46c8-4127-b075-5fd36b5807fd",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

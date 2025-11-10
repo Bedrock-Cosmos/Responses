@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "92379bd0-b537-4990-8a14-bfe7f7803177",
+      "Contents": [
+        {
+          "Id": "d96f8ebb-4141-4f91-9202-0ab48cfc5f3a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/CroatiaFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9ebb2e09-7ea0-4715-a51d-806b0ae20003",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

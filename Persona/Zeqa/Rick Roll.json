@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c428f6d0-6048-4daf-8ca2-4f5f06e0ac8a",
+      "Contents": [
+        {
+          "Id": "9356d049-3896-4073-bc17-23aedd0f1c1f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Rick Roll.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "16e99308-b0d8-454d-9888-3c119851b17c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

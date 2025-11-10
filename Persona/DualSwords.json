@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2730ad9e-560c-4783-ad1e-cc357aace3d7",
+      "Contents": [
+        {
+          "Id": "1068a3e3-ad7a-48e4-b03c-ce9428d93151",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/DualSwords.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "393178c7-24a7-426e-be8b-cb5d6bace053",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

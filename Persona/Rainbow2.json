@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e11228bb-59df-4bd2-a1cc-fd654a6e79a7",
+      "Contents": [
+        {
+          "Id": "44245040-1483-4fdd-b9dc-327c904f7f74",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Rainbow2.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2922d732-5eb7-4971-b559-da0805401b2a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

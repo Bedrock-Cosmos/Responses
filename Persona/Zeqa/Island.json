@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "57cfc3f6-2b8a-41fb-9872-eea43365666a",
+      "Contents": [
+        {
+          "Id": "4912c3e0-5af0-4eab-bbd1-fe83813ee2b3",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Island.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a26cf2f6-3ad4-4d8e-b57a-d3f7537d3f46",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

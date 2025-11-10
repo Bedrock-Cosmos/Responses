@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "652ddc81-a7ba-445e-8d0d-44d5937a4b79",
+      "Contents": [
+        {
+          "Id": "a12c1542-8a1e-4460-828f-3703f9986c88",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Pride - Lesbian.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f1bc9649-3b17-4d3d-8f22-59ce61b1a5be",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

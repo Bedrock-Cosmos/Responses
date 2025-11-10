@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a258f114-d53f-4f1b-a577-6c17d072b386",
+      "Contents": [
+        {
+          "Id": "ccacdf03-b330-4f5d-bf1f-a98ac5c12e23",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Fire1.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "385c9e0d-ca0c-4fdb-9406-dadc71da5884",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

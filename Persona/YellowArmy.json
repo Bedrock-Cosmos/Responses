@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "127e8b42-e399-459a-a93e-befdac26be40",
+      "Contents": [
+        {
+          "Id": "19aea8e2-e160-4a8e-adab-0f29b9a5b2e7",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/YellowArmy.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "de81907d-5f4b-4468-bf1c-e2074d79c2be",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

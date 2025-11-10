@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2dbc036c-af5b-481c-862f-955627dc4e77",
+      "Contents": [
+        {
+          "Id": "7d989e3d-7e55-4360-b719-554c4c8a3b96",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LightningPurple.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "42752b1e-d876-4dcb-a0a8-5640ec2de92e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

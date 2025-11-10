@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "544d5f42-5a93-494b-a189-ddfe2d9579bd",
+      "Contents": [
+        {
+          "Id": "941cba42-0e1e-4a62-8d75-9f276dc6a973",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Halloween 2022 - Pumpkin.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c6f5ee77-7c1f-4c80-9ce2-716df082020d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

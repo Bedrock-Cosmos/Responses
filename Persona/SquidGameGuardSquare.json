@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e41cb495-2801-4a13-bc45-a2ef7b7ef9a5",
+      "Contents": [
+        {
+          "Id": "62ca40ac-6885-470e-91f1-6143c6402b83",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SquidGameGuardSquare.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "76382671-78b1-48f5-863d-acc8f2f7ca46",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

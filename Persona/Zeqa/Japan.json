@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "028d7957-4197-4fb1-8973-30e4d7e0d8dc",
+      "Contents": [
+        {
+          "Id": "cc25bd4f-1bcb-4789-9e78-a35211151752",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Japan.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "929d2582-7c1e-409a-88a7-ffc60d31c480",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1b66ff12-0254-43ef-b2e1-1f0351ea4e2c",
+      "Contents": [
+        {
+          "Id": "a6d467f5-e48a-4e29-8cdb-aea0a2e46029",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Snowflake.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d6ea06ea-c061-42e5-a814-7ea5731c3283",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

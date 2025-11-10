@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cec02820-97ea-47c4-84b3-f64197271bad",
+      "Contents": [
+        {
+          "Id": "dfa7085e-a885-4a2a-9818-22db8a75516c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Haybale.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "188c9d90-0647-4081-93cf-b668a27c25a0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

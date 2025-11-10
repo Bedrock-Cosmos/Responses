@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c103fd33-12a4-4d2e-b428-cfd864e8c014",
+      "Contents": [
+        {
+          "Id": "6dbf16ef-a8fb-4157-ab03-da735a4d6bb3",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Pride - Transgender.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1c166193-1a00-4995-a48f-48cc89319205",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

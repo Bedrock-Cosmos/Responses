@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "07d0e585-a8bd-425c-8323-144151d622f8",
+      "Contents": [
+        {
+          "Id": "3f1b4283-2f11-4d58-8f07-29c4ce24a769",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Ghast.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "53f4dba7-3e8f-4975-95d2-65bb86d4bd2a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

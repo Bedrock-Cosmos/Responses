@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "5533b6ca-8c23-4e5a-9919-d60d8386545a",
+      "Contents": [
+        {
+          "Id": "73aa92f3-bc4c-4c9b-b61f-085c2e3881ac",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Ninja.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6a57cd7a-70cb-402d-a420-6084dd3809ad",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7c360a07-71a2-4924-aa86-da014c20cd4f",
+      "Contents": [
+        {
+          "Id": "bc59984a-151f-47d4-8f37-f2cf82bfb504",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Terry The Chick.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8a8c0ad4-1ab0-47d0-b18a-5ec3c7ccc102",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

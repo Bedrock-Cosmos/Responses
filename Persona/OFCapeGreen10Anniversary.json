@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a8edb487-08ae-46f5-9520-ebd65bf478fe",
+      "Contents": [
+        {
+          "Id": "bd97cb14-0ab5-4083-81d4-e95ddc38fad8",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapeGreen10Anniversary.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f3bac9b5-5c99-4514-9282-d88ab21142b2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "91e84ca8-eaf6-4773-a480-3a9057b40b72",
+      "Contents": [
+        {
+          "Id": "2a152d0f-b69d-4c21-bbd3-82763393aa1d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Bird Eye.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3a34e36f-7077-413b-87ef-d2609bc5e07e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

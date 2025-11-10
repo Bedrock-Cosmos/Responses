@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c4fe92ba-72c7-408a-8d73-4c22d735dcca",
+      "Contents": [
+        {
+          "Id": "301bd6cb-137f-4462-89bc-4f633f49bc43",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Earth.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c863f352-6b6a-440c-b79f-9e8be903ed7e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

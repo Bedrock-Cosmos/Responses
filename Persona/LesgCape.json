@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "614b21e3-e2a5-4144-843d-3b20d556e2ee",
+      "Contents": [
+        {
+          "Id": "ce5d80a2-9f8a-4d0d-9924-84a09a99ccc2",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LesgCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "25ff77bf-eea9-4e02-b8f7-fa33886f3dfa",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

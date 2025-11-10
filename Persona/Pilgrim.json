@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "37e1cd48-8d65-4288-8809-07b17067af00",
+      "Contents": [
+        {
+          "Id": "46b968e3-a757-415a-a3db-2d23122f2fe9",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Pilgrim.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3853deb2-b32a-4ddb-8662-09d71821f246",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

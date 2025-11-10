@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6023d9b6-36d6-4b0e-b2a4-4a92b2174ac3",
+      "Contents": [
+        {
+          "Id": "fa93eb4a-abe1-4a53-babe-478e9219b0b1",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Pinata.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9d954ba3-6c20-462a-9f17-5cc9a45cdcf4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

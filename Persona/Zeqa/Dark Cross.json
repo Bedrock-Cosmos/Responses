@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "04ecceb4-b9e4-4566-ad32-7cff3ebd443b",
+      "Contents": [
+        {
+          "Id": "2d2c13a7-453f-42eb-a2fc-85a0e943f989",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Dark Cross.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c5972878-3c98-436f-99c0-a3228c9684f0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

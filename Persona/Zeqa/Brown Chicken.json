@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "191d07b0-b284-4d80-9ae9-fba1b6c0809a",
+      "Contents": [
+        {
+          "Id": "e94db7a7-d022-40a9-b71d-645a637276e4",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Brown Chicken.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "413c435e-5edf-4a72-8a6c-e9981f8bb691",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

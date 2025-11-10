@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ba1f4258-ec0f-423f-b495-b1578f562f3d",
+      "Contents": [
+        {
+          "Id": "0372cd3b-774e-475f-8950-f07d7bd3ea71",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Gourdian.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "13898b6b-21e7-40be-9b6c-a0dcf7ddc549",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

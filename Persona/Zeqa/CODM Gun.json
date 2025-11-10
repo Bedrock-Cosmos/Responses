@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e88dd282-6bb5-4ca4-a86b-d2065cde9c09",
+      "Contents": [
+        {
+          "Id": "174e10f6-dce0-4330-9413-d220bfa1eeda",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/CODM Gun.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5da229a3-de90-4e16-a273-32269dad0092",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

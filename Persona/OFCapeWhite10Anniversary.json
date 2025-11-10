@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0e32e099-0c62-410d-ac90-e6b2d6414cca",
+      "Contents": [
+        {
+          "Id": "9387689e-80a0-47c8-b539-54827c1108a3",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapeWhite10Anniversary.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "564be0ec-5237-4108-80d2-425ed35bf24a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

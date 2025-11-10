@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f680d112-f132-45a0-aa6f-0e064c449fff",
+      "Contents": [
+        {
+          "Id": "4ef460ba-025f-4632-be61-15ebeb008fda",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Blinky.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "44aef6e9-0f49-49ec-b1c3-c2fe2c30c75b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

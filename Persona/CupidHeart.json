@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f236bb6b-4005-4349-a224-f4571673289f",
+      "Contents": [
+        {
+          "Id": "3f282aba-ca8a-4e8f-981c-d073979ce802",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/CupidHeart.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "4d369a28-9745-4920-8fbf-645b9a3009a6",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

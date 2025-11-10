@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "379121df-75ee-4084-998b-316ae43f780f",
+      "Contents": [
+        {
+          "Id": "07ab91d3-911c-4a7f-9f08-0cba515e2a74",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/EndCrystal.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "107c16f8-0c9b-43af-9cb9-92431b358878",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

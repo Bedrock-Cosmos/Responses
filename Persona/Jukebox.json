@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6a72649b-5b00-46f9-9701-be49ff0bb76f",
+      "Contents": [
+        {
+          "Id": "0548cbba-4d8b-4c84-9262-b99d97da2e47",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Jukebox.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "baa08e35-264f-420c-8d7d-c10122a95693",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bee43e66-80db-4425-baa4-ad11571c97bd",
+      "Contents": [
+        {
+          "Id": "0b2cb065-d94b-4eed-83ea-c7aa7a079697",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Zeqa Staff.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "aa4a30e7-b695-43af-aa55-a9d9472b7209",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

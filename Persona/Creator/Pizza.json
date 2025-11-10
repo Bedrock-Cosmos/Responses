@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8464008e-c3e5-4a1d-846e-5b223c643db8",
+      "Contents": [
+        {
+          "Id": "8e87c478-3338-4da4-a193-7b3d8c988935",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Pizza.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "FlameStreem",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0932734b-120c-4519-a990-61a09097c209",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "fd2f1230-e688-4a49-ae4d-60ba702572d8",
+      "Contents": [
+        {
+          "Id": "65d1743e-65bc-4473-aaa9-e1a8ad9be051",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Pumpkin.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2c1d8715-263f-4365-b6a6-2f92c3b7625a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

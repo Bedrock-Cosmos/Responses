@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "45422545-e725-4391-9df4-c509e6807840",
+      "Contents": [
+        {
+          "Id": "d06fa68d-e7d7-4b8a-b7bd-7ec6b6e3499e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Redstone.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "997073a3-c95b-41dd-a08f-ab2312c2df68",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

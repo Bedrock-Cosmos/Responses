@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "19fa2f40-1f3f-46d0-b1b2-7a8c637eec76",
+      "Contents": [
+        {
+          "Id": "ea0187a6-34be-4527-8e75-8aeb7c4d97d7",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Hammer.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5b400e81-7d2e-4bdb-9230-c32975d91ca5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

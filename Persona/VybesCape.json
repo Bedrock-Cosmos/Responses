@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "63d08cd8-19e8-4b06-81e7-d769a0eed504",
+      "Contents": [
+        {
+          "Id": "2549783b-13f4-412e-a774-68f884c15a36",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/VybesCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "af0d8c90-fa16-4627-acec-24c23af9d54e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

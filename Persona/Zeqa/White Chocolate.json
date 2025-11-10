@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f036cf7f-9836-4d25-9571-d9c7d3cccd8d",
+      "Contents": [
+        {
+          "Id": "36da88e9-d8aa-46f5-91e6-b17b1bc82837",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/White Chocolate.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "56bf2189-185c-44bc-a52a-fbe4b7ba7b48",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

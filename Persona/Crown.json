@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "dac624ce-61cf-4750-bbce-e15cfe568f04",
+      "Contents": [
+        {
+          "Id": "d3ed5f82-a17c-47e3-9245-058c9fcd92e6",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Crown.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "27e1c4a8-770c-468d-9652-d4f90eee626b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

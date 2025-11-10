@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b9cefea7-dcd0-4f07-91b9-9288cef8307b",
+      "Contents": [
+        {
+          "Id": "ed92e91e-cd9f-415d-89b7-ad4204c33492",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/DownpourCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "36ab9fc9-169f-4b1c-9bb9-d12a5aebd1a4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "57d275bb-0ea6-42db-b46f-9615eeed99db",
+      "Contents": [
+        {
+          "Id": "32b74144-97d5-44b2-884f-50c280dd78bd",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SammyGreenCapeLunarGradient.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c8767dc0-67e6-4a88-8147-bf2d00f6fe37",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

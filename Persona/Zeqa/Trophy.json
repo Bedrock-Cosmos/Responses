@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "af694057-4f6d-4648-899f-10ed11d5daa7",
+      "Contents": [
+        {
+          "Id": "5ba05a47-47cf-4ad8-a394-82b6a560abad",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Trophy.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "dea95639-72b0-498c-ad48-58cd9bf6c0eb",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

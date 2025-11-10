@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "fbd8d5a6-03c4-46d9-881b-08c5998d3c86",
+      "Contents": [
+        {
+          "Id": "7b9eb98a-4eda-4d96-ae15-9c870899080c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Fortnite Pi\u00f1ata.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "91980d26-5798-4bf6-81d2-267891346481",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

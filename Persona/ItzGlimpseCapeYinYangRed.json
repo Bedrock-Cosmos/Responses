@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c2d81baf-035f-4495-aa7f-89b9dadfb469",
+      "Contents": [
+        {
+          "Id": "c1a7230d-0c72-45a1-8eeb-331706118ddb",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/ItzGlimpseCapeYinYangRed.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7bde8eac-d193-45b5-bf22-eaa3058f3071",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

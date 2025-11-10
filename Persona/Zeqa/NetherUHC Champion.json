@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "24a96bba-b1d8-47b2-9f91-a646ac4111de",
+      "Contents": [
+        {
+          "Id": "7246365c-9f43-478b-af53-69ebc69f9d4d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/NetherUHC Champion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2a486e98-c055-4b63-a3bc-469758ce3b5d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

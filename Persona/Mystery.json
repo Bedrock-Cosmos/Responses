@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ab432ced-c8b6-4f50-ac2c-4d0bc5b8bdc3",
+      "Contents": [
+        {
+          "Id": "be2aca1d-be60-4819-8980-e03e31e99310",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Mystery.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3cdc7f90-d52d-4191-a50f-224a3ac271db",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

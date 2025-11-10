@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0eb16827-729e-45d5-a4ce-fb1db27edd0c",
+      "Contents": [
+        {
+          "Id": "f46d8d0d-ac3e-4115-8499-3d403f18a6e8",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/NotNicoCapeSunset.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0f4050af-d2ee-4d24-a04c-4f8857ea9bc8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

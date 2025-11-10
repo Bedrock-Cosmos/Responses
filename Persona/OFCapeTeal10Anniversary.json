@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6edb2ccd-7f01-4eea-95a4-47eaaadfbc85",
+      "Contents": [
+        {
+          "Id": "4a08ae40-8a7e-43be-b58d-715097491e18",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapeTeal10Anniversary.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8b577f70-3654-4ead-9229-81ce308d13f3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

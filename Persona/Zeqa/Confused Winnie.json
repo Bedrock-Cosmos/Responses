@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9c1d6f36-4bc4-45df-acbc-a3d783796047",
+      "Contents": [
+        {
+          "Id": "dc3a1d3f-7431-43ee-92eb-7f3467f9f469",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Confused Winnie.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8d3b3290-30ee-4a63-8061-c2990af20dcb",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

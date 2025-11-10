@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7544ed76-a5a8-4e3e-beb5-a73d36a8313e",
+      "Contents": [
+        {
+          "Id": "22a09a44-fd64-44c5-a151-5f516050514a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Reindeer.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "61f5095a-2edd-4703-a67c-d4fa2c54819a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

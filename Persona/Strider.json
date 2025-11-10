@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "33bcc9f9-bc8d-470d-a13c-2395effaaaf6",
+      "Contents": [
+        {
+          "Id": "094b7d38-2c4b-4966-a70d-4d67745e4fe6",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Strider.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "45631445-4a39-4f62-825a-0f0d1a7d3d5f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

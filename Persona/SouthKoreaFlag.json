@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "fb1990b7-fbda-4ab6-8210-9b0b393f2ed2",
+      "Contents": [
+        {
+          "Id": "9a06b13a-c8ac-4a8a-ad7b-d959ca606be2",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SouthKoreaFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6dcce16c-60a6-4d76-b20c-56d32e4f6305",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

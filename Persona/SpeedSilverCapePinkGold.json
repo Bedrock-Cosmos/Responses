@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f4faec3b-0385-44f5-9a2f-e900bccc313a",
+      "Contents": [
+        {
+          "Id": "3c2f0b5f-95a6-4721-8de5-2072a7ef5e27",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SpeedSilverCapePinkGold.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "4674dd27-c8dd-424b-902a-3504a81a7ae5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

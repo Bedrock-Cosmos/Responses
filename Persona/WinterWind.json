@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7404e846-48a0-4e6d-84d9-196a8736ae9f",
+      "Contents": [
+        {
+          "Id": "71ee07cc-6373-4cce-83f7-58220f8151cf",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/WinterWind.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b928dd60-a59e-4ecf-b6bb-86b7e7df8e89",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

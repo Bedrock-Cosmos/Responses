@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "937be98d-b3e4-41b3-bcee-182649095319",
+      "Contents": [
+        {
+          "Id": "554570d9-53a7-4ff7-97ac-f82ce8abc1f7",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Necromancer.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "24228c2e-9906-41d6-8a38-30b241d445ef",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

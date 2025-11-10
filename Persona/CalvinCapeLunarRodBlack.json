@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c245d590-cfc2-406c-a08b-1b69455349c6",
+      "Contents": [
+        {
+          "Id": "3d3d919b-6aff-4151-bd2a-b3853468c03b",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/CalvinCapeLunarRodBlack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "40cad8f3-8ed7-40b2-9d2a-1eb71d1e0554",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

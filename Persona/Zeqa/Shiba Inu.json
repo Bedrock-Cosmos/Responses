@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0c98a0e8-3d3c-4ca3-afc8-b7ed2204f665",
+      "Contents": [
+        {
+          "Id": "02e2af03-c4b3-4f53-a427-6fb5a129de64",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Shiba Inu.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "161b5663-9865-4b9a-9182-bd8907001ed9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

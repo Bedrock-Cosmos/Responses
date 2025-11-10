@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a171079a-b3b2-4d95-a9ae-fd38419e2bb0",
+      "Contents": [
+        {
+          "Id": "bd850fd5-f0cb-4e4c-b63e-e0f6eccd0ca7",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Green Balloon.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7b0b6ab5-c8d8-4c8c-ba21-221767d8f0a5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

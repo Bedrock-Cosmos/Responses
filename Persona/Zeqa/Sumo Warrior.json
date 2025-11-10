@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "804dbba0-66a3-4568-84dd-37fe212d98e7",
+      "Contents": [
+        {
+          "Id": "a7178adb-9ab2-47f5-9b9b-9eed8688541f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Sumo Warrior.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1fb3bea8-0d27-4401-a8b5-6631e0281662",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

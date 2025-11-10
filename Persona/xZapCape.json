@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "44fc8ba9-de63-4fd9-9b69-e9db707badf3",
+      "Contents": [
+        {
+          "Id": "83fed637-7c94-41d6-a181-db84188ef2a9",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/xZapCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "92ed0131-b73c-44a9-add6-fe653ea81273",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

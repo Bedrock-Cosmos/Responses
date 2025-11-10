@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "64de072d-649c-4f89-a315-80647b7a30c0",
+      "Contents": [
+        {
+          "Id": "a4ddcf98-ccf1-4771-9348-1a5776902a1f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Wheel.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5f96c1cd-4181-4bf1-8ad7-d399a8e849fc",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

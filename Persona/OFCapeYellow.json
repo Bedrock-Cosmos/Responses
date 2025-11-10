@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "29c9605d-2feb-48d1-b3f4-1a6eb233502c",
+      "Contents": [
+        {
+          "Id": "1226d5bb-3c26-46d7-9555-63f0144647f9",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapeYellow.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ff7a7f2e-d5f5-4e40-8cb2-20efe126a2bd",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

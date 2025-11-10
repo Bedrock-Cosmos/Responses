@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b66923ae-5202-4810-821e-8d385664e3b8",
+      "Contents": [
+        {
+          "Id": "3fd58976-3973-40e5-8f25-adfe895afbfd",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/PortugalFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f727652c-ed28-4896-9434-9ef1e61c94c4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6ed01abf-3723-4fe5-805c-40f0df1d285f",
+      "Contents": [
+        {
+          "Id": "6cd213d5-8a58-48ab-9e60-56ebcb360ec8",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Berry.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "4a054d40-80dc-43e8-9103-ce28e562f6d9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

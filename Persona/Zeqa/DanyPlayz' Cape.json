@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bbbe90ee-1ae1-48c1-84bd-a1b68128a500",
+      "Contents": [
+        {
+          "Id": "aa2772da-962b-48e7-839a-4d3973b36e08",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/DanyPlayz' Cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ae1d5058-63b7-461c-a0a9-0a5f0da0aee0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bdab6d6d-a76f-4eee-855a-fb620baa98a0",
+      "Contents": [
+        {
+          "Id": "058dba5d-aae6-4cf7-b65e-c27dd6fdb72f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Gray Glorious Cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "07fb60c2-78c7-4db1-a894-9bdc3ff44e2d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

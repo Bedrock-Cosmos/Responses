@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "77630e5e-0a4b-4f7e-8f46-2957b7f87433",
+      "Contents": [
+        {
+          "Id": "6923f769-d87c-44c0-abbc-00cf2ff56f4d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/EnderKing616.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "30206ec9-3ce7-4f7c-826e-9fa2edba65ec",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

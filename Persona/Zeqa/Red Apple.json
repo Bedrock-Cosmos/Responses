@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7e57312e-0e35-47a8-804e-3cfc22be88f9",
+      "Contents": [
+        {
+          "Id": "217db542-7e72-447e-a2bc-235b7ce08875",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Red Apple.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b307f8ee-2fe5-4151-b4e2-61499b39b476",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

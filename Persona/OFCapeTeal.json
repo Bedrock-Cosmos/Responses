@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2d9d4030-ff43-463e-b8f7-e1b25c903824",
+      "Contents": [
+        {
+          "Id": "c1f93211-1356-419e-91e3-88ac551d4f3b",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapeTeal.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "93179dae-d9a0-4675-b615-61659a5a53fa",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b2e89d0f-3580-44da-a0b3-52746e220650",
+      "Contents": [
+        {
+          "Id": "4def6167-e071-4342-85af-2e69544a1c35",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/White Chicken.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ff4fdc71-aec1-4539-a04f-1569604a293d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

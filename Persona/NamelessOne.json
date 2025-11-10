@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3829b62b-3ac5-4bbc-b218-fce42e26cc18",
+      "Contents": [
+        {
+          "Id": "1ad59151-00c6-4139-9eed-ae5158b1ddf0",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/NamelessOne.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6adb921e-ebfa-488f-9afc-91b7dabf2bd8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

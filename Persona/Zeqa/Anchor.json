@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9dc673d0-f594-4b8f-bfb9-ea9b699d321f",
+      "Contents": [
+        {
+          "Id": "d22663e0-2afb-472d-81a5-d263eaa0f3bd",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Anchor.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "90b57c83-1621-4fba-9151-e4e66d0f692f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

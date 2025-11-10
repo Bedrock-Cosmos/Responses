@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0d38618a-9a16-4982-87a9-c6e925b5352a",
+      "Contents": [
+        {
+          "Id": "20a7c643-8a2c-44e7-9c69-6da07dc30597",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Silver.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9c7a256b-d235-4ee1-9f0b-d2fa54d35aef",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

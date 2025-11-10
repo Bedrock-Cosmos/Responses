@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e90a6e6a-502d-485d-ba78-4b25d2f1afec",
+      "Contents": [
+        {
+          "Id": "246aa700-9a05-49cf-a997-79617004dfaa",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/YouTube3.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d24b2dd1-ff97-4353-a8ff-9eef4081d3b8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

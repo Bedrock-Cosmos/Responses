@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4a2f9c49-45ba-4b0e-9ea2-b729310c55e7",
+      "Contents": [
+        {
+          "Id": "abc2488e-d98d-4c21-ab57-468920f422da",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Ravager.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "20da6b68-6178-4682-b43f-051c31e370a7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

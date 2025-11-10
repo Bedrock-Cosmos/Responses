@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cd1fea7b-5c76-40f3-86f1-8261a9cfe2d3",
+      "Contents": [
+        {
+          "Id": "572420e7-e1ba-42b6-b97a-51e9c3b04f78",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/FinalUHC Warrior.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f47b1025-7d1c-4cd8-82cb-41a708191a11",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

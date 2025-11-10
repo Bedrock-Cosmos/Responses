@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b54221f6-ef50-45ac-93e4-24df6ad603ee",
+      "Contents": [
+        {
+          "Id": "da7b752a-337f-4e2e-bb4b-05cd8bc82749",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Dragon.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f4959d1a-293a-43d8-b337-693dfddd248c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

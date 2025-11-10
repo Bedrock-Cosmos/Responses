@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3e4219a6-1753-4834-acc6-cf7a14f6a050",
+      "Contents": [
+        {
+          "Id": "205eda3b-30bf-4f7c-bcf4-5358b76c12bf",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Black L.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "66e8bd1a-1eba-4ed7-be06-cbafa1ddfca5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "15d0a5a7-b90c-4d7c-9d09-af0ee76cbc52",
+      "Contents": [
+        {
+          "Id": "278703ad-648b-4a06-a2fa-f07a2efabaca",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Muffin Avatar.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "badad102-cd6c-4aed-a9b0-ae32c17cf05f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

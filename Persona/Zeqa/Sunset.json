@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c280a94f-5f8d-41bb-9b9f-fca25a8a2901",
+      "Contents": [
+        {
+          "Id": "a216f783-9eec-4d9e-8294-a58486552d4f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Sunset.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "289db1dd-d89a-48db-af8d-90c7529c5ba7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0d75dc22-62c9-41ea-b627-ae920c47c7eb",
+      "Contents": [
+        {
+          "Id": "c6cdd84b-6ddd-41eb-9ffc-d1c5bfe52f7f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/ChileFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9286e3cf-d87e-44f4-befa-4d68d1723ab2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

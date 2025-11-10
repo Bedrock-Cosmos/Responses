@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7c0b7523-09da-44bd-a90c-41ba0bee8c21",
+      "Contents": [
+        {
+          "Id": "a20d0169-be32-4039-925a-7b9c77896670",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapeGray10Anniversary.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "09e8a14a-13d7-4f3f-9518-f261abe927d3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

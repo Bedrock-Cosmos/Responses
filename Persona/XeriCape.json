@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3fa31a46-ef5b-4363-9672-5d40dc819127",
+      "Contents": [
+        {
+          "Id": "0fa28026-cdea-4d6e-82c4-1b744a08685b",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/XeriCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a197a52e-e9b4-4aae-b68b-6253917e3d7d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "04e3f696-bed4-41e2-af3d-c6f77577208b",
+      "Contents": [
+        {
+          "Id": "2528ba55-6752-4b85-9ad1-8e19b6c2ce9c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/xNestorioCapePickaxeWhite.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0842f43c-15c9-40af-981b-45c3af192911",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

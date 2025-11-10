@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "12382b14-3c90-439a-bf9f-79d6e0348fc5",
+      "Contents": [
+        {
+          "Id": "4bff42d1-487a-48a1-b793-88e990dd4fe5",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Spider-Man.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0bd528df-e532-4d0d-b777-393b4bf9ba05",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

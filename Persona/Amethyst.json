@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "85ca5a4d-be87-4cd1-9146-8fc9605d2c71",
+      "Contents": [
+        {
+          "Id": "20bdfeb3-885e-41e3-b737-d190f54b4d5c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Amethyst.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "737b40f9-fa18-4cd0-ac56-6399f6b8827d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

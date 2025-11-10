@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "54d95137-9567-45cf-b58a-bdeb938e4dc4",
+      "Contents": [
+        {
+          "Id": "55fe335e-1156-4be7-a55b-e2fdb1bd454c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Ring Pop.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "73785095-21bf-4ea4-8b45-62f3126ba539",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

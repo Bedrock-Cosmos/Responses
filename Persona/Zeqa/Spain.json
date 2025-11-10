@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "436eca8f-7a67-4bb8-a931-c2071ddb8cfb",
+      "Contents": [
+        {
+          "Id": "e3f5a54e-8761-4bbc-9103-aec40c3a179d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Spain.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "05843949-c1d6-46ea-8634-ab8f1aca86a5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

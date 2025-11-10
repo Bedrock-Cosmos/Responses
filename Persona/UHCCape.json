@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "95fda45b-103d-4189-836e-4b3cf01fd241",
+      "Contents": [
+        {
+          "Id": "6b4ebb67-0efd-4d31-8b33-a6b470f38c6f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/UHCCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "af828cd6-7b84-4838-beae-a1900d4510a2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

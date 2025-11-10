@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "41a95869-265a-47bd-becf-0a33f3c489f0",
+      "Contents": [
+        {
+          "Id": "c943ef6e-341e-4685-adc6-5b084f91d468",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/FifteenthAnniversaryOld.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "236110b6-aca4-49b8-848e-abedfe1108ee",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

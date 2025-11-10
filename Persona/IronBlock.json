@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b9d3ee98-61fa-49f4-8398-a6b3c572a760",
+      "Contents": [
+        {
+          "Id": "c24a204e-0c7c-4a92-a6ee-d714d5b1d23a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/IronBlock.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1d7b097a-1eb0-472a-929d-e3bbf2785113",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

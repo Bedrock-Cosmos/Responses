@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ce5a6946-7d81-4f4f-9649-2a974c46a3e9",
+      "Contents": [
+        {
+          "Id": "e0d79eaf-b6be-4f09-824d-846c7a08c04a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Red Heart.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "83b9fa02-4a8d-4585-8f9f-66caf399ca89",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

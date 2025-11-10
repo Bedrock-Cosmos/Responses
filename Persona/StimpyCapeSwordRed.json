@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "03bc4de4-a680-4b89-93da-a9d97f5834bb",
+      "Contents": [
+        {
+          "Id": "84ff450f-2be9-43ac-a7f9-d435a28a7442",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/StimpyCapeSwordRed.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "86f326b3-f6ed-47ff-bf28-1a2fcbe1496d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a9ca106b-0a64-4287-9ffb-ad333d08dfd6",
+      "Contents": [
+        {
+          "Id": "404e4963-e861-492c-9069-fd3444c8f0df",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/NightbotCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c6151ab0-8573-440c-8d1c-e62a8d1f32b3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

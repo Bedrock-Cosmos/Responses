@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "37bff411-8f05-4eeb-af74-505d7b45d1a6",
+      "Contents": [
+        {
+          "Id": "c7cb5c93-ef67-410f-b7f0-98d8194dd89a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Royal.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "af2a3732-ea84-4927-88bc-ca47acae38f9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

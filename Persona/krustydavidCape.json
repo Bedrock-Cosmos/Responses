@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "5c60ec9a-15a1-49e4-ad34-ff15222e82ff",
+      "Contents": [
+        {
+          "Id": "b566502e-30dc-4c9b-906d-f20e7de12d4c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/krustydavidCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "928850df-4885-449a-8dde-e9c6d2df8b77",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "68b6eb72-bb87-497c-addb-fdf5efbd7d9e",
+      "Contents": [
+        {
+          "Id": "d5f88e03-007b-462a-8868-c2553564e31c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Magma2.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "cd5350c8-3e37-4d75-9f97-8fc4ff586cd1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

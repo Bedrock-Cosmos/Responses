@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "116be182-5180-4f93-b78b-605a71ea6fdc",
+      "Contents": [
+        {
+          "Id": "0c1b692a-5c13-4225-8c5b-2dbedc0cbf83",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Thunder_Cloud.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "FlameStreem",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "87fbdb94-0adb-4151-8bda-b3f04e286e9a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

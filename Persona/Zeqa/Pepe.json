@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c4ffb07f-998c-4203-89b8-0e09ff38d697",
+      "Contents": [
+        {
+          "Id": "f30f5f19-776a-4b14-9228-1518a53a557c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Pepe.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2d9ff9f8-d55b-4a10-8519-fc9f3af3967a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

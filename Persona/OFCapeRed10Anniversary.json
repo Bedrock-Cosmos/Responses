@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "dc0ef6c2-e198-495f-a860-e81efc42706b",
+      "Contents": [
+        {
+          "Id": "8ef1d4d3-5c87-4845-aad6-c9116ecb3104",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapeRed10Anniversary.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "57a2678f-f5ce-48c1-b2e2-c375b51b64c1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

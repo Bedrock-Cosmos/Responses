@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a2cdbcc0-64f9-4bfd-8fd3-0322f6d12584",
+      "Contents": [
+        {
+          "Id": "828f9b67-878f-4088-8b88-147fbc211f56",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Twitch1.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "42b4609c-ea22-4e09-9a44-c36ed0b2560b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

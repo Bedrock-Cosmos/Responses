@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d6f7727f-56b7-47da-9958-6bd1dd8a490d",
+      "Contents": [
+        {
+          "Id": "cfd98a5a-3392-4403-851c-26e2989fa973",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/TurkeyFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5867a0e0-ed7e-4a25-bab3-c78e68256eef",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

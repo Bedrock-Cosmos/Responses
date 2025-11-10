@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "30e8d3c1-0a9e-4dea-a122-c9df963def44",
+      "Contents": [
+        {
+          "Id": "f709b8bb-f00b-432e-9dca-42067d99a111",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Moss.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "FlameStreem",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "02dbe79f-0b73-4ffa-82a2-b04d6f1f6d47",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

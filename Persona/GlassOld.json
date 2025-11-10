@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0b18f348-81aa-4ebe-9ab3-2a4fcabcf4c7",
+      "Contents": [
+        {
+          "Id": "0295c67f-adf2-42ab-84a9-ad40d4c2077c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/GlassOld.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "07d783fb-c158-42ea-a2e5-0509319c8250",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "985cb11a-db49-40f5-a07c-7c4becc70f53",
+      "Contents": [
+        {
+          "Id": "eb073e3c-cff1-4ac0-90b0-8698716044d4",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/NetherGames2020.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ee690254-f370-42f0-b917-2f052954cbf0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

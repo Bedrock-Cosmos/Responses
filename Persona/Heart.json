@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d24b1073-331a-431c-b5ef-07d9348cebe0",
+      "Contents": [
+        {
+          "Id": "461b4da4-b42c-4ffb-9f8b-896e875d7d90",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Heart.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ec2fb7d2-d66d-4939-964c-e05dbd77b0b1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

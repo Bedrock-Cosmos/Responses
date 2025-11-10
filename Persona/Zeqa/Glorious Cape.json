@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e4e83f5d-dd28-47a9-a7d0-2cb0bd16d1f9",
+      "Contents": [
+        {
+          "Id": "9e09a8a4-d38f-4cc9-af38-26e4d7654110",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Glorious Cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2e382b2a-44ec-48c8-8bdb-f90fe35b1298",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

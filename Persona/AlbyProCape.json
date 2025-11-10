@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b67bee6f-23af-4cc8-98aa-aa6c4091079c",
+      "Contents": [
+        {
+          "Id": "0364448d-313f-4da5-a27d-66caeb64694c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/AlbyProCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "338de94d-2984-4096-a82c-0f0994f8fd6f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

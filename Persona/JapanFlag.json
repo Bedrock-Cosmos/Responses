@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2094e3d6-bfcf-43d3-baea-556e8633c5b5",
+      "Contents": [
+        {
+          "Id": "6695a3ef-b57b-4eab-abfd-cc4039c2f213",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/JapanFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fdc7e4ac-3c24-4a61-adc6-153f1c0954d2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "66550672-5866-4091-8061-cdd3965d9343",
+      "Contents": [
+        {
+          "Id": "797fb2d2-1c36-4a60-bf59-0ad1c25f7bd3",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Combo Champion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6225891b-19da-456b-b016-4fef4f44aa2a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

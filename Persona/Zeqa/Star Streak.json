@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0ee15deb-460c-4466-9ace-8c49a68249e5",
+      "Contents": [
+        {
+          "Id": "7daf6deb-8557-4816-85b9-26cd5e0b8b6c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Star Streak.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e8a59bc6-5312-4afc-88f2-25b53e3d8f4e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

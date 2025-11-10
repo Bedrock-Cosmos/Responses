@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1a6b6c01-89af-4402-922f-98ac6cca7c79",
+      "Contents": [
+        {
+          "Id": "be5f416b-f67c-4b38-8f74-e5687480261e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Demon2.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b920e92a-9568-4012-b942-c0b9b8cb6cd0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

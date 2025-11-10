@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e142e5ad-5f6b-4f94-aea7-02af26806926",
+      "Contents": [
+        {
+          "Id": "ee5b045d-46a9-407b-935d-dc93eae177ec",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Lightning2.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5f738284-cc68-4f18-9ed0-e670d1950506",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
