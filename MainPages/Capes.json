@@ -1114,7 +1114,7 @@
         "components": [
           {
             "text": {
-              "value": "Vanilla Capes (46)",
+              "value": "Vanilla Capes (47)",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
@@ -1209,6 +1209,46 @@
                   {
                     "type": "persona_piece",
                     "uuid": "d0567d45-f3e3-46b3-acde-7e692c4f35f7",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "04e8aef9-4001-42a8-81e6-f851cc045b60",
+                "contentType": "PersonaDurable",
+                "title": "Blueprint Cape",
+                "creatorName": "Custom Cosmetics",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Blueprint_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Blueprint_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "epic",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "b6bc42c6-14bd-46eb-8809-a1a8f6ff88b9",
                     "version": "1.0.0"
                   }
                 ],
@@ -2771,7 +2811,7 @@
                   "virtualCurrencyType": "Minecoin"
                 },
                 "pieceType": "persona_capes",
-                "rarity": "common",
+                "rarity": "epic",
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
