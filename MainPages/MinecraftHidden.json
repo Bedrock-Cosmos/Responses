@@ -995,8 +995,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://minecraft.wiki/images/HalloweenSP.png",
-                  "urlWithResolution": "https://minecraft.wiki/images/HalloweenSP.png?width=800&height=450"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Legacy%20Vault/Halloween%20Charity%20Skin%20Pack/HalloweenCharity_thumbnail.jpg",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Legacy%20Vault/Halloween%20Charity%20Skin%20Pack/HalloweenCharity_thumbnail.jpg"
                 },
                 "rating": {
                   "average": 0.0,
@@ -1040,8 +1040,8 @@
                   {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://minecraft.wiki/images/HalloweenSP.png",
-                    "urlWithResolution": "https://minecraft.wiki/images/HalloweenSP.png?width=800&height=450"
+                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Legacy%20Vault/Halloween%20Charity%20Skin%20Pack/HalloweenCharity_thumbnail.jpg",
+                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Legacy%20Vault/Halloween%20Charity%20Skin%20Pack/HalloweenCharity_thumbnail.jpg"
                   }
                 ],
                 "contents": [],
@@ -2685,11 +2685,11 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://minecraft.wiki/images/SummerOfArcadePromotionalSP.jpg",
-                  "urlWithResolution": "https://minecraft.wiki/images/SummerOfArcadePromotionalSP.jpg?width=800&height=450"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Legacy%20Vault/Summer%20of%20Arcade%20Skin%20Pack/SummerOfArcade_thumbnail.jpg",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Legacy%20Vault/Summer%20of%20Arcade%20Skin%20Pack/SummerOfArcade_thumbnail.jpg"
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -2727,8 +2727,8 @@
                   {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://minecraft.wiki/images/SummerOfArcadePromotionalSP.jpg",
-                    "urlWithResolution": "https://minecraft.wiki/images/SummerOfArcadePromotionalSP.jpg?width=800&height=450"
+                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Legacy%20Vault/Summer%20of%20Arcade%20Skin%20Pack/SummerOfArcade_thumbnail.jpg",
+                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Legacy%20Vault/Summer%20of%20Arcade%20Skin%20Pack/SummerOfArcade_thumbnail.jpg"
                   }
                 ],
                 "contents": [],
