@@ -631,6 +631,12 @@
                   {
                     "tag": "screenshot",
                     "type": "Screenshot",
+                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Exports.jpg",
+                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Exports.jpg"
+                  },
+                  {
+                    "tag": "screenshot",
+                    "type": "Screenshot",
                     "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-1.jpg",
                     "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-1.jpg"
                   },
@@ -645,12 +651,6 @@
                     "type": "Screenshot",
                     "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-3.jpg",
                     "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-3.jpg"
-                  },
-                  {
-                    "tag": "screenshot",
-                    "type": "Screenshot",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-4.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-4.jpg"
                   }
                 ],
                 "contents": [],
