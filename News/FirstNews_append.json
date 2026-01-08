@@ -1,13 +1,13 @@
 {
-  "id": "e2fe3020-33bc-4a90-9f10-fd9b0e57a2d9",
-  "instanceId": "e2fe3020-33bc-4a90-9f10-fd9b0e57a2d9",
+  "id": "ee75d2fc-d187-4282-8569-feb5fbb9eddd",
+  "instanceId": "ee75d2fc-d187-4282-8569-feb5fbb9eddd",
   "surface": "InboxMessage",
   "template": "HeroImageCTA",
   "header": "Welcome to the Cosmos!",
   "body": "Welcome to Bedrock Cosmos! This greeting shows that the program is running correctly. You are free to explore and check out our variety of Custom Skins and Capes. Enjoy!",
   "images": {
     "Primary": {
-      "id": "02e70215-7beb-48fb-b894-426d3ccb75eb",
+      "id": "21cabe25-4dc6-48cd-a415-18b798e26cb4",
       "url": "https://i.imgur.com/NJg41gO.png"
     }
   },

@@ -1,13 +1,13 @@
 {
-  "id": "e2fe3020-33bc-4a90-9f10-fd9b0e57a2d9",
-  "instanceId": "e2fe3020-33bc-4a90-9f10-fd9b0e57a2d9",
+  "id": "62cadd71-ad00-48c1-8d8c-680ae6c4b7cf",
+  "instanceId": "62cadd71-ad00-48c1-8d8c-680ae6c4b7cf",
   "surface": "InboxMessage",
   "template": "HeroImageCTA",
-  "header": "Welcome to the Cosmos!",
-  "body": "Welcome to Bedrock Cosmos! This greeting shows that the program is running correctly. You are free to explore and check out our variety of Custom Skins and Capes. Enjoy!",
+  "header": "2nd Cosmos News!",
+  "body": "The 2nd News Announcement for Cosmos.",
   "images": {
     "Primary": {
-      "id": "02e70215-7beb-48fb-b894-426d3ccb75eb",
+      "id": "ede117f0-b863-4869-8377-0398f22f986e",
       "url": "https://i.imgur.com/NJg41gO.png"
     }
   },
@@ -37,8 +37,8 @@
   "associatedProducts": [],
   "messageItemList": [],
   "messageText": {
-    "header": "Welcome to the Cosmos!",
-    "body": "Welcome to Bedrock Cosmos! This greeting shows that the program is running correctly. You are free to explore and check out our variety of Custom Skins and Capes. Enjoy!",
+    "header": "2nd Cosmos News!",
+    "body": "The 2nd News Announcement for Cosmos.",
     "messageSender": ""
   },
   "versionConstraint": "",
