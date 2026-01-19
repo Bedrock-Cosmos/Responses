@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?> 
 <AutoResponder LastSave="2025-10-26T15:04:46.0562865-04:00" FiddlerVersion="5.0.20245.10105">
   <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
     <ResponseRule Match="Cape Page below" Action="*exit" Enabled="false" />
