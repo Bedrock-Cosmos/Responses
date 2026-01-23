@@ -1,0 +1,1132 @@
+{
+  "result": {
+    "id": "7139ee02-3e3c-4a20-b072-ed9d18c309b7",
+    "pageId": "MultiItemPage_PersonaCharacterCreator",
+    "addToRecentlyViewed": false,
+    "pageName": "Home L1",
+    "rows": [
+      {
+        "controlId": "Layout",
+        "components": [
+          { "type": "personaOfferInteractionComp", "$type": "PersonaOfferInteractionComponent" },
+          { "type": "appearanceInteractionComp", "$type": "AppearanceInteractionComponent" },
+          { "type": "openColorPickerComp", "$type": "OpenColorPickerComponent" },
+          { "type": "openExpandedAppearanceViewComp", "$type": "OpenExpandedAppearanceViewComponent" },
+          { "type": "dispPreviewPieceComp", "$type": "DisplayPreviewedPieceOfferComponent" },
+          { "type": "sideSelectionComp", "$type": "PersonaSideSelection" },
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+              "linkType": "pageId",
+              "displayType": "store_layout.character_creator_screen",
+              "screenTitle": {
+                "value": "dr.header.minecoin.screen",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None",
+                  "outlineColor": []
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarMinecoinComp",
+            "$type": "TopBarMinecoinComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "Search_DressingRoomSearchHome",
+              "linkType": "pageId",
+              "displayType": "store_layout.character_creator_screen",
+              "screenTitle": {
+                "value": "dr.header.search.home",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None",
+                  "outlineColor": []
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarSearchComp",
+            "$type": "TopBarSearchComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "StoreRow",
+        "components": [
+          {
+            "text": {
+              "value": "marketplace.pass",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None",
+                "outlineColor": []
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "items": [
+              {
+                "id": "b7951680-44ee-4ed2-b755-1984e1ec453d",
+                "contentType": "PersonaDurable",
+                "title": "Ice Shard Gloves",
+                "description": "§",
+                "creatorName": "Heropixel Games",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3971acc5-8daa-4e14-b074-fbe03539bd7c/Ice_Shard_Gloves_Thumbnail_0.png",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/3971acc5-8daa-4e14-b074-fbe03539bd7c/Ice_Shard_Gloves_Thumbnail_0.png?width=800&height=450"
+                },
+                "price": {
+                  "listPrice": 240,
+                  "realmsInfo": {
+                    "inRealmsPlus": true,
+                    "startDate": "2026-01-06T18:00:00Z",
+                    "expirationDate": "2026-02-03T18:00:00Z"
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "realmsInfo": {
+                  "inRealmsPlus": true,
+                  "startDate": "2026-01-06T18:00:00Z",
+                  "expirationDate": "2026-02-03T18:00:00Z"
+                },
+                "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!DC94E28296F6D4C5",
+                "statistics": { "skins": 0, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+                "flags": [],
+                "pieceType": "persona_hand",
+                "rarity": "epic",
+                "ownership": "NotOwned",
+                "packType": "Persona",
+                "packIdentity": [
+                  { "type": "persona_piece", "uuid": "1e810b62-d114-f833-c7e6-c25bc81f15c1", "version": "1.0.1" }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3971acc5-8daa-4e14-b074-fbe03539bd7c/Ice_Shard_Gloves_Thumbnail_0.png",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/3971acc5-8daa-4e14-b074-fbe03539bd7c/Ice_Shard_Gloves_Thumbnail_0.png?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2024-06-01T00:00:00Z",
+                "subscription": [
+                  { "type": "realms", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" },
+                  { "type": "csb", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" }
+                ],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaCharacterCreator%7cSkinPack_b7951680-44ee-4ed2-b755-1984e1ec453d",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_b7951680-44ee-4ed2-b755-1984e1ec453d",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!DC94E28296F6D4C5",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                },
+                "hardwareMemoryTier": 0
+              },
+              {
+                "id": "70ec998e-a352-4175-8990-4c5b03d8163b",
+                "contentType": "PersonaDurable",
+                "title": "Ice Plume Boots",
+                "description": "§",
+                "creatorName": "Waypoint Studios",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f81f0619-39e6-4764-90c1-538af438e5ff/ice_plume_Thumbnail_0.png",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/f81f0619-39e6-4764-90c1-538af438e5ff/ice_plume_Thumbnail_0.png?width=800&height=450"
+                },
+                "price": {
+                  "listPrice": 240,
+                  "realmsInfo": {
+                    "inRealmsPlus": true,
+                    "startDate": "2026-01-06T18:00:00Z",
+                    "expirationDate": "2026-02-03T18:00:00Z"
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "realmsInfo": {
+                  "inRealmsPlus": true,
+                  "startDate": "2026-01-06T18:00:00Z",
+                  "expirationDate": "2026-02-03T18:00:00Z"
+                },
+                "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!4FCE1542A290891",
+                "statistics": { "skins": 0, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+                "flags": [],
+                "pieceType": "persona_feet",
+                "rarity": "epic",
+                "ownership": "NotOwned",
+                "packType": "Persona",
+                "packIdentity": [
+                  { "type": "persona_piece", "uuid": "8d5cc7ca-ca61-153d-dcb4-075b5116f0ee", "version": "1.0.1" }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f81f0619-39e6-4764-90c1-538af438e5ff/ice_plume_Thumbnail_0.png",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/f81f0619-39e6-4764-90c1-538af438e5ff/ice_plume_Thumbnail_0.png?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2023-03-01T00:00:00Z",
+                "subscription": [
+                  { "type": "realms", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" },
+                  { "type": "csb", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" }
+                ],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaCharacterCreator%7cSkinPack_70ec998e-a352-4175-8990-4c5b03d8163b",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_70ec998e-a352-4175-8990-4c5b03d8163b",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!4FCE1542A290891",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                },
+                "hardwareMemoryTier": 0
+              },
+              {
+                "id": "d5ef4daa-3caf-493e-995c-135065229974",
+                "contentType": "PersonaDurable",
+                "title": "Dark Ice Shirt",
+                "description": "§",
+                "creatorName": "Waypoint Studios",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b7507ae8-1199-4af4-ae82-7e3b995b39e9/dark_ice_shirt_Thumbnail_0.png",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/b7507ae8-1199-4af4-ae82-7e3b995b39e9/dark_ice_shirt_Thumbnail_0.png?width=800&height=450"
+                },
+                "price": {
+                  "listPrice": 400,
+                  "realmsInfo": {
+                    "inRealmsPlus": true,
+                    "startDate": "2026-01-06T18:00:00Z",
+                    "expirationDate": "2026-02-03T18:00:00Z"
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "realmsInfo": {
+                  "inRealmsPlus": true,
+                  "startDate": "2026-01-06T18:00:00Z",
+                  "expirationDate": "2026-02-03T18:00:00Z"
+                },
+                "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!4FCE1542A290891",
+                "statistics": { "skins": 0, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+                "flags": [],
+                "pieceType": "persona_top",
+                "rarity": "epic",
+                "ownership": "NotOwned",
+                "packType": "Persona",
+                "packIdentity": [
+                  { "type": "persona_piece", "uuid": "7ae980e6-a7f4-c956-428f-c76250ba7a4f", "version": "1.0.1" }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b7507ae8-1199-4af4-ae82-7e3b995b39e9/dark_ice_shirt_Thumbnail_0.png",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/b7507ae8-1199-4af4-ae82-7e3b995b39e9/dark_ice_shirt_Thumbnail_0.png?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2022-04-01T00:00:00Z",
+                "subscription": [
+                  { "type": "realms", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" },
+                  { "type": "csb", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" }
+                ],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaCharacterCreator%7cSkinPack_d5ef4daa-3caf-493e-995c-135065229974",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_d5ef4daa-3caf-493e-995c-135065229974",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!4FCE1542A290891",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                },
+                "hardwareMemoryTier": 0
+              },
+              {
+                "id": "7808ae53-f68d-457f-923f-943b88261e3c",
+                "contentType": "PersonaDurable",
+                "title": "Dark Ice Pants",
+                "description": "§",
+                "creatorName": "Waypoint Studios",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b4521b6b-cdf6-4708-9cbb-fdd7976a4cd8/dark_ice_pants_Thumbnail_0.png",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/b4521b6b-cdf6-4708-9cbb-fdd7976a4cd8/dark_ice_pants_Thumbnail_0.png?width=800&height=450"
+                },
+                "price": {
+                  "listPrice": 240,
+                  "realmsInfo": {
+                    "inRealmsPlus": true,
+                    "startDate": "2026-01-06T18:00:00Z",
+                    "expirationDate": "2026-02-03T18:00:00Z"
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "realmsInfo": {
+                  "inRealmsPlus": true,
+                  "startDate": "2026-01-06T18:00:00Z",
+                  "expirationDate": "2026-02-03T18:00:00Z"
+                },
+                "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!4FCE1542A290891",
+                "statistics": { "skins": 0, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+                "flags": [],
+                "pieceType": "persona_bottom",
+                "rarity": "epic",
+                "ownership": "NotOwned",
+                "packType": "Persona",
+                "packIdentity": [
+                  { "type": "persona_piece", "uuid": "0a3ca82c-fcca-818d-41aa-ab47e422acc6", "version": "1.0.1" }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b4521b6b-cdf6-4708-9cbb-fdd7976a4cd8/dark_ice_pants_Thumbnail_0.png",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/b4521b6b-cdf6-4708-9cbb-fdd7976a4cd8/dark_ice_pants_Thumbnail_0.png?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2022-04-01T00:00:00Z",
+                "subscription": [
+                  { "type": "realms", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" },
+                  { "type": "csb", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" }
+                ],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaCharacterCreator%7cSkinPack_7808ae53-f68d-457f-923f-943b88261e3c",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_7808ae53-f68d-457f-923f-943b88261e3c",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!4FCE1542A290891",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                },
+                "hardwareMemoryTier": 0
+              },
+              {
+                "id": "2c1bfb1f-a2fb-42bd-8a30-2a13d0eaeb55",
+                "contentType": "PersonaDurable",
+                "title": "Dark Ice Hood",
+                "description": "§",
+                "creatorName": "Waypoint Studios",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/069cdbe5-f76f-43d7-b817-711968407cbe/dark_ice_hood_Thumbnail_0.png",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/069cdbe5-f76f-43d7-b817-711968407cbe/dark_ice_hood_Thumbnail_0.png?width=800&height=450"
+                },
+                "price": {
+                  "listPrice": 400,
+                  "realmsInfo": {
+                    "inRealmsPlus": true,
+                    "startDate": "2026-01-06T18:00:00Z",
+                    "expirationDate": "2026-02-03T18:00:00Z"
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "realmsInfo": {
+                  "inRealmsPlus": true,
+                  "startDate": "2026-01-06T18:00:00Z",
+                  "expirationDate": "2026-02-03T18:00:00Z"
+                },
+                "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!4FCE1542A290891",
+                "statistics": { "skins": 0, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+                "flags": [],
+                "pieceType": "persona_head",
+                "rarity": "epic",
+                "ownership": "NotOwned",
+                "packType": "Persona",
+                "packIdentity": [
+                  { "type": "persona_piece", "uuid": "2384d13d-a7e5-d791-6c01-cd24b4ff74b6", "version": "1.0.1" }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/069cdbe5-f76f-43d7-b817-711968407cbe/dark_ice_hood_Thumbnail_0.png",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/069cdbe5-f76f-43d7-b817-711968407cbe/dark_ice_hood_Thumbnail_0.png?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2022-04-01T00:00:00Z",
+                "subscription": [
+                  { "type": "realms", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" },
+                  { "type": "csb", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" }
+                ],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaCharacterCreator%7cSkinPack_2c1bfb1f-a2fb-42bd-8a30-2a13d0eaeb55",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_2c1bfb1f-a2fb-42bd-8a30-2a13d0eaeb55",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!4FCE1542A290891",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                },
+                "hardwareMemoryTier": 0
+              },
+              {
+                "id": "83771b1f-d291-40da-a736-e9b6183e3b34",
+                "contentType": "PersonaDurable",
+                "title": "Ice Dragon Wings",
+                "description": "§",
+                "creatorName": "stonemasons",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0df67625-a499-43d0-bdd9-8125826f8bcd/ice_dragon_wings_Thumbnail_0.png",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/0df67625-a499-43d0-bdd9-8125826f8bcd/ice_dragon_wings_Thumbnail_0.png?width=800&height=450"
+                },
+                "price": {
+                  "listPrice": 240,
+                  "realmsInfo": {
+                    "inRealmsPlus": true,
+                    "startDate": "2026-01-06T18:00:00Z",
+                    "expirationDate": "2026-02-03T18:00:00Z"
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "realmsInfo": {
+                  "inRealmsPlus": true,
+                  "startDate": "2026-01-06T18:00:00Z",
+                  "expirationDate": "2026-02-03T18:00:00Z"
+                },
+                "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!4F3F66E5D0032E28",
+                "statistics": { "skins": 0, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+                "flags": [],
+                "pieceType": "persona_back",
+                "rarity": "rare",
+                "ownership": "NotOwned",
+                "packType": "Persona",
+                "packIdentity": [
+                  { "type": "persona_piece", "uuid": "061a095c-667d-f84c-fc65-356d07d6da8d", "version": "1.0.0" }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0df67625-a499-43d0-bdd9-8125826f8bcd/ice_dragon_wings_Thumbnail_0.png",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/0df67625-a499-43d0-bdd9-8125826f8bcd/ice_dragon_wings_Thumbnail_0.png?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2021-09-01T00:00:00Z",
+                "subscription": [
+                  { "type": "realms", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" },
+                  { "type": "csb", "startDate": "2026-01-06T18:00:00Z", "expirationDate": "2026-02-03T18:00:00Z" }
+                ],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaCharacterCreator%7cSkinPack_83771b1f-d291-40da-a736-e9b6183e3b34",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_83771b1f-d291-40da-a736-e9b6183e3b34",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!4F3F66E5D0032E28",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                },
+                "hardwareMemoryTier": 0
+              }
+            ],
+            "totalItems": 6,
+            "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_PersonaCharacterCreator%7cDressingRoom_40000000-2000-3000-4000-500000000000",
+              "linkType": "pageId",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "customStoreRowConfiguration": {
+              "seeAllVisible": true,
+              "maxOffers": 6,
+              "arrowsVisible": false,
+              "visibleOffersPerRow": 6
+            },
+            "type": "itemListComp",
+            "$type": "ItemListComponent"
+          },
+          { "type": "dispPreviewPieceComp", "$type": "DisplayPreviewedPieceOfferComponent" }
+        ]
+      },
+      {
+        "controlId": "LightDropdown",
+        "components": [
+          {
+            "text": { "value": "dr.categories.body", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/body" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "isExpanded": false, "dropdownId": 0, "type": "dropdownComp", "$type": "DropdownComponent" }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.base", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/skin_texture" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Bases",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.hair", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/hair" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Hairs",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.eyes", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/eyes" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Eyes",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.mouth", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/mouth" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Mouths",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.facial_hair", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/facial_hair" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_FacialHairs",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.arms", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/arms" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Arms",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.legs", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/legs" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Legs",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.size", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/body_size" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Size",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "LightDropdown",
+        "components": [
+          {
+            "text": { "value": "dr.categories.style", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/style" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "isExpanded": false, "dropdownId": 1, "type": "dropdownComp", "$type": "DropdownComponent" }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.top", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/tops" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Tops",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.bottom", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/bottoms" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Bottoms",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.outerwear", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/outerwear" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Outerwears",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.headwear", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/head" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Headwears",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.gloves", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/hands" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Gloves",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.footwear", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/feet" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Footwears",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.face_item", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/face_accessory" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_FaceItems",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "dr.categories.back_item", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/back_accessory" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_BackItems",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "DarkRedirectButton",
+        "components": [
+          {
+            "text": { "value": "Hidden", "replacements": [] },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/face_accessory" },
+            "textureFilterType": "InUserPackages",
+            "type": "textureComp",
+            "$type": "TextureComponent"
+          },
+          {
+            "linksTo": {
+              "linksTo": "DressingRoom_Redeemables",
+              "linkType": "internal",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "type": "redirectButtonComp",
+            "$type": "RedirectComponent"
+          }
+        ]
+      }
+    ],
+    "itemsPerRow": 0,
+    "screenshotHeightRatio": 0.0,
+    "inventoryVersion": "1/Mw==",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona",
+    "navigationRows": []
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "result": {
+    "id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+    "pageId": "ItemDetail_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+    "addToRecentlyViewed": true,
+    "pageName": "ItemDetail For 'Mario Mash-Up'",
+    "rows": [
+      {
+        "controlId": "Layout",
+        "components": [
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_CoinScreen",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "screenTitle": {
+                "value": "store.editorial.minecoins",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None",
+                  "outlineColor": []
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarMinecoinComp",
+            "$type": "TopBarMinecoinComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "Search_SearchHome",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "screenTitle": {
+                "value": "store.search.title",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None",
+                  "outlineColor": []
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarSearchComp",
+            "$type": "TopBarSearchComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_Inventory",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "screenTitle": {
+                "value": "editorialtool.localization.mycontent",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None",
+                  "outlineColor": []
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "topBarIcon": { "type": "SidebarNavIcon", "localPath": "textures/ui/sidebar_icons/my_content_large" },
+            "inventoryTitle": {
+              "value": "store.myLibrary",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "SmoothWithEmoticons",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None",
+                "outlineColor": []
+              },
+              "replacements": []
+            },
+            "type": "topBarInventoryComp",
+            "$type": "TopBarInventoryComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "ItemSummary",
+        "components": [
+          {
+            "item": {
+              "id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+              "contentType": "MarketplaceDurableCatalog_V1.2",
+              "title": "Mario Mash-Up",
+              "creatorName": "Minecraft",
+              "thumbnail": {
+                "tag": "Thumbnail",
+                "type": "Thumbnail",
+                "url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8",
+                "urlWithResolution": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
+              },
+              "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+              "linksToInfo": {
+                "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                "linkType": "pageId",
+                "displayType": "store_layout.store_data_driven_screen",
+                "navigateInPlace": false
+              },
+              "statistics": {
+                "skins": 40,
+                "worlds": 1,
+                "textures": 1,
+                "behaviors": 0,
+                "addOns": 0
+              },
+              "ownership": "Purchased",
+              "packType": "MashUp",
+              "packIdentity": [
+                { "type": "skinpack", "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2", "version": "1.0.5" },
+                { "type": "resourcepack", "uuid": "0", "version": "1.0.0" },
+                { "type": "worldtemplate", "uuid": "0", "version": "1.0.0" }
+              ],
+              "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0",
+              "startDate": "2026-01-11T18:00:00Z",
+              "thumbnailPreviewOnly": false
+            },
+            "type": "itemSummaryComp",
+            "$type": "ItemSummaryComponent"
+          },
+          {
+            "binaries": [
+              {
+                "url": "https://github.com/zoroark19/-/blob/main/UserPackage.zip"
+              }
+            ],
+            "type": "purchaseInfoComp",
+            "$type": "PurchaseInfoComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "ItemDescription",
+        "components": [
+          {
+            "headerText": "store.mashup.description",
+            "text": {
+              "value": "store.mashup.description",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "description": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario-style Texture Pack, Skin Pack and a Super Mario-themed world to explore!",
+            "type": "itemDescriptionComp",
+            "$type": "ItemDescriptionComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "SkinPreview",
+        "components": [
+          {
+            "binary": {
+              "url": "https://github.com/zoroark19/-/blob/main/UserPackage.zip"
+            },
+            "packIdentity": {
+              "type": "skinpack",
+              "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+              "version": "1.0.5"
+            },
+            "type": "skinViewerComp",
+            "$type": "SkinViewerComponent"
+          },
+          {
+            "headerText": "Mario Mash-Up: %s",
+            "text": {
+              "value": "Mario Mash-Up: %s",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          }
+        ]
+      }
+    ],
+    "inventoryVersion": "1/NzA0",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "navigationRows": []
+  }
+}

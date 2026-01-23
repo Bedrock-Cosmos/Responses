@@ -1,0 +1,42 @@
+[
+  {
+    "uuid": "77540382-9678-4471-b530-49789e7529c6",
+    "response": "SkinPacks\\Responses\\DoctorWhoV1Binary.json"
+  },
+  {
+    "uuid": "0a94862d-8e28-4626-98c2-9b9df4c906a2",
+    "response": "SkinPacks\\Responses\\DoctorWhoV2Binary.json"
+  },
+  {
+    "uuid": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+    "response": "SkinPacks\\Responses\\1stBirthdayBinary.json"
+  },
+  {
+    "uuid": "770196c2-718f-43ef-94d6-8e53a7b5b0af",
+    "response": "SkinPacks\\Responses\\2ndBirthdayBinary.json"
+  },
+  {
+    "uuid": "61c7a786-d7ad-49e0-a710-817121cd9795",
+    "response": "SkinPacks\\Responses\\ActionsStuffBinary.json"
+  },
+  {
+    "uuid": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+    "response": "SkinPacks\\Responses\\FestiveBinary.json"
+  },
+  {
+    "uuid": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+    "response": "SkinPacks\\Responses\\MarioMashUpBinary.json"
+  },
+  {
+    "uuid": "2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+    "response": "SkinPacks\\Responses\\SkinPack4Binary.json"
+  },
+  {
+    "uuid": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
+    "response": "SkinPacks\\Responses\\SkinPack5Binary.json"
+  },
+  {
+    "uuid": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+    "response": "SkinPacks\\Responses\\SkinPack6Binary.json"
+  }
+]
