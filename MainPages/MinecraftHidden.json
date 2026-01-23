@@ -158,7 +158,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["Rtx", "New"],
+                "flags": ["New"],
                 "ownership": "NotOwned",
                 "packType": "SkinPack",
                 "packIdentity": [
@@ -1289,7 +1289,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["Rtx", "New"],
+                "flags": ["New"],
                 "ownership": "NotOwned",
                 "packType": "MashUp",
                 "packIdentity": [
@@ -1476,7 +1476,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["Rtx", "New"],
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "MashUp",
                 "packIdentity": [
@@ -2076,7 +2076,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["Rtx", "New"],
+                "flags": ["New"],
                 "ownership": "NotOwned",
                 "packType": "SkinPack",
                 "packIdentity": [
@@ -2245,7 +2245,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["Rtx", "New"],
+                "flags": ["New"],
                 "ownership": "NotOwned",
                 "packType": "SkinPack",
                 "packIdentity": [
@@ -2348,7 +2348,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["Rtx", "New"],
+                "flags": ["New"],
                 "ownership": "NotOwned",
                 "packType": "SkinPack",
                 "packIdentity": [
