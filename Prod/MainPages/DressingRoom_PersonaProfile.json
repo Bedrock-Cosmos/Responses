@@ -213,6 +213,26 @@
           {
             "items": [
               {
+                "id": "Cosmos_Creator_Hub",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": " ", //This is here or else next page will be called Marketplace
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/76d2d2fc-41df-4d97-9799-1c64b1038db7/sprite_thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/76d2d2fc-41df-4d97-9799-1c64b1038db7/sprite_thumbnail_0.jpg?width=800&height=450"
+                },
+                "packType": "Realms",
+                "linksTo": "Cosmos_Creator_Hub",
+                "linksToInfo": {
+                  "linksTo": "Cosmos_Creator_Hub",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "startDate": "2025-10-25T12:00:00Z"
+              },
+              {
                 "id": "CreatorPage_master_player_account!MinecraftRestored",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "thumbnail": {
@@ -712,7 +732,7 @@
                 "startDate": "2019-12-09T18:00:00Z"
               }
             ],
-            "totalItems": 10,
+            "totalItems": 11,
             "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_10000000-2000-3000-4000-500000000000",
             "linksToInfo": {
               "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_10000000-2000-3000-4000-500000000000",

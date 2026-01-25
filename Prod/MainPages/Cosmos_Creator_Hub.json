@@ -1,8 +1,41 @@
 {
   "result": {
-    "pageId": "CreatorPage_master_player_account!CreatorHub",
+    "pageId": "Cosmos_Creator_Hub",
     "addToRecentlyViewed": false,
     "rows": [
+      {
+        "controlId": "Layout",
+        "components": [
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_CoinScreen",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "screenTitle": {
+                "value": "store.editorial.minecoins",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None",
+                  "outlineColor": []
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarMinecoinComp",
+            "$type": "TopBarMinecoinComponent"
+          }
+        ]
+      },
       {
         "controlId": "TextRow",
         "components": [
@@ -56,8 +89,8 @@
               {
                 "id": "3636428b-80fb-4337-a104-dcb440ebfe94",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
-                "title": "BionicBen",
-                "creatorName": "",
+                "title": "",
+                "creatorName": "BionicBen",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -113,8 +146,8 @@
               {
                 "id": "b82ad254-3fcb-4c7f-91c3-8d1595a16a00",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
-                "title": "Exports",
-                "creatorName": "",
+                "title": "",
+                "creatorName": "Exports",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -175,8 +208,9 @@
         ]
       }
     ],
-    "inventoryVersion": "1/Njkz",
+    "inventoryVersion": "1/NzA5",
     "pageRefresh": false,
-    "sidebarLayoutType": "None"
+    "sidebarLayoutType": "None",
+    "navigationRows": []
   }
 }
