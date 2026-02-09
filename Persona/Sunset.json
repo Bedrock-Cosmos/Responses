@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7d931f07-e1a2-4d7e-b7ec-5fdcba45ae51",
+      "Contents": [
+        {
+          "Id": "f2c578d5-30d2-4148-b87e-39f0c50c93ae",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Sunset.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f25239bb-bad1-4b03-9faa-4a9a9c06f88e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

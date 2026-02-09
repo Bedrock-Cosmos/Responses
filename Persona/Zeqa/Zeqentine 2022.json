@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "672c322e-a207-49e7-82e8-1661d87d5eb8",
+      "Contents": [
+        {
+          "Id": "e4e5ac4c-d450-489f-b030-3fbc139735f1",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Zeqentine 2022.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3b8cc188-98a5-4b04-b41f-93d9bc75d3c9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

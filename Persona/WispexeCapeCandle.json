@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "58c75119-fd59-4303-aa8d-9d2991aea7db",
+      "Contents": [
+        {
+          "Id": "b49ec3b9-5f64-4c2e-83a4-5b6c4264d85a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/WispexeCapeCandle.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "568f1859-a3af-43a3-8e9f-ad0c3e0e3f2b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

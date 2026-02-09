@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8bf9bcb3-56a9-4251-ade0-250d5c9db770",
+      "Contents": [
+        {
+          "Id": "cb3612bc-4fed-4a2f-9feb-a32e86e6cb91",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/FunworldCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b10c1055-2f33-4b10-82b6-414de8c3e35c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f78a4302-3e5b-43a4-8f82-af5bc72476ce",
+      "Contents": [
+        {
+          "Id": "7bad882e-031c-4c97-a70d-0d6daf702460",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Watermelon.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ed93d2ec-c762-414e-81e7-bfd3248d42b4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

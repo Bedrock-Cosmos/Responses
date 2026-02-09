@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3c4c4473-41ed-4a2b-89a2-f948c5bf42f0",
+      "Contents": [
+        {
+          "Id": "3ea91932-63ca-49c5-a4e8-2313a9b96d3a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/15_Year.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "FlameStreem",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a536ede9-a6f5-48dc-b8ca-c2ba8992d15c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

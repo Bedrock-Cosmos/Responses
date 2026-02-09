@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a884a03c-856a-4a98-a0e9-ff7612c798f7",
+      "Contents": [
+        {
+          "Id": "be184e1f-e145-43b4-801b-2a5af55884ea",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Illusioner.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f1cc14b3-c3ae-414b-84a1-502886f72df5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

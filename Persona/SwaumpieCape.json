@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f379424d-7f3e-4086-add5-bc2b05a88803",
+      "Contents": [
+        {
+          "Id": "57d2f2ce-fcfb-4c3b-8540-9e5b36fa2890",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SwaumpieCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ee33f5ed-7be0-4acd-9abb-bd8203075293",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

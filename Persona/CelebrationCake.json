@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "08816449-7b38-4ca0-9181-53516bd707d2",
+      "Contents": [
+        {
+          "Id": "5cb3936e-1698-4543-88f1-3fe2a43dd9d1",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/CelebrationCake.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "69dcec12-ceaf-46ed-8b9e-0dd68387446d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

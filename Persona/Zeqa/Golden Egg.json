@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8b1ed3f4-a9bd-40a1-88c9-57a2dde4abbf",
+      "Contents": [
+        {
+          "Id": "f45c64db-9dc0-4c9f-afb0-8a86508563e3",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Golden Egg.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6d6067a2-b2a6-4c2f-84dc-6d2d08407004",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

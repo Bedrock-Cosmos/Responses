@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bc9f62b2-f247-4830-b883-89d07ffb0e5e",
+      "Contents": [
+        {
+          "Id": "bd67d014-bc46-44b5-a90e-70313e808f58",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Mike Wazoski.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "29410f6a-d84a-4282-aadd-633f6b0fb314",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

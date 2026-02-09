@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ce4b5b11-60c3-40e3-9b7c-81e293712f13",
+      "Contents": [
+        {
+          "Id": "d17d205c-ab1f-44ac-a9e7-03b7eec4b2be",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/NorthernLights.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1a5511cf-4be8-49bc-b570-483ec5a3209f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "5f710669-c377-4504-af90-1f93ebb38eca",
+      "Contents": [
+        {
+          "Id": "3b5ec68b-ed7a-4c40-8344-d45c3c129ea8",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SmallFlash.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e54dfee1-dc63-4624-baaa-4e01cc6d85f3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

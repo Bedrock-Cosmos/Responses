@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cca87b25-06a3-481c-b485-dd9cfa4d7e0e",
+      "Contents": [
+        {
+          "Id": "b01d0719-af5c-4631-bb28-396af1e3142f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LapisBlock.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9f295a2c-48a8-4a12-89c1-9561c07fb3da",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

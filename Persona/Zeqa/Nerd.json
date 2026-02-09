@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4b18c93f-2e57-452a-a457-37f5e5a2ed81",
+      "Contents": [
+        {
+          "Id": "10f329e8-1bfd-49c3-8e1c-ef8012bb576c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Nerd.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "4d9ed477-84ba-4ff1-a06a-1bf8cf80ec63",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

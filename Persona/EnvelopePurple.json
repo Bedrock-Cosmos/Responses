@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a22596b3-a65c-4c4f-82a3-d66200eb9ba0",
+      "Contents": [
+        {
+          "Id": "2cd7935e-761d-427a-936d-e3efd63080af",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/EnvelopePurple.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "4fe12c36-8c98-4b4f-834c-580dfe4e3ed2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1f3172ac-72a7-4e7a-8cd2-d51d519e33dd",
+      "Contents": [
+        {
+          "Id": "21bc3781-250a-48c4-938e-10ccac589d62",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LaqqyCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7f0ecdf1-7fa1-4b43-89fc-df4b3057cf70",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

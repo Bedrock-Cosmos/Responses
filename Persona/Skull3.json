@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d5d94524-364d-4014-ab96-a8116bc6425e",
+      "Contents": [
+        {
+          "Id": "129c5c53-ba9f-4f0c-a49f-30a2c1e93a73",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Skull3.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ca909100-2549-4e37-b603-409a13bbb95a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

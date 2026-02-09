@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7abf9b93-7fbf-4135-ac78-7b0657eb97b7",
+      "Contents": [
+        {
+          "Id": "1621cb16-ef44-4f15-b419-6a4c8789afec",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Royal.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "89f899fa-d363-4ef1-bff8-43811c0753ea",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

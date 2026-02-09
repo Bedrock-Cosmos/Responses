@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2c5c0ec6-7901-4dfb-86e1-dc2ad5b6655b",
+      "Contents": [
+        {
+          "Id": "bd7f085f-0be5-45e8-bf96-cca4ff2e3d93",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Purple Glorious Cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "cf34af36-492a-47da-84e8-8a182e9a8bc4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

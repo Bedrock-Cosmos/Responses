@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "517d96bb-2c8a-4a9a-a2f5-dfcb6ee37c85",
+      "Contents": [
+        {
+          "Id": "3433b39e-325c-4559-86ca-0a59d6f22214",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SantaCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e914de58-aadf-40ae-89bb-713455e1d060",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

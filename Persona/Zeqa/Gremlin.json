@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1eb23871-ba58-4cae-96a3-2aacca7e53c7",
+      "Contents": [
+        {
+          "Id": "6763efe1-d0c2-4f67-8ff0-01b49baa4538",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Gremlin.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e4762ab4-d72b-4809-941e-4670121b81f7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

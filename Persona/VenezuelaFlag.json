@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "10b308f5-57a1-47ee-905c-e035db143325",
+      "Contents": [
+        {
+          "Id": "babb10f0-8ca7-4a6c-bbb0-38482aeac6d2",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/VenezuelaFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3cc28aef-50ee-4b5a-8a36-79c001712ab7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

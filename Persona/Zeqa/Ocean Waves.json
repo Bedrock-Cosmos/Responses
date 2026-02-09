@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0507bb54-7f3a-4808-8857-4ce8d4803f24",
+      "Contents": [
+        {
+          "Id": "f1067b65-27c8-41f2-8083-23c5990eb541",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Ocean Waves.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ee840657-84b9-46d1-b03a-1c35236c7f86",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

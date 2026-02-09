@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "890630be-f332-4466-a62e-51cb7d96fe6b",
+      "Contents": [
+        {
+          "Id": "2082d823-119f-4a7c-b9a0-ac46838274db",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/10K DISCORD CAPE.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f02351f2-83f8-455e-bb2a-0df677eaadce",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

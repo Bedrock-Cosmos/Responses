@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "328867de-cf8c-46cd-bad3-befbf0b378eb",
+      "Contents": [
+        {
+          "Id": "f157e9a7-ed1d-42d4-9118-4179ddfca11a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/CaveUHC Warrior.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "16da05d4-3cea-4dae-9ebe-07cd741ced5d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

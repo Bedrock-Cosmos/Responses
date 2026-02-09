@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b4c05c2c-c553-4965-9e37-1abc47e11dd9",
+      "Contents": [
+        {
+          "Id": "9f3e5b5f-7f00-48ac-9d33-2366fc61d1bd",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Bumblebee.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b0574f9a-3169-40f0-8866-5c2ca30dce85",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

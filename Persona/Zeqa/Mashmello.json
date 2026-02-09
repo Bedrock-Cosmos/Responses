@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "fd19f510-8acb-46cc-8b46-a2543102a339",
+      "Contents": [
+        {
+          "Id": "2751845f-0105-42cd-b5cd-9347d7d3083d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Mashmello.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c50b7c64-88aa-4ba2-b6d5-31a1657d8c82",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

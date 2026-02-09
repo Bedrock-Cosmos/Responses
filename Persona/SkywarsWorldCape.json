@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9860627c-6f1b-486b-887c-c4677ea1e75a",
+      "Contents": [
+        {
+          "Id": "a778e429-56f5-4b31-bfd1-803563209823",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SkywarsWorldCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "af5cf4e0-9a6f-48db-b797-a18c5a00f0b8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

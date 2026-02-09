@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "287d75fb-9a6d-4e51-86d8-c94f2fa8aacc",
+      "Contents": [
+        {
+          "Id": "090acff1-bde3-4cd1-9b1e-ff7ae0b3c17e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SpeedSilverCapeWhite.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f893d045-7d82-4369-9f81-e35ea31005a4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

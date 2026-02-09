@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7397c8b3-f8e7-4d2d-a731-85baafe01920",
+      "Contents": [
+        {
+          "Id": "11334b26-116f-438d-b8d4-dab89b60aea6",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Water.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0347a8de-9ee1-4298-85d5-f9b9a64eeb6e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cd40d2de-834c-4340-b6b4-5e7611ca670d",
+      "Contents": [
+        {
+          "Id": "2a54b3fd-d2e6-4dac-8b78-2fd6979ca916",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Grass.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "FlameStreem",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "328da1fc-80c4-469d-a521-5e0511be5071",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

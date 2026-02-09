@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8cd62112-f379-4325-8b15-3d988c2c41a0",
+      "Contents": [
+        {
+          "Id": "8b73a6f8-4c73-4c73-b52a-60b0e1b990b1",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Carrot.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2f36de96-8447-4507-8349-79cbcca5e78e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

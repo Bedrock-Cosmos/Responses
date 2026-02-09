@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2634bf82-73a3-4e28-8779-f975b3defcd7",
+      "Contents": [
+        {
+          "Id": "32912ad8-6612-4b74-b3ee-ea1f25a72995",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LunarBlackChroma.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "62187411-eca5-4491-abbf-1382cb610dfe",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

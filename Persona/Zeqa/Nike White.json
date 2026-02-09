@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2bf66928-33c8-46cc-8808-75a666bc2b24",
+      "Contents": [
+        {
+          "Id": "8b24eefb-4269-4ce8-baf9-32e082387446",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Nike White.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1f4778ca-350a-4b9e-9288-34b4b9f3fd6e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

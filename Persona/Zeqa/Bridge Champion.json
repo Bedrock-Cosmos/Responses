@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "222e6a80-c0ce-4430-9de1-5abbd36802dd",
+      "Contents": [
+        {
+          "Id": "999e988a-a1f0-4eed-a458-3e94dca9b453",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Bridge Champion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a4698866-4020-4612-a3c8-415a6a19bff6",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

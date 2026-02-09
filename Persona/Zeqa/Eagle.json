@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3be808d8-471f-47ab-8109-5a57d8ee8748",
+      "Contents": [
+        {
+          "Id": "b2519333-e953-488f-b7d4-1b5e8ce8bc36",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Eagle.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a39735df-5fc9-4b76-b3a2-b65dac831319",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8a22b88e-5600-4bfa-b9e8-ce7d37453349",
+      "Contents": [
+        {
+          "Id": "285946b0-1974-4842-857b-44c6f3d2c825",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Skull.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "31b807b8-0c76-4336-91b7-07b7b9c1e9aa",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

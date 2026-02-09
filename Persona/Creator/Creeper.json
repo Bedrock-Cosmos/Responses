@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bc285630-dc5a-4a0c-9485-4800adfbcd35",
+      "Contents": [
+        {
+          "Id": "c365e843-82cb-444e-83a6-9c96698d7346",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Creeper.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "FlameStreem",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2ae90719-5906-41c5-8d66-c5b76ddee223",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

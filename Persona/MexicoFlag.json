@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1ee1b9b3-ab1f-4789-9529-acc5bf0e0449",
+      "Contents": [
+        {
+          "Id": "f3e8620d-1d58-40ea-b9be-cc5eb7b5348f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/MexicoFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d0e8b2ca-e233-4bd2-a62a-0b710e23f2d0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

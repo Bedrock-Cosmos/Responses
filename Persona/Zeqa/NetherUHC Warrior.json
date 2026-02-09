@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "655ce79d-37e6-499f-98b3-35b7ab10915c",
+      "Contents": [
+        {
+          "Id": "a478313c-ad0b-4730-a082-a4e93c35c2cb",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/NetherUHC Warrior.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b11bc002-e69a-431d-9efc-dfb10f39912c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c0d4ae6a-fc9e-4269-aa0c-95df1c43d1e3",
+      "Contents": [
+        {
+          "Id": "4ed10c31-5854-4ba8-8f72-c6b22a6b2169",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Mushroom1.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2b167ec8-bbc6-49aa-8a9d-6f260c6024a3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

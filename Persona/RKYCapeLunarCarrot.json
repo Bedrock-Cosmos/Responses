@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cd1e49e6-238e-400a-953b-ded24eb78c76",
+      "Contents": [
+        {
+          "Id": "6785f108-97ac-4d54-91a8-5a4d209618af",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/RKYCapeLunarCarrot.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "de427693-1a35-4ac2-9faa-8ab814620062",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

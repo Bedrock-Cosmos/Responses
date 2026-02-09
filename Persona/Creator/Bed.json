@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "fdd32545-6d91-4e9e-a833-a4dd8acaebaf",
+      "Contents": [
+        {
+          "Id": "27ba7196-6508-45b8-ab74-cefa4f664cd1",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Bed.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "FlameStreem",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3bb09170-e21e-4337-bb6b-f5dfd535fac5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

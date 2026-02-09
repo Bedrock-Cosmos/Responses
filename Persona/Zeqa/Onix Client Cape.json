@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7c938f1d-5188-4594-b3ef-7976c698765e",
+      "Contents": [
+        {
+          "Id": "49e89ad7-bce1-48e9-9f34-b98b884f1647",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Onix Client Cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "727d0f0f-76bc-4263-a5d9-ea060f47ca8b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

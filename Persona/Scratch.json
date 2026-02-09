@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0d17f2f0-d31f-46ca-b87f-7a41c896cea4",
+      "Contents": [
+        {
+          "Id": "9b2e3390-b5b6-44e7-87d3-02d9ef20a2e6",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Scratch.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c4300284-6993-45fa-b697-a8140706a346",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

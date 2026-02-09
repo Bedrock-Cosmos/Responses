@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "609e4109-edc9-4e0a-b26c-7e37dca1648c",
+      "Contents": [
+        {
+          "Id": "5fd93a39-7144-4952-b133-af9f8e40203a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Iceologer.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "013e02b3-3a73-43ce-aa0b-66b742f701c7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

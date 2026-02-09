@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "affe9cc1-2eba-4a9b-9da9-9eb71d55c4f7",
+      "Contents": [
+        {
+          "Id": "4de7092c-ce65-4d71-9aa4-7db2015bf686",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Fantastic Blue.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6999a0c7-d75f-4cd1-9857-02133122885f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

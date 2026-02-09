@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6781e38a-7719-4815-91fc-d7f0ddcb8cb7",
+      "Contents": [
+        {
+          "Id": "3a9b7ada-1b4b-4407-a08d-8203c3002e28",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Pride - Agender.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e707da88-7244-4efa-83ec-fc65db7021bd",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f3ab560a-31d0-43c1-892a-6713e6295855",
+      "Contents": [
+        {
+          "Id": "3d44d350-4056-4ce3-a5a1-1e5a40fc363a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LunarOrange.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "763f4017-4367-4131-8094-379754b2a03e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

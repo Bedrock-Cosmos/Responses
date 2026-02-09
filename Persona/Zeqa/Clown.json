@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "52a60e8d-859b-4ec0-b7ce-7746e39c24f3",
+      "Contents": [
+        {
+          "Id": "34975412-d219-4955-93a3-0bdf3f297ed0",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Clown.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "21a80f6a-c5b5-4dd7-b299-7a53fd012704",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

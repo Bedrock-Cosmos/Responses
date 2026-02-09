@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0b7d90ba-6ac7-4c54-8ec0-18799546c6a9",
+      "Contents": [
+        {
+          "Id": "d445a288-e1c2-40ff-a71b-1481ce045fb2",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Easter 2022 - Egg.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "79a92ad1-6387-4678-847c-7731e675da94",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

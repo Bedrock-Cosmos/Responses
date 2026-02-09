@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "861cd6c3-6d7d-4f77-8260-9747e60150cf",
+      "Contents": [
+        {
+          "Id": "8a60065c-e1e7-4130-bcbc-7d4937402903",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Galaxy1.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c3d35c9f-b6f1-4fb1-bf1c-4310395d42ce",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

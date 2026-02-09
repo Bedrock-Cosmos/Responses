@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8b6487e9-d066-4f68-a58d-95fc35b1a854",
+      "Contents": [
+        {
+          "Id": "ef714e02-c6da-47f8-a553-3c149e5b7839",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Roblox.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "138b0b6d-319d-4a43-a83f-aa04c0ba9ed2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a322df63-2ab5-4756-90bf-8b30c55caae5",
+      "Contents": [
+        {
+          "Id": "79041c75-bda5-41c1-9d29-6934dfe39247",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Alchemist.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9e0ed344-73c9-45f1-91f4-de647ae505e8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

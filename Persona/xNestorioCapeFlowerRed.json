@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8c603caf-6397-42b8-9d08-f61272caecef",
+      "Contents": [
+        {
+          "Id": "579d84b0-a465-48cb-a28c-34e3dc127134",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/xNestorioCapeFlowerRed.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "bf337369-9370-44f0-a0c7-9405b56f3846",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

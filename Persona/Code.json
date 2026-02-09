@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6a066961-789f-47a2-908c-cc2123c7abc8",
+      "Contents": [
+        {
+          "Id": "9f0671cf-12ac-4c7f-aead-81a7eae9fd7d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Code.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e5c96c2b-9322-4c98-87c1-0abc6ce45d47",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

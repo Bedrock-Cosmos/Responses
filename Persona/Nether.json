@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9f5c70f7-91d5-4df1-9b7c-e9b01293e93e",
+      "Contents": [
+        {
+          "Id": "f64334f0-930b-4f01-b07f-d5e79516453d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Nether.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "01a77f43-3239-4014-be91-cb1e3d23a678",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

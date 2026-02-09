@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3c195876-1467-413e-9041-394cd329a90b",
+      "Contents": [
+        {
+          "Id": "7b6c3e2c-7fa0-43a1-b11e-e4ac810a5d1a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Chocolate.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "adfb87fc-1d3f-442d-b25d-6145e5a2e0f2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

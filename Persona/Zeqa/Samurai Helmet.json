@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2b84d29d-d46a-4883-adb9-9bdc83225e95",
+      "Contents": [
+        {
+          "Id": "a9d855f6-d05c-41a3-bae2-1eace80bb851",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Samurai Helmet.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "80f2cb9f-b4dd-4d03-9b2f-c1f7a5d50344",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

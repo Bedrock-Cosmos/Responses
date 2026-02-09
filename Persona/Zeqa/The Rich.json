@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "301c7666-570b-4b00-8f33-f66b58ad69a7",
+      "Contents": [
+        {
+          "Id": "83ad979f-8d37-40cd-9e92-44e9d291585b",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/The Rich.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6b8e5bee-47ef-4dbc-99cf-73706e90e3bb",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

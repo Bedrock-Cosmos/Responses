@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "31f30ef4-a9d0-4d41-b940-5f390fbaed64",
+      "Contents": [
+        {
+          "Id": "e40f2402-a300-4638-917e-119691361093",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/RKYCapeBadlion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7328d000-2ce7-45de-b524-6072ebfc4bc9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

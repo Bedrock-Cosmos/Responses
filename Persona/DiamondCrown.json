@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ad6cc58d-b3b2-4be2-9d98-95896668bd84",
+      "Contents": [
+        {
+          "Id": "507c29c3-4414-4b8e-b24a-6a7001edd057",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/DiamondCrown.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1705ab3a-56f4-4429-a8b1-28e16e9ef1cc",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

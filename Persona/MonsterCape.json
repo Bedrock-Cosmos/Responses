@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7119976c-239c-488d-9f45-9acb2964b991",
+      "Contents": [
+        {
+          "Id": "775fbd1c-1938-4a4a-b1bc-3870ec605b13",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/MonsterCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "4e4a1f85-16ad-47a2-b389-45bb25a0ec7b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

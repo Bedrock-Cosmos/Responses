@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a8f85b30-43bd-4c4d-a85b-665bb2ca39e3",
+      "Contents": [
+        {
+          "Id": "4995d3dc-3e56-4bb1-9aa5-7606892fc7e5",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/White Wolf.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0171da2e-7944-4876-9ccc-383ae2357ac4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

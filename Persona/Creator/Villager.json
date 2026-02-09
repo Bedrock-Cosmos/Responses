@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7e23ed7b-5c7b-403a-a735-bcc6471b92c7",
+      "Contents": [
+        {
+          "Id": "8c63e211-ce23-4c6b-b959-fa6d1bcfe33f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Villager.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "FlameStreem",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2dd245bd-719b-4ae2-b8f7-85f69fc8b387",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

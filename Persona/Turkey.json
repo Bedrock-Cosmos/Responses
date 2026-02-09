@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3b9c4f12-9e3c-4350-a0ed-403b417f2f56",
+      "Contents": [
+        {
+          "Id": "056be976-6f38-42d7-b859-15fbc866b262",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Turkey.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6ee2c039-d745-4357-8ace-1829d0f9de8f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "09611486-1f33-4c63-87e3-3e091ef09dcf",
+      "Contents": [
+        {
+          "Id": "a966421e-b8a6-436d-b4f6-ccda55503fbf",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Talking Tom.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d30c5017-62e8-4a08-8e01-d505327dcce1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bb2f2a30-09f6-4531-83e3-d142f5c95a34",
+      "Contents": [
+        {
+          "Id": "8e1da356-baf9-4e47-8dee-4a914660f330",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Friesy.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "11f4b762-302a-4f9c-8ef5-9bc96dcd622e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

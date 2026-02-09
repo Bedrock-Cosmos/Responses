@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2f577b2b-4ba6-442b-b1d4-c934f269ec0e",
+      "Contents": [
+        {
+          "Id": "d342d00f-657a-488d-a0a2-53b81f8ef8e1",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/CrescentMoon.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9ea18b3a-cd0a-415f-8315-c489b6f49044",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

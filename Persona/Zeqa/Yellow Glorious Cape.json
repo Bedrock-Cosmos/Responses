@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c609b671-aed1-44a4-98de-36babc4c4430",
+      "Contents": [
+        {
+          "Id": "14dc45f9-d84a-431a-926c-3c275ba4c416",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Yellow Glorious Cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1e85eb7b-9a2e-4a0f-92d8-50f65f4e58f2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d8ee8db6-8a7f-4889-aa32-083d011cff64",
+      "Contents": [
+        {
+          "Id": "43fc6c0a-23bc-4707-9da0-da27bd68a4fc",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Purple Assasin.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6e47a556-2f10-4d6e-b4cc-1ae5e29f3aed",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

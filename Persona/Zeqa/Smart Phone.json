@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c8dd1a17-e72c-4dd4-ac3e-3ec455d779b2",
+      "Contents": [
+        {
+          "Id": "174983b0-33eb-44b2-b623-e81f5674908e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Smart Phone.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e9bec9f9-92d1-4ebd-ac6b-ebc922d38c15",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

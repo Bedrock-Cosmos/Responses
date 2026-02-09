@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8c888050-3c40-4329-855e-4fbeb4cef4ce",
+      "Contents": [
+        {
+          "Id": "357e8607-237b-4661-96a9-b732fe30faaf",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Mineclub.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ba96e4a4-0fd0-422b-a203-90ceb15a6f99",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

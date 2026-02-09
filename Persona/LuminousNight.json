@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8c66298e-b23c-4efc-8030-00a435f1fd77",
+      "Contents": [
+        {
+          "Id": "aa420e0d-436c-4d4e-8d8f-24248b49dab8",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LuminousNight.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "bc37f798-d43d-4435-95de-d9b2efe3e52a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

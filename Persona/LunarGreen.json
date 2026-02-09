@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ab955f7f-dc96-4810-aa29-a1635fd419e9",
+      "Contents": [
+        {
+          "Id": "550125f7-5592-4964-98bd-7038cfab162d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LunarGreen.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "38d3fd8d-cc1e-44d3-a034-13d9fae3ebd8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

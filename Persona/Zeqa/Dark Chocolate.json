@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c9707a48-ff68-43f8-8c2b-ca49072b657e",
+      "Contents": [
+        {
+          "Id": "5a9b00f7-32f8-40c0-841f-b7ee7b661ad8",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Dark Chocolate.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3f838357-c8f8-4010-97a7-c5d8eec478bc",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

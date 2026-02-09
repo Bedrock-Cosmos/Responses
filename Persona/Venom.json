@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d0612e53-4bfa-4bce-ae9e-66d3bf22fdd8",
+      "Contents": [
+        {
+          "Id": "84096e3b-4c4f-4d94-ac42-38efddea9058",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Venom.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2c8ec0b1-0e05-4f18-806d-67010527f49d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

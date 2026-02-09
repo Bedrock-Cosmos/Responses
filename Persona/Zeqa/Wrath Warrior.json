@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c4071ad1-fe8c-41fc-8ec1-8e87a877a478",
+      "Contents": [
+        {
+          "Id": "a5d139af-045f-4e5c-bcd4-b5efa73eb283",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Wrath Warrior.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "920b0a9c-4b1a-40ae-8abe-1fff5ef663f3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

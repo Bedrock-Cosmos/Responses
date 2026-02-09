@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4c250a60-c5e7-4d56-82fc-b38d5b850eaf",
+      "Contents": [
+        {
+          "Id": "c3edc200-be2d-4215-8600-f7da657069fd",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LightningBlue.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8270cf86-8b93-4421-aad4-2ec23c48ae12",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

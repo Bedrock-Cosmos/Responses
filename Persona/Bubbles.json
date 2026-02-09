@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "af7d8405-9104-4ab9-a867-387ccb164b03",
+      "Contents": [
+        {
+          "Id": "65b1d2a3-1b63-4c92-9360-74687f4dc47d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Bubbles.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "cd9ab018-bfc3-4a56-94d1-c60af9b14e21",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1503d84b-af26-4b9a-981d-a3a3dc1c8832",
+      "Contents": [
+        {
+          "Id": "91468938-5b59-4589-9752-8a6e5eba52cc",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Minecon2015Old.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ebdc8b6f-6951-4663-8678-dd0db285ec07",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

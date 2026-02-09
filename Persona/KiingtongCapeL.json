@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "90646571-d6c0-4062-82b2-c94009ffa1c2",
+      "Contents": [
+        {
+          "Id": "c3aac2ad-5c0f-4246-9acc-0e221566bbf8",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/KiingtongCapeL.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2f157394-f6f3-4490-867e-28c455dfdb17",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4865387b-f188-4345-8631-8e5f74b96d07",
+      "Contents": [
+        {
+          "Id": "81743faf-3ec8-4b8c-bcd8-28a5dff84aae",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SuchSpeedCapeFlame.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2afd2c63-2127-403b-b862-3d5c38a98970",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

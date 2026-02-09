@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "070fd764-a126-4448-bb0c-75adc4851afc",
+      "Contents": [
+        {
+          "Id": "b71f667e-76dd-40d4-a9dc-aabe4aab60e2",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Christmas 2021 - Reindeer.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "442b0d64-1a5c-428f-a93f-24f7ab4d559d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

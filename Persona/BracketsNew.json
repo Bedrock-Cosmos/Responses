@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e9cdbded-54b5-46a9-ad4e-caf9a929506f",
+      "Contents": [
+        {
+          "Id": "dcd49223-bcc7-4111-9222-f79221f080dc",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BracketsNew.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "4e8aae05-2bd9-48ee-801d-12e175e8675d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "da1d4355-2ad1-4a30-a6e4-1925ce5798b8",
+      "Contents": [
+        {
+          "Id": "b7dc82d6-e1cf-4c29-92c2-85cf676aa46e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/VamprisCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "37130b82-df4b-4132-b7f4-948419fb7223",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

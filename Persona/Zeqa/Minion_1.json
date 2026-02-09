@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bab8626f-4869-43c7-b7cf-3ade60b897d1",
+      "Contents": [
+        {
+          "Id": "cfa1c91e-f96c-48cd-9ef7-c12c6d8dd17c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Minion_1.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "26655df1-b54b-44e2-a25a-f8ea7826b1c4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "843d9a34-7074-4a36-8144-de5b2abb6331",
+      "Contents": [
+        {
+          "Id": "67e25be5-ee0e-4ddf-9322-1109305ced0e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/AstelicCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "54a49e94-da5f-46f9-b33f-5d80d14324d1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d93451cd-d05f-4434-bc32-da5d64790a4a",
+      "Contents": [
+        {
+          "Id": "0b4b8271-4687-4220-8391-79bd30363598",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Steampunk.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f18a730c-5518-4b84-b362-2d4d63bd2d1d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

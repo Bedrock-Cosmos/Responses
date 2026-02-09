@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2ae53a91-665a-4895-b4a7-26977856cfa3",
+      "Contents": [
+        {
+          "Id": "14fe73ef-106b-4601-a07b-dd7be2a16329",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Classic Champion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "efcb0e38-4747-4520-8ae3-7cf42c221cc7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "93482a16-cbd5-402a-8288-baf1ff6c917c",
+      "Contents": [
+        {
+          "Id": "193a92f2-08c5-4ab6-b7f4-2ea8e900e70e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/NorwayFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "dacf3656-6974-42ed-bb83-664e42fc4d14",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

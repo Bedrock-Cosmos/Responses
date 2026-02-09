@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ce4302a3-8da4-4ee3-af3c-87b3cdc6fd4f",
+      "Contents": [
+        {
+          "Id": "09156e2f-234c-49ce-ba0a-ea207028d7fa",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Pirate Flag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6405f2a2-6a6c-4074-ab48-095d8d54ee6e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

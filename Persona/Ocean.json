@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3b282746-6003-4923-a7c1-6813cc8c1861",
+      "Contents": [
+        {
+          "Id": "e1f62673-ab1d-4500-b30b-fe680c419d1d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Ocean.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3f0cf92b-63ac-4216-a021-e9e2c0318f6d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

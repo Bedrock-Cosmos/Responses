@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e122ee6c-1d83-414c-8d2f-0cf68dc8e2fc",
+      "Contents": [
+        {
+          "Id": "f006d325-0259-4c28-bf16-71a1cd50e1e5",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/FinalUHC Champion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8fa18f88-1f60-4f7d-820c-1aadb7a1b211",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

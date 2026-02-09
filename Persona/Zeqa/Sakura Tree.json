@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "910192cc-e125-4573-abf9-7339d59c0a78",
+      "Contents": [
+        {
+          "Id": "4d171099-faa3-476b-94c4-8b3f493ef97b",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Sakura Tree.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "36cfb54c-f753-4485-ab71-7638ed0af33b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

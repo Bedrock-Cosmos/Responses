@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9d3ee415-fc75-4ad6-af7e-6e0b6eea8780",
+      "Contents": [
+        {
+          "Id": "762becfa-af05-46d5-a8a5-b36e105c2594",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Christmas 2021 - Pine.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "334229c7-6716-4229-88ec-87486c35c861",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

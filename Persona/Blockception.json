@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e4efb4c4-3d9e-4be9-a942-ade15dbca9ff",
+      "Contents": [
+        {
+          "Id": "099f4e1c-2b86-4542-bdae-b06e60f8033e",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Blockception.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c2924697-98a0-4b40-8b2a-504961a3b728",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

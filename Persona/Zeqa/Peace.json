@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e30120bb-eb16-4bbc-a507-bbc0ff00837d",
+      "Contents": [
+        {
+          "Id": "98cb5602-2073-44c0-ba26-e91eff6ff318",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Peace.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "eff1bb09-285f-46f3-92f5-69a9c583f755",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ad16b222-7325-4006-abd1-9aae9016d0ff",
+      "Contents": [
+        {
+          "Id": "e9f0470b-a049-472f-b2db-7d2e01e70901",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Spleef Champion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3429d442-4c8e-4a18-845f-4facd4c78c13",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "db9a3d4f-f8e7-4820-9652-1c5f16751a2f",
+      "Contents": [
+        {
+          "Id": "cef8dead-af93-449f-903c-30d8736ff836",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Heart King.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "30a291a2-97f9-410f-b7b4-3007ea0e641b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

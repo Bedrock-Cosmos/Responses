@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f2891335-98b9-4ba7-b2d8-d2315b41c098",
+      "Contents": [
+        {
+          "Id": "1f9ff84a-121c-4db1-bb42-051b7f235943",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Day Dream.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d10f12de-75ca-45bb-ba1d-fed72ba4fb10",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

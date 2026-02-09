@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c45eb97d-fb12-45ec-b61b-29d59ea13dca",
+      "Contents": [
+        {
+          "Id": "ad0f9781-e973-48c5-bd07-664be3c8efe6",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Gapple Champion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ec465500-b3b9-45f5-b07d-ac9eff0737af",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

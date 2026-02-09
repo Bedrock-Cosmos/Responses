@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bb98d218-6ece-4d6e-bfa0-235ca6f8752c",
+      "Contents": [
+        {
+          "Id": "6c081dd0-52eb-4d4c-9c3a-1e0f4b5a486b",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Argentina.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "508f5645-07f6-499c-a679-a0d53883bd8b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

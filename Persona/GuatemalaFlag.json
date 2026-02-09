@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bdec62bb-65de-4039-aeca-ee49c19082b0",
+      "Contents": [
+        {
+          "Id": "2b531322-5dd5-4258-b625-13f5a03e928f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/GuatemalaFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7b5dbb06-ac0a-40f1-a2b2-2a97a9e9c231",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

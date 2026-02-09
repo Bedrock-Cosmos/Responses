@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c8a0bacf-8600-4c6b-a0b8-5efd0153c156",
+      "Contents": [
+        {
+          "Id": "08d04feb-f6fc-439a-b21d-b59ec4cf1038",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Eye_Blossom.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "FlameStreem",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "03c5a1a2-b01a-4a00-b2ac-4bd0a2034c0d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

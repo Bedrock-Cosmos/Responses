@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4f6bb9ea-e0e1-4438-945c-e475948bb30f",
+      "Contents": [
+        {
+          "Id": "dfd11f1f-cb3b-48ca-86bc-d868760d6e7f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Blue Glorious Cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "bd40fe91-65b1-4ca3-9935-5c180912112a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

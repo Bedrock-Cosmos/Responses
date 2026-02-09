@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2d347311-68ff-4b2a-b640-b554f7555eb4",
+      "Contents": [
+        {
+          "Id": "adf705d2-9354-49c8-abd7-0045e2cd4cbc",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Ice.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "566cebe9-8238-4332-b014-76110292c4b2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

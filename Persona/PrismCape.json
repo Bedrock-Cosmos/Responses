@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "524c700c-a99c-478a-914c-c717a9e9bbb7",
+      "Contents": [
+        {
+          "Id": "306b557c-8202-4db3-85a9-5c242c26d07c",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/PrismCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "72108fc8-106c-400a-88f6-90013a3714dd",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

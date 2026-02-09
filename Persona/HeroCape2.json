@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "37f9dbfa-41b7-4e44-9899-87773627221e",
+      "Contents": [
+        {
+          "Id": "62fa937e-70c7-48d9-b492-668b8db4f4d0",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/HeroCape2.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6b5c7d85-3386-4458-b96d-bcaa75d36b65",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

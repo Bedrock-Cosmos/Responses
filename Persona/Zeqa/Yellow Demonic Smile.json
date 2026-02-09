@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "48ab364d-21ea-4006-925a-83e6eed5abca",
+      "Contents": [
+        {
+          "Id": "885b4f09-5adc-4d92-a5eb-867bc81b7061",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Yellow Demonic Smile.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "caa65e94-1f47-43f3-a61b-4e46a4604d8f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

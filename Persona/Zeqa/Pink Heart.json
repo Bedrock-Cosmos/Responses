@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "80316eba-fdf1-45cf-8eae-ed239db124a8",
+      "Contents": [
+        {
+          "Id": "b4595a50-f11b-46ba-b736-3ed9dc57b503",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Pink Heart.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0727b35d-2fa3-4db5-988a-d625e82f1fe4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

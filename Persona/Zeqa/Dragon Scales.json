@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "00007a02-c93d-4ad5-94e8-f9968049ab00",
+      "Contents": [
+        {
+          "Id": "1ad85ca1-e6ba-4a40-8b30-3c8e914148a8",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Dragon Scales.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f540e96f-09d0-4939-b6a4-89ccc5782c26",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

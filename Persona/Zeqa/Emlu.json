@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f0467992-18d3-4df0-a417-f9154068e69a",
+      "Contents": [
+        {
+          "Id": "ecd81c27-393e-4512-ad6a-c00fca091bef",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Emlu.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ac31c7b0-d4a8-4b0e-9c26-7c3d75b0ee06",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

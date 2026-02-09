@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "46462388-4c99-48ac-87d2-6baf672b13e7",
+      "Contents": [
+        {
+          "Id": "df1b1a17-85b2-45bb-bd2e-ddb872c3213a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/MelonCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6a3be608-d6b4-4bc8-8b88-a92b119100b6",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

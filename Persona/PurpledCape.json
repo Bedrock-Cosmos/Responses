@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bb173671-0b13-44b4-9de0-7efe08e1a328",
+      "Contents": [
+        {
+          "Id": "275890d3-7fdf-47c5-b867-91e6abd72e5d",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/PurpledCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5c2cebf4-f0a1-4eb7-8327-dfb3989b590a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

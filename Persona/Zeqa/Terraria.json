@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "db4cd223-5a7d-45a6-82b5-1fa6c0a4c7b5",
+      "Contents": [
+        {
+          "Id": "27f6134c-fcf9-49dd-8851-ecb5d498c590",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Terraria.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8f9ea451-005a-422f-9ec9-89d781bbb275",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

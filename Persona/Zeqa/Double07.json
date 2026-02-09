@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a50211ee-e661-485f-97b1-c54408bb8800",
+      "Contents": [
+        {
+          "Id": "33925169-6f01-4a9e-81be-4241fdff5649",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Double07.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "04fe4e8b-8768-4aed-a8c2-72584a2813c2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

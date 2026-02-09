@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e9adcf61-4370-4f5b-a1af-d6da8ef02f0c",
+      "Contents": [
+        {
+          "Id": "fd69a120-9726-4477-8d1f-f79ea9b44f68",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Skyblock.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b9b4d180-a84f-4118-a231-963fc3a93e63",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

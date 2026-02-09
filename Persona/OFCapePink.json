@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "43669247-9d3c-4b19-8286-bca606090fc0",
+      "Contents": [
+        {
+          "Id": "e3a758d4-e506-40d3-8f1d-2a65f83ce54f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OFCapePink.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "4f422617-4ecf-4e24-b3f5-41216a355a99",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

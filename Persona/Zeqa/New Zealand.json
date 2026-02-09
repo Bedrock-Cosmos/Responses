@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e311bf2c-769e-460e-93d6-58f301c1e143",
+      "Contents": [
+        {
+          "Id": "35d6b753-4b6a-40c9-8533-5107d11c2bb3",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/New Zealand.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "944f71f1-0b03-496f-865f-c0311e5b4816",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

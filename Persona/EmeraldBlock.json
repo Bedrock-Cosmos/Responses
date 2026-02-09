@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "17a6ca90-2a9c-40a9-87c1-3663c8c7b706",
+      "Contents": [
+        {
+          "Id": "aaf3ccb8-d45b-4a31-b116-fc995041499a",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/EmeraldBlock.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b568abc0-bafa-4597-a864-84eecfc8e673",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

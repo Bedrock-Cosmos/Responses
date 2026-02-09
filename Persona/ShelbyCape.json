@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "dee6f824-8634-412e-b45f-64ce5d86bb15",
+      "Contents": [
+        {
+          "Id": "fc82effd-335e-4e82-a141-2b9e3403170b",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/ShelbyCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e39d4613-6193-479a-b586-e3ee65202cd3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

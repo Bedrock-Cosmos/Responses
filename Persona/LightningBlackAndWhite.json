@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3e3db4b1-26c7-417a-962c-88606fe60b06",
+      "Contents": [
+        {
+          "Id": "26a680ed-a084-44e9-9406-6e7991fae090",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LightningBlackAndWhite.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ff552429-a795-4d7b-9097-2c929468bb8f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

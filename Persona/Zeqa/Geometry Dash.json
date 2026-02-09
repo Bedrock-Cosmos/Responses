@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8084cef0-861a-4726-8d48-7dfc13c64faf",
+      "Contents": [
+        {
+          "Id": "7d13a08a-567d-4e73-8cea-7b998a89f142",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Geometry Dash.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "641c4a01-3ed3-4ae4-aff0-04d58406af1b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

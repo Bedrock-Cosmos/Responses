@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4515da6e-f82b-404e-adcb-ef0d7e3258a4",
+      "Contents": [
+        {
+          "Id": "b899772f-9e09-4731-a238-8f63470e0a81",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Dungeons1stBirthday.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "81dcbaa7-c410-4910-abca-629289664d4f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

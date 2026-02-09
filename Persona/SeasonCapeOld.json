@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6fa6e9b3-a9b0-42bc-9637-0882173f6ca8",
+      "Contents": [
+        {
+          "Id": "e3a3cbb7-ab59-4a7b-8756-614bc65f9147",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SeasonCapeOld.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3d5d1b13-e952-41ef-a220-ae509038707e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

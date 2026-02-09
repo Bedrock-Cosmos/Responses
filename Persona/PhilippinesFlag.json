@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2dc45975-11ed-408c-b852-2de986e7e5ee",
+      "Contents": [
+        {
+          "Id": "4375e5db-dbb1-4274-bf6c-3d8996eee2b3",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/PhilippinesFlag.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "475bd32b-1ca1-47bb-853f-e32d1e1baac9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

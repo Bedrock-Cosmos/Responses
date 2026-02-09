@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "380d92c1-8121-443f-8fb0-06eecc6e79ee",
+      "Contents": [
+        {
+          "Id": "6628694d-4cae-48b2-afe2-06872961c4df",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/GraserCapeGradientBorder.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6a3fb733-0c90-4c15-944e-ea3225774a96",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

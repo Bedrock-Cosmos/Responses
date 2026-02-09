@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7cf4259b-9e3a-447e-8179-0d79c144764e",
+      "Contents": [
+        {
+          "Id": "99d564af-ab3a-4803-8a92-4c05a4868667",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SantaSuit.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "172d0369-e17e-42f8-b1ea-ab4e09f3d46b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

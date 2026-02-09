@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a9860c66-02eb-4eda-bc56-7d4d9c2b1874",
+      "Contents": [
+        {
+          "Id": "ce6290d1-b07b-48b2-8b25-0ca201178a69",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/HanafudaCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c6362862-ae7d-4afc-8fa2-efb67e8f7dfe",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

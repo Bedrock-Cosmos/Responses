@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2ab3f9f5-b019-489c-8cd9-2857eade13d0",
+      "Contents": [
+        {
+          "Id": "4f6cf68b-c68a-4ab6-9016-1f537d03dba7",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeqa/Canada.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Zeqa",
+        "originalCreatorId": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "03495de5-2557-472c-a79d-67a2afb448d1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

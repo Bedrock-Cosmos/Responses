@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b950f4b1-1dff-4037-bbbe-0e872cb5fae8",
+      "Contents": [
+        {
+          "Id": "68270107-00b0-4669-b71d-6ff6a97793e5",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/PiyoFeatherCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Custom Cosmetics",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2441df72-b54f-487d-8e5b-ee1edcaf4645",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

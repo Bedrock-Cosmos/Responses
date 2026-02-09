@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b904d01b-68ac-4618-a199-01b41ceb5c72",
+      "Contents": [
+        {
+          "Id": "dd825b91-7112-4f79-81a0-62148c06c25f",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Chicken_Jockey.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "FlameStreem",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8455143f-e09a-41c9-936a-448673d1cdcb",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
