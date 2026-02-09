@@ -52,16 +52,16 @@
     "response": "Persona\\dannyBstyle.json"
   },
   {
-    "uuid": "94e81811-ed4e-4d97-a2f0-a9e5d2f1b320",
-    "response": "Persona\\JavaMigration.json"
-  },
-  {
     "uuid": "279f387d-4054-4859-856f-533c4839d508",
     "response": "Persona\\FrogCape.json"
   },
   {
     "uuid": "44f33ecc-dee9-4120-837a-34aca6b993b2",
     "response": "Persona\\ICU_cape.json"
+  },
+  {
+    "uuid": "94e81811-ed4e-4d97-a2f0-a9e5d2f1b320",
+    "response": "Persona\\JavaMigration.json"
   },
   {
     "uuid": "535c755b-2346-4b47-9b5d-e8d33c1bce3a",
