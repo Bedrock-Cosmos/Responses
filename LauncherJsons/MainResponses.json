@@ -25,7 +25,7 @@
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_LegacyVault",
-    "response": "MainPages\\MinecraftHidden.json"
+    "response": "MainPages\\LegacyVault.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_MinecraftRestored",
@@ -33,7 +33,7 @@
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_CreatorHub",
-    "response": "MainPages\\CreatorHub.json"
+    "response": "MainPages\\Cosmos_Creator_Hub.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
@@ -139,4 +139,5 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_Exports_Marketplace",
     "response": "MainPages\\CosmosMarketplaceCreators\\Exports_Marketplace.json"
   }
+
 ]
