@@ -600,6 +600,10 @@
     "response": "Persona\\SkinPackCapes\\RonanTheAccuserCape.json"
   },
   {
+    "uuid": "3ac993e0-666d-41dc-a4c5-73a61aeaf4a7",
+    "response": "Persona\\SkinPackCapes\\TheCollectorCape.json"
+  },
+  {
     "uuid": "83fd88f7-2661-48eb-b0dd-19ca46d7fd27",
     "response": "Persona\\SkinPackCapes\\WraithCape.json"
   },
@@ -724,4 +728,5 @@
     "response": "SkinPacks\\Responses\\SkinPack6Binary.json"
   }
 ]
+
 
