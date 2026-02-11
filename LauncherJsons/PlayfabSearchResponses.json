@@ -1,7 +1,7 @@
 [
   {
     "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
-    "response": "SkinPacks\\Responses\\2ndBirthdaySkinPack2015.json"
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\2ndBirthdaySkinPack2015.json"
   },
   {
     "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
@@ -59,4 +59,5 @@
     "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
     "response": "SkinPacks\\Responses\\TheSimpsonsSkinPack.json"
   }
+
 ]
