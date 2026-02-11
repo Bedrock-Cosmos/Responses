@@ -5364,7 +5364,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linksTo": "ItemDetail_NEEDSUUID-HalloweenCharity",
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
@@ -5404,7 +5404,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "ItemDetail_NEEDSUUID-HalloweenCharity",
+                    "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
