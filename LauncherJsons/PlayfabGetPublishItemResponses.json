@@ -344,6 +344,26 @@
     "response": "Persona\\CreatorCapes\\BionicBen\\BionicBen1218.json"
   },
   {
+    "uuid": "fa44ffcf-6c60-45f4-b959-296faa9895d4",
+    "response": "Persona\\CreatorCapes\\BionicBen\\BadPing.json"
+  },
+  {
+    "uuid": "ee80ee8c-1be3-4d24-acfe-7fd7a192ea89",
+    "response": "Persona\\CreatorCapes\\BionicBen\\BreadCape.json"
+  },
+  {
+    "uuid": "9616be9d-eca6-4d5d-aae7-fce58530a9f5",
+    "response": "Persona\\CreatorCapes\\BionicBen\\GoodPing.json"
+  },
+  {
+    "uuid": "77fc588f-be6f-4def-8ab6-26ac46901897",
+    "response": "Persona\\CreatorCapes\\BionicBen\\MediumPing.json"
+  },
+  {
+    "uuid": "1472a239-f11c-4462-a302-59bc9df01a8b",
+    "response": "Persona\\CreatorCapes\\BionicBen\\Scythe.json"
+  },
+  {
     "uuid": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
     "response": "SkinPacks\\Responses\\FestiveBinary.json"
   },
@@ -365,3 +385,4 @@
   }
 
 ]
+
