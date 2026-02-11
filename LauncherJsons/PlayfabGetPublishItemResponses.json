@@ -364,8 +364,348 @@
     "response": "Persona\\CreatorCapes\\BionicBen\\Scythe.json"
   },
   {
-    "uuid": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
-    "response": "SkinPacks\\Responses\\FestiveBinary.json"
+    "uuid": "09f9b23e-8d9c-4ff5-8c11-9c5d3f405df0",
+    "response": "Persona\\SkinPackCapes\\DragonWings.json"
+  },
+  {
+    "uuid": "630b51f3-19ea-46cd-9b8b-6c9e69457ccc",
+    "response": "Persona\\SkinPackCapes\\RedRobedFigureCape.json"
+  },
+  {
+    "uuid": "df15593e-30c2-470f-8559-afc6aebd3dd0",
+    "response": "Persona\\SkinPackCapes\\WhiteRobedFigureCape.json"
+  },
+  {
+    "uuid": "b4a07965-1cb3-48b3-930a-2f03579fef4a",
+    "response": "Persona\\SkinPackCapes\\JensHair.json"
+  },
+  {
+    "uuid": "e02b1b6b-4474-4ce5-966b-a90569adb87b",
+    "response": "Persona\\SkinPackCapes\\HuntressWizardCape.json"
+  },
+  {
+    "uuid": "b98cf866-ef6b-457a-a5f2-9c5fc2ae68f6",
+    "response": "Persona\\SkinPackCapes\\TornCape.json"
+  },
+  {
+    "uuid": "d848cddd-bd33-4eb2-8efb-bff3246fe0eb",
+    "response": "Persona\\SkinPackCapes\\MaleSpartanCape.json"
+  },
+  {
+    "uuid": "4af67132-64f7-486e-827f-a9afe35a3996",
+    "response": "Persona\\SkinPackCapes\\FemaleSpartanCape.json"
+  },
+  {
+    "uuid": "d30cca64-fa61-4a36-9b00-c5f30690ffec",
+    "response": "Persona\\SkinPackCapes\\ArabianManScarf.json"
+  },
+  {
+    "uuid": "8a7bb9e3-eb68-4566-99ef-f5aba1ebcc99",
+    "response": "Persona\\SkinPackCapes\\MaoriManCape.json"
+  },
+  {
+    "uuid": "9d84a147-ed96-4cbc-b0cc-ee769c57748c",
+    "response": "Persona\\SkinPackCapes\\IceLordCape.json"
+  },
+  {
+    "uuid": "1327c3a1-2457-4583-b9c9-f2f296542710",
+    "response": "Persona\\SkinPackCapes\\Liz10Cape.json"
+  },
+  {
+    "uuid": "c11a4d20-9f52-4e59-9df1-7e233914d882",
+    "response": "Persona\\SkinPackCapes\\SycoraxCape.json"
+  },
+  {
+    "uuid": "aeecb6a5-37a2-4ffd-a654-507faacac4db",
+    "response": "Persona\\SkinPackCapes\\ThirdDoctorCape.json"
+  },
+  {
+    "uuid": "5545dbaa-d97f-44a6-8299-53159197b4c3",
+    "response": "Persona\\SkinPackCapes\\ApolloHarp.json"
+  },
+  {
+    "uuid": "b5fd0669-e5da-4f7b-8344-4d2f09ed08fc",
+    "response": "Persona\\SkinPackCapes\\ArtemisBow.json"
+  },
+  {
+    "uuid": "fc4da888-ca7d-468d-8ba8-7224b7bb40dc",
+    "response": "Persona\\SkinPackCapes\\AtlantaHair.json"
+  },
+  {
+    "uuid": "16a1b29c-736e-4f06-b343-adcfa5e1905f",
+    "response": "Persona\\SkinPackCapes\\AthenaShield.json"
+  },
+  {
+    "uuid": "9ba0258f-defe-46e4-90d9-5bc71f851d0f",
+    "response": "Persona\\SkinPackCapes\\CadmusCape.json"
+  },
+  {
+    "uuid": "0ed6237e-b4ee-4812-8aa8-1dda9243cca9",
+    "response": "Persona\\SkinPackCapes\\DryadWings.json"
+  },
+  {
+    "uuid": "eb84b79b-5eb2-495f-9c29-a2a41c782280",
+    "response": "Persona\\SkinPackCapes\\ErinyesWings.json"
+  },
+  {
+    "uuid": "b178525f-a466-43d4-b241-a8611bc7e66e",
+    "response": "Persona\\SkinPackCapes\\HadesCape.json"
+  },
+  {
+    "uuid": "a0ca27b0-3e20-4740-b42b-79354f0b4158",
+    "response": "Persona\\SkinPackCapes\\HephaestusHammer.json"
+  },
+  {
+    "uuid": "a6657526-6dba-494d-b308-5e5cca8ad414",
+    "response": "Persona\\SkinPackCapes\\HeraclesCape.json"
+  },
+  {
+    "uuid": "cd3790a2-2497-41d3-93f2-15cedb4fc4f0",
+    "response": "Persona\\SkinPackCapes\\PerseusCape.json"
+  },
+  {
+    "uuid": "69022d1e-3714-4801-b601-96c688f8c465",
+    "response": "Persona\\SkinPackCapes\\PoseidonTrident.json"
+  },
+  {
+    "uuid": "4bc567ba-76ec-4879-9c0c-981b63e035a6",
+    "response": "Persona\\SkinPackCapes\\PrometheusCape.json"
+  },
+  {
+    "uuid": "e50c0b8f-c9a7-409e-8308-050e01ecf6a3",
+    "response": "Persona\\SkinPackCapes\\SpartoiShield.json"
+  },
+  {
+    "uuid": "af5dff18-9079-4112-aa0f-c4a8d7eee407",
+    "response": "Persona\\SkinPackCapes\\ZeusLightningBolt.json"
+  },
+  {
+    "uuid": "a3532b58-84d4-46f6-bbdc-d69b33f33215",
+    "response": "Persona\\SkinPackCapes\\Agronaut2Wings.json"
+  },
+  {
+    "uuid": "1b87ade8-89c1-4a31-b8c5-ffefec108ef1",
+    "response": "Persona\\SkinPackCapes\\UnusedFlame.json"
+  },
+  {
+    "uuid": "fe62dada-d163-4aa3-96e3-e75533ff4810",
+    "response": "Persona\\SkinPackCapes\\CaptainZombieCape.json"
+  },
+  {
+    "uuid": "d2368d34-eb2a-408c-b10b-44526c8db77c",
+    "response": "Persona\\SkinPackCapes\\HeadlessHorsemanCape.json"
+  },
+  {
+    "uuid": "ce68e327-e923-436c-9082-0002e35dec58",
+    "response": "Persona\\SkinPackCapes\\BrideCape.json"
+  },
+  {
+    "uuid": "7240188f-2a70-47f5-9a90-cf59979068f8",
+    "response": "Persona\\SkinPackCapes\\DevilCape.json"
+  },
+  {
+    "uuid": "e6856cbc-8e90-4dd2-b923-7731a42b20a5",
+    "response": "Persona\\SkinPackCapes\\DraculaCape.json"
+  },
+  {
+    "uuid": "24b6e7e9-3d7b-4b11-9b16-c31ddcc86c6d",
+    "response": "Persona\\SkinPackCapes\\EvilWizardCape.json"
+  },
+  {
+    "uuid": "2cf7058d-7983-4391-b2d4-19e4bbb0a193",
+    "response": "Persona\\SkinPackCapes\\MamanBrigitteCape.json"
+  },
+  {
+    "uuid": "758f609a-08d7-475b-a51b-8e5969a551a1",
+    "response": "Persona\\SkinPackCapes\\GrimReaperCape.json"
+  },
+  {
+    "uuid": "d6a699e7-34cc-420b-90d6-b91b1982a1ec",
+    "response": "Persona\\SkinPackCapes\\WickedWitchCape.json"
+  },
+  {
+    "uuid": "0f06b4ce-1551-47e4-87d9-fe2457e24550",
+    "response": "Persona\\SkinPackCapes\\DroneCape.json"
+  },
+  {
+    "uuid": "378ea401-3dc4-43a6-878f-bd6f7d7745d2",
+    "response": "Persona\\SkinPackCapes\\BrideSackgirlCape.json"
+  },
+  {
+    "uuid": "398dad88-b181-4a5f-b3d4-9cced549eaa5",
+    "response": "Persona\\SkinPackCapes\\DragonSackboyCape.json"
+  },
+  {
+    "uuid": "34213a3e-5747-4d86-a8cd-bb131dbc0bf6",
+    "response": "Persona\\SkinPackCapes\\FairySackgirlWings.json"
+  },
+  {
+    "uuid": "11e6b451-9601-4580-9c59-840def60f762",
+    "response": "Persona\\SkinPackCapes\\TheNewtonCape.json"
+  },
+  {
+    "uuid": "87f6a791-179c-4849-aeab-fb8b370ce203",
+    "response": "Persona\\SkinPackCapes\\PurpleWings.json"
+  },
+  {
+    "uuid": "be747c5d-d1d4-41cc-a0ee-1fa364f3eae4",
+    "response": "Persona\\SkinPackCapes\\BlackPantherCape.json"
+  },
+  {
+    "uuid": "4372a4b9-4347-4bf8-ba71-68d8237087a2",
+    "response": "Persona\\SkinPackCapes\\CaptainAmericaShield.json"
+  },
+  {
+    "uuid": "a19286be-c17f-4e88-aeea-cb2bec2fb047",
+    "response": "Persona\\SkinPackCapes\\FalconWings.json"
+  },
+  {
+    "uuid": "b7817050-11a8-431f-ad0f-78bfad184939",
+    "response": "Persona\\SkinPackCapes\\LokiCape.json"
+  },
+  {
+    "uuid": "8ef94505-b1c5-40ab-8c9b-83a060475ea5",
+    "response": "Persona\\SkinPackCapes\\MoonKnightCape.json"
+  },
+  {
+    "uuid": "e32fba53-9b31-4377-90f5-362d6f02b603",
+    "response": "Persona\\SkinPackCapes\\TaskmasterCape.json"
+  },
+  {
+    "uuid": "fe035e3d-1339-4bcd-aa09-40f3bb777ce3",
+    "response": "Persona\\SkinPackCapes\\ThorCape.json"
+  },
+  {
+    "uuid": "f5c8d822-081a-4eaa-87d1-740388b6fcfc",
+    "response": "Persona\\SkinPackCapes\\VisionCape.json"
+  },
+  {
+    "uuid": "730f596e-9ceb-4467-9fc5-f5a0b98150e3",
+    "response": "Persona\\SkinPackCapes\\WaspWings.json"
+  },
+  {
+    "uuid": "717c8fc3-b3fb-40b1-93e1-759e28e59cd3",
+    "response": "Persona\\SkinPackCapes\\AdamWarlockCape.json"
+  },
+  {
+    "uuid": "aaed1892-49e7-4d6d-b831-478e3430cedd",
+    "response": "Persona\\SkinPackCapes\\AngelaStrings.json"
+  },
+  {
+    "uuid": "f7be084c-4b08-4c7c-8e4c-7aeac5b39361",
+    "response": "Persona\\SkinPackCapes\\QuasarCape.json"
+  },
+  {
+    "uuid": "3196d4be-7694-4079-9aff-038fae17c646",
+    "response": "Persona\\SkinPackCapes\\RonanTheAccuserCape.json"
+  },
+  {
+    "uuid": "83fd88f7-2661-48eb-b0dd-19ca46d7fd27",
+    "response": "Persona\\SkinPackCapes\\WraithCape.json"
+  },
+  {
+    "uuid": "1f3efb52-985c-41d6-bba3-84c82c8cd7d3",
+    "response": "Persona\\SkinPackCapes\\KravenCape.json"
+  },
+  {
+    "uuid": "1302fcaa-9de1-49eb-b9cd-a41f7c44a2d2",
+    "response": "Persona\\SkinPackCapes\\MenaceCape.json"
+  },
+  {
+    "uuid": "2c0f3e81-90cc-4530-8f74-d357356e9a34",
+    "response": "Persona\\SkinPackCapes\\MorbiusCape.json"
+  },
+  {
+    "uuid": "efc102f0-3258-430e-adc4-c3d438c81889",
+    "response": "Persona\\SkinPackCapes\\MysterioCape.json"
+  },
+  {
+    "uuid": "84013056-d26a-41de-a670-4d2c8b0dd8ac",
+    "response": "Persona\\SkinPackCapes\\Spider-Man2099Web.json"
+  },
+  {
+    "uuid": "444b313f-e84d-4598-b68f-897aca55b51f",
+    "response": "Persona\\SkinPackCapes\\VultureWings.json"
+  },
+  {
+    "uuid": "b3011c06-6997-4ece-9d4f-5044d4308d73",
+    "response": "Persona\\SkinPackCapes\\JakScarf.json"
+  },
+  {
+    "uuid": "c1974f5f-c852-4ad7-83dd-2d9bf5f740cf",
+    "response": "Persona\\SkinPackCapes\\EzioCape.json"
+  },
+  {
+    "uuid": "45117ce7-6ffe-4d0d-85dc-842c4b386214",
+    "response": "Persona\\SkinPackCapes\\Knight1Cape.json"
+  },
+  {
+    "uuid": "9f775505-639e-4a97-bb31-9c3208cf497f",
+    "response": "Persona\\SkinPackCapes\\Knight2Cape.json"
+  },
+  {
+    "uuid": "2bb26719-b784-4cea-83f6-5ed210c4ff90",
+    "response": "Persona\\SkinPackCapes\\Knight3Cape.json"
+  },
+  {
+    "uuid": "34d1c7e8-0dcc-43f8-a7a2-1e093482c9ca",
+    "response": "Persona\\SkinPackCapes\\Knight4Cape.json"
+  },
+  {
+    "uuid": "4f5a1bda-d544-486e-a430-0d3e1551e73b",
+    "response": "Persona\\SkinPackCapes\\ShieldyBlockersonCape.json"
+  },
+  {
+    "uuid": "c7f7b843-846c-49c8-bd55-06534e48deb2",
+    "response": "Persona\\SkinPackCapes\\NazirCape.json"
+  },
+  {
+    "uuid": "265937c0-d99d-449d-8c1e-244b5ea1571e",
+    "response": "Persona\\SkinPackCapes\\VampireLordCape.json"
+  },
+  {
+    "uuid": "8ac65528-ed62-4495-aa47-b453b3320916",
+    "response": "Persona\\SkinPackCapes\\LandoCalrissionCape.json"
+  },
+  {
+    "uuid": "3ad68359-a28f-4fd1-bd37-f00b7e4f1b4a",
+    "response": "Persona\\SkinPackCapes\\YodaCape.json"
+  },
+  {
+    "uuid": "6c6df40b-c150-493d-848d-39627c3f48a0",
+    "response": "Persona\\SkinPackCapes\\BossNassScarf.json"
+  },
+  {
+    "uuid": "dbfab819-3a56-4ee4-8688-6a3e5065136f",
+    "response": "Persona\\SkinPackCapes\\CountDookuCape.json"
+  },
+  {
+    "uuid": "75d5497d-4ab9-4e43-924e-108500285082",
+    "response": "Persona\\SkinPackCapes\\GeneralGrievousCape.json"
+  },
+  {
+    "uuid": "e9638da5-88db-4a0d-b682-912742e43895",
+    "response": "Persona\\SkinPackCapes\\MasAmeddaCape.json"
+  },
+  {
+    "uuid": "2f4020a5-027f-4680-838c-0439bcecee90",
+    "response": "Persona\\SkinPackCapes\\PadmeAmidalaCape.json"
+  },
+  {
+    "uuid": "49ced7b9-c18e-46e0-a955-fe9d521783b8",
+    "response": "Persona\\SkinPackCapes\\SenatorPalpatineCape.json"
+  },
+  {
+    "uuid": "670f3827-b260-47a7-96e5-96b1fe02ce77",
+    "response": "Persona\\SkinPackCapes\\PoggleTheLesserWings.json"
+  },
+  {
+    "uuid": "12fba8b3-ed4d-4e91-9eea-56d3e5f35cfe",
+    "response": "Persona\\SkinPackCapes\\UnusedWings.json"
+  },
+  {
+    "uuid": "f3a358d0-d3d8-42b2-b01b-47aa2533754c",
+    "response": "Persona\\SkinPackCapes\\SherriAndTerriHair.json"
   },
   {
     "uuid": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
@@ -385,4 +725,5 @@
   }
 
 ]
+
 
