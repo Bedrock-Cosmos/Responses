@@ -4766,7 +4766,7 @@
                 },
                 "pieceType": "persona_capes",
                 "rarity": "rare",
-                "ownership": "NotOwned",
+                "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
                   {
@@ -4778,7 +4778,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
