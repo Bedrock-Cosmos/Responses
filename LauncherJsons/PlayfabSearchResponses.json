@@ -13,7 +13,7 @@
   },
   {
     "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
-    "response": "SkinPacks\\Responses\\Festive.json"
+    "response": "SkinPacks\\FestiveMashUp\\Search_Festive.json"
   },
   {
     "uuid": "0f2e08ee-8ef2-4521-b03d-9f89c907c70e",
@@ -69,4 +69,5 @@
   }
 
 ]
+
 
