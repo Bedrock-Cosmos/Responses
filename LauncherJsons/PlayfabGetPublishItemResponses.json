@@ -725,22 +725,18 @@
   },
   {
     "uuid": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
-    "response": "SkinPacks\\Responses\\MarioMashUpBinary.json"
+    "response": "SkinPacks\\MarioMashUp\\Binary_MarioMashUp.json"
   },
   {
     "uuid": "2f60a7a0-8010-49b1-8b57-851ac41f34cf",
-    "response": "SkinPacks\\Responses\\SkinPack4Binary.json"
+    "response": "SkinPacks\\SkinPack\\Binary_SkinPack4.json"
   },
   {
     "uuid": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
-    "response": "SkinPacks\\Responses\\SkinPack5Binary.json"
+    "response": "SkinPacks\\SkinPack\\Binary_SkinPack5.json"
   },
   {
     "uuid": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
-    "response": "SkinPacks\\Responses\\SkinPack6Binary.json"
+    "response": "SkinPacks\\SkinPack\\Binary_SkinPack6.json"
   }
 ]
-
-
-
-
