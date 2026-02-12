@@ -29,7 +29,7 @@
   },
   {
     "uuid": "1d3e88a9-617c-45a8-83ba-b4abef5fda4e",
-    "response": "SkinPacks\\MarvelSkinPacks\\ItemDetail_MarvelGuardiansoftheGalaxySkinPack.json"
+    "response": "SkinPacks\\MarvelSkinPacks\\Search_MarvelGuardiansoftheGalaxySkinPack.json"
   },
   {
     "uuid": "8eba8968-4ad4-446c-8717-36c38cae0edb",
@@ -68,3 +68,4 @@
     "response": "SkinPacks\\TheSimpsonsSkinPack\\Search_TheSimpsonsSkinPack.json"
   }
 ]
+
