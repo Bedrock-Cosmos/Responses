@@ -712,6 +712,14 @@
     "response": "Persona\\SkinPackCapes\\SherriAndTerriHair.json"
   },
   {
+    "uuid": "77540382-9678-4471-b530-49789e7529c6",
+    "response": "SkinPacks\\DrWho\\Binary_DoctorWhoV1.json"
+  },
+  {
+    "uuid": "0a94862d-8e28-4626-98c2-9b9df4c906a2",
+    "response": "SkinPacks\\DrWho\\Binary_DoctorWhoV2.json"
+  },
+  {
     "uuid": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
     "response": "SkinPacks\\Responses\\MarioMashUpBinary.json"
   },
@@ -728,5 +736,6 @@
     "response": "SkinPacks\\Responses\\SkinPack6Binary.json"
   }
 ]
+
 
 
