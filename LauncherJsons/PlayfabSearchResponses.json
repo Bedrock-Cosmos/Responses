@@ -8,8 +8,28 @@
     "response": "SkinPacks\\DoctorWho\\Search_DoctorWhoV2.json"
   },
   {
+    "uuid": "e823767b-7337-49da-aaef-de616d2c2c3a",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\Search_2ndBirthdaySkinPack.json"
+  },
+  {
     "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
     "response": "SkinPacks\\2ndBirthdaySkinPack\\Search_2ndBirthdaySkinPack2015.json"
+  },
+  {
+    "uuid": "e4d586b5-ab6f-4fd5-82d5-6158a755e012",
+    "response": "SkinPacks\\3rdBirthdaySkinPack\\Search_3rdBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "659b5fdb-3260-47ff-9aeb-41818d74acdd",
+    "response": "SkinPacks\\4thBirthdaySkinPack\\Search_4thBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "433cbba0-1c00-48e8-94ef-59cfc38da4ca",
+    "response": "SkinPacks\\5thBirthdaySkinPack\\Search_5thBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "d55a3dda-b482-4ff6-bf30-3d2ba9324c19",
+    "response": "SkinPacks\\BiomeSettlers3\\Search_BiomeSettlers3.json"
   },
   {
     "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
@@ -68,5 +88,6 @@
     "response": "SkinPacks\\TheSimpsonsSkinPack\\Search_TheSimpsonsSkinPack.json"
   }
 ]
+
 
 
