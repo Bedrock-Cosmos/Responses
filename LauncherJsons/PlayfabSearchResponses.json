@@ -92,6 +92,26 @@
     "response": "SkinPacks\\MarvelSkinPacks\\Search_MarvelSpiderManSkinPack.json"
   },
   {
+    "uuid": "98500e08-627e-4f46-a4d3-705a01f6f110",
+    "response": "SkinPacks\\MightyMorphinPowerRangers\\Search_MightyMorphinPowerRangers.json"
+  },
+  {
+    "uuid": "42ae66b4-d3db-49be-8dd8-207a0cade6d8",
+    "response": "SkinPacks\\CapeSkinPacks\\Search_Minecon2015SkinPack.json"
+  },
+  {
+    "uuid": "838bdb6b-bf30-42ca-a4d8-e35865fba8e2",
+    "response": "SkinPacks\\CapeSkinPacks\\Search_MINECON2016SkinPack.json"
+  },
+  {
+    "uuid": "ac3914ce-f321-4b13-89bf-5a74990242c8",
+    "response": "SkinPacks\\EarthSkins\\Search_MumboJumboGrianSkins.json"
+  },
+  {
+    "uuid": "a618ca05-77ba-4afb-bb9a-8fdb413219ab",
+    "response": "SkinPacks\\CharitySkinPacks\\Search_PawsandClawsCosplayPack.json"
+  },
+  {
     "uuid": "720ee1f3-dc46-4ffc-a390-8bb035e7be26",
     "response": "SkinPacks\\SkinPack\\Search_SkinPack1.json"
   },
@@ -120,10 +140,15 @@
     "response": "SkinPacks\\SkinPack\\Search_SkinPack6.json"
   },
   {
+    "uuid": "93b450c2-910f-4915-894d-444dde7a3306",
+    "response": "SkinPacks\\StrangerThingsSkinPack\\Search_StrangerThingsSkinPack.json"
+  },
+  {
     "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
     "response": "SkinPacks\\TheSimpsonsSkinPack\\Search_TheSimpsonsSkinPack.json"
   }
 ]
+
 
 
 
