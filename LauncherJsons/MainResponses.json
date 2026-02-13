@@ -48,6 +48,10 @@
     "response": "SkinPacks\\DoctorWho\\ItemDetail_DoctorWhoV1.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_77540382-9678-4471-b530-49789e7529c6",
+    "response": "SkinPacks\\DoctorWho\\Viewer_DoctorWhoV1.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_0a94862d-8e28-4626-98c2-9b9df4c906a2",
     "response": "SkinPacks\\DoctorWho\\ItemDetail_DoctorWhoV2.json"
   },
@@ -160,3 +164,4 @@
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   }
 ]
+
