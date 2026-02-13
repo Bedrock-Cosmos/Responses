@@ -1,13 +1,5 @@
 [
   {
-    "uuid": "759aed41-f477-47ab-9664-67b05d69e22b",
-    "response": "SkinPacks\\DoctorWho\\Search_DoctorWhoV1.json"
-  },
-  {
-    "uuid": "0e53bc61-1603-4048-97ef-2938b7e9b12e",
-    "response": "SkinPacks\\DoctorWho\\Search_DoctorWhoV2.json"
-  },
-  {
     "uuid": "e823767b-7337-49da-aaef-de616d2c2c3a",
     "response": "SkinPacks\\2ndBirthdaySkinPack\\Search_2ndBirthdaySkinPack.json"
   },
@@ -30,6 +22,26 @@
   {
     "uuid": "d55a3dda-b482-4ff6-bf30-3d2ba9324c19",
     "response": "SkinPacks\\BiomeSettlers3\\Search_BiomeSettlers3.json"
+  },
+  {
+    "uuid": "6d6f40da-6b0a-47f1-a82a-b23721c6140b",
+    "response": "SkinPacks\\GiveCampaignSkins\\Search_BrodysGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "136fe27d-4eb3-4564-8c9b-b4130ffbdd3c",
+    "response": "SkinPacks\\GiveCampaignSkins\\Search_ClairesGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "6c37b8c1-ff20-4bf6-a20c-5045aa2d3f57",
+    "response": "SkinPacks\\CharitySkinPacks\\Search_CoralCraftersSkinPack.json"
+  },
+  {
+    "uuid": "759aed41-f477-47ab-9664-67b05d69e22b",
+    "response": "SkinPacks\\DoctorWho\\Search_DoctorWhoV1.json"
+  },
+  {
+    "uuid": "0e53bc61-1603-4048-97ef-2938b7e9b12e",
+    "response": "SkinPacks\\DoctorWho\\Search_DoctorWhoV2.json"
   },
   {
     "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
@@ -88,6 +100,7 @@
     "response": "SkinPacks\\TheSimpsonsSkinPack\\Search_TheSimpsonsSkinPack.json"
   }
 ]
+
 
 
 
