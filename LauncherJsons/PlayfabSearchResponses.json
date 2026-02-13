@@ -44,8 +44,32 @@
     "response": "SkinPacks\\DoctorWho\\Search_DoctorWhoV2.json"
   },
   {
+    "uuid": "70777aa6-5949-4529-947f-2fcdbc94c3cb",
+    "response": "SkinPacks\\EarthSkins\\Search_EarthSkin.json"
+  },
+  {
     "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
     "response": "SkinPacks\\FestiveMashUp\\Search_Festive.json"
+  },
+  {
+    "uuid": "4972c4c7-6eac-4e4c-b2d0-822b590b6fa7",
+    "response": "SkinPacks\\CapeSkinPacks\\Search_FoundersCape.json"
+  },
+  {
+    "uuid": "a9396dff-9629-43fa-b7f7-4e885ab258fd",
+    "response": "SkinPacks\\GiveCampaignSkins\\Search_JoslynsGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "39fa1d65-b3ca-4726-b9e0-f3d2a404e5a4",
+    "response": "SkinPacks\\LegacySkinPack\\Search_LegacySkinPack.json"
+  },
+  {
+    "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88",
+    "response": "SkinPacks\\LEGORMinecraftTMDragonSlayer\\Search_LEGORMinecraftTMDragonSlayer.json"
+  },
+  {
+    "uuid": "a7657028-94cf-4d70-a421-42b64c18ad27",
+    "response": "SkinPacks\\GiveCampaignSkins\\Search_LucysGiveCampaignSkin.json"
   },
   {
     "uuid": "0f2e08ee-8ef2-4521-b03d-9f89c907c70e",
@@ -100,6 +124,7 @@
     "response": "SkinPacks\\TheSimpsonsSkinPack\\Search_TheSimpsonsSkinPack.json"
   }
 ]
+
 
 
 
