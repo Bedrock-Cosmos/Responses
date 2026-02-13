@@ -713,11 +713,11 @@
   },
   {
     "uuid": "77540382-9678-4471-b530-49789e7529c6",
-    "response": "SkinPacks\\DrWho\\Binary_DoctorWhoV1.json"
+    "response": "SkinPacks\\DoctorWho\\Binary_DoctorWhoV1.json"
   },
   {
     "uuid": "0a94862d-8e28-4626-98c2-9b9df4c906a2",
-    "response": "SkinPacks\\DrWho\\Binary_DoctorWhoV2.json"
+    "response": "SkinPacks\\DoctorWho\\Binary_DoctorWhoV2.json"
   },
   {
     "uuid": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
@@ -740,3 +740,4 @@
     "response": "SkinPacks\\SkinPack\\Binary_SkinPack6.json"
   }
 ]
+
