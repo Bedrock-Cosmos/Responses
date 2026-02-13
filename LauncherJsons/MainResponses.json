@@ -60,6 +60,18 @@
     "response": "SkinPacks\\BiomeSettlers3\\ItemDetail_BiomeSettlers3.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_920a3a5c-b344-42a8-bf23-021b0d315239",
+    "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_BrodysGiveCampaignSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_83722c79-a25d-4448-a853-3a4b0fdd99d5",
+    "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_ClairesGiveCampaignSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_CoralCraftersSkinPack.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_77540382-9678-4471-b530-49789e7529c6",
     "response": "SkinPacks\\DoctorWho\\ItemDetail_DoctorWhoV1.json"
   },
@@ -188,6 +200,7 @@
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   }
 ]
+
 
 
 
