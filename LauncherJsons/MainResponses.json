@@ -36,8 +36,28 @@
     "response": "MainPages\\Cosmos_Creator_Hub.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\ItemDetail_2ndBirthdaySkinPack.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
     "response": "SkinPacks\\2ndBirthdaySkinPack\\ItemDetail_2ndBirthdaySkinPack2015.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_603d6be1-7745-4ad8-8af3-908ad017500f",
+    "response": "SkinPacks\\3rdBirthdaySkinPack\\ItemDetail_3rdBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_a2a7ad5c-f55e-44ff-9f70-a5ae1db821b4",
+    "response": "SkinPacks\\4thBirthdaySkinPack\\ItemDetail_4thBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_cc1e1b86-1863-4c1c-9103-b82b2b70a74b",
+    "response": "SkinPacks\\5thBirthdaySkinPack\\ItemDetail_5thBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_420ce26e-f6a7-4420-8067-8cf2965a39d6",
+    "response": "SkinPacks\\BiomeSettlers3\\ItemDetail_BiomeSettlers3.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_77540382-9678-4471-b530-49789e7529c6",
@@ -168,5 +188,6 @@
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   }
 ]
+
 
 
