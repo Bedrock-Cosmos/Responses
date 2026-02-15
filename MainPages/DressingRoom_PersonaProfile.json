@@ -104,9 +104,9 @@
           {
             "items": [
               {
-                "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                "linksTo": "DressingRoom_Capes",
                 "linksToInfo": {
-                  "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                  "linksTo": "DressingRoom_Capes",
                   "linkType": "pageId",
                   "displayType": "store_layout.character_creator_screen",
                   "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
@@ -145,7 +145,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                    "linksTo": "DressingRoom_Capes",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
@@ -153,9 +153,9 @@
                 }
               },
               {
-                "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                "linksTo": "DressingRoom_Capes",
                 "linksToInfo": {
-                  "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                  "linksTo": "DressingRoom_Capes",
                   "linkType": "pageId",
                   "displayType": "store_layout.character_creator_screen",
                   "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
@@ -194,7 +194,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                    "linksTo": "DressingRoom_Capes",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
@@ -202,9 +202,9 @@
                 }
               },
               {
-                "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                "linksTo": "DressingRoom_Capes",
                 "linksToInfo": {
-                  "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                  "linksTo": "DressingRoom_Capes",
                   "linkType": "pageId",
                   "displayType": "store_layout.character_creator_screen",
                   "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
@@ -243,7 +243,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                    "linksTo": "DressingRoom_Capes",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
@@ -251,9 +251,9 @@
                 }
               },
               {
-                "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                "linksTo": "DressingRoom_Capes",
                 "linksToInfo": {
-                  "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                  "linksTo": "DressingRoom_Capes",
                   "linkType": "pageId",
                   "displayType": "store_layout.character_creator_screen",
                   "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
@@ -292,7 +292,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                    "linksTo": "DressingRoom_Capes",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
@@ -300,9 +300,9 @@
                 }
               },
               {
-                "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                "linksTo": "DressingRoom_Capes",
                 "linksToInfo": {
-                  "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                  "linksTo": "DressingRoom_Capes",
                   "linkType": "pageId",
                   "displayType": "store_layout.character_creator_screen",
                   "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
@@ -341,7 +341,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                    "linksTo": "DressingRoom_Capes",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
@@ -349,9 +349,9 @@
                 }
               },
               {
-                "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                "linksTo": "DressingRoom_Capes",
                 "linksToInfo": {
-                  "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                  "linksTo": "DressingRoom_Capes",
                   "linkType": "pageId",
                   "displayType": "store_layout.character_creator_screen",
                   "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
@@ -390,7 +390,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                    "linksTo": "DressingRoom_Capes",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
@@ -398,9 +398,9 @@
                 }
               },
               {
-                "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                "linksTo": "DressingRoom_Capes",
                 "linksToInfo": {
-                  "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                  "linksTo": "DressingRoom_Capes",
                   "linkType": "pageId",
                   "displayType": "store_layout.character_creator_screen",
                   "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
@@ -439,7 +439,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                    "linksTo": "DressingRoom_Capes",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
@@ -447,9 +447,9 @@
                 }
               },
               {
-                "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                "linksTo": "DressingRoom_Capes",
                 "linksToInfo": {
-                  "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                  "linksTo": "DressingRoom_Capes",
                   "linkType": "pageId",
                   "displayType": "store_layout.character_creator_screen",
                   "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
@@ -488,7 +488,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                    "linksTo": "DressingRoom_Capes",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
@@ -496,9 +496,9 @@
                 }
               },
               {
-                "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                "linksTo": "DressingRoom_Capes",
                 "linksToInfo": {
-                  "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                  "linksTo": "DressingRoom_Capes",
                   "linkType": "pageId",
                   "displayType": "store_layout.character_creator_screen",
                   "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
@@ -537,7 +537,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CapesSubpage",
+                    "linksTo": "DressingRoom_Capes",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false
