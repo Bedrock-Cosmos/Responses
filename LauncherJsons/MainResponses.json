@@ -16,6 +16,10 @@
     "response": "MainPages\\DressingRoom_PersonaProfile.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_SkinsRoot",
+    "response": "MainPages\\MultiItemPage_SkinsRoot.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/DressingRoom_Capes",
     "response": "MainPages\\Capes.json"
   },
@@ -252,6 +256,7 @@
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   }
 ]
+
 
 
 
