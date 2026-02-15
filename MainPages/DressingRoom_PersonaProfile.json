@@ -323,16 +323,15 @@
                 "startDate": "2025-10-25T12:00:00Z"
               },
               {
-                "id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+                "id": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
-                "title": "Mario Mash-Up",
-                "description": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario-style Texture Pack, Skin Pack and a Super Mario-themed world to explore!",
-                "creatorName": "Minecraft (Hidden/Delisted)",
+                "title": "Festive Mash-Up",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8",
-                  "urlWithResolution": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
+                  "url": "https://minecraft.wiki/images/Festive_Mash-up.jpg",
+                  "urlWithResolution": "https://minecraft.wiki/images/Festive_Mash-up.jpg?width=800&height=450"
                 },
                 "price": {
                   "listPrice": -1,
@@ -342,9 +341,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+                "linksTo": "ItemDetail_62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+                  "linksTo": "ItemDetail_62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
@@ -363,27 +362,11 @@
                 "packIdentity": [
                   {
                     "type": "skinpack",
-                    "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
-                    "version": "1.14.2026"
+                    "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
+                    "version": "1.0.0"
                   }
                 ],
-                "tags": [],
-                "images": [
-                  {
-                    "tag": "Thumbnail",
-                    "type": "Thumbnail",
-                    "url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8",
-                    "urlWithResolution": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
-                  }
-                ],
-                "contents": [],
-                "platformRestricted": false,
-                "iconOverlay": [],
-                "descriptionLineByLine": [],
-                "startDate": "2025-10-26T00:00:00Z",
-                "subscription": [],
-                "thumbnailPreviewOnly": false,
-                "namedLinksToInfoMap": {}
+                "startDate": "2025-10-25T12:00:00Z"
               },
               {
                 "id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
@@ -510,15 +493,16 @@
                 "namedLinksToInfoMap": {}
               },
               {
-                "id": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+                "id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
-                "title": "Festive Mash-Up",
-                "creatorName": "Minecraft",
+                "title": "Mario Mash-Up",
+                "description": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario-style Texture Pack, Skin Pack and a Super Mario-themed world to explore!",
+                "creatorName": "Minecraft (Hidden/Delisted)",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://minecraft.wiki/images/Festive_Mash-up.jpg",
-                  "urlWithResolution": "https://minecraft.wiki/images/Festive_Mash-up.jpg?width=800&height=450"
+                  "url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8",
+                  "urlWithResolution": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
                 },
                 "price": {
                   "listPrice": -1,
@@ -528,9 +512,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+                "linksTo": "ItemDetail_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+                  "linksTo": "ItemDetail_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
@@ -549,11 +533,27 @@
                 "packIdentity": [
                   {
                     "type": "skinpack",
-                    "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
-                    "version": "1.0.0"
+                    "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+                    "version": "1.14.2026"
                   }
                 ],
-                "startDate": "2025-10-25T12:00:00Z"
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8",
+                    "urlWithResolution": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2025-10-26T00:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {}
               },
               {
                 "id": "2f60a7a0-8010-49b1-8b57-851ac41f34cf",
