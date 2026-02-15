@@ -24,10 +24,6 @@
     "response": "MainPages\\Capes.json"
   },
   {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PersonaCreatorPage_master_player_account!CapesSubpage",
-    "response": "MainPages\\Capes_Subpage.json"
-  },
-  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_StoreRoot",
     "response": "MainPages\\MainMarketplaceButton_append.json"
   },
@@ -260,6 +256,7 @@
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   }
 ]
+
 
 
 
