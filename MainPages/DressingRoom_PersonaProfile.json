@@ -213,57 +213,19 @@
           {
             "items": [
               {
-                "id": "Cosmos_Creator_Hub",
+                "id": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
-                "title": " ", //This is here or else next page will be called Marketplace
+                "title": "Bedrock Cosmos Packs",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/76d2d2fc-41df-4d97-9799-1c64b1038db7/sprite_thumbnail_0.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/76d2d2fc-41df-4d97-9799-1c64b1038db7/sprite_thumbnail_0.jpg?width=800&height=450"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/All-Packs.jpg",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/All-Packs.jpg?width=800&height=450"
                 },
                 "packType": "Realms",
-                "linksTo": "Cosmos_Creator_Hub",
+                "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
                 "linksToInfo": {
-                  "linksTo": "Cosmos_Creator_Hub",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "startDate": "2025-10-25T12:00:00Z"
-              },
-              {
-                "id": "CreatorPage_master_player_account!MinecraftRestored",
-                "contentType": "MarketplaceDurableCatalog_V1.2",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://img.youtube.com/vi/xZMk_UIsI2Y/mqdefault.jpg?72222",
-                  "urlWithResolution": "https://img.youtube.com/vi/xZMk_UIsI2Y/mqdefault.jpg?width=800&height=450"
-                },
-                "packType": "Realms",
-                "linksTo": "CreatorPage_master_player_account!MinecraftRestored",
-                "linksToInfo": {
-                  "linksTo": "CreatorPage_master_player_account!MinecraftRestored",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "startDate": "2025-10-25T12:00:00Z"
-              },
-              {
-                "id": "CreatorPage_master_player_account!MinecraftHidden",
-                "contentType": "MarketplaceDurableCatalog_V1.2",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://img.youtube.com/vi/6QYyiJ-SidM/maxresdefault.jpg?72222",
-                  "urlWithResolution": "https://img.youtube.com/vi/6QYyiJ-SidM/maxresdefault.jpg?width=800&height=450"
-                },
-                "packType": "Realms",
-                "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
-                "linksToInfo": {
-                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
