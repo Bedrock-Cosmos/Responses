@@ -747,7 +747,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": [],
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "SkinPack",
                 "packIdentity": [
@@ -803,7 +803,6 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": ["New"],
                 "ownership": "NotOwned",
                 "packType": "SkinPack",
                 "packIdentity": [
@@ -980,7 +979,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": [],
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "SkinPack",
                 "packIdentity": [
@@ -1026,7 +1025,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": [],
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "SkinPack",
                 "packIdentity": [
@@ -1072,7 +1071,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": [],
+                "flags": ["New"],
                 "ownership": "Purchased",
                 "packType": "SkinPack",
                 "packIdentity": [
