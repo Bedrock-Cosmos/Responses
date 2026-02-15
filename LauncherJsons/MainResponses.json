@@ -25,7 +25,7 @@
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_SkinsRoot",
-    "response": "MainPages\\MainMarketplaceButton_append.json"
+    "response": "MainPages\\FallbackMarketplaceButton_append.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_StoreRoot",
@@ -260,6 +260,7 @@
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   }
 ]
+
 
 
 
