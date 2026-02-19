@@ -675,7 +675,7 @@
         "components": [
           {
             "text": {
-              "value": "\r\n Other Restored Packs",
+              "value": " Other Restored Packs",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
