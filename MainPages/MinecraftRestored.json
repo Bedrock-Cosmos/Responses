@@ -288,14 +288,14 @@
               {
                 "id": "61c7a786-d7ad-49e0-a710-817121cd9795",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
-                "title": "Actions & Stuff Fixed",
+                "title": "Actions & Stuff Restored",
                 "description": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\r\n\r\n- Player Animations (1st & 3rd Person)\r\n- New & Improved Mob Animations\r\n- 3D Item Models\r\n- Custom Armour\r\n- A Complete & Faithful Texture Overhaul\r\n- Compatible with Vanilla textures, or your own texture packs\r\n- Now with 100% more Vibrant Visuals",
                 "creatorName": "Oreville Studios",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Actions%20%26%20Stuff%20Fixed/ActionsStuffFixed_thumbnail.jpg",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Actions%20%26%20Stuff%20Fixed/ActionsStuffFixed_thumbnail.jpg?width=800&height=450"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Actions%20%26%20Stuff%20Restored/ActionsAndStuffRestored_thumbnail.jpg",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Actions%20%26%20Stuff%20Restored/ActionsAndStuffRestored_thumbnail.jpg?width=800&height=450"
                 },
                 "rating": { "average": 4.9, "totalCount": 112233 },
                 "price": {
