@@ -114,7 +114,7 @@
         "components": [
           {
             "text": {
-              "value": " Restored Skin Packs",
+              "value": " Minecraft's Restored Packs",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
@@ -185,7 +185,7 @@
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
                 },
-                "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
                 "statistics": {
                   "skins": 25,
                   "worlds": 0,
@@ -248,7 +248,7 @@
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
                 },
-                "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
                 "statistics": {
                   "skins": 25,
                   "worlds": 0,
@@ -286,63 +286,6 @@
                 "namedLinksToInfoMap": {}
               },
               {
-                "id": "61c7a786-d7ad-49e0-a710-817121cd9795",
-                "contentType": "MarketplaceDurableCatalog_V1.2",
-                "title": "Actions & Stuff Restored",
-                "description": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\r\n\r\n- Player Animations (1st & 3rd Person)\r\n- New & Improved Mob Animations\r\n- 3D Item Models\r\n- Custom Armour\r\n- A Complete & Faithful Texture Overhaul\r\n- Compatible with Vanilla textures, or your own texture packs\r\n- Now with 100% more Vibrant Visuals",
-                "creatorName": "Oreville Studios",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Actions%20%26%20Stuff%20Restored/ActionsAndStuffRestored_thumbnail.jpg",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Actions%20%26%20Stuff%20Restored/ActionsAndStuffRestored_thumbnail.jpg?width=800&height=450"
-                },
-                "rating": { "average": 4.9, "totalCount": 112233 },
-                "price": {
-                  "listPrice": 1690,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "linksTo": "ItemDetail_61c7a786-d7ad-49e0-a710-817121cd9795",
-                "linksToInfo": {
-                  "linksTo": "ItemDetail_61c7a786-d7ad-49e0-a710-817121cd9795",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
-                "statistics": {
-                  "skins": 21,
-                  "worlds": 0,
-                  "textures": 0,
-                  "behaviors": 0,
-                  "addOns": 0
-                },
-                "flags": [],
-                "ownership": "EntitledByRealmsPlus",
-                "packType": "SkinPack",
-                "packIdentity": [
-                  {
-                    "type": "skinpack",
-                    "uuid": "218d7771-3b76-4bdf-a46e-5f76af23353a",
-                    "version": "1.14.2026"
-                  }
-                ],
-                "minPerformanceTier": "LowTier",
-                "tags": [],
-                "contents": [],
-                "platformRestricted": false,
-                "iconOverlay": [],
-                "descriptionLineByLine": [],
-                "startDate": "2024-12-24T18:00:00Z",
-                "subscription": [],
-                "thumbnailPreviewOnly": false,
-                "namedLinksToInfoMap": {}
-              },
-              {
                 "id": "ab0161a5-f37d-4a4c-9723-ed8966391861",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "title": "Greek Mythology Mash-up Restored",
@@ -368,7 +311,7 @@
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
                 },
-                "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
                 "statistics": {
                   "skins": 25,
                   "worlds": 0,
@@ -431,7 +374,7 @@
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
                 },
-                "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
                 "statistics": {
                   "skins": 25,
                   "worlds": 0,
@@ -494,7 +437,7 @@
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
                 },
-                "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
                 "statistics": {
                   "skins": 25,
                   "worlds": 0,
@@ -557,7 +500,7 @@
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
                 },
-                "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
                 "statistics": {
                   "skins": 25,
                   "worlds": 0,
@@ -620,7 +563,7 @@
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
                 },
-                "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
                 "statistics": {
                   "skins": 25,
                   "worlds": 0,
@@ -683,7 +626,7 @@
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
                 },
-                "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
                 "statistics": {
                   "skins": 25,
                   "worlds": 0,
@@ -721,7 +664,121 @@
                 "namedLinksToInfoMap": {}
               }
             ],
-            "totalItems": 9,
+            "totalItems": 8,
+            "type": "pagedItemListComp",
+            "$type": "PagedItemListComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "TextRow",
+        "components": [
+          {
+            "text": {
+              "value": " Other Restored Packs",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [1.0, 1.0, 1.0],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "headerComp",
+            "$type": "HeaderComponent"
+          },
+          {
+            "text": {
+              "value": " Adds back other lost features from various Marketplace packs and parts of Minecraft's history!\r\n ",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "SmoothWithEmoticons",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "textComponent",
+            "$type": "TextComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "GridList",
+        "components": [
+          {
+            "items": [
+              {
+                "id": "61c7a786-d7ad-49e0-a710-817121cd9795",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Actions & Stuff Restored",
+                "description": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\r\n\r\n- Player Animations (1st & 3rd Person)\r\n- New & Improved Mob Animations\r\n- 3D Item Models\r\n- Custom Armour\r\n- A Complete & Faithful Texture Overhaul\r\n- Compatible with Vanilla textures, or your own texture packs\r\n- Now with 100% more Vibrant Visuals",
+                "creatorName": "Oreville Studios",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Actions%20%26%20Stuff%20Restored/ActionsAndStuffRestored_thumbnail.jpg",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Actions%20%26%20Stuff%20Restored/ActionsAndStuffRestored_thumbnail.jpg?width=800&height=450"
+                },
+                "rating": { "average": 4.9, "totalCount": 112233 },
+                "price": {
+                  "listPrice": 1690,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "ItemDetail_61c7a786-d7ad-49e0-a710-817121cd9795",
+                "linksToInfo": {
+                  "linksTo": "ItemDetail_61c7a786-d7ad-49e0-a710-817121cd9795",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                "statistics": {
+                  "skins": 21,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "EntitledByRealmsPlus",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "218d7771-3b76-4bdf-a46e-5f76af23353a",
+                    "version": "1.14.2026"
+                  }
+                ],
+                "minPerformanceTier": "LowTier",
+                "tags": [],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2024-12-24T18:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {}
+              }
+            ],
+            "totalItems": 1,
             "type": "pagedItemListComp",
             "$type": "PagedItemListComponent"
           }
