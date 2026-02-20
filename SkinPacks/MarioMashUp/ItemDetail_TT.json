@@ -268,9 +268,9 @@
             "$type": "ImageGalleryComponent"
           },
           {
-            "headerText": "Take a tour!",
+            "headerText": "Gallery",
             "text": {
-              "value": "Take a tour!",
+              "value": "Gallery",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",

@@ -125,7 +125,7 @@
             "tabs": [
               {
                 "tabButtonName": {
-                  "value": "store.editorial.tab.about",
+                  "value": "About",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Center",
@@ -242,9 +242,9 @@
                         "$type": "ImageGalleryComponent"
                       },
                       {
-                        "headerText": "Take a tour!",
+                        "headerText": "Gallery",
                         "text": {
-                          "value": "Take a tour!",
+                          "value": "Gallery",
                           "style": {
                             "highlightColor": [],
                             "alignment": "Left",
@@ -305,7 +305,7 @@
               },
               {
                 "tabButtonName": {
-                  "value": "store.editorial.tab.notes",
+                  "value": "Notes",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Center",
@@ -406,7 +406,7 @@
                 "$type": "NavigationTabEntryComponent"
               }
             ],
-            "initialTabName": "store.editorial.tab.about",
+            "initialTabName": "About",
             "type": "navigationTabComp",
             "$type": "NavigationTabComponent"
           }
