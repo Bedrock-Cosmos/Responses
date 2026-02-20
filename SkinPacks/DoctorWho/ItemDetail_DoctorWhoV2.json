@@ -201,7 +201,7 @@
           },
           {
             "text": {
-              "value": "§lWhat skins do §4NOT§r§l work on The Hive?§r\n- K9\n- Racnoss\n- Gel Guard Plasma Creature",
+              "value": "What skins do NOT work on The Hive?\n- K9\n- Racnoss\n- Gel Guard Plasma Creature",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",

@@ -166,7 +166,7 @@
                         "$type": "HeaderComponent"
                       },
                       {
-                        "description": "Dress up as your favorite Minecraft characters from this striking 5th collection.\r\n§lPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\n§rThis is a §lLegacy Vault§r port of §lSkin Pack 5.\r\n§r• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in §lSettings §r> §lGeneral > §lOnly Allow Trusted Skins Off.\r\n§r• This Skin Pack cannot be worn on featured servers!",
+                        "description": "Dress up as your favorite Minecraft characters from this striking 5th collection.\r\nPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\nThis is a Legacy Vault port of Skin Pack 5.\r\n• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in Settings > General > Only Allow Trusted Skins Off.\r\n• This Skin Pack cannot be worn on featured servers!",
                         "genres": [],
                         "subgenres": [],
                         "playerCounts": [],
@@ -231,20 +231,15 @@
                             "type": "Unknown",
                             "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg10.jpg",
                             "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg10.jpg?width=800&height=450"
-                          },
-                          {
-                            "type": "Unknown",
-                            "url": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg11.jpg",
-                            "urlWithResolution": "https://download-ssl.xbox.com/content/images/80c85890-dad7-4d3a-b2ef-60071327b7cf/1033/screenlg11.jpg?width=800&height=450"
                           }
                         ],
                         "type": "imageGalleryComp",
                         "$type": "ImageGalleryComponent"
                       },
                       {
-                        "headerText": "store.pdp.title.resourcePack",
+                        "headerText": "Take a tour!",
                         "text": {
-                          "value": "store.pdp.title.resourcePack",
+                          "value": "Take a tour!",
                           "style": {
                             "highlightColor": [],
                             "alignment": "Left",

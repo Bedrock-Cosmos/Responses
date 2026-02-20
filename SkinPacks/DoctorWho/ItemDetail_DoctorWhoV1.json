@@ -201,7 +201,7 @@
           },
           {
             "text": {
-              "value": "§lWhat skins do §4NOT§r§l work on The Hive?§r\n- Davros\n- Weeping Angel\n- Teselecta Antibody\n- ALL Daleks",
+              "value": "What skins do NOT work on The Hive?\n- Davros\n- Weeping Angel\n- Teselecta Antibody\n- ALL Daleks",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",

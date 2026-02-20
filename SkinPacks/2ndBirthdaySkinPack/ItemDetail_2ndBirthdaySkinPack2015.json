@@ -228,9 +228,9 @@
                         "$type": "ImageGalleryComponent"
                       },
                       {
-                        "headerText": "store.pdp.title.resourcePack",
+                        "headerText": "Take a tour!",
                         "text": {
-                          "value": "store.pdp.title.resourcePack",
+                          "value": "Take a tour!",
                           "style": {
                             "highlightColor": [],
                             "alignment": "Left",

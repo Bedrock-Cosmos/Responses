@@ -166,7 +166,7 @@
                         "$type": "HeaderComponent"
                       },
                       {
-                        "description": "This fourth skin pack brings you a fresh bunch of exciting skins for you to customise your Minecraft character with!\r\n§lPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\n§rThis is a §lLegacy Vault§r port of §lSkin Pack 4.\r\n§r• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in §lSettings §r> §lGeneral > §lOnly Allow Trusted Skins Off.\r\n§r• This Skin Pack cannot be worn on featured servers!",
+                        "description": "This fourth skin pack brings you a fresh bunch of exciting skins for you to customise your Minecraft character with!\r\nPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\nThis is a Legacy Vault port of Skin Pack 4.\r\n• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in Settings > General > Only Allow Trusted Skins Off.\r\n• This Skin Pack cannot be worn on featured servers!",
                         "genres": [],
                         "subgenres": [],
                         "playerCounts": [],
@@ -242,9 +242,9 @@
                         "$type": "ImageGalleryComponent"
                       },
                       {
-                        "headerText": "store.pdp.title.resourcePack",
+                        "headerText": "Take a tour!",
                         "text": {
-                          "value": "store.pdp.title.resourcePack",
+                          "value": "Take a tour!",
                           "style": {
                             "highlightColor": [],
                             "alignment": "Left",
@@ -346,7 +346,7 @@
                       },
                       {
                         "text": {
-                          "value": "- Added antlers to §lBlacksmith\r\n§r- Includes both variants for §lSensei\r\n§r- Added §lKing§r, §lNecromancer§r, §lFidget§r & §lDust§r\r\n§r- Adds a tail to §lWolf§r which went unused & adds texture to bottom torso.",
+                          "value": "- Added antlers to Blacksmith\r\n- Includes both variants for Sensei\r\n- Added King, Necromancer, Fidget & Dust\r\n- Adds a tail to Wolf which went unused & adds texture to bottom torso.",
                           "style": {
                             "highlightColor": [],
                             "alignment": "Left",

@@ -166,7 +166,7 @@
                         "$type": "HeaderComponent"
                       },
                       {
-                        "description": "A cool assortment of amazing characters is ready for you in this wonderful 6th collection. Don’t miss out!\r\n§lPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\n§rThis is a §lLegacy Vault§r port of §lSkin Pack 6.\r\n§r• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in §lSettings §r> §lGeneral > §lOnly Allow Trusted Skins Off.\r\n§r• This Skin Pack cannot be worn on featured servers!",
+                        "description": "A cool assortment of amazing characters is ready for you in this wonderful 6th collection. Don’t miss out!\r\nPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\nThis is a Legacy Vault port of Skin Pack 6.\r\n• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in Settings > General > Only Allow Trusted Skins Off.\r\n• This Skin Pack cannot be worn on featured servers!",
                         "genres": [],
                         "subgenres": [],
                         "playerCounts": [],
@@ -232,9 +232,9 @@
                         "$type": "ImageGalleryComponent"
                       },
                       {
-                        "headerText": "store.pdp.title.resourcePack",
+                        "headerText": "Take a tour!",
                         "text": {
-                          "value": "store.pdp.title.resourcePack",
+                          "value": "Take a tour!",
                           "style": {
                             "highlightColor": [],
                             "alignment": "Left",
@@ -336,7 +336,7 @@
                       },
                       {
                         "text": {
-                          "value": "- Fixes §lHorse Man§r's face.",
+                          "value": "- Fixes Horse Man's face.",
                           "style": {
                             "highlightColor": [],
                             "alignment": "Left",
