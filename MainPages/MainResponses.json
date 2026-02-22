@@ -16,12 +16,16 @@
     "response": "MainPages\\DressingRoom_PersonaProfile.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_SkinsRoot",
+    "response": "MainPages\\MultiItemPage_SkinsRoot.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/DressingRoom_Capes",
     "response": "MainPages\\Capes.json"
   },
   {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_SkinsRoot",
-    "response": "MainPages\\MainMarketplaceButton_append.json"
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PersonaCreatorPage_master_player_account!Zeqa",
+    "response": "MainPages\\Capes.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_StoreRoot",
@@ -64,8 +68,12 @@
     "response": "SkinPacks\\5thBirthdaySkinPack\\ItemDetail_5thBirthdaySkinPack.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_57dfb793-29cb-4faf-acd9-bc0200ad108c",
+    "response": "SkinPacks\\BiomeSettlers\\ItemDetail_BiomeSettlers1.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_420ce26e-f6a7-4420-8067-8cf2965a39d6",
-    "response": "SkinPacks\\BiomeSettlers3\\ItemDetail_BiomeSettlers3.json"
+    "response": "SkinPacks\\BiomeSettlers\\ItemDetail_BiomeSettlers3.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_920a3a5c-b344-42a8-bf23-021b0d315239",
@@ -245,7 +253,7 @@
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PersonaCreatorPage_master_player_account!BionicBen",
-    "response": "MainPages\\Creators\\Persona\\BionicBen_Persona.json"
+    "response": "MainPages\\Creators\\Persona\\BionicBen_Capes.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_BionicBen_Marketplace",

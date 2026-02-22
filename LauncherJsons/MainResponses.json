@@ -16,12 +16,12 @@
     "response": "MainPages\\DressingRoom_PersonaProfile.json"
   },
   {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_SkinsRoot",
-    "response": "MainPages\\MultiItemPage_SkinsRoot.json"
-  },
-  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/DressingRoom_Capes",
     "response": "MainPages\\Capes.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_SkinsRoot",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_StoreRoot",
@@ -62,6 +62,10 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_cc1e1b86-1863-4c1c-9103-b82b2b70a74b",
     "response": "SkinPacks\\5thBirthdaySkinPack\\ItemDetail_5thBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_57dfb793-29cb-4faf-acd9-bc0200ad108c",
+    "response": "SkinPacks\\BiomeSettlers\\ItemDetail_BiomeSettlers1.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_420ce26e-f6a7-4420-8067-8cf2965a39d6",
