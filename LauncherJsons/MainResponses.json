@@ -48,6 +48,38 @@
     "response": "MainPages\\Cosmos_Creator_Hub.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ServerPage_master_player_account!4B74434622F61126",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ServerPage_master_player_account!5366842229349662",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ServerPage_master_player_account!33171D90895F3788",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ServerPage_master_player_account!5F3E53D5C111968C",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ServerOffers_9c3eac4f-c579-4525-80d9-723e705c992d",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ServerPage_master_player_account!163AC5C76001EEB1",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ServerPage_master_player_account!EBFC1BF4FAB55EFB",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ServerPage_master_player_account!DD292649E51DB5F9",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_02b54955-9b4d-40cb-9b73-360d23cf1b9e",
     "response": "SkinPacks\\2ndBirthdaySkinPack\\ItemDetail_2ndBirthdaySkinPack.json"
   },
@@ -268,18 +300,3 @@
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
