@@ -1144,7 +1144,7 @@
                 "id": "7402ead0-ac59-4fd2-9f58-7e5b2d1ef412",
                 "contentType": "PersonaDurable",
                 "title": "Awesom Caep",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1184,7 +1184,7 @@
                 "id": "ae58c408-f09e-45c0-8dc5-e24ce9459997",
                 "contentType": "PersonaDurable",
                 "title": "Bacon Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1224,7 +1224,7 @@
                 "id": "f2f9ca6c-13c5-4a96-b8b1-64bd5371b4b0",
                 "contentType": "PersonaDurable",
                 "title": "Birthday Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1269,50 +1269,10 @@
                 }
               },
               {
-                "id": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
-                "contentType": "PersonaDurable",
-                "title": "Birthday360 Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/XboxBirthday_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/XboxBirthday_cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "uncommon",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "d0567d45-f3e3-46b3-acde-7e692c4f35f7",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "314b1c57-c666-479b-b555-d1380b0b8654",
                 "contentType": "PersonaDurable",
                 "title": "Blonk Caep",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1352,7 +1312,7 @@
                 "id": "04e8aef9-4001-42a8-81e6-f851cc045b60",
                 "contentType": "PersonaDurable",
                 "title": "Blueprint Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1389,50 +1349,10 @@
                 }
               },
               {
-                "id": "3bea0bbb-d840-406c-9a58-5b3719c52c4d",
-                "contentType": "PersonaDurable",
-                "title": "BugTracker Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Moderator_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Moderator_cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "rare",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "ae802169-98b0-41d0-a9d1-e82c28ad99e3",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "70783911-e090-4ada-a750-96405f0f7924",
                 "contentType": "PersonaDurable",
-                "title": "Cheapsh0t Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "cheapsh0t Cape",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1469,50 +1389,10 @@
                 }
               },
               {
-                "id": "a4b46b66-3789-4d6e-a7a1-7cc6ee199f03",
-                "contentType": "PersonaDurable",
-                "title": "ChineseTranslator Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/TranslatorChinese_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/TranslatorChinese_cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "epic",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "472e2a1a-c2e4-41e3-a3a9-e7c3c0361ff1",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "40f25577-c1b8-4922-8678-6e916011c438",
                 "contentType": "PersonaDurable",
                 "title": "Christmas Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1552,7 +1432,7 @@
                 "id": "b3e48843-5db5-4a1d-8ba5-3603c2f3d402",
                 "contentType": "PersonaDurable",
                 "title": "Cobalt Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1589,50 +1469,10 @@
                 }
               },
               {
-                "id": "e758a2c9-d8e0-49f8-a6d7-d10667daf2d5",
-                "contentType": "PersonaDurable",
-                "title": "CrowdinTranslator Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Translator_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Translator_cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "rare",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "7cf99cd2-db39-4b79-bb39-22dc6c474c28",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "8f5c3ea3-0a85-4885-a27a-483f3bd8b535",
                 "contentType": "PersonaDurable",
                 "title": "dannyBstyle Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1672,7 +1512,7 @@
                 "id": "279f387d-4054-4859-856f-533c4839d508",
                 "contentType": "PersonaDurable",
                 "title": "Frog Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1712,7 +1552,7 @@
                 "id": "44f33ecc-dee9-4120-837a-34aca6b993b2",
                 "contentType": "PersonaDurable",
                 "title": "ICU Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1749,50 +1589,10 @@
                 }
               },
               {
-                "id": "94e81811-ed4e-4d97-a2f0-a9e5d2f1b320",
-                "contentType": "PersonaDurable",
-                "title": "Java Migration Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Migrator_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Migrator_cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "uncommon",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "b8e4dbd1-2875-407e-a397-4eb1977e8f4b",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "535c755b-2346-4b47-9b5d-e8d33c1bce3a",
                 "contentType": "PersonaDurable",
                 "title": "JulianClark Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1829,10 +1629,50 @@
                 }
               },
               {
+                "id": "5cd90c25-9006-418e-8552-2122869fe214",
+                "contentType": "PersonaDurable",
+                "title": "Map Maker Cape",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MapMaker_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MapMaker_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "rare",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "f51317cd-6917-4be8-9c31-79a56b5bb504",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
                 "id": "ecd5e398-4f4c-4df0-9167-63070821853c",
                 "contentType": "PersonaDurable",
                 "title": "MC Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1871,8 +1711,8 @@
               {
                 "id": "c6ffe67c-10c8-41f8-b3b8-d599214d1130",
                 "contentType": "PersonaDurable",
-                "title": "MicrosoftDeveloper Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Microsoft Developer Cape",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1909,11 +1749,50 @@
                 }
               },
               {
+                "id": "94e81811-ed4e-4d97-a2f0-a9e5d2f1b320",
+                "contentType": "PersonaDurable",
+                "title": "Migrator Cape",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Migrator_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Migrator_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "uncommon",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "b8e4dbd1-2875-407e-a397-4eb1977e8f4b",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
                 "id": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
                 "contentType": "PersonaDurable",
                 "title": "Millionth Sale Cape",
-                "description": "",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -1958,7 +1837,7 @@
                 "id": "e847fc66-b988-4065-bdc9-fa8fd17457b2",
                 "contentType": "PersonaDurable",
                 "title": "Minecon 2011 Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2006,7 +1885,7 @@
                 "id": "6d520e39-e9d3-4d89-9b5c-01a2ebfd527b",
                 "contentType": "PersonaDurable",
                 "title": "Minecon 2012 Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2054,7 +1933,7 @@
                 "id": "92fcae65-45fa-44e4-b39d-e586f0e9e710",
                 "contentType": "PersonaDurable",
                 "title": "Minecon 2013 Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2102,7 +1981,7 @@
                 "id": "aafefeee-7cca-4f19-9508-b949d1d26561",
                 "contentType": "PersonaDurable",
                 "title": "Minecon 2015 Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2150,7 +2029,7 @@
                 "id": "5a71fd20-dc29-448e-aa14-5bbca08f37bb",
                 "contentType": "PersonaDurable",
                 "title": "Minecon 2016 Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2198,7 +2077,7 @@
                 "id": "0ed75751-d5a7-4331-b3ea-bb495566ce96",
                 "contentType": "PersonaDurable",
                 "title": "Minecon Unused Cape #1",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2246,7 +2125,7 @@
                 "id": "6c05c0a3-56f8-47bd-b2f3-2d7fe36771fd",
                 "contentType": "PersonaDurable",
                 "title": "Minecon Unused Cape #2",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2294,7 +2173,7 @@
                 "id": "ce769de4-4af0-40a0-90da-818053064716",
                 "contentType": "PersonaDurable",
                 "title": "Minecon Unused Cape #3",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2341,8 +2220,8 @@
               {
                 "id": "8c4f280e-aa41-41eb-b749-23c9729e2241",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape4 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #4",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2381,8 +2260,8 @@
               {
                 "id": "e185f8fc-6eff-4e8f-b6af-1b079d216bb4",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape5 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #5",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2421,8 +2300,8 @@
               {
                 "id": "febb7008-0617-46d6-9d35-21371902e442",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape6 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #6",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2461,8 +2340,8 @@
               {
                 "id": "50846482-8988-422e-bdab-52f5757fe000",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape7 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #7",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2501,8 +2380,8 @@
               {
                 "id": "66ffbd70-b6f9-4a80-91f2-a30abc93e3fb",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape8 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #8",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2541,8 +2420,8 @@
               {
                 "id": "f6b6563d-51ee-43d3-ac2e-28b54466568f",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape9 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #9",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2581,8 +2460,8 @@
               {
                 "id": "1ff07805-5e3c-4f5d-b2b4-295a09b45dd9",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape10 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #10",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2621,8 +2500,8 @@
               {
                 "id": "0dfbb48b-ab90-45d5-8204-76190442ffd7",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape11 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #11",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2661,8 +2540,8 @@
               {
                 "id": "189a439c-c652-4398-aab6-faf957f5c81f",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape12 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #12",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2701,8 +2580,8 @@
               {
                 "id": "da2c7113-a499-4356-9fc5-0c5c0a26ee09",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape13 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #13",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2741,8 +2620,8 @@
               {
                 "id": "74f4afb2-5bc7-4eb0-ab49-8c04d9cbb16b",
                 "contentType": "PersonaDurable",
-                "title": "Minecon2011UnusedCape14 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Minecon Unused Cape #14",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2779,15 +2658,15 @@
                 }
               },
               {
-                "id": "9526bf0c-e80e-4ed1-bc63-65ee05a1c71d",
+                "id": "3bea0bbb-d840-406c-9a58-5b3719c52c4d",
                 "contentType": "PersonaDurable",
-                "title": "MrMessiah Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Moderator Cape",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MrMessiah_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MrMessiah_cape.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Moderator_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Moderator_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -2798,13 +2677,13 @@
                   "virtualCurrencyType": "Minecoin"
                 },
                 "pieceType": "persona_capes",
-                "rarity": "epic",
+                "rarity": "rare",
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "1777fbf9-1f88-4a59-a643-417a6230f310",
+                    "uuid": "ae802169-98b0-41d0-a9d1-e82c28ad99e3",
                     "version": "1.0.0"
                   }
                 ],
@@ -2821,8 +2700,8 @@
               {
                 "id": "d1bad1ac-11b3-47d6-bc5c-353d088ccaf3",
                 "contentType": "PersonaDurable",
-                "title": "New Developer Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Mojang Cape",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2859,10 +2738,90 @@
                 }
               },
               {
+                "id": "218a8648-38ac-4cfb-a18c-438a75a46cef",
+                "contentType": "PersonaDurable",
+                "title": "Mojang (Old) Cape",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MojangOld_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MojangOld_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "legendary",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "a199b5f5-006e-47c6-a288-8f5b949938e4",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "9526bf0c-e80e-4ed1-bc63-65ee05a1c71d",
+                "contentType": "PersonaDurable",
+                "title": "MrMessiah Cape",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MrMessiah_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MrMessiah_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "epic",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "1777fbf9-1f88-4a59-a643-417a6230f310",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
                 "id": "a1503271-4400-4479-8fa4-a7cdd6ab94c2",
                 "contentType": "PersonaDurable",
                 "title": "New Years Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2901,8 +2860,8 @@
               {
                 "id": "c3bfe7f1-cf67-4a04-aba3-e2fa066cf406",
                 "contentType": "PersonaDurable",
-                "title": "NoCircle Caep",
-                "creatorName": "Custom Cosmetics",
+                "title": "No Circle Caep",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2942,7 +2901,7 @@
                 "id": "c7204954-858b-47d8-a946-8d2dc6f391c8",
                 "contentType": "PersonaDurable",
                 "title": "Nyan Caep",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -2979,50 +2938,10 @@
                 }
               },
               {
-                "id": "218a8648-38ac-4cfb-a18c-438a75a46cef",
-                "contentType": "PersonaDurable",
-                "title": "OldDeveloper Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MojangOld_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MojangOld_cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "legendary",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "a199b5f5-006e-47c6-a288-8f5b949938e4",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "b2cdb8a8-b746-4036-a56c-a6ab439a3514",
                 "contentType": "PersonaDurable",
                 "title": "Oxeye Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3062,7 +2981,7 @@
                 "id": "212f1de0-8f17-4114-b865-bed262a947f4",
                 "contentType": "PersonaDurable",
                 "title": "Prismarine Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3099,50 +3018,10 @@
                 }
               },
               {
-                "id": "5cd90c25-9006-418e-8552-2122869fe214",
-                "contentType": "PersonaDurable",
-                "title": "Realms Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MapMaker_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MapMaker_cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "rare",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "f51317cd-6917-4be8-9c31-79a56b5bb504",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "479fe5d3-8304-427a-8286-1440017a8a88",
                 "contentType": "PersonaDurable",
-                "title": "Scrolls Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Scrolls Champ Cape",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3179,50 +3058,10 @@
                 }
               },
               {
-                "id": "ecb8230e-9eb7-4122-a8d5-80864dc6aefd",
-                "contentType": "PersonaDurable",
-                "title": "Snail Cape",
-                "creatorName": "Custom Cosmetics",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SnailCape_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SnailCape_cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "ae4fb219-4e9e-4797-ab2b-e246a8a9f69e",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
                 "id": "37215f88-88a7-4a39-8405-b9aa8add4437",
                 "contentType": "PersonaDurable",
-                "title": "Sniffer Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Size M Cape",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3259,10 +3098,50 @@
                 }
               },
               {
+                "id": "ecb8230e-9eb7-4122-a8d5-80864dc6aefd",
+                "contentType": "PersonaDurable",
+                "title": "Snail Cape",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SnailCape_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SnailCape_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "ae4fb219-4e9e-4797-ab2b-e246a8a9f69e",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
                 "id": "c1f94be2-365d-4481-936a-3bcbd4702a59",
                 "contentType": "PersonaDurable",
-                "title": "Squid1 Caep",
-                "creatorName": "Custom Cosmetics",
+                "title": "Squid Caep",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3299,10 +3178,90 @@
                 }
               },
               {
+                "id": "e758a2c9-d8e0-49f8-a6d7-d10667daf2d5",
+                "contentType": "PersonaDurable",
+                "title": "Translator Cape",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Translator_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Translator_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "rare",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "7cf99cd2-db39-4b79-bb39-22dc6c474c28",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "a4b46b66-3789-4d6e-a7a1-7cc6ee199f03",
+                "contentType": "PersonaDurable",
+                "title": "Translator (Chinese) Cape",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/TranslatorChinese_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/TranslatorChinese_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "epic",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "472e2a1a-c2e4-41e3-a3a9-e7c3c0361ff1",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
                 "id": "03ed5f77-cf53-4ad5-882a-f3e616d5f9e0",
                 "contentType": "PersonaDurable",
                 "title": "Turtle Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3342,7 +3301,7 @@
                 "id": "791e2aaf-62a5-4647-8ff7-478fab1177f7",
                 "contentType": "PersonaDurable",
                 "title": "Valentine Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3382,7 +3341,7 @@
                 "id": "ef0ebb20-72bc-449c-9c2f-022f7aa33459",
                 "contentType": "PersonaDurable",
                 "title": "Veterinarian Caep",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3405,6 +3364,46 @@
                   {
                     "type": "persona_piece",
                     "uuid": "25779297-2f5f-4928-af26-6d49fca0d6bc",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!CustomCosmetics",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
+                "contentType": "PersonaDurable",
+                "title": "Xbox Birthday Cape",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/XboxBirthday_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/XboxBirthday_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "uncommon",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "d0567d45-f3e3-46b3-acde-7e692c4f35f7",
                     "version": "1.0.0"
                   }
                 ],
@@ -3469,8 +3468,8 @@
               {
                 "id": "7932e680-a9f0-45fa-b422-88ed7f1b2335",
                 "contentType": "PersonaDurable",
-                "title": "CreeperKing Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Creeper King Cape",
+                "creatorName": "!NerfModder",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3509,8 +3508,8 @@
               {
                 "id": "45b6c356-0535-461d-a6cb-607af970ecb7",
                 "contentType": "PersonaDurable",
-                "title": "CryingObsidian Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Crying Obsidian Cape",
+                "creatorName": "Mantle",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3549,8 +3548,8 @@
               {
                 "id": "f60ca856-ba14-4602-a4a3-3e177d67210e",
                 "contentType": "PersonaDurable",
-                "title": "Cubecraft Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "CubeCraft Cape",
+                "creatorName": "BionicBen",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3589,8 +3588,8 @@
               {
                 "id": "80a1968a-853e-4ca8-9c70-6de7ddb732b1",
                 "contentType": "PersonaDurable",
-                "title": "DiamondBlock Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Diamond Block Cape",
+                "creatorName": "Liefubledo",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3630,7 +3629,7 @@
                 "id": "4a23b41a-508b-49b8-b9d3-8b165337332e",
                 "contentType": "PersonaDurable",
                 "title": "Diamond Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "JakeMCPE",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3670,7 +3669,7 @@
                 "id": "680c6afa-ce03-4055-aa4b-e7085f02da9f",
                 "contentType": "PersonaDurable",
                 "title": "Dragon Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Unknown",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3709,8 +3708,8 @@
               {
                 "id": "8228887d-30bb-44b8-978a-22fc464ff037",
                 "contentType": "PersonaDurable",
-                "title": "EnchantmentTable Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Enchantment Table Cape",
+                "creatorName": "Allkatrez",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3749,8 +3748,8 @@
               {
                 "id": "796e63d1-a146-4c63-b736-b9f0ce553ff2",
                 "contentType": "PersonaDurable",
-                "title": "EyeOfEnder1 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Eye Of Ender Cape",
+                "creatorName": "sebastian",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3789,8 +3788,8 @@
               {
                 "id": "9d17ba55-cc4a-4e7e-aa41-83fa39e36ac9",
                 "contentType": "PersonaDurable",
-                "title": "GameBoy2 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Game Boy Cape",
+                "creatorName": "Temple of Thoom",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3829,8 +3828,8 @@
               {
                 "id": "cccba53e-503a-4e11-8847-7a6676059bff",
                 "contentType": "PersonaDurable",
-                "title": "GildedBlackstone2 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Gilded Blackstone Cape",
+                "creatorName": "Spyynz",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3869,8 +3868,8 @@
               {
                 "id": "6c1ac305-7430-4313-8b90-7d6e0eb1af8e",
                 "contentType": "PersonaDurable",
-                "title": "GlassNew Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Glass Cape",
+                "creatorName": "Liefubledo",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3909,8 +3908,8 @@
               {
                 "id": "43ad7ce2-3c38-4174-9104-b7c95e242c5a",
                 "contentType": "PersonaDurable",
-                "title": "GoldBlock Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Gold Block Cape",
+                "creatorName": "Liefubledo",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3949,8 +3948,8 @@
               {
                 "id": "3aff5d54-a885-405c-9670-e794473ac3a7",
                 "contentType": "PersonaDurable",
-                "title": "GoldenApple1 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Golden Apple Cape",
+                "creatorName": "JakeMCPE",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -3990,7 +3989,7 @@
                 "id": "ae573c14-0b8b-4bac-bd27-8bf84116f4f2",
                 "contentType": "PersonaDurable",
                 "title": "Hardcore Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Dubby Plays",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4030,7 +4029,7 @@
                 "id": "b88305b5-a7b6-48a0-bbf3-1d146a585265",
                 "contentType": "PersonaDurable",
                 "title": "Hypixel Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "BionicBen",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4070,7 +4069,7 @@
                 "id": "4ca17959-173d-4ae0-ae15-d114ac23bb02",
                 "contentType": "PersonaDurable",
                 "title": "Microsoft Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Dexeo",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4109,8 +4108,8 @@
               {
                 "id": "0e1d924c-9eb6-42d5-baeb-706335c268e2",
                 "contentType": "PersonaDurable",
-                "title": "NetherStar Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Nether Star Cape",
+                "creatorName": "TLauncher",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4149,8 +4148,8 @@
               {
                 "id": "1b19a308-86cc-4fb0-9f62-683a30906dd5",
                 "contentType": "PersonaDurable",
-                "title": "NetheriteBlock Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Netherite Block Cape",
+                "creatorName": "Spyynz",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4189,8 +4188,8 @@
               {
                 "id": "01f86701-e166-4cff-97a5-e40dd192f3ec",
                 "contentType": "PersonaDurable",
-                "title": "OF Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "OptiFine Cape",
+                "creatorName": "OptiFine",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4229,8 +4228,8 @@
               {
                 "id": "fb2245c6-dc9c-4be2-99f7-b1ad94fb41f3",
                 "contentType": "PersonaDurable",
-                "title": "OFCape10Anniversary Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "OptiFine 10th Anniversary Cape",
+                "creatorName": "OptiFine",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4270,7 +4269,7 @@
                 "id": "b01a36e6-6426-4585-8eba-6024bea40820",
                 "contentType": "PersonaDurable",
                 "title": "Omniarchive Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "Crackers0106",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4310,7 +4309,7 @@
                 "id": "8d59e86b-138c-4308-8ccc-7f1f26695b03",
                 "contentType": "PersonaDurable",
                 "title": "Paper Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "RanchyCeaser",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4350,7 +4349,7 @@
                 "id": "8d8508a7-4a2e-44d8-8e5d-76b61639955d",
                 "contentType": "PersonaDurable",
                 "title": "Pearl Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "JakeMCPE",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4389,8 +4388,8 @@
               {
                 "id": "7ef3e8b3-50a6-4f94-9de3-9c50a011a7be",
                 "contentType": "PersonaDurable",
-                "title": "PhantomWings Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "Phantom Wings Cape",
+                "creatorName": "RanchyCeaser",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4430,7 +4429,7 @@
                 "id": "449308f3-1f33-4b92-ae94-f7fb198e2c01",
                 "contentType": "PersonaDurable",
                 "title": "Pumpkin Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "smartvong",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4470,7 +4469,7 @@
                 "id": "4ca9116f-0e34-4ec3-ae1b-203cc31a6540",
                 "contentType": "PersonaDurable",
                 "title": "Switch Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "-DaniL",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4510,7 +4509,7 @@
                 "id": "4b63517d-d430-4162-8eb4-74886973a92e",
                 "contentType": "PersonaDurable",
                 "title": "Sword Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "JakeMCPE",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4549,8 +4548,8 @@
               {
                 "id": "b224c73e-80cd-4874-a4a2-b31e6e1b1f55",
                 "contentType": "PersonaDurable",
-                "title": "TheHive Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "The Hive Cape",
+                "creatorName": "floormint",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4590,7 +4589,7 @@
                 "id": "503017f7-c1e4-4e34-81d6-fc980f28f416",
                 "contentType": "PersonaDurable",
                 "title": "Totem Cape",
-                "creatorName": "Custom Cosmetics",
+                "creatorName": "MinecraftCapes",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4629,8 +4628,8 @@
               {
                 "id": "380043d3-41a4-4f07-b682-03449244d0e8",
                 "contentType": "PersonaDurable",
-                "title": "YouTube1 Cape",
-                "creatorName": "Custom Cosmetics",
+                "title": "YouTube Cape",
+                "creatorName": "ItsOasis",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
@@ -4774,7 +4773,7 @@
               {
                 "id": "29b830ac-19c0-463f-a9e1-4811c290d19e",
                 "contentType": "PersonaDurable",
-                "title": "BionicBen1218 Cape",
+                "title": "BionicBen Cape",
                 "creatorName": "BionicBen - §lCLICK HERE FOR MORE CAPES!",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -4891,7 +4890,7 @@
               {
                 "id": "09f9b23e-8d9c-4ff5-8c11-9c5d3f405df0",
                 "contentType": "PersonaDurable",
-                "title": "Dragon Wings Cape",
+                "title": "Ender Dragon's Cape",
                 "creatorName": "1st Birthday Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -4931,7 +4930,7 @@
               {
                 "id": "b4a07965-1cb3-48b3-930a-2f03579fef4a",
                 "contentType": "PersonaDurable",
-                "title": "Jens Hair Cape",
+                "title": "Jens's Cape",
                 "creatorName": "3rd Birthday Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -4971,7 +4970,7 @@
               {
                 "id": "e02b1b6b-4474-4ce5-966b-a90569adb87b",
                 "contentType": "PersonaDurable",
-                "title": "Huntress Wizard Cape",
+                "title": "Huntress Wizard's Cape",
                 "creatorName": "Adventure Time Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5011,7 +5010,7 @@
               {
                 "id": "b98cf866-ef6b-457a-a5f2-9c5fc2ae68f6",
                 "contentType": "PersonaDurable",
-                "title": "Torn Cape",
+                "title": "Lich's Cape",
                 "creatorName": "Adventure Time Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5051,7 +5050,7 @@
               {
                 "id": "d848cddd-bd33-4eb2-8efb-bff3246fe0eb",
                 "contentType": "PersonaDurable",
-                "title": "MaleSpartan Cape",
+                "title": "Spartan Man's Cape",
                 "creatorName": "Battle & Beasts Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5091,7 +5090,7 @@
               {
                 "id": "4af67132-64f7-486e-827f-a9afe35a3996",
                 "contentType": "PersonaDurable",
-                "title": "FemaleSpartan Cape",
+                "title": "Spartan Woman's Cape",
                 "creatorName": "Battle & Beasts Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5131,7 +5130,7 @@
               {
                 "id": "8a7bb9e3-eb68-4566-99ef-f5aba1ebcc99",
                 "contentType": "PersonaDurable",
-                "title": "Maori Man Cape",
+                "title": "Maori Man's Cape",
                 "creatorName": "Battle & Beasts 2 Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5171,7 +5170,7 @@
               {
                 "id": "d30cca64-fa61-4a36-9b00-c5f30690ffec",
                 "contentType": "PersonaDurable",
-                "title": "ArabianManScarf Cape",
+                "title": "Arabian Man's Cape",
                 "creatorName": "Battle & Beasts 2 Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5211,7 +5210,7 @@
               {
                 "id": "9d84a147-ed96-4cbc-b0cc-ee769c57748c",
                 "contentType": "PersonaDurable",
-                "title": "Ice Lord Cape",
+                "title": "Ice Lord's Cape",
                 "creatorName": "Doctor Who Skins Volume I",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5251,7 +5250,7 @@
               {
                 "id": "1327c3a1-2457-4583-b9c9-f2f296542710",
                 "contentType": "PersonaDurable",
-                "title": "Liz 10 Cape",
+                "title": "Liz 10's Cape",
                 "creatorName": "Doctor Who Skins Volume I",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5291,7 +5290,7 @@
               {
                 "id": "c11a4d20-9f52-4e59-9df1-7e233914d882",
                 "contentType": "PersonaDurable",
-                "title": "Sycorax Cape",
+                "title": "Sycorax's Cape",
                 "creatorName": "Doctor Who Skins Volume II",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5331,7 +5330,7 @@
               {
                 "id": "aeecb6a5-37a2-4ffd-a654-507faacac4db",
                 "contentType": "PersonaDurable",
-                "title": "Third Doctor Cape",
+                "title": "The Third Doctor's Cape",
                 "creatorName": "Doctor Who Skins Volume II",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5371,7 +5370,7 @@
               {
                 "id": "5545dbaa-d97f-44a6-8299-53159197b4c3",
                 "contentType": "PersonaDurable",
-                "title": "Apollo Harp Cape",
+                "title": "Apollo's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5411,7 +5410,7 @@
               {
                 "id": "b5fd0669-e5da-4f7b-8344-4d2f09ed08fc",
                 "contentType": "PersonaDurable",
-                "title": "Artemis Bow Cape",
+                "title": "Artemis's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5451,7 +5450,7 @@
               {
                 "id": "fc4da888-ca7d-468d-8ba8-7224b7bb40dc",
                 "contentType": "PersonaDurable",
-                "title": "Atlanta Hair Cape",
+                "title": "Atlanta's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5491,7 +5490,7 @@
               {
                 "id": "16a1b29c-736e-4f06-b343-adcfa5e1905f",
                 "contentType": "PersonaDurable",
-                "title": "Athena Shield Cape",
+                "title": "Athena's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5531,7 +5530,7 @@
               {
                 "id": "9ba0258f-defe-46e4-90d9-5bc71f851d0f",
                 "contentType": "PersonaDurable",
-                "title": "Cadmus Cape",
+                "title": "Cadmus's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5571,7 +5570,7 @@
               {
                 "id": "0ed6237e-b4ee-4812-8aa8-1dda9243cca9",
                 "contentType": "PersonaDurable",
-                "title": "Dryad Wings Cape",
+                "title": "Dryad's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5611,7 +5610,7 @@
               {
                 "id": "eb84b79b-5eb2-495f-9c29-a2a41c782280",
                 "contentType": "PersonaDurable",
-                "title": "Erinyes Wings Cape",
+                "title": "Erinyes's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5651,7 +5650,7 @@
               {
                 "id": "b178525f-a466-43d4-b241-a8611bc7e66e",
                 "contentType": "PersonaDurable",
-                "title": "Hades Cape",
+                "title": "Hades's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5691,7 +5690,7 @@
               {
                 "id": "a0ca27b0-3e20-4740-b42b-79354f0b4158",
                 "contentType": "PersonaDurable",
-                "title": "Hephaestus Hammer Cape",
+                "title": "Hephaestus's Hammer Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5731,7 +5730,7 @@
               {
                 "id": "a6657526-6dba-494d-b308-5e5cca8ad414",
                 "contentType": "PersonaDurable",
-                "title": "Heracles Cape",
+                "title": "Heracles's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5771,7 +5770,7 @@
               {
                 "id": "cd3790a2-2497-41d3-93f2-15cedb4fc4f0",
                 "contentType": "PersonaDurable",
-                "title": "Perseus Cape",
+                "title": "Perseus's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5811,7 +5810,7 @@
               {
                 "id": "69022d1e-3714-4801-b601-96c688f8c465",
                 "contentType": "PersonaDurable",
-                "title": "Poseidon Trident Cape",
+                "title": "Poseidon's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5851,7 +5850,7 @@
               {
                 "id": "4bc567ba-76ec-4879-9c0c-981b63e035a6",
                 "contentType": "PersonaDurable",
-                "title": "Prometheus Cape",
+                "title": "Prometheus's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5891,7 +5890,7 @@
               {
                 "id": "e50c0b8f-c9a7-409e-8308-050e01ecf6a3",
                 "contentType": "PersonaDurable",
-                "title": "Spartoi Shield Cape",
+                "title": "Spartoi's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5931,7 +5930,7 @@
               {
                 "id": "af5dff18-9079-4112-aa0f-c4a8d7eee407",
                 "contentType": "PersonaDurable",
-                "title": "Zeus Lightning Bolt Cape",
+                "title": "Zeus's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -5971,7 +5970,7 @@
               {
                 "id": "a3532b58-84d4-46f6-bbdc-d69b33f33215",
                 "contentType": "PersonaDurable",
-                "title": "Agronaut2 Wings Cape",
+                "title": "Argonaut 2's Cape",
                 "creatorName": "Greek Mythology Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6051,7 +6050,7 @@
               {
                 "id": "fe62dada-d163-4aa3-96e3-e75533ff4810",
                 "contentType": "PersonaDurable",
-                "title": "Captain Zombie Cape",
+                "title": "Captain Zombie's Cape",
                 "creatorName": "Halloween Charity Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6091,7 +6090,7 @@
               {
                 "id": "d2368d34-eb2a-408c-b10b-44526c8db77c",
                 "contentType": "PersonaDurable",
-                "title": "Headless Horseman Cape",
+                "title": "Headless Horseman's Cape",
                 "creatorName": "Halloween Charity Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6131,7 +6130,7 @@
               {
                 "id": "ce68e327-e923-436c-9082-0002e35dec58",
                 "contentType": "PersonaDurable",
-                "title": "Bride Cape",
+                "title": "Bride Of Frankenstein's Cape",
                 "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6171,7 +6170,7 @@
               {
                 "id": "7240188f-2a70-47f5-9a90-cf59979068f8",
                 "contentType": "PersonaDurable",
-                "title": "Devil Cape",
+                "title": "Devil's Cape",
                 "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6211,7 +6210,7 @@
               {
                 "id": "e6856cbc-8e90-4dd2-b923-7731a42b20a5",
                 "contentType": "PersonaDurable",
-                "title": "Dracula Cape",
+                "title": "Dracula's Cape",
                 "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6251,7 +6250,7 @@
               {
                 "id": "24b6e7e9-3d7b-4b11-9b16-c31ddcc86c6d",
                 "contentType": "PersonaDurable",
-                "title": "Evil Wizard Cape",
+                "title": "Evil Wizard's Cape",
                 "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6291,7 +6290,7 @@
               {
                 "id": "2cf7058d-7983-4391-b2d4-19e4bbb0a193",
                 "contentType": "PersonaDurable",
-                "title": "Maman Brigitte Cape",
+                "title": "Maman Brigitte's Cape",
                 "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6331,7 +6330,7 @@
               {
                 "id": "758f609a-08d7-475b-a51b-8e5969a551a1",
                 "contentType": "PersonaDurable",
-                "title": "Grim Reaper Cape",
+                "title": "Grim Reaper's Cape",
                 "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6371,7 +6370,7 @@
               {
                 "id": "d6a699e7-34cc-420b-90d6-b91b1982a1ec",
                 "contentType": "PersonaDurable",
-                "title": "Wicked Witch Cape",
+                "title": "Wicked Witch's Cape",
                 "creatorName": "Halloween Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6411,7 +6410,7 @@
               {
                 "id": "0f06b4ce-1551-47e4-87d9-fe2457e24550",
                 "contentType": "PersonaDurable",
-                "title": "Drone Cape",
+                "title": "Drone's Cape",
                 "creatorName": "Master Chief Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6451,7 +6450,7 @@
               {
                 "id": "378ea401-3dc4-43a6-878f-bd6f7d7745d2",
                 "contentType": "PersonaDurable",
-                "title": "Bride Sackgirl Cape",
+                "title": "Bride Sackgirl's Cape",
                 "creatorName": "LittleBigPlanet™ Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6491,7 +6490,7 @@
               {
                 "id": "398dad88-b181-4a5f-b3d4-9cced549eaa5",
                 "contentType": "PersonaDurable",
-                "title": "Dragon Sackboy Cape",
+                "title": "Dragon Sackboy's Cape",
                 "creatorName": "LittleBigPlanet™ Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6531,7 +6530,7 @@
               {
                 "id": "34213a3e-5747-4d86-a8cd-bb131dbc0bf6",
                 "contentType": "PersonaDurable",
-                "title": "Fairy Sackgirl Wings Cape",
+                "title": "Fairy Sackgirl's Cape",
                 "creatorName": "LittleBigPlanet™ Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6571,7 +6570,7 @@
               {
                 "id": "87f6a791-179c-4849-aeab-fb8b370ce203",
                 "contentType": "PersonaDurable",
-                "title": "PurpleWings Cape",
+                "title": "Pinky Buflooms's Cape",
                 "creatorName": "LittleBigPlanet™ Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6611,7 +6610,7 @@
               {
                 "id": "11e6b451-9601-4580-9c59-840def60f762",
                 "contentType": "PersonaDurable",
-                "title": "The Newton Cape",
+                "title": "The Newton's Cape",
                 "creatorName": "LittleBigPlanet™ Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6651,7 +6650,7 @@
               {
                 "id": "be747c5d-d1d4-41cc-a0ee-1fa364f3eae4",
                 "contentType": "PersonaDurable",
-                "title": "Black Panther Cape",
+                "title": "Black Panther's Cape",
                 "creatorName": "Marvel Avengers Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6691,7 +6690,7 @@
               {
                 "id": "4372a4b9-4347-4bf8-ba71-68d8237087a2",
                 "contentType": "PersonaDurable",
-                "title": "Captain America Shield Cape",
+                "title": "Captain America's Cape",
                 "creatorName": "Marvel Avengers Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6731,7 +6730,7 @@
               {
                 "id": "a19286be-c17f-4e88-aeea-cb2bec2fb047",
                 "contentType": "PersonaDurable",
-                "title": "Falcon Wings Cape",
+                "title": "Falcon's Cape",
                 "creatorName": "Marvel Avengers Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6771,7 +6770,7 @@
               {
                 "id": "b7817050-11a8-431f-ad0f-78bfad184939",
                 "contentType": "PersonaDurable",
-                "title": "Loki Cape",
+                "title": "Loki's Cape",
                 "creatorName": "Marvel Avengers Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6811,7 +6810,7 @@
               {
                 "id": "8ef94505-b1c5-40ab-8c9b-83a060475ea5",
                 "contentType": "PersonaDurable",
-                "title": "Moon Knight Cape",
+                "title": "Moon Knight's Cape",
                 "creatorName": "Marvel Avengers Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6851,7 +6850,7 @@
               {
                 "id": "e32fba53-9b31-4377-90f5-362d6f02b603",
                 "contentType": "PersonaDurable",
-                "title": "Taskmaster Cape",
+                "title": "Taskmaster's Cape",
                 "creatorName": "Marvel Avengers Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6891,7 +6890,7 @@
               {
                 "id": "fe035e3d-1339-4bcd-aa09-40f3bb777ce3",
                 "contentType": "PersonaDurable",
-                "title": "Thor Cape",
+                "title": "Thor's Cape",
                 "creatorName": "Marvel Avengers Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6931,7 +6930,7 @@
               {
                 "id": "f5c8d822-081a-4eaa-87d1-740388b6fcfc",
                 "contentType": "PersonaDurable",
-                "title": "Vision Cape",
+                "title": "Vision's Cape",
                 "creatorName": "Marvel Avengers Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -6971,7 +6970,7 @@
               {
                 "id": "730f596e-9ceb-4467-9fc5-f5a0b98150e3",
                 "contentType": "PersonaDurable",
-                "title": "Wasp Wings Cape",
+                "title": "Wasp's Cape",
                 "creatorName": "Marvel Avengers Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7011,7 +7010,7 @@
               {
                 "id": "717c8fc3-b3fb-40b1-93e1-759e28e59cd3",
                 "contentType": "PersonaDurable",
-                "title": "Adam Warlock Cape",
+                "title": "Adam Warlock's Cape",
                 "creatorName": "Marvel Guardians of the Galaxy Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7051,7 +7050,7 @@
               {
                 "id": "aaed1892-49e7-4d6d-b831-478e3430cedd",
                 "contentType": "PersonaDurable",
-                "title": "Angela Strings Cape",
+                "title": "Angela's Cape",
                 "creatorName": "Marvel Guardians of the Galaxy Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7091,7 +7090,7 @@
               {
                 "id": "f7be084c-4b08-4c7c-8e4c-7aeac5b39361",
                 "contentType": "PersonaDurable",
-                "title": "Quasar Cape",
+                "title": "Quasar's Cape",
                 "creatorName": "Marvel Guardians of the Galaxy Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7131,7 +7130,7 @@
               {
                 "id": "3196d4be-7694-4079-9aff-038fae17c646",
                 "contentType": "PersonaDurable",
-                "title": "RonanTheAccuser Cape",
+                "title": "Ronan The Accuser's Cape",
                 "creatorName": "Marvel Guardians of the Galaxy Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7171,7 +7170,7 @@
               {
                 "id": "3ac993e0-666d-41dc-a4c5-73a61aeaf4a7",
                 "contentType": "PersonaDurable",
-                "title": "TheCollector Cape",
+                "title": "The Collector's Cape",
                 "creatorName": "Marvel Guardians of the Galaxy Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7211,7 +7210,7 @@
               {
                 "id": "83fd88f7-2661-48eb-b0dd-19ca46d7fd27",
                 "contentType": "PersonaDurable",
-                "title": "Wraith Cape",
+                "title": "Wraith's Cape",
                 "creatorName": "Marvel Guardians of the Galaxy Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7251,7 +7250,7 @@
               {
                 "id": "1f3efb52-985c-41d6-bba3-84c82c8cd7d3",
                 "contentType": "PersonaDurable",
-                "title": "Kraven Cape",
+                "title": "Kraven's Cape",
                 "creatorName": "Marvel Spider-Man Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7291,7 +7290,7 @@
               {
                 "id": "1302fcaa-9de1-49eb-b9cd-a41f7c44a2d2",
                 "contentType": "PersonaDurable",
-                "title": "Menace Cape",
+                "title": "Menace's Cape",
                 "creatorName": "Marvel Spider-Man Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7331,7 +7330,7 @@
               {
                 "id": "2c0f3e81-90cc-4530-8f74-d357356e9a34",
                 "contentType": "PersonaDurable",
-                "title": "Morbius Cape",
+                "title": "Morbius's Cape",
                 "creatorName": "Marvel Spider-Man Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7371,7 +7370,7 @@
               {
                 "id": "efc102f0-3258-430e-adc4-c3d438c81889",
                 "contentType": "PersonaDurable",
-                "title": "Mysterio Cape",
+                "title": "Mysterio's Cape",
                 "creatorName": "Marvel Spider-Man Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7411,7 +7410,7 @@
               {
                 "id": "84013056-d26a-41de-a670-4d2c8b0dd8ac",
                 "contentType": "PersonaDurable",
-                "title": "Spider-Man2099Web Cape",
+                "title": "Spider-Man - 2099's Cape",
                 "creatorName": "Marvel Spider-Man Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7451,7 +7450,7 @@
               {
                 "id": "444b313f-e84d-4598-b68f-897aca55b51f",
                 "contentType": "PersonaDurable",
-                "title": "VultureWings Cape",
+                "title": "Vulture's Cape",
                 "creatorName": "Marvel Spider-Man Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7491,7 +7490,7 @@
               {
                 "id": "630b51f3-19ea-46cd-9b8b-6c9e69457ccc",
                 "contentType": "PersonaDurable",
-                "title": "Red Robed Figure Cape",
+                "title": "Red Robed Figure's Cape",
                 "creatorName": "Skin Pack 2",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7531,7 +7530,7 @@
               {
                 "id": "df15593e-30c2-470f-8559-afc6aebd3dd0",
                 "contentType": "PersonaDurable",
-                "title": "White Robed Figure Cape",
+                "title": "White Robed Figure's Cape",
                 "creatorName": "Skin Pack 2",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7571,7 +7570,7 @@
               {
                 "id": "b3011c06-6997-4ece-9d4f-5044d4308d73",
                 "contentType": "PersonaDurable",
-                "title": "Jak's Scarf Cape",
+                "title": "Jak's Cape",
                 "creatorName": "Skin Pack 3",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7611,7 +7610,7 @@
               {
                 "id": "c1974f5f-c852-4ad7-83dd-2d9bf5f740cf",
                 "contentType": "PersonaDurable",
-                "title": "Ezio Cape",
+                "title": "Ezio's Cape",
                 "creatorName": "Skin Pack 4",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7651,7 +7650,7 @@
               {
                 "id": "45117ce7-6ffe-4d0d-85dc-842c4b386214",
                 "contentType": "PersonaDurable",
-                "title": "Knight1 Cape",
+                "title": "Knight 1's Cape",
                 "creatorName": "Skin Pack 4",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7691,7 +7690,7 @@
               {
                 "id": "9f775505-639e-4a97-bb31-9c3208cf497f",
                 "contentType": "PersonaDurable",
-                "title": "Knight2 Cape",
+                "title": "Knight 2's Cape",
                 "creatorName": "Skin Pack 4",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7731,7 +7730,7 @@
               {
                 "id": "2bb26719-b784-4cea-83f6-5ed210c4ff90",
                 "contentType": "PersonaDurable",
-                "title": "Knight3 Cape",
+                "title": "Knight 3's Cape",
                 "creatorName": "Skin Pack 4",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7771,7 +7770,7 @@
               {
                 "id": "34d1c7e8-0dcc-43f8-a7a2-1e093482c9ca",
                 "contentType": "PersonaDurable",
-                "title": "Knight4 Cape",
+                "title": "Knight 4's Cape",
                 "creatorName": "Skin Pack 4",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7811,7 +7810,7 @@
               {
                 "id": "4f5a1bda-d544-486e-a430-0d3e1551e73b",
                 "contentType": "PersonaDurable",
-                "title": "ShieldyBlockerson Cape",
+                "title": "Shieldy Blockerson's Cape",
                 "creatorName": "Skin Pack 6",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7851,7 +7850,7 @@
               {
                 "id": "c7f7b843-846c-49c8-bd55-06534e48deb2",
                 "contentType": "PersonaDurable",
-                "title": "Nazir Cape",
+                "title": "Nazir's Cape",
                 "creatorName": "Dragonborn Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7891,7 +7890,7 @@
               {
                 "id": "265937c0-d99d-449d-8c1e-244b5ea1571e",
                 "contentType": "PersonaDurable",
-                "title": "Vampire Lord Cape",
+                "title": "Vampire Lord's Cape",
                 "creatorName": "Dragonborn Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7931,7 +7930,7 @@
               {
                 "id": "8ac65528-ed62-4495-aa47-b453b3320916",
                 "contentType": "PersonaDurable",
-                "title": "LandoCalrission Cape",
+                "title": "Lando Calrission's Cape",
                 "creatorName": "Star Wars Classic Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -7971,7 +7970,7 @@
               {
                 "id": "3ad68359-a28f-4fd1-bd37-f00b7e4f1b4a",
                 "contentType": "PersonaDurable",
-                "title": "Yoda Cape",
+                "title": "Yoda's Cape",
                 "creatorName": "Star Wars Classic Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -8011,7 +8010,7 @@
               {
                 "id": "6c6df40b-c150-493d-848d-39627c3f48a0",
                 "contentType": "PersonaDurable",
-                "title": "BossNassScarf Cape",
+                "title": "Boss Nass's Cape",
                 "creatorName": "Star Wars Prequel Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -8051,7 +8050,7 @@
               {
                 "id": "dbfab819-3a56-4ee4-8688-6a3e5065136f",
                 "contentType": "PersonaDurable",
-                "title": "Count Dooku Cape",
+                "title": "Count Dooku's Cape",
                 "creatorName": "Star Wars Prequel Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -8091,7 +8090,7 @@
               {
                 "id": "75d5497d-4ab9-4e43-924e-108500285082",
                 "contentType": "PersonaDurable",
-                "title": "GeneralGrievous Cape",
+                "title": "General Grievous's Cape",
                 "creatorName": "Star Wars Prequel Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -8131,7 +8130,7 @@
               {
                 "id": "e9638da5-88db-4a0d-b682-912742e43895",
                 "contentType": "PersonaDurable",
-                "title": "MasAmedda Cape",
+                "title": "Mas Amedda's Cape",
                 "creatorName": "Star Wars Prequel Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -8171,7 +8170,7 @@
               {
                 "id": "2f4020a5-027f-4680-838c-0439bcecee90",
                 "contentType": "PersonaDurable",
-                "title": "PadmeAmidala Cape",
+                "title": "Padmé Amidala's Cape",
                 "creatorName": "Star Wars Prequel Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -8211,7 +8210,7 @@
               {
                 "id": "49ced7b9-c18e-46e0-a955-fe9d521783b8",
                 "contentType": "PersonaDurable",
-                "title": "Senator Palpatine Cape",
+                "title": "Senator Palpatine's Cape",
                 "creatorName": "Star Wars Prequel Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -8251,7 +8250,7 @@
               {
                 "id": "670f3827-b260-47a7-96e5-96b1fe02ce77",
                 "contentType": "PersonaDurable",
-                "title": "Poggle The Lesser Wings Cape",
+                "title": "Poggle The Lesser's Cape",
                 "creatorName": "Star Wars Prequel Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -8291,7 +8290,7 @@
               {
                 "id": "12fba8b3-ed4d-4e91-9eea-56d3e5f35cfe",
                 "contentType": "PersonaDurable",
-                "title": "UnusedWings Cape",
+                "title": "Unused Wings Cape",
                 "creatorName": "Star Wars Prequel Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
@@ -8331,7 +8330,7 @@
               {
                 "id": "f3a358d0-d3d8-42b2-b01b-47aa2533754c",
                 "contentType": "PersonaDurable",
-                "title": "SherriAndTerriHair Cape",
+                "title": "Sherri And Terri's Cape",
                 "creatorName": "The Simpsons Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
