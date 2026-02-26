@@ -12,10 +12,6 @@
     "response": "Persona\\VanillaCapes\\Birthday_cape.json"
   },
   {
-    "uuid": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
-    "response": "Persona\\VanillaCapes\\XboxBirthday_cape.json"
-  },
-  {
     "uuid": "314b1c57-c666-479b-b555-d1380b0b8654",
     "response": "Persona\\VanillaCapes\\Blonk_cape.json"
   },
@@ -24,16 +20,8 @@
     "response": "Persona\\VanillaCapes\\Blueprint_cape.json"
   },
   {
-    "uuid": "3bea0bbb-d840-406c-9a58-5b3719c52c4d",
-    "response": "Persona\\VanillaCapes\\Moderator_cape.json"
-  },
-  {
     "uuid": "70783911-e090-4ada-a750-96405f0f7924",
     "response": "Persona\\VanillaCapes\\cheapsh0t_cape.json"
-  },
-  {
-    "uuid": "a4b46b66-3789-4d6e-a7a1-7cc6ee199f03",
-    "response": "Persona\\VanillaCapes\\TranslatorChinese_cape.json"
   },
   {
     "uuid": "40f25577-c1b8-4922-8678-6e916011c438",
@@ -42,10 +30,6 @@
   {
     "uuid": "b3e48843-5db5-4a1d-8ba5-3603c2f3d402",
     "response": "Persona\\VanillaCapes\\Cobalt_cape.json"
-  },
-  {
-    "uuid": "e758a2c9-d8e0-49f8-a6d7-d10667daf2d5",
-    "response": "Persona\\VanillaCapes\\Translator_cape.json"
   },
   {
     "uuid": "8f5c3ea3-0a85-4885-a27a-483f3bd8b535",
@@ -60,12 +44,12 @@
     "response": "Persona\\VanillaCapes\\ICU_cape.json"
   },
   {
-    "uuid": "94e81811-ed4e-4d97-a2f0-a9e5d2f1b320",
-    "response": "Persona\\VanillaCapes\\Migrator_cape.json"
-  },
-  {
     "uuid": "535c755b-2346-4b47-9b5d-e8d33c1bce3a",
     "response": "Persona\\VanillaCapes\\JulianClark_cape.json"
+  },
+  {
+    "uuid": "5cd90c25-9006-418e-8552-2122869fe214",
+    "response": "Persona\\VanillaCapes\\MapMaker_cape.json"
   },
   {
     "uuid": "ecd5e398-4f4c-4df0-9167-63070821853c",
@@ -74,6 +58,10 @@
   {
     "uuid": "c6ffe67c-10c8-41f8-b3b8-d599214d1130",
     "response": "Persona\\VanillaCapes\\MicrosoftDeveloper_cape.json"
+  },
+  {
+    "uuid": "94e81811-ed4e-4d97-a2f0-a9e5d2f1b320",
+    "response": "Persona\\VanillaCapes\\Migrator_cape.json"
   },
   {
     "uuid": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
@@ -156,12 +144,20 @@
     "response": "Persona\\VanillaCapes\\MineconUnused14_cape.json"
   },
   {
-    "uuid": "9526bf0c-e80e-4ed1-bc63-65ee05a1c71d",
-    "response": "Persona\\VanillaCapes\\MrMessiah_cape.json"
+    "uuid": "3bea0bbb-d840-406c-9a58-5b3719c52c4d",
+    "response": "Persona\\VanillaCapes\\Moderator_cape.json"
   },
   {
     "uuid": "d1bad1ac-11b3-47d6-bc5c-353d088ccaf3",
     "response": "Persona\\VanillaCapes\\Mojang_cape.json"
+  },
+  {
+    "uuid": "218a8648-38ac-4cfb-a18c-438a75a46cef",
+    "response": "Persona\\VanillaCapes\\MojangOld_cape.json"
+  },
+  {
+    "uuid": "9526bf0c-e80e-4ed1-bc63-65ee05a1c71d",
+    "response": "Persona\\VanillaCapes\\MrMessiah_cape.json"
   },
   {
     "uuid": "a1503271-4400-4479-8fa4-a7cdd6ab94c2",
@@ -176,10 +172,6 @@
     "response": "Persona\\VanillaCapes\\Nyan_cape.json"
   },
   {
-    "uuid": "218a8648-38ac-4cfb-a18c-438a75a46cef",
-    "response": "Persona\\VanillaCapes\\MojangOld_cape.json"
-  },
-  {
     "uuid": "b2cdb8a8-b746-4036-a56c-a6ab439a3514",
     "response": "Persona\\VanillaCapes\\Oxeye_cape.json"
   },
@@ -188,24 +180,28 @@
     "response": "Persona\\VanillaCapes\\Prismarine_cape.json"
   },
   {
-    "uuid": "5cd90c25-9006-418e-8552-2122869fe214",
-    "response": "Persona\\VanillaCapes\\MapMaker_cape.json"
-  },
-  {
     "uuid": "479fe5d3-8304-427a-8286-1440017a8a88",
     "response": "Persona\\VanillaCapes\\ScrollsChamp_cape.json"
-  },
-  {
-    "uuid": "ecb8230e-9eb7-4122-a8d5-80864dc6aefd",
-    "response": "Persona\\VanillaCapes\\SnailCape_cape.json"
   },
   {
     "uuid": "37215f88-88a7-4a39-8405-b9aa8add4437",
     "response": "Persona\\VanillaCapes\\SizeM_cape.json"
   },
   {
+    "uuid": "ecb8230e-9eb7-4122-a8d5-80864dc6aefd",
+    "response": "Persona\\VanillaCapes\\SnailCape_cape.json"
+  },
+  {
     "uuid": "c1f94be2-365d-4481-936a-3bcbd4702a59",
     "response": "Persona\\VanillaCapes\\Squid_cape.json"
+  },
+  {
+    "uuid": "e758a2c9-d8e0-49f8-a6d7-d10667daf2d5",
+    "response": "Persona\\VanillaCapes\\Translator_cape.json"
+  },
+  {
+    "uuid": "a4b46b66-3789-4d6e-a7a1-7cc6ee199f03",
+    "response": "Persona\\VanillaCapes\\TranslatorChinese_cape.json"
   },
   {
     "uuid": "03ed5f77-cf53-4ad5-882a-f3e616d5f9e0",
@@ -220,6 +216,22 @@
     "response": "Persona\\VanillaCapes\\Veterinarian_cape.json"
   },
   {
+    "uuid": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
+    "response": "Persona\\VanillaCapes\\XboxBirthday_cape.json"
+  },
+  {
+    "uuid": "80a1968a-853e-4ca8-9c70-6de7ddb732b1",
+    "response": "Persona\\CustomCapes\\BlockOfDiamond_cape.json"
+  },
+  {
+    "uuid": "43ad7ce2-3c38-4174-9104-b7c95e242c5a",
+    "response": "Persona\\CustomCapes\\BlockOfGold_cape.json"
+  },
+  {
+    "uuid": "1b19a308-86cc-4fb0-9f62-683a30906dd5",
+    "response": "Persona\\CustomCapes\\BlockOfNetherite_cape.json"
+  },
+  {
     "uuid": "7932e680-a9f0-45fa-b422-88ed7f1b2335",
     "response": "Persona\\CustomCapes\\CreeperKing_cape.json"
   },
@@ -230,10 +242,6 @@
   {
     "uuid": "f60ca856-ba14-4602-a4a3-3e177d67210e",
     "response": "Persona\\CustomCapes\\CubeCraft_cape.json"
-  },
-  {
-    "uuid": "80a1968a-853e-4ca8-9c70-6de7ddb732b1",
-    "response": "Persona\\CustomCapes\\BlockOfDiamond_cape.json"
   },
   {
     "uuid": "4a23b41a-508b-49b8-b9d3-8b165337332e",
@@ -264,10 +272,6 @@
     "response": "Persona\\CustomCapes\\GlassNew_cape.json"
   },
   {
-    "uuid": "43ad7ce2-3c38-4174-9104-b7c95e242c5a",
-    "response": "Persona\\CustomCapes\\BlockOfGold_cape.json"
-  },
-  {
     "uuid": "3aff5d54-a885-405c-9670-e794473ac3a7",
     "response": "Persona\\CustomCapes\\GoldenApple1_cape.json"
   },
@@ -286,10 +290,6 @@
   {
     "uuid": "0e1d924c-9eb6-42d5-baeb-706335c268e2",
     "response": "Persona\\CustomCapes\\NetherStar_cape.json"
-  },
-  {
-    "uuid": "1b19a308-86cc-4fb0-9f62-683a30906dd5",
-    "response": "Persona\\CustomCapes\\BlockOfNetherite_cape.json"
   },
   {
     "uuid": "01f86701-e166-4cff-97a5-e40dd192f3ec",
