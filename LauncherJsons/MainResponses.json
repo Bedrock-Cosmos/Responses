@@ -288,6 +288,14 @@
     "response": "SkinPacks\\TheSimpsonsSkinPack\\ItemDetail_TheSimpsonsSkinPack.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PersonaCreatorPage_master_player_account!MinecraftCosmos",
+    "response": "MainPages\\MinecraftCosmos_PersonaCreatorPage.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PersonaCreatorPage_master_player_account!BedrockCosmos",
+    "response": "MainPages\\BedrockCosmos_PersonaCreatorPage.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PersonaCreatorPage_master_player_account!BionicBen",
     "response": "MainPages\\Creators\\Persona\\BionicBen_Persona.json"
   },
