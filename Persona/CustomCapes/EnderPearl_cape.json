@@ -3,24 +3,24 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "8228887d-30bb-44b8-978a-22fc464ff037",
+      "Id": "8d8508a7-4a2e-44d8-8e5d-76b61639955d",
       "Contents": [
         {
-          "Id": "9c98382b-adc9-466b-957a-b61e7f4e4dd0",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/EnchantmentTable_cape.zip",
+          "Id": "bcca61d4-295a-41e4-a327-3837862bfc39",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/EnderPearl_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
         }
       ],
       "DisplayProperties": {
-        "creatorName": "Allkatrez",
+        "creatorName": "JakeMCPE",
         "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
         "purchasable": true,
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "7e6bd216-9ae2-4af3-8a7f-60c0844d443d",
+            "uuid": "9fad0855-75c5-4a04-9aad-b5ef5a41e0b3",
             "version": "1.0.0"
           }
         ]

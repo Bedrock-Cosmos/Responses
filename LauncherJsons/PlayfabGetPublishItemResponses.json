@@ -253,7 +253,11 @@
   },
   {
     "uuid": "8228887d-30bb-44b8-978a-22fc464ff037",
-    "response": "Persona\\CustomCapes\\EnchantmentTable_cape.json"
+    "response": "Persona\\CustomCapes\\EnchantingTable_cape.json"
+  },
+  {
+    "uuid": "8d8508a7-4a2e-44d8-8e5d-76b61639955d",
+    "response": "Persona\\CustomCapes\\EnderPearl_cape.json"
   },
   {
     "uuid": "796e63d1-a146-4c63-b736-b9f0ce553ff2",
@@ -308,10 +312,6 @@
     "response": "Persona\\CustomCapes\\Paper_cape.json"
   },
   {
-    "uuid": "8d8508a7-4a2e-44d8-8e5d-76b61639955d",
-    "response": "Persona\\CustomCapes\\Pearl_cape.json"
-  },
-  {
     "uuid": "7ef3e8b3-50a6-4f94-9de3-9c50a011a7be",
     "response": "Persona\\CustomCapes\\PhantomWings_cape.json"
   },
@@ -333,7 +333,7 @@
   },
   {
     "uuid": "503017f7-c1e4-4e34-81d6-fc980f28f416",
-    "response": "Persona\\CustomCapes\\Totem_cape.json"
+    "response": "Persona\\CustomCapes\\TotemOfUndying_cape.json"
   },
   {
     "uuid": "380043d3-41a4-4f07-b682-03449244d0e8",
