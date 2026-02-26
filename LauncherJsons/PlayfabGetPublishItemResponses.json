@@ -229,11 +229,11 @@
   },
   {
     "uuid": "f60ca856-ba14-4602-a4a3-3e177d67210e",
-    "response": "Persona\\CustomCapes\\Cubecraft_cape.json"
+    "response": "Persona\\CustomCapes\\CubeCraft_cape.json"
   },
   {
     "uuid": "80a1968a-853e-4ca8-9c70-6de7ddb732b1",
-    "response": "Persona\\CustomCapes\\DiamondBlock_cape.json"
+    "response": "Persona\\CustomCapes\\BlockOfDiamond_cape.json"
   },
   {
     "uuid": "4a23b41a-508b-49b8-b9d3-8b165337332e",
@@ -265,7 +265,7 @@
   },
   {
     "uuid": "43ad7ce2-3c38-4174-9104-b7c95e242c5a",
-    "response": "Persona\\CustomCapes\\GoldBlock_cape.json"
+    "response": "Persona\\CustomCapes\\BlockOfGold_cape.json"
   },
   {
     "uuid": "3aff5d54-a885-405c-9670-e794473ac3a7",
@@ -289,15 +289,15 @@
   },
   {
     "uuid": "1b19a308-86cc-4fb0-9f62-683a30906dd5",
-    "response": "Persona\\CustomCapes\\NetheriteBlock_cape.json"
+    "response": "Persona\\CustomCapes\\BlockOfNetherite_cape.json"
   },
   {
     "uuid": "01f86701-e166-4cff-97a5-e40dd192f3ec",
-    "response": "Persona\\CustomCapes\\Optifine_cape.json"
+    "response": "Persona\\CustomCapes\\OptiFine_cape.json"
   },
   {
     "uuid": "fb2245c6-dc9c-4be2-99f7-b1ad94fb41f3",
-    "response": "Persona\\CustomCapes\\Optifine10thAnniversary_cape.json"
+    "response": "Persona\\CustomCapes\\OptiFine10thAnniversary_cape.json"
   },
   {
     "uuid": "b01a36e6-6426-4585-8eba-6024bea40820",
