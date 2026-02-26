@@ -5010,13 +5010,13 @@
               {
                 "id": "b98cf866-ef6b-457a-a5f2-9c5fc2ae68f6",
                 "contentType": "PersonaDurable",
-                "title": "Lich's Cape",
+                "title": "The Lich's Cape",
                 "creatorName": "Adventure Time Mash-up",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Lich_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Lich_cape.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/TheLich_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/TheLich_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -8170,13 +8170,13 @@
               {
                 "id": "2f4020a5-027f-4680-838c-0439bcecee90",
                 "contentType": "PersonaDurable",
-                "title": "Padmé Amidala's Cape",
+                "title": "Senator Padmé Amidala's Cape",
                 "creatorName": "Star Wars Prequel Skin Pack",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/PadmeAmidala_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/PadmeAmidala_cape.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SenatorPadmeAmidala_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/SenatorPadmeAmidala_cape.png"
                 },
                 "price": {
                   "listPrice": 0,

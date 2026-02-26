@@ -385,7 +385,7 @@
   },
   {
     "uuid": "b98cf866-ef6b-457a-a5f2-9c5fc2ae68f6",
-    "response": "Persona\\SkinPackCapes\\Lich_cape.json"
+    "response": "Persona\\SkinPackCapes\\TheLich_cape.json"
   },
   {
     "uuid": "d848cddd-bd33-4eb2-8efb-bff3246fe0eb",
@@ -693,7 +693,7 @@
   },
   {
     "uuid": "2f4020a5-027f-4680-838c-0439bcecee90",
-    "response": "Persona\\SkinPackCapes\\PadmeAmidala_cape.json"
+    "response": "Persona\\SkinPackCapes\\SenatorPadmeAmidala_cape.json"
   },
   {
     "uuid": "49ced7b9-c18e-46e0-a955-fe9d521783b8",

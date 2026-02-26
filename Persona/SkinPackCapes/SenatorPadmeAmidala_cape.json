@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "56865dba-8190-413e-b99f-f59a4bffbacf",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/PadmeAmidala_cape.zip",
+          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SenatorPadmeAmidala_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
