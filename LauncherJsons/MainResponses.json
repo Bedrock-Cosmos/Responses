@@ -370,9 +370,5 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_293a9961-9d76-4b5b-8a5e-ef1710e21ea7",
     "response": "HiddenDLC\\ItemDetail_CrocoIsland.json"
-  },
-  {
-    "url": "https://entitlements.mktpl.minecraft-services.net/api/v1.0/player/inventory?includeReceipt=true",
-    "response": "HiddenDLC\\Entitlement.json"
   }
 ]
