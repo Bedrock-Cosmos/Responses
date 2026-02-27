@@ -152,14 +152,14 @@
               {
                 "id": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
-                "title": "Project Star Capes",
+                "title": "Project Star Skin Pack",
                 "description": "A skin pack previously made for the Project Star Launcher. This pack contains Steve and Alex in Project Star attire and 11 uniquely-colored capes!",
                 "creatorName": "BionicBen",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Creator%20Hub/BionicBen/Project%20Star%20Capes/ProjectStarCapes_thumbnail.jpg",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Creator%20Hub/BionicBen/Project%20Star%20Capes/ProjectStarCapes_thumbnail.jpg?width=800&height=450"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Creator%20Hub/BionicBen/Project%20Star%20Skin%20Pack/ProjectStarSkinPack_thumbnail.jpg",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Creator%20Hub/BionicBen/Project%20Star%20Skin%20Pack/ProjectStarSkinPack_thumbnail.jpg?width=800&height=450"
                 },
                 "rating": { "average": 5.0, "totalCount": 25 },
                 "price": {
@@ -189,8 +189,8 @@
                   {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Creator%20Hub/BionicBen/Project%20Star%20Capes/ProjectStarCapes_thumbnail.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Creator%20Hub/BionicBen/Project%20Star%20Capes/ProjectStarCapes_thumbnail.jpg?width=800&height=450"
+                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Creator%20Hub/BionicBen/Project%20Star%20Skin%20Pack/ProjectStarSkinPack_thumbnail.jpg",
+                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Creator%20Hub/BionicBen/Project%20Star%20Skin%20Pack/ProjectStarSkinPack_thumbnail.jpg?width=800&height=450"
                   }
                 ],
                 "contents": [],
