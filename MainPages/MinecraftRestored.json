@@ -367,9 +367,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_b7098a87-3979-40f0-b71c-c7e31325fb01",
+                "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_b7098a87-3979-40f0-b71c-c7e31325fb01",
+                  "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
@@ -721,7 +721,7 @@
           {
             "items": [
               {
-                "id": "61c7a786-d7ad-49e0-a710-817121cd9795",
+                "id": "a9a8ff47-e878-44bc-ae9f-1579d8f07ecb",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "title": "Actions & Stuff Restored",
                 "description": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\r\n\r\n- Player Animations (1st & 3rd Person)\r\n- New & Improved Mob Animations\r\n- 3D Item Models\r\n- Custom Armour\r\n- A Complete & Faithful Texture Overhaul\r\n- Compatible with Vanilla textures, or your own texture packs\r\n- Now with 100% more Vibrant Visuals",
