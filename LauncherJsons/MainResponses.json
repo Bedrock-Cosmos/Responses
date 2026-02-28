@@ -28,6 +28,10 @@
     "response": "MainPages\\MainMarketplaceButton_append.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_StoreRoot",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
     "response": "MainPages\\MainMarketplacePage.json"
   },
@@ -50,6 +54,10 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_HiddenDLC",
     "response": "MainPages\\HiddenDLC.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PauseMenu",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ServerPage_master_player_account!4B74434622F61126",
