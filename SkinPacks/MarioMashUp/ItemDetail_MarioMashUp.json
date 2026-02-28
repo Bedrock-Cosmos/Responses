@@ -146,6 +146,7 @@
               "packIdentity": [
                 { "type": "skinpack", "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2", "version": "1.1.5" }
               ],
+              "wishlisted": false,
               "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0",
               "startDate": "2026-01-11T18:00:00Z",
               "thumbnailPreviewOnly": false
