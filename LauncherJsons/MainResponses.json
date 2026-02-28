@@ -44,6 +44,10 @@
     "response": "MainPages\\Cosmos_Creator_Hub.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PauseMenu",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_HiddenDLC",
     "response": "MainPages\\HiddenDLC.json"
   },
@@ -370,5 +374,13 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_293a9961-9d76-4b5b-8a5e-ef1710e21ea7",
     "response": "HiddenDLC\\ItemDetail_CrocoIsland.json"
+  },
+  // {
+  //   "url": "https://entitlements.mktpl.minecraft-services.net/api/v1.0/player/inventory?includeReceipt=true",
+  //   "response": "HiddenDLC\\Entitlement.json"
+  // }
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_22688cde-3822-4bd8-9638-625713ba4dfd",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC1.json"
   }
 ]

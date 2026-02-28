@@ -738,5 +738,13 @@
   {
     "uuid": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
     "response": "SkinPacks\\SkinPack\\Binary_SkinPack6.json"
+  },
+  {
+    "uuid": "38fdf771-febb-4b6f-a162-c42850817d95",
+    "response": "SkinPacks\\LEGORMinecraftTMDragonSlayer\\Binary_LEGORMinecraftTMDragonSlayer.json"
+  },
+  {
+    "uuid": "22688cde-3822-4bd8-9638-625713ba4dfd",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC1.json"
   }
 ]
