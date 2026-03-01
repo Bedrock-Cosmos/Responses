@@ -144,8 +144,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://minecraft.wiki/images/Festive_Mash-up.jpg",
-                  "urlWithResolution": "https://minecraft.wiki/images/Festive_Mash-up.jpg?width=800&height=450"
+                  "url": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg?width=800&height=450"
                 },
                 "rating": {
                   "average": 0.0,
@@ -193,8 +193,8 @@
                   {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://minecraft.wiki/images/Festive_Mash-up.jpg",
-                    "urlWithResolution": "https://minecraft.wiki/images/Festive_Mash-up.jpg?width=800&height=450"
+                    "url": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg?width=800&height=450"
                   }
                 ],
                 "contents": [],

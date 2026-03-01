@@ -154,5 +154,17 @@
   {
     "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\Search_EMC1.json"
+  },
+  {
+    "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Search_6thBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Search_BionicBenSkinPack.json"
+  },
+  {
+    "uuid": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Search_ProjectStarSkinPack.json"
   }
 ]

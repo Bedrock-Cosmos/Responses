@@ -1117,8 +1117,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://minecraft.wiki/images/Festive_Mash-up.jpg",
-                  "urlWithResolution": "https://minecraft.wiki/images/Festive_Mash-up.jpg?width=800&height=450"
+                  "url": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg?width=800&height=450"
                 },
                 "price": {
                   "listPrice": -1,
@@ -1159,8 +1159,8 @@
                   {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://minecraft.wiki/images/Festive_Mash-up.jpg",
-                    "urlWithResolution": "https://minecraft.wiki/images/Festive_Mash-up.jpg?width=800&height=450"
+                    "url": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg?width=800&height=450"
                   }
                 ],
                 "contents": [],
@@ -1689,15 +1689,15 @@
                 "namedLinksToInfoMap": {}
               },
               {
-                "id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+                "id": "a3cf70ed-85aa-4b43-8475-54763110e6f9",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "title": "Mario Mash-Up",
                 "creatorName": "Minecraft (Nintendo)",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8",
-                  "urlWithResolution": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
+                  "url": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg"
                 },
                 "rating": {
                   "average": 0,

@@ -355,38 +355,38 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_Exports_Marketplace",
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   },
-  {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_04055158-74ca-4581-8ecb-c17759518ed1",
-    "response": "HiddenDLC\\ItemDetail_AMinecraftMovieJetpack.json"
-  },
-  {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_069b2db5-5164-48ba-afb2-e95d81aa763f",
-    "response": "HiddenDLC\\ItemDetail_AMinecraftMovieDLC.json"
-  },
-  {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_26e35b2b-ac51-49b6-98df-ca15f06f912c",
-    "response": "HiddenDLC\\ItemDetail_McDonaldsAdd-On.json"
-  },
-  {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_6ac55b36-b539-4f49-a0ee-89cc2c60cfb7",
-    "response": "HiddenDLC\\ItemDetail_AMinecraftMovieAdd-On.json"
-  },
-  {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_89967d0c-b75a-4ff8-a603-4683aca4713a",
-    "response": "HiddenDLC\\ItemDetail_AMinecraftMovieHeroPack.json"
-  },
-  {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_b8294b31-2d62-4823-a13e-52d5ea6e6ef4",
-    "response": "HiddenDLC\\ItemDetail_LavaChickenAdd-On.json"
-  },
-  {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_293a9961-9d76-4b5b-8a5e-ef1710e21ea7",
-    "response": "HiddenDLC\\ItemDetail_CrocoIsland.json"
-  },
   // {
-  //   "url": "https://entitlements.mktpl.minecraft-services.net/api/v1.0/player/inventory?includeReceipt=true",
-  //   "response": "HiddenDLC\\Entitlement.json"
-  // }
+  //   "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_04055158-74ca-4581-8ecb-c17759518ed1",
+  //   "response": "HiddenDLC\\ItemDetail_AMinecraftMovieJetpack.json"
+  // },
+  // {
+  //   "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_069b2db5-5164-48ba-afb2-e95d81aa763f",
+  //   "response": "HiddenDLC\\ItemDetail_AMinecraftMovieDLC.json"
+  // },
+  // {
+  //   "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_26e35b2b-ac51-49b6-98df-ca15f06f912c",
+  //   "response": "HiddenDLC\\ItemDetail_McDonaldsAdd-On.json"
+  // },
+  // {
+  //   "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_6ac55b36-b539-4f49-a0ee-89cc2c60cfb7",
+  //   "response": "HiddenDLC\\ItemDetail_AMinecraftMovieAdd-On.json"
+  // },
+  // {
+  //   "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_89967d0c-b75a-4ff8-a603-4683aca4713a",
+  //   "response": "HiddenDLC\\ItemDetail_AMinecraftMovieHeroPack.json"
+  // },
+  // {
+  //   "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_b8294b31-2d62-4823-a13e-52d5ea6e6ef4",
+  //   "response": "HiddenDLC\\ItemDetail_LavaChickenAdd-On.json"
+  // },
+  // {
+  //   "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_293a9961-9d76-4b5b-8a5e-ef1710e21ea7",
+  //   "response": "HiddenDLC\\ItemDetail_CrocoIsland.json"
+  // },
+  {
+    "url": "https://entitlements.mktpl.minecraft-services.net/api/v1.0/player/inventory?includeReceipt=true",
+    "response": "HiddenDLC\\Entitlement.json"
+  },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_22688cde-3822-4bd8-9638-625713ba4dfd",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC1.json"
@@ -395,8 +395,20 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/productId/22688cde-3822-4bd8-9638-625713ba4dfd",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC1.json"
   },
+  // {
+  //   "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PagedList_Wishlist",
+  //   "response": "MainPages\\PagedList_Wishlist.json"
+  // },
   {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PagedList_Wishlist",
-    "response": "MainPages\\PagedList_Wishlist.json"
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\ItemDetail_6thBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\ItemDetail_BionicBenSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\ItemDetail_ProjectStarSkinPack.json"
   }
 ]

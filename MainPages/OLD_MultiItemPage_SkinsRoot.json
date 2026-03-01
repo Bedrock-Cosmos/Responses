@@ -121,8 +121,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8",
-                  "urlWithResolution": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
+                  "url": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg"
                 },
                 "rating": {
                   "average": 5.0,
@@ -627,8 +627,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://minecraft.wiki/images/Festive_Mash-up.jpg",
-                  "urlWithResolution": "https://minecraft.wiki/images/Festive_Mash-up.jpg?width=800&height=450"
+                  "url": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg?width=800&height=450"
                 },
                 "price": {
                   "listPrice": -1,
@@ -669,8 +669,8 @@
                   {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://minecraft.wiki/images/Festive_Mash-up.jpg",
-                    "urlWithResolution": "https://minecraft.wiki/images/Festive_Mash-up.jpg?width=800&height=450"
+                    "url": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg?width=800&height=450"
                   }
                 ],
                 "contents": [],
