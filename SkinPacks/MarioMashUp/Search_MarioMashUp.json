@@ -15,12 +15,12 @@
           "Type": "namespace",
           "TypeString": "namespace"
         },
-        "Id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+        "Id": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
         "Type": "bundle",
         "AlternateIds": [
           {
             "Type": "FriendlyId",
-            "Value": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8"
+            "Value": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6"
           }
         ],
         "Title": {
@@ -69,13 +69,13 @@
         ],
         "ItemReferences": [
           {
-            "Id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+            "Id": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
             "Amount": 1
           }
         ],
         "DisplayProperties": {
           "creatorName": "Minecraft",
-          "offerId": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+          "offerId": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
           "originalCreatorId": "2535448579972708",
           "price": -1,
           "purchasable": false,

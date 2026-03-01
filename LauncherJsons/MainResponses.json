@@ -200,15 +200,19 @@
     "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_LucysGiveCampaignSkin.json"
   },
   {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
     "response": "SkinPacks\\MarioMashUp\\ItemDetail_MarioMashUp.json"
   },
   {
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
     "response": "SkinPacks\\MarioMashUp\\Viewer_MarioMashUp.json"
   },
   { // This is here when they try to click "More Details" on the resource pack.
-    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/packId/7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/packId/1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+    "response": "SkinPacks\\MarioMashUp\\ItemDetail_MarioMashUp.json"
+  },
+  { // This is here when they try to view the Mash-Up from libary.
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/productId/1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
     "response": "SkinPacks\\MarioMashUp\\ItemDetail_MarioMashUp.json"
   },
   {

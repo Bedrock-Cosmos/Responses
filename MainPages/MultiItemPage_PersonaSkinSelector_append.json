@@ -75,13 +75,13 @@
           "startDate": "2026-01-11T18:00:00Z",
           "namedLinksToInfoMap": {
             "dr.expanded_skins": {
-              "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+              "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
               "linkType": "pageId",
               "displayType": "store_layout.skin_selector_screen",
               "navigateInPlace": false
             },
             "dr.see_in_store": {
-              "linksTo": "ItemDetail_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+              "linksTo": "ItemDetail_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
               "linkType": "pageId",
               "displayType": "store_layout.store_data_driven_screen",
               "navigateInPlace": false

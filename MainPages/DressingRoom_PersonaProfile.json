@@ -902,9 +902,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+                "linksTo": "ItemDetail_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+                  "linksTo": "ItemDetail_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
