@@ -207,6 +207,10 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
     "response": "SkinPacks\\MarioMashUp\\Viewer_MarioMashUp.json"
   },
+  { // This is here when they try to click "More Details" on the resource pack.
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/packId/7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+    "response": "SkinPacks\\MarioMashUp\\ItemDetail_MarioMashUp.json"
+  },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
     "response": "SkinPacks\\MarvelSkinPacks\\ItemDetail_MarvelAvengersSkinPack.json"
@@ -383,10 +387,10 @@
   //   "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_293a9961-9d76-4b5b-8a5e-ef1710e21ea7",
   //   "response": "HiddenDLC\\ItemDetail_CrocoIsland.json"
   // },
-  {
-    "url": "https://entitlements.mktpl.minecraft-services.net/api/v1.0/player/inventory?includeReceipt=true",
-    "response": "HiddenDLC\\Entitlement.json"
-  },
+  // {
+  //   "url": "https://entitlements.mktpl.minecraft-services.net/api/v1.0/player/inventory?includeReceipt=true",
+  //   "response": "HiddenDLC\\Entitlement.json"
+  // },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_22688cde-3822-4bd8-9638-625713ba4dfd",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC1.json"
