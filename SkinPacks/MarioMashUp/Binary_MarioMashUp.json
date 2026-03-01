@@ -47,7 +47,8 @@
         "skinPack": {
           "count": 40
         },
-        "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0"
+        "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0",
+        "hardwareMemoryTier": 0
       }
     }
   }

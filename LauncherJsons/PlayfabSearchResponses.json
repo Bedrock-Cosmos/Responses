@@ -152,6 +152,14 @@
     "response": "SkinPacks\\TheSimpsonsSkinPack\\Search_TheSimpsonsSkinPack.json"
   },
   {
+    "uuid": "5fe3e01c-609b-497e-b17e-342b83281369",
+    "response": "SkinPacks\\CharitySkinPacks\\Search_SummerofArcadeSkinPack.json"
+  },
+  {
+    "uuid": "91551b69-a8ab-447a-b0b6-693e9086eae3",
+    "response": "SkinPacks\\CharitySkinPacks\\Search_HalloweenCharitySkinPack.json"
+  },
+  {
     "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\Search_EMC1.json"
   },

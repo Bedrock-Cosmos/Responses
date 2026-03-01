@@ -207,11 +207,13 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
     "response": "SkinPacks\\MarioMashUp\\Viewer_MarioMashUp.json"
   },
-  { // This is here when they try to click "More Details" on the resource pack.
+  {
+    // This is here when they try to click "More Details" on the resource pack.
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/packId/1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
     "response": "SkinPacks\\MarioMashUp\\ItemDetail_MarioMashUp.json"
   },
-  { // This is here when they try to view the Mash-Up from libary.
+  {
+    // This is here when they try to view the Mash-Up from libary.
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/productId/1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
     "response": "SkinPacks\\MarioMashUp\\ItemDetail_MarioMashUp.json"
   },
@@ -308,6 +310,14 @@
     "response": "SkinPacks\\TheSimpsonsSkinPack\\ItemDetail_TheSimpsonsSkinPack.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_SummerofArcadeSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_5b13cb52-e2bf-438c-97f2-1105c54929d9",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_HalloweenCharitySkinPack.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_b052935a-9c47-43eb-ac50-ac3760100fd8",
     "response": "SkinPacks\\McDonalds\\ItemDetail_b052935a-9c47-43eb-ac50-ac3760100fd8.json"
   },
@@ -399,7 +409,7 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_22688cde-3822-4bd8-9638-625713ba4dfd",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC1.json"
   },
-  {
+  { // This is here for if they open the link to the pack from Cosmos site
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/productId/22688cde-3822-4bd8-9638-625713ba4dfd",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC1.json"
   },
@@ -418,5 +428,9 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
     "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\ItemDetail_ProjectStarSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/CreatorPage_master_player_account!MinecraftHidden",
+    "response": "MainPages\\LegacyVault.json"
   }
 ]

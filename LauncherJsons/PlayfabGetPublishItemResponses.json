@@ -744,6 +744,14 @@
     "response": "SkinPacks\\LEGORMinecraftTMDragonSlayer\\Binary_LEGORMinecraftTMDragonSlayer.json"
   },
   {
+    "uuid": "358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+    "response": "SkinPacks\\CharitySkinPacks\\Binary_SummerofArcadeSkinPack.json"
+  },
+  {
+    "uuid": "5b13cb52-e2bf-438c-97f2-1105c54929d9",
+    "response": "SkinPacks\\CharitySkinPacks\\Binary_HalloweenCharitySkinPack.json"
+  },
+  {
     "uuid": "22688cde-3822-4bd8-9638-625713ba4dfd",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC1.json"
   },
