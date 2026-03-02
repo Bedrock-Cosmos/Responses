@@ -155,11 +155,6 @@
           },
           {
             "description": "Get cracking with these starter skins and old favorites brought over from Minecraft editions of yore. Widen your wardrobe, turn out in a tux, or rock it as a croc! ",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

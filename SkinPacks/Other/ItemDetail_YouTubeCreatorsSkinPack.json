@@ -250,53 +250,6 @@
           },
           {
             "description": "We are celebrating one trillion views of Minecraft content on YouTube with the YouTube Creators Skin Pack by Spark Universe. Featuring 10+ skins from some of your favorite creators including LDShadowlady, Jazzghost, Logdotzip, and more.",
-            "genres": [
-              {
-                "linksTo": "Tag_genre.creative",
-                "linksToInfo": {
-                  "linksTo": "Tag_genre.creative",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "genre.creative"
-              }
-            ],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [
-              {
-                "linksTo": "Tag_tag.fun",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.fun",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.fun"
-              },
-              {
-                "linksTo": "Tag_tag.holiday",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.holiday",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.holiday"
-              },
-              {
-                "linksTo": "Tag_tag.party",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.party",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.party"
-              }
-            ],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

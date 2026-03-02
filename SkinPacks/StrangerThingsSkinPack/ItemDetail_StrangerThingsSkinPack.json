@@ -196,53 +196,6 @@
           },
           {
             "description": "Something is coming, something hungry for blood. A shadow grows on the wall behind you, swallowing you in darkness. It is almost here… Boom! Stranger Things comes to Minecraft! Join Mike, Dustin, Lucas, Will, Eleven, Joyce, Hopper and many more as they survive monsters, adolescence and 80's fashion choices.",
-            "genres": [
-              {
-                "linksTo": "Tag_genre.survival",
-                "linksToInfo": {
-                  "linksTo": "Tag_genre.survival",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "genre.survival"
-              }
-            ],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [
-              {
-                "linksTo": "Tag_tag.skin",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.skin",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.skin"
-              },
-              {
-                "linksTo": "Tag_tag.horror",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.horror",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.horror"
-              },
-              {
-                "linksTo": "Tag_tag.holiday",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.holiday",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.holiday"
-              }
-            ],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

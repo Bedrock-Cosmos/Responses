@@ -168,11 +168,6 @@
                       },
                       {
                         "description": "This fourth skin pack brings you a fresh bunch of exciting skins for you to customise your Minecraft character with!\r\nPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\nThis is a Legacy Vault port of Skin Pack 4.\r\n• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in Settings > General > Only Allow Trusted Skins Off.\r\n• This Skin Pack cannot be worn on featured servers!",
-                        "genres": [],
-                        "subgenres": [],
-                        "playerCounts": [],
-                        "tags": [],
-                        "warnings": [],
                         "type": "itemDescriptionComp",
                         "$type": "ItemDescriptionComponent"
                       }

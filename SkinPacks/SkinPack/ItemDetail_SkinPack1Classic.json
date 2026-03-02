@@ -155,11 +155,6 @@
           },
           {
             "description": "Customize your character with this selection of stunning skins!",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

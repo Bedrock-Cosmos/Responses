@@ -206,63 +206,6 @@
           },
           {
             "description": "Placeholder description goes here",
-            "genres": [
-              {
-                "linksTo": "Tag_genre.creative",
-                "linksToInfo": {
-                  "linksTo": "Tag_genre.creative",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "genre.creative"
-              }
-            ],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [
-              {
-                "linksTo": "Tag_tag.adventures",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.adventures",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.adventures"
-              },
-              {
-                "linksTo": "Tag_tag.fantasy",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.fantasy",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.fantasy"
-              },
-              {
-                "linksTo": "Tag_tag.fun",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.fun",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.fun"
-              },
-              {
-                "linksTo": "Tag_tag.animal",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.animal",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.animal"
-              }
-            ],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

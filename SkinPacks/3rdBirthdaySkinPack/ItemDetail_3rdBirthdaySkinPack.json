@@ -147,11 +147,6 @@
           },
           {
             "description": "Celebrate Minecraft’s 3rd Birthday on Xbox with the original Minecraft developers! Find their personal skins in this free celebration pack.",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

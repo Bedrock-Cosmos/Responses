@@ -147,11 +147,6 @@
           },
           {
             "description": "Dress up for the party with this new, free skin pack and celebrate together the 4th Minecraft birthday!",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

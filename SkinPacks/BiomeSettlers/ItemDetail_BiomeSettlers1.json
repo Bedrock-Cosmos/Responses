@@ -151,11 +151,6 @@
           },
           {
             "description": "Dress as a native of the Tundra, Forest, or Desert!",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

@@ -155,11 +155,6 @@
           },
           {
             "description": "Join Marvel’s Guardians of the Galaxy in the most cosmic Marvel skin pack for for Minecraft yet! Star-Lord, Gamora, Rocket, Groot and Drax are only part of the pack of 24 skins inspired both by Marvel’s blockbuster film and the comic books.",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

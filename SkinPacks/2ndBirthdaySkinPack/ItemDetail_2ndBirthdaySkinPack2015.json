@@ -174,11 +174,6 @@
                       },
                       {
                         "description": "Minecraft is growing up, time to celebrate together our 2nd Birthday!\r\nOnly available for Minecraft on PlayStation 4 (2019).",
-                        "genres": [],
-                        "subgenres": [],
-                        "playerCounts": [],
-                        "tags": [],
-                        "warnings": [],
                         "type": "itemDescriptionComp",
                         "$type": "ItemDescriptionComponent"
                       }

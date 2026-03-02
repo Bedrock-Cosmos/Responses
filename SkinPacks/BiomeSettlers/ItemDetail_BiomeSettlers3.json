@@ -155,11 +155,6 @@
           },
           {
             "description": "Get this pack and make your home in distant lands or ocean depths!",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

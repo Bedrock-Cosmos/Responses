@@ -209,33 +209,6 @@
           },
           {
             "description": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4.",
-            "genres": [],
-            "subgenres": [],
-            "playerCount": "1-4",
-            "playerCounts": [
-              {
-                "linksTo": "Tag_playercount.SinglePlayer",
-                "linksToInfo": {
-                  "linksTo": "Tag_playercount.SinglePlayer",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "playercount.single_player"
-              },
-              {
-                "linksTo": "Tag_playercount.Multiplayer",
-                "linksToInfo": {
-                  "linksTo": "Tag_playercount.Multiplayer",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "playercount.multiplayer"
-              }
-            ],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

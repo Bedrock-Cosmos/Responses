@@ -155,11 +155,6 @@
           },
           {
             "description": "A special skin pack for winning the Give Campaign auction.",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

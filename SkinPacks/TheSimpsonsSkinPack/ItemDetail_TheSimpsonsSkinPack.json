@@ -196,53 +196,6 @@
           },
           {
             "description": "The Simpsons as you have never seen them before; in pure, unadulterated Minecraft block-o-vision! Don't miss out this awesome pack featuring 24 characters from the series.",
-            "genres": [
-              {
-                "linksTo": "Tag_genre.action",
-                "linksToInfo": {
-                  "linksTo": "Tag_genre.action",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "genre.action"
-              }
-            ],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [
-              {
-                "linksTo": "Tag_tag.comedy",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.comedy",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.comedy"
-              },
-              {
-                "linksTo": "Tag_tag.cartoon",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.cartoon",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.cartoon"
-              },
-              {
-                "linksTo": "Tag_tag.animation",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.animation",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.animation"
-              }
-            ],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

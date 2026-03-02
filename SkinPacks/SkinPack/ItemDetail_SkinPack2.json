@@ -191,11 +191,6 @@
           },
           {
             "description": "A dedicated version of Skin Pack 2, featuring exclusive characters along with others from the Classic version.\r\nOnly available for Minecraft on PlayStation®4.",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
