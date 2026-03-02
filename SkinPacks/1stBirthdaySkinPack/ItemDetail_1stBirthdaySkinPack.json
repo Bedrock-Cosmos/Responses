@@ -159,7 +159,7 @@
                 {
                   "type": "skinpack",
                   "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
-                  "version": "1.0.9"
+                  "version": "3.1.26"
                 }
               ],
               "tags": [
@@ -236,7 +236,7 @@
             },
             "binaries": [
               {
-                "url": "https://raw.githubusercontent.com/zoroark19/-/refs/heads/main/SkinPacks/1stBirthday.zip"
+                "url": "https://pack.bedrock-cosmos.app/uss/20253/1stBirthday.zip"
               }
             ],
             "type": "purchaseInfoComp",
@@ -327,12 +327,12 @@
         "components": [
           {
             "binary": {
-              "url": "https://raw.githubusercontent.com/zoroark19/-/refs/heads/main/SkinPacks/1stBirthday.zip"
+              "url": "https://pack.bedrock-cosmos.app/uss/20253/1stBirthday.zip"
             },
             "packIdentity": {
               "type": "skinpack",
               "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
-              "version": "1.0.9"
+              "version": "3.1.26"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"

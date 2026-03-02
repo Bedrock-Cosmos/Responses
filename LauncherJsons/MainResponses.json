@@ -318,6 +318,10 @@
     "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_HalloweenCharitySkinPack.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+    "response": "SkinPacks\\1stBirthdaySkinPack\\ItemDetail_1stBirthdaySkinPack.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_b052935a-9c47-43eb-ac50-ac3760100fd8",
     "response": "SkinPacks\\McDonalds\\ItemDetail_b052935a-9c47-43eb-ac50-ac3760100fd8.json"
   },
@@ -409,9 +413,22 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_22688cde-3822-4bd8-9638-625713ba4dfd",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC1.json"
   },
-  { // This is here for if they open the link to the pack from Cosmos site
+  {
+    // This is here for if they open the link to the pack from Cosmos site
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/productId/22688cde-3822-4bd8-9638-625713ba4dfd",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC1.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_a045e0ba-b58e-44d5-b463-e8968f28ae99",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC2.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC3.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\ItemDetail_EMC4.json"
   },
   // {
   //   "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PagedList_Wishlist",
@@ -432,5 +449,9 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/CreatorPage_master_player_account!MinecraftHidden",
     "response": "MainPages\\LegacyVault.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_61c7a786-d7ad-49e0-a710-817121cd9795",
+    "response": "SkinPacks\\Other\\Viewer_ActionsStuff.json"
   }
 ]

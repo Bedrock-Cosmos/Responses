@@ -226,7 +226,7 @@
       "Contents": [
         {
           "Id": "e59f7dcb-c993-4514-85e8-2d5fbcc8741b",
-          "Url": "https://raw.githubusercontent.com/zoroark19/-/refs/heads/main/SkinPacks/1stBirthday.zip",
+          "Url": "https://pack.bedrock-cosmos.app/uss/20253/1stBirthday.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.2.0",
           "Tags": [],
@@ -315,7 +315,7 @@
           {
             "type": "skinpack",
             "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
-            "version": "1.0.9"
+            "version": "3.1.26"
           }
         ],
         "skinPack": {

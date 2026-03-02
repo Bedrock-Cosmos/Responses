@@ -23,14 +23,14 @@
       ],
       "FriendlyId": "0ce82393-3932-4c7b-a253-aaff26191395",
       "Title": {
-        "NEUTRAL": "Actions & Stuff 1.9",
+        "NEUTRAL": "Actions & Stuff 1.9.1",
         "bg-BG": "Действия и други 1.2.1",
         "cs-CZ": "Akce a Všehochuť 1.2.1",
         "da-DK": "Actions & Stuff 1.2.1",
         "de-DE": "Aktionen und Zeug",
         "el-GR": "Δράσεις και Διάφορα 1.2.1",
-        "en-GB": "Actions & Stuff 1.9",
-        "en-US": "Actions & Stuff 1.9",
+        "en-GB": "Actions & Stuff 1.9.1",
+        "en-US": "Actions & Stuff 1.9.1",
         "es-ES": "Acciones y demás",
         "es-MX": "Acciones y demás",
         "fi-FI": "Toimintoja ja muuta 1.2.1",
@@ -38,7 +38,7 @@
         "fr-FR": "Actions & Stuff",
         "hu-HU": "Akció meg ilyesmi 1.2.1",
         "id-ID": "Aksi & Sebagainya 1.2.1",
-        "it-IT": "Azioni e Cose 1.9",
+        "it-IT": "Azioni e Cose 1.9.1",
         "ja-JP": "アクション＆スタッフ",
         "ko-KR": "Actions % Stuff 1.2.1",
         "nb-NO": "Action og greier 1.2.1",
@@ -53,7 +53,7 @@
         "uk-UA": "Дії та інше 1.2.1",
         "zh-CN": "动作优化 1.2.1",
         "zh-TW": "行動與物品 1.2.1",
-        "neutral": "Actions & Stuff 1.9"
+        "neutral": "Actions & Stuff 1.9.1"
       },
       "Description": {
         "NEUTRAL": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\r\n\r\n- Player Animations (1st & 3rd Person)\r\n- New & Improved Mob Animations\r\n- 3D Item Models\r\n- Custom Armour\r\n- A Complete & Faithful Texture Overhaul\r\n- Compatible with Vanilla textures, or your own texture packs\r\n- Now with 100% more Vibrant Visuals",
@@ -522,19 +522,19 @@
         "csb"
       ],
       "CreationDate": "2024-12-18T17:36:52.893Z",
-      "LastModifiedDate": "2026-01-07T23:00:15.922Z",
+      "LastModifiedDate": "2026-02-12T01:47:00.658Z",
       "StartDate": "2024-12-24T18:00:00Z",
       "Contents": [
         {
-          "Id": "57d6d63c-3a16-476f-9592-6a9345204dec",
-          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/57d6d63c-3a16-476f-9592-6a9345204dec/primary.zip",
+          "Id": "9c773dcf-9c60-4e13-a0f7-0a0d0c9d65a0",
+          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9c773dcf-9c60-4e13-a0f7-0a0d0c9d65a0/primary.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Tags": [],
           "Type": "resourcebinary"
         },
         {
-          "Id": "df0753bc-bfc8-40de-a5a7-c74f8b127e4c",
+          "Id": "27034ec7-6252-47df-af3f-6c4b7e12fed0",
           "Url": "https://pack.bedrock-cosmos.app/uss/218d7/ActionsStuff.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
@@ -544,70 +544,70 @@
       ],
       "Images": [
         {
-          "Id": "0120b114-330f-4a02-9b1a-c26ca30d9fca",
+          "Id": "8638b267-762e-49e9-bb7b-c33b1babccb5",
           "Tag": "packicon",
           "Type": "Screenshot",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0120b114-330f-4a02-9b1a-c26ca30d9fca/actionsandstuff_packicon_0.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8638b267-762e-49e9-bb7b-c33b1babccb5/actionsandstuff_packicon_0.jpg"
         },
         {
-          "Id": "85cc9f1f-1f78-44b7-b35b-a34c591e5f74",
+          "Id": "4a0d7a2e-6c83-44cb-8460-152ad0973246",
           "Tag": "panorama",
           "Type": "Screenshot",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/85cc9f1f-1f78-44b7-b35b-a34c591e5f74/actionsandstuff_panorama_0.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4a0d7a2e-6c83-44cb-8460-152ad0973246/actionsandstuff_panorama_0.jpg"
         },
         {
-          "Id": "5b49afbf-0f37-4057-9066-b7b752cdd3c7",
+          "Id": "25a3d6e7-189f-46c3-b8f7-e928126aa9aa",
           "Tag": "screenshot",
           "Type": "Screenshot",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5b49afbf-0f37-4057-9066-b7b752cdd3c7/actionsandstuff_screenshot_1.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/25a3d6e7-189f-46c3-b8f7-e928126aa9aa/actionsandstuff_screenshot_1.jpg"
         },
         {
-          "Id": "0f0f7fa0-1611-4282-b3f8-90b2a0497858",
+          "Id": "42dff9ec-e3a9-46f8-9b6f-49ac2df8a602",
           "Tag": "screenshot",
           "Type": "Screenshot",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0f0f7fa0-1611-4282-b3f8-90b2a0497858/actionsandstuff_screenshot_2.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/42dff9ec-e3a9-46f8-9b6f-49ac2df8a602/actionsandstuff_screenshot_2.jpg"
         },
         {
-          "Id": "b011776b-c058-4a40-97d1-9b5b19259418",
+          "Id": "2bde75b9-04f1-4d70-af39-8b820b2d42bb",
           "Tag": "screenshot",
           "Type": "Screenshot",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b011776b-c058-4a40-97d1-9b5b19259418/actionsandstuff_screenshot_3.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2bde75b9-04f1-4d70-af39-8b820b2d42bb/actionsandstuff_screenshot_3.jpg"
         },
         {
-          "Id": "4fcc0345-1143-4e19-a5a1-4151465b35e8",
+          "Id": "f1972ea3-3af8-44a9-b39c-c8cccb789345",
           "Tag": "screenshot",
           "Type": "Screenshot",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/4fcc0345-1143-4e19-a5a1-4151465b35e8/actionsandstuff_screenshot_4.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f1972ea3-3af8-44a9-b39c-c8cccb789345/actionsandstuff_screenshot_4.jpg"
         },
         {
-          "Id": "b639dbd6-441d-4be7-965e-54edf9233020",
+          "Id": "bf1a169c-7e8e-4d66-b035-7d996ae3e40d",
           "Tag": "screenshot",
           "Type": "Screenshot",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b639dbd6-441d-4be7-965e-54edf9233020/actionsandstuff_screenshot_5.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bf1a169c-7e8e-4d66-b035-7d996ae3e40d/actionsandstuff_screenshot_5.jpg"
         },
         {
-          "Id": "89c4a584-7751-4421-93ca-0825a3e782cd",
+          "Id": "0b4c8f46-6bcf-409e-a6e2-3e2a832c8dd7",
           "Tag": "screenshot",
           "Type": "Screenshot",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/89c4a584-7751-4421-93ca-0825a3e782cd/actionsandstuff_screenshot_6.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0b4c8f46-6bcf-409e-a6e2-3e2a832c8dd7/actionsandstuff_screenshot_6.jpg"
         },
         {
-          "Id": "b5a9b5b3-866a-48cb-8897-0cc7c99eab23",
+          "Id": "4d4beb5d-492f-4a73-a2c3-b54eb02f31b9",
           "Tag": "screenshot",
           "Type": "Screenshot",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b5a9b5b3-866a-48cb-8897-0cc7c99eab23/actionsandstuff_screenshot_7.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4d4beb5d-492f-4a73-a2c3-b54eb02f31b9/actionsandstuff_screenshot_7.jpg"
         },
         {
-          "Id": "58a95a5b-aca6-46db-885b-d0d9b2c65542",
+          "Id": "e7f2be72-fb99-4a48-9de9-acab9c01b652",
           "Tag": "screenshot",
           "Type": "Screenshot",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/58a95a5b-aca6-46db-885b-d0d9b2c65542/actionsandstuff_screenshot_8.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e7f2be72-fb99-4a48-9de9-acab9c01b652/actionsandstuff_screenshot_8.jpg"
         },
         {
-          "Id": "75d4bd11-ef0c-4e99-89bb-e935fb3fd436",
+          "Id": "bb31b676-ab14-4019-b302-8c0069ddd36b",
           "Tag": "Thumbnail",
           "Type": "Thumbnail",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/75d4bd11-ef0c-4e99-89bb-e935fb3fd436/actionsandstuff_Thumbnail_0.jpg"
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bb31b676-ab14-4019-b302-8c0069ddd36b/actionsandstuff_Thumbnail_0.jpg"
         }
       ],
       "ItemReferences": [
@@ -672,12 +672,12 @@
       },
       "Rating": {
         "Average": 4.9,
-        "TotalCount": 111777,
-        "Count5Star": 105135,
-        "Count4Star": 3306,
-        "Count3Star": 964,
-        "Count2Star": 485,
-        "Count1Star": 1887
+        "TotalCount": 119739,
+        "Count5Star": 112679,
+        "Count4Star": 3531,
+        "Count3Star": 1017,
+        "Count2Star": 498,
+        "Count1Star": 2014
       },
       "DeepLinks": [],
       "DisplayProperties": {
@@ -690,12 +690,12 @@
           {
             "type": "skinpack",
             "uuid": "218d7771-3b76-4bdf-a46e-5f76af23353a",
-            "version": "1.67.24"
+            "version": "3.1.26"
           },
           {
             "type": "resourcepack",
             "uuid": "2cf066eb-1254-4b7d-affb-80fe3216b18c",
-            "version": "1.1.24"
+            "version": "1.1.26"
           }
         ],
         "skinPack": {
@@ -743,7 +743,7 @@
           "neutral": "Update 1.9: Mounts of Mayhem!\r\n- Mounts of Mayhem support.\r\n- Snowy mob biome variants.\r\n- Snowy feet & footprints.\r\n- 5 armour costumes.\r\n- Festive nametags.\r\n- Festive props.\r\n- 3 new skins.\r\n- And much more!\r\n- Full changelog: https://discord.gg/orevillestudios",
           "en-US": "Update 1.9: Mounts of Mayhem!\r\n- Mounts of Mayhem support.\r\n- Snowy mob biome variants.\r\n- Snowy feet & footprints.\r\n- 5 armour costumes.\r\n- Festive nametags.\r\n- Festive props.\r\n- 3 new skins.\r\n- And much more!\r\n- Full changelog: https://discord.gg/orevillestudios"
         },
-        "lastUpdated": "1.21.131",
+        "lastUpdated": "1.21.132",
         "realmsPlusStartDate": "2025-05-06T17:00:00Z",
         "realmsPlusEndDate": "2026-05-05T17:00:00Z",
         "maxClientVersion": "65535.65535.65535",
@@ -753,7 +753,7 @@
         "csbEndDate": "2026-05-05T17:00:00Z",
         "hardwareMemoryTier": 0
       },
-      "ETag": "\"ce0303d9-0000-0800-0000-696266110000\""
+      "ETag": "\"d800d93d-0000-0800-0000-69a443360000\""
     }
   }
 }

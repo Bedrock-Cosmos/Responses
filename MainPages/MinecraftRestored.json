@@ -160,7 +160,7 @@
           {
             "items": [
               {
-                "id": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                "id": "8674f54e-dcd3-4277-83d5-e3c758a7d92a",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "title": "1st Birthday Skin Pack Restored",
                 "creatorName": "Bedrock Cosmos",
@@ -200,7 +200,7 @@
                   {
                     "type": "skinpack",
                     "uuid": "54b73791-d33a-404a-971f-8dd7c69e942c",
-                    "version": "1.14.2026"
+                    "version": "3.1.26"
                   }
                 ],
                 "minPerformanceTier": "LowTier",
@@ -223,7 +223,7 @@
                 "namedLinksToInfoMap": {}
               },
               {
-                "id": "770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                "id": "ac081ea0-e540-4e35-aab8-349909904dbc",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "title": "2nd Birthday Skin Pack - 2015 Restored",
                 "creatorName": "Bedrock Cosmos",
@@ -304,9 +304,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_ab0161a5-f37d-4a4c-9723-ed8966391861",
+                "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_ab0161a5-f37d-4a4c-9723-ed8966391861",
+                  "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
@@ -430,9 +430,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_0b451487-51da-48e1-a7bb-bbf769f0e109",
+                "linksTo": "ItemDetail_d1e7ecae-b422-40a2-8037-cf24571f901c",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_0b451487-51da-48e1-a7bb-bbf769f0e109",
+                  "linksTo": "ItemDetail_d1e7ecae-b422-40a2-8037-cf24571f901c",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
@@ -493,9 +493,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_ecba1a47-02c2-40f4-aa56-e5c1dfaed6a1",
+                "linksTo": "ItemDetail_40fbf08d-390d-480c-9213-afb3886915eb",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_ecba1a47-02c2-40f4-aa56-e5c1dfaed6a1",
+                  "linksTo": "ItemDetail_40fbf08d-390d-480c-9213-afb3886915eb",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
@@ -556,9 +556,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_f9e8f181-c6f3-430c-abd9-385a084e3f2d",
+                "linksTo": "ItemDetail_36b8bc1a-10a1-4405-adc1-c93086dcb317",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_f9e8f181-c6f3-430c-abd9-385a084e3f2d",
+                  "linksTo": "ItemDetail_36b8bc1a-10a1-4405-adc1-c93086dcb317",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
@@ -619,9 +619,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_3f8a1576-f343-4b0c-a832-9fe5963518b2",
+                "linksTo": "ItemDetail_297ef7fb-debf-40a5-aea7-4e7acf141c59",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_3f8a1576-f343-4b0c-a832-9fe5963518b2",
+                  "linksTo": "ItemDetail_297ef7fb-debf-40a5-aea7-4e7acf141c59",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false

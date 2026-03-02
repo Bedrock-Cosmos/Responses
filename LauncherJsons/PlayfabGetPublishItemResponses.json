@@ -752,8 +752,24 @@
     "response": "SkinPacks\\CharitySkinPacks\\Binary_HalloweenCharitySkinPack.json"
   },
   {
+    "uuid": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+    "response": "SkinPacks\\1stBirthdaySkinPack\\Binary_1stBirthdaySkinPack.json"
+  },
+  {
     "uuid": "22688cde-3822-4bd8-9638-625713ba4dfd",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC1.json"
+  },
+  {
+    "uuid": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC2.json"
+  },
+  {
+    "uuid": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC3.json"
+  },
+  {
+    "uuid": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC4.json"
   },
   {
     "uuid": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
@@ -766,5 +782,9 @@
   {
     "uuid": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
     "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Binary_ProjectStarSkinPack.json"
+  },
+  {
+    "uuid": "61c7a786-d7ad-49e0-a710-817121cd9795",
+    "response": "SkinPacks\\Other\\Binary_ActionsStuff.json"
   }
 ]
