@@ -1,5 +1,13 @@
 [
   {
+    "uuid": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
+    "response": "Persona\\VanillaCapes\\1stBirthday_cape.json"
+  },
+  {
+    "uuid": "7660dda7-f417-4f66-96ec-d7a43e33b5e5",
+    "response": "Persona\\VanillaCapes\\4J_cape.json"
+  },
+  {
     "uuid": "7402ead0-ac59-4fd2-9f58-7e5b2d1ef412",
     "response": "Persona\\VanillaCapes\\Awesom_cape.json"
   },
@@ -54,10 +62,6 @@
   {
     "uuid": "ecd5e398-4f4c-4df0-9167-63070821853c",
     "response": "Persona\\VanillaCapes\\MC_cape.json"
-  },
-  {
-    "uuid": "c6ffe67c-10c8-41f8-b3b8-d599214d1130",
-    "response": "Persona\\VanillaCapes\\MicrosoftDeveloper_cape.json"
   },
   {
     "uuid": "94e81811-ed4e-4d97-a2f0-a9e5d2f1b320",
@@ -216,8 +220,8 @@
     "response": "Persona\\VanillaCapes\\Veterinarian_cape.json"
   },
   {
-    "uuid": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
-    "response": "Persona\\VanillaCapes\\XboxBirthday_cape.json"
+    "uuid": "c6ffe67c-10c8-41f8-b3b8-d599214d1130",
+    "response": "Persona\\VanillaCapes\\Xbox_cape.json"
   },
   {
     "uuid": "80a1968a-853e-4ca8-9c70-6de7ddb732b1",

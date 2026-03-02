@@ -1130,6 +1130,86 @@
           {
             "items": [
               {
+                "id": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
+                "contentType": "PersonaDurable",
+                "title": "1st Birthday Cape",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/1stBirthday_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/1stBirthday_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "uncommon",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "d0567d45-f3e3-46b3-acde-7e692c4f35f7",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "7660dda7-f417-4f66-96ec-d7a43e33b5e5",
+                "contentType": "PersonaDurable",
+                "title": "4J Cape",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/4J_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/4J_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "legendary",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "accf2343-5441-429d-9475-46ccedb01a77",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
                 "id": "7402ead0-ac59-4fd2-9f58-7e5b2d1ef412",
                 "contentType": "PersonaDurable",
                 "title": "Awesom Caep",
@@ -1684,46 +1764,6 @@
                   {
                     "type": "persona_piece",
                     "uuid": "9d581238-9e6c-48ea-ac28-0ea317dd72d2",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "c6ffe67c-10c8-41f8-b3b8-d599214d1130",
-                "contentType": "PersonaDurable",
-                "title": "Microsoft Developer Cape",
-                "creatorName": "Minecraft",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MicrosoftDeveloper_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MicrosoftDeveloper_cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "legendary",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "fc181119-3c7f-4e1a-ad48-7990f8fce7ac",
                     "version": "1.0.0"
                   }
                 ],
@@ -3366,15 +3406,15 @@
                 }
               },
               {
-                "id": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
+                "id": "c6ffe67c-10c8-41f8-b3b8-d599214d1130",
                 "contentType": "PersonaDurable",
-                "title": "Xbox Birthday Cape",
+                "title": "Xbox Cape",
                 "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/XboxBirthday_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/XboxBirthday_cape.png"
+                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Xbox_cape.png",
+                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Xbox_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -3385,13 +3425,13 @@
                   "virtualCurrencyType": "Minecoin"
                 },
                 "pieceType": "persona_capes",
-                "rarity": "uncommon",
+                "rarity": "legendary",
                 "ownership": "Purchased",
                 "packType": "Persona",
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "d0567d45-f3e3-46b3-acde-7e692c4f35f7",
+                    "uuid": "fc181119-3c7f-4e1a-ad48-7990f8fce7ac",
                     "version": "1.0.0"
                   }
                 ],
