@@ -98,6 +98,7 @@
                 }
               ],
               "contents": [],
+              "wishlisted": false,
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
@@ -154,11 +155,6 @@
           },
           {
             "description": "A selection of sea-worthy skins to celebrate the Update Aquatic! Explore the oceans as a dolphin or turtle, or opt for a statue skin – covered in kelp or coral! Take a deep dive with the Ocean Explorer, Coral Diver and more! Net proceeds will go to support The Nature Conservancy’s efforts to protect and restore coral reefs, learn more at https://aka.ms/coralcrafters.",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

@@ -724,7 +724,7 @@
     "response": "SkinPacks\\FestiveMashUp\\Binary_Festive.json"
   },
   {
-    "uuid": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+    "uuid": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
     "response": "SkinPacks\\MarioMashUp\\Binary_MarioMashUp.json"
   },
   {
@@ -738,5 +738,53 @@
   {
     "uuid": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
     "response": "SkinPacks\\SkinPack\\Binary_SkinPack6.json"
+  },
+  {
+    "uuid": "38fdf771-febb-4b6f-a162-c42850817d95",
+    "response": "SkinPacks\\LEGORMinecraftTMDragonSlayer\\Binary_LEGORMinecraftTMDragonSlayer.json"
+  },
+  {
+    "uuid": "358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+    "response": "SkinPacks\\CharitySkinPacks\\Binary_SummerofArcadeSkinPack.json"
+  },
+  {
+    "uuid": "5b13cb52-e2bf-438c-97f2-1105c54929d9",
+    "response": "SkinPacks\\CharitySkinPacks\\Binary_HalloweenCharitySkinPack.json"
+  },
+  {
+    "uuid": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+    "response": "SkinPacks\\1stBirthdaySkinPack\\Binary_1stBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "22688cde-3822-4bd8-9638-625713ba4dfd",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC1.json"
+  },
+  {
+    "uuid": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC2.json"
+  },
+  {
+    "uuid": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC3.json"
+  },
+  {
+    "uuid": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC4.json"
+  },
+  {
+    "uuid": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Binary_6thBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Binary_BionicBenSkinPack.json"
+  },
+  {
+    "uuid": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Binary_ProjectStarSkinPack.json"
+  },
+  {
+    "uuid": "61c7a786-d7ad-49e0-a710-817121cd9795",
+    "response": "SkinPacks\\Other\\Binary_ActionsStuff.json"
   }
 ]

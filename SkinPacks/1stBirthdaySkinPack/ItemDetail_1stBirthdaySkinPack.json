@@ -159,7 +159,7 @@
                 {
                   "type": "skinpack",
                   "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
-                  "version": "1.0.9"
+                  "version": "3.1.26"
                 }
               ],
               "tags": [
@@ -213,6 +213,7 @@
                 }
               ],
               "contents": [],
+              "wishlisted": false,
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
@@ -235,7 +236,7 @@
             },
             "binaries": [
               {
-                "url": "https://raw.githubusercontent.com/zoroark19/-/refs/heads/main/SkinPacks/1stBirthday.zip"
+                "url": "https://pack.bedrock-cosmos.app/uss/20253/1stBirthday.zip"
               }
             ],
             "type": "purchaseInfoComp",
@@ -269,53 +270,6 @@
           },
           {
             "description": "Join the Minecraft party now!",
-            "genres": [
-              {
-                "linksTo": "Tag_genre.survival",
-                "linksToInfo": {
-                  "linksTo": "Tag_genre.survival",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "genre.survival"
-              }
-            ],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [
-              {
-                "linksTo": "Tag_tag.skin",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.skin",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.skin"
-              },
-              {
-                "linksTo": "Tag_tag.festival",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.festival",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.festival"
-              },
-              {
-                "linksTo": "Tag_tag.limited",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.limited",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.limited"
-              }
-            ],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
@@ -326,12 +280,12 @@
         "components": [
           {
             "binary": {
-              "url": "https://raw.githubusercontent.com/zoroark19/-/refs/heads/main/SkinPacks/1stBirthday.zip"
+              "url": "https://pack.bedrock-cosmos.app/uss/20253/1stBirthday.zip"
             },
             "packIdentity": {
               "type": "skinpack",
               "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
-              "version": "1.0.9"
+              "version": "3.1.26"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"

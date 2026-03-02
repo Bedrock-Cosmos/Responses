@@ -139,6 +139,7 @@
                 }
               ],
               "contents": [],
+              "wishlisted": false,
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
@@ -195,53 +196,6 @@
           },
           {
             "description": "Secure your Character Creator Founder’s Cape early by downloading this skin pack. By downloading you will automatically receive your cape when it launches later this fall.",
-            "genres": [
-              {
-                "linksTo": "Tag_genre.survival",
-                "linksToInfo": {
-                  "linksTo": "Tag_genre.survival",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "genre.survival"
-              }
-            ],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [
-              {
-                "linksTo": "Tag_tag.exploration",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.exploration",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.exploration"
-              },
-              {
-                "linksTo": "Tag_tag.cape",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.cape",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.cape"
-              },
-              {
-                "linksTo": "Tag_tag.character_customization",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.character_customization",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.character_customization"
-              }
-            ],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

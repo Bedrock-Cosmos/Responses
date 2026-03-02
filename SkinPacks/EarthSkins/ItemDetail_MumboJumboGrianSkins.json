@@ -110,6 +110,7 @@
                 }
               ],
               "contents": [],
+              "wishlisted": false,
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
@@ -166,11 +167,6 @@
           },
           {
             "description": "Private skin pack containing Mumbo Jumbo’s and Grian’s skins for use in their Minecraft Earth road trip video series, debuting at Minecon Live 2020. ",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

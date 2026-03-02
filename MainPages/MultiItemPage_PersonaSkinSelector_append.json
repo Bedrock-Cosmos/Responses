@@ -7,11 +7,7 @@
         "style": {
           "highlightColor": [],
           "alignment": "Left",
-          "textColor": [
-            1,
-            1,
-            1
-          ],
+          "textColor": [1, 1, 1],
           "font": "MinecraftTen",
           "showBackground": false,
           "showOutline": false,
@@ -38,15 +34,15 @@
     {
       "items": [
         {
-          "id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+          "id": "a3cf70ed-85aa-4b43-8475-54763110e6f9",
           "contentType": "MarketplaceDurableCatalog_V1.2",
           "title": "Mario Mash-Up",
           "creatorName": "Minecraft",
           "thumbnail": {
             "tag": "Thumbnail",
             "type": "Thumbnail",
-            "url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8",
-            "urlWithResolution": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
+            "url": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg",
+            "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg"
           },
           "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
           "linksToInfo": {
@@ -75,21 +71,75 @@
           "startDate": "2026-01-11T18:00:00Z",
           "namedLinksToInfoMap": {
             "dr.expanded_skins": {
-              "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+              "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
               "linkType": "pageId",
               "displayType": "store_layout.skin_selector_screen",
               "navigateInPlace": false
             },
             "dr.see_in_store": {
-              "linksTo": "ItemDetail_7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+              "linksTo": "ItemDetail_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
               "linkType": "pageId",
               "displayType": "store_layout.store_data_driven_screen",
               "navigateInPlace": false
             }
           }
         }
+        // ,
+        // {
+        //   "id": "61c7a786-d7ad-49e0-a710-817121cd9795",
+        //   "contentType": "MarketplaceDurableCatalog_V1.2",
+        //   "title": "Actions & Stuff 1.9.1",
+        //   "creatorName": "Oreville Studios",
+        //   "statistics": { "skins": 20, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+        //   "ownership": "NotOwned",
+        //   "packType": "SkinPack",
+        //   "packIdentity": [{ "type": "skinpack", "uuid": "218d7771-3b76-4bdf-a46e-5f76af23353a", "version": "3.1.26" }],
+        //   "namedLinksToInfoMap": {
+        //     "dr.expanded_skins": {
+        //       "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_61c7a786-d7ad-49e0-a710-817121cd9795",
+        //       "linkType": "pageId",
+        //       "displayType": "store_layout.skin_selector_screen",
+        //       "navigateInPlace": false
+        //     },
+        //     "dr.see_in_store": {
+        //       "linksTo": "ItemDetail_61c7a786-d7ad-49e0-a710-817121cd9795",
+        //       "linkType": "pageId",
+        //       "displayType": "store_layout.store_data_driven_screen",
+        //       "navigateInPlace": false
+        //     }
+        //   }
+        // },
+        // {
+        //   "id": "59639b6d-4535-4002-87c5-3b604be19353",
+        //   "contentType": "MarketplaceDurableCatalog_V1.2",
+        //   "title": "1st Birthday Skin Pack",
+        //   "creatorName": "Minecraft",
+        //   "linksTo": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+        //   "linksToInfo": {
+        //     "linksTo": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+        //     "linkType": "pageId",
+        //     "displayType": "store_layout.store_data_driven_screen",
+        //     "navigateInPlace": false
+        //   },
+        //   "statistics": {
+        //     "skins": 22,
+        //     "worlds": 0,
+        //     "textures": 0,
+        //     "behaviors": 0,
+        //     "addOns": 0
+        //   },
+        //   "ownership": "Purchased",
+        //   "packType": "SkinPack",
+        //   "packIdentity": [
+        //     {
+        //       "type": "skinpack",
+        //       "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+        //       "version": "3.1.26"
+        //     }
+        //   ]
+        // }
       ],
-      "totalItems": 1,
+      "totalItems": 2,
       "linksTo": "MultiItemPage_Inventory",
       "linksToInfo": {
         "linksTo": "MultiItemPage_Inventory",
@@ -99,7 +149,7 @@
       },
       "customStoreRowConfiguration": {
         "seeAllVisible": false,
-        "maxOffers": 1,
+        "maxOffers": 2,
         "arrowsVisible": false,
         "visibleOffersPerRow": 0
       },

@@ -129,6 +129,7 @@
                 }
               ],
               "contents": [],
+              "wishlisted": false,
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
@@ -185,43 +186,6 @@
           },
           {
             "description": "Assemble your Mighty Morphin Power Rangers team and Go Go!",
-            "genres": [
-              {
-                "linksTo": "Tag_genre.action",
-                "linksToInfo": {
-                  "linksTo": "Tag_genre.action",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "genre.action"
-              }
-            ],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [
-              {
-                "linksTo": "Tag_tag.skin",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.skin",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.skin"
-              },
-              {
-                "linksTo": "Tag_tag.superhero",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.superhero",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.superhero"
-              }
-            ],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

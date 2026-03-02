@@ -139,6 +139,7 @@
                 }
               ],
               "contents": [],
+              "wishlisted": false,
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
@@ -195,53 +196,6 @@
           },
           {
             "description": "Experience actual globetrotting by taking a walk in this excellent Earth skin! With cloud-coated shoulders, an Earthy torso, and rock-solid legs, this planetary pal is the perfect way to celebrate our upcoming game, Minecraft: Earth. Explore the Overworld AS the Overworld!",
-            "genres": [
-              {
-                "linksTo": "Tag_genre.creative",
-                "linksToInfo": {
-                  "linksTo": "Tag_genre.creative",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "genre.creative"
-              }
-            ],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [
-              {
-                "linksTo": "Tag_tag.skin",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.skin",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.skin"
-              },
-              {
-                "linksTo": "Tag_tag.planets",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.planets",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.planets"
-              },
-              {
-                "linksTo": "Tag_tag.tree",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.tree",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.tree"
-              }
-            ],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

@@ -85,7 +85,7 @@
                 {
                   "type": "skinpack",
                   "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88",
-                  "version": "1.0.0"
+                  "version": "2.26.2026"
                 }
               ],
               "tags": [],
@@ -98,6 +98,7 @@
                 }
               ],
               "contents": [],
+              "wishlisted": false,
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
@@ -146,11 +147,6 @@
           },
           {
             "description": "Be the Dragon Slayer!\r\nThink you can defeat the ender dragon? Then you’re worthy of wearing this cool Dragon Slayer Skin! Don your armor, grab your enchanted bow and head for the End dimension, where the dragon awaits!",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
@@ -166,7 +162,7 @@
             "packIdentity": {
               "type": "skinpack",
               "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88",
-              "version": "1.0.0"
+              "version": "2.26.2026"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"

@@ -139,6 +139,7 @@
                 }
               ],
               "contents": [],
+              "wishlisted": false,
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
@@ -187,53 +188,6 @@
           },
           {
             "description": "Minecraft is growing up, time to celebrate together our 2nd Birthday!",
-            "genres": [
-              {
-                "linksTo": "Tag_genre.survival",
-                "linksToInfo": {
-                  "linksTo": "Tag_genre.survival",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "genre.survival"
-              }
-            ],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [
-              {
-                "linksTo": "Tag_tag.skin",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.skin",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.skin"
-              },
-              {
-                "linksTo": "Tag_tag.funny",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.funny",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.funny"
-              },
-              {
-                "linksTo": "Tag_tag.party_based_rpg",
-                "linksToInfo": {
-                  "linksTo": "Tag_tag.party_based_rpg",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "navigateInPlace": false
-                },
-                "name": "tag.party_based_rpg"
-              }
-            ],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

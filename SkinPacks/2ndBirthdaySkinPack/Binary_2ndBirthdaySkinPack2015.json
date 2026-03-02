@@ -138,7 +138,7 @@
       "Contents": [
         {
           "Id": "c69a7b69-98d4-4cad-a112-f66ddaf75033",
-          "Url": "https://raw.githubusercontent.com/zoroark19/-/refs/heads/main/SkinPacks/2ndBirthday.zip",
+          "Url": "https://pack.bedrock-cosmos.app/uss/d532b/2ndBirthday.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.2.10",
           "Tags": [],
@@ -176,7 +176,7 @@
         "originalCreatorId": "2535448579972708",
         "price": 0,
         "purchasable": false,
-        "packIdentity": [{ "type": "skinpack", "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426", "version": "1.0.9" }],
+        "packIdentity": [{ "type": "skinpack", "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426", "version": "3.1.26" }],
         "skinPack": { "count": 24 },
         "publicChangelog": {
           "neutral": "",

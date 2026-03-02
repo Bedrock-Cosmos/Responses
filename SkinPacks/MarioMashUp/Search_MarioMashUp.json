@@ -15,12 +15,12 @@
           "Type": "namespace",
           "TypeString": "namespace"
         },
-        "Id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+        "Id": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
         "Type": "bundle",
         "AlternateIds": [
           {
             "Type": "FriendlyId",
-            "Value": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8"
+            "Value": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6"
           }
         ],
         "Title": {
@@ -64,18 +64,18 @@
             "Id": "62e8bc6f-43d1-4f85-8b2f-6057b36def49",
             "Tag": "Thumbnail",
             "Type": "Thumbnail",
-            "Url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000000964/94d3ce6833675dc3266b98aa756b14d0a5e634c5db5bbbd81d294b7be4a8c4e8"
+            "Url": "https://bedrock-cosmos.app/thumbnails/MarioMashUp.jpeg"
           }
         ],
         "ItemReferences": [
           {
-            "Id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+            "Id": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
             "Amount": 1
           }
         ],
         "DisplayProperties": {
           "creatorName": "Minecraft",
-          "offerId": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+          "offerId": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
           "originalCreatorId": "2535448579972708",
           "price": -1,
           "purchasable": false,
@@ -85,7 +85,9 @@
               "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
               "version": "1.1.5"
             }
-          ]
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0",
+          "hardwareMemoryTier": 0
         }
       }
     ],

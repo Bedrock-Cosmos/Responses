@@ -98,6 +98,7 @@
                 }
               ],
               "contents": [],
+              "wishlisted": false,
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
@@ -146,11 +147,6 @@
           },
           {
             "description": "Join the celebrations for the 5th birthday of Minecraft with this new, free skin pack featuring the one and only 4J Studios development team! Party on!",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

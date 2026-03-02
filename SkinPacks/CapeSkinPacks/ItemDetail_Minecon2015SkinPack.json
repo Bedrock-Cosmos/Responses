@@ -98,6 +98,7 @@
                 }
               ],
               "contents": [],
+              "wishlisted": false,
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
@@ -154,11 +155,6 @@
           },
           {
             "description": "Alex and Steve are ready for Minecon 2015! They’ve brought their complete Minecon cape collection with them and don’t they both look grand?",
-            "genres": [],
-            "subgenres": [],
-            "playerCounts": [],
-            "tags": [],
-            "warnings": [],
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
