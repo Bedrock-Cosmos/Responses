@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "faa83b76-ef7e-48d6-a0a6-720848e4a114",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/GoodPing_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GoodPing_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

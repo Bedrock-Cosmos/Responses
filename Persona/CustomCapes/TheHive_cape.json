@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "cf82e2e8-e67a-4cfc-a7e3-d73713d74267",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/TheHive_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TheHive_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

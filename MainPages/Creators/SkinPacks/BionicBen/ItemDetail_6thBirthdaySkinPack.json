@@ -127,8 +127,8 @@
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Creator%20Hub/BionicBen/6th%20Birthday%20Skin%20Pack/6thBirthdaySkinPack_thumbnail.jpg",
-                "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Creator%20Hub/BionicBen/6th%20Birthday%20Skin%20Pack/6thBirthdaySkinPack_thumbnail.jpg?width=800&height=450"
+                "url": "https://bedrock-cosmos.app/thumbnails/6thBirthdaySkinPack_thumbnail.jpg",
+                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/6thBirthdaySkinPack_thumbnail.jpg?width=800&height=450"
               },
               "price": {
                 "listPrice": -1,

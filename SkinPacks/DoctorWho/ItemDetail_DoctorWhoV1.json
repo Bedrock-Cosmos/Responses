@@ -188,8 +188,8 @@
             "images": [
               {
                 "type": "Unknown",
-                "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Legacy%20Vault/Doctor%20Who%20Volume%201%20&%202/DoesNotWork1_thumbnail.jpg",
-                "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Legacy%20Vault/Doctor%20Who%20Volume%201%20&%202/DoesNotWork1_thumbnail.jpg?width=800&height=450"
+                "url": "https://bedrock-cosmos.app/thumbnails/DoesNotWork1_thumbnail.jpg",
+                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/DoesNotWork1_thumbnail.jpg?width=800&height=450"
               }
             ],
             "type": "imageGalleryComp",

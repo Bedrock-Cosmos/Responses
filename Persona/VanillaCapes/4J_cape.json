@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "d62ec106-b68b-4b60-8a43-81b3685ea2c8",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/4J_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/4J_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

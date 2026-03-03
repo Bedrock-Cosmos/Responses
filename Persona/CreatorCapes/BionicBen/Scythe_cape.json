@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "23a60f01-4372-49fa-abd7-46000f51dbc8",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Scythe_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Scythe_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

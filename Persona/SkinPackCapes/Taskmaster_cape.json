@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "0034a291-58b8-4752-beae-1d644ff511cd",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Taskmaster_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Taskmaster_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

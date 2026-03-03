@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "be70d8f5-585b-41f4-b4bb-383b35364812",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/MC_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MC_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

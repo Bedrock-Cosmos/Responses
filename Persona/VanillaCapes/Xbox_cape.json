@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "f48d1042-b300-43e8-862a-fdb9e5b5b340",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Xbox_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Xbox_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

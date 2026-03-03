@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "59eabc91-3998-46f2-8f6b-fd89ac6e4a1f",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Mojang_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Mojang_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

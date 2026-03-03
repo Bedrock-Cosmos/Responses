@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "52fc1a5b-8997-4aeb-9639-4b32935157e2",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Athena_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Athena_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

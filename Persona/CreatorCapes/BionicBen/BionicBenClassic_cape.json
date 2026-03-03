@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "7459732c-c44d-46c9-aca6-34e3652205fb",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BionicBenClassic_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BionicBenClassic_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

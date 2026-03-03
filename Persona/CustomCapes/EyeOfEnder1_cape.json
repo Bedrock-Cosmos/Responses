@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "3887d330-dd74-4b43-8e8d-3b823fe55e0a",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/EyeOfEnder1_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/EyeOfEnder1_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

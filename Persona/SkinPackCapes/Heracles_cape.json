@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "b7389461-c374-44ed-95d6-b6d62e8af27a",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Heracles_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Heracles_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

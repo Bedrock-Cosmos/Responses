@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "fdb6b755-fa13-47e4-afff-5c400551390b",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/OptiFine_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/OptiFine_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

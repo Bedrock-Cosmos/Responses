@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "65f944ea-9b94-43a8-a9c6-6f209911a70f",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/GrimReaper_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GrimReaper_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

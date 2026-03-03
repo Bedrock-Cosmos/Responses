@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "b98b59b5-6f70-42c5-b021-2088ea4b531d",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Drone_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Drone_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

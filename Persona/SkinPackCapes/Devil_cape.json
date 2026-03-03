@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "f29d6f5b-78df-4b54-908a-9355a1c9996c",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Devil_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Devil_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

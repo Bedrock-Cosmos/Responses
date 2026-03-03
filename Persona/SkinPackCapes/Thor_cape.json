@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "4a131161-bb7c-4618-92a5-a393b454047a",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Thor_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Thor_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

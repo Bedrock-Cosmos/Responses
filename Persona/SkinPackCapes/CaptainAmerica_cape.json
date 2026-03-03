@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "446404f4-3555-40f6-be34-d7cc314d6068",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/CaptainAmerica_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CaptainAmerica_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

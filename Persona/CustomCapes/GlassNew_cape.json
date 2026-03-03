@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "2e94725f-cb16-4cd1-ae03-dacff5f726c0",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/GlassNew_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GlassNew_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

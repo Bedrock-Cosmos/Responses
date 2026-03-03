@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "ed7de7ab-ebf7-41d3-961b-e2049a439bf6",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/VampireLord_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/VampireLord_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

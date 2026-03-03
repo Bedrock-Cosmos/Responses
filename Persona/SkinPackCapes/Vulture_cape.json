@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "56f199c8-98f9-4587-80f4-629a137fbf41",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Vulture_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Vulture_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

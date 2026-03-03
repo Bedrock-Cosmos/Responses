@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "2286fcf8-7add-4829-b2ce-c8e94ea2fe19",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/MillionthSale_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MillionthSale_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

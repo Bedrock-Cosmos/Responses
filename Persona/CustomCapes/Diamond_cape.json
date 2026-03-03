@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "bc8acc1f-1e09-4e0e-899d-64ff523cc9b3",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Diamond_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Diamond_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

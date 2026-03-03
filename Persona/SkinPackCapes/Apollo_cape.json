@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "66c43d5a-4671-4e60-b74f-68dfdf3cb3fa",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Apollo_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Apollo_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

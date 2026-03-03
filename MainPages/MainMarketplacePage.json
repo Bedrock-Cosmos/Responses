@@ -268,8 +268,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Skin%20Pack%201%20-%20Classic%20Restored/SkinPack1-ClassicRestored_thumbnail.jpg",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Skin%20Pack%201%20-%20Classic%20Restored/SkinPack1-ClassicRestored_thumbnail.jpg"
+                  "url": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg"
                 },
                 "rating": { "average": 0.0, "totalCount": 1000 },
                 "price": {
@@ -309,32 +309,32 @@
                   {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Skin%20Pack%201%20-%20Classic%20Restored/SkinPack1-ClassicRestored_thumbnail.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Skin%20Pack%201%20-%20Classic%20Restored/SkinPack1-ClassicRestored_thumbnail.jpg"
+                    "url": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg"
                   },
                   {
                     "tag": "screenshot",
                     "type": "Screenshot",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Actions%20%26%20Stuff%20Restored/ActionsAndStuffRestored_thumbnail.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Actions%20%26%20Stuff%20Restored/ActionsAndStuffRestored_thumbnail.jpg"
+                    "url": "https://bedrock-cosmos.app/thumbnails/ActionsAndStuffRestored_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ActionsAndStuffRestored_thumbnail.jpg"
                   },
                   {
                     "tag": "screenshot",
                     "type": "Screenshot",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Greek%20Mythology%20Mash-up%20Restored/GreekMythologyRestored_thumbnail.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/Greek%20Mythology%20Mash-up%20Restored/GreekMythologyRestored_thumbnail.jpg"
+                    "url": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg"
                   },
                   {
                     "tag": "screenshot",
                     "type": "Screenshot",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/1st%20Birthday%20Skin%20Pack%20Restored/1stBirthdayRestored_thumbnail.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/1st%20Birthday%20Skin%20Pack%20Restored/1stBirthdayRestored_thumbnail.jpg"
+                    "url": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg"
                   },
                   {
                     "tag": "screenshot",
                     "type": "Screenshot",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/2nd%20Birthday%20Skin%20Pack%20-%202015%20Restored/2ndBirthday-SonyRestored_thumbnail.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Skin%20Packs/Minecraft%20Restored/2nd%20Birthday%20Skin%20Pack%20-%202015%20Restored/2ndBirthday-SonyRestored_thumbnail.jpg"
+                    "url": "https://bedrock-cosmos.app/thumbnails/2ndBirthday-SonyRestored_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/2ndBirthday-SonyRestored_thumbnail.jpg"
                   }
                 ],
                 "contents": [],
@@ -413,8 +413,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/BionicBen.jpg",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/BionicBen.jpg"
+                  "url": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg"
                 },
                 "rating": { "average": 5.0, "totalCount": 1000 },
                 "price": {
@@ -454,32 +454,32 @@
                   {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/BionicBen.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/BionicBen.jpg"
+                    "url": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg"
                   },
                   {
                     "tag": "screenshot",
                     "type": "Screenshot",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Exports.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Exports.jpg"
+                    "url": "https://bedrock-cosmos.app/thumbnails/Exports.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Exports.jpg"
                   },
                   {
                     "tag": "screenshot",
                     "type": "Screenshot",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-1.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-1.jpg"
+                    "url": "https://bedrock-cosmos.app/thumbnails/Placeholder-1.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Placeholder-1.jpg"
                   },
                   {
                     "tag": "screenshot",
                     "type": "Screenshot",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-2.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-2.jpg"
+                    "url": "https://bedrock-cosmos.app/thumbnails/Placeholder-2.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Placeholder-2.jpg"
                   },
                   {
                     "tag": "screenshot",
                     "type": "Screenshot",
-                    "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-3.jpg",
-                    "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Creator/Placeholder-3.jpg"
+                    "url": "https://bedrock-cosmos.app/thumbnails/Placeholder-3.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Placeholder-3.jpg"
                   }
                 ],
                 "contents": [],

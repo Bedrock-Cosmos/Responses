@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "576c3b06-175d-4593-9d87-99de75470ad3",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Erinyes_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Erinyes_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

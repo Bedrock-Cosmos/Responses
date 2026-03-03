@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "8372281f-e356-45a8-b256-0427d4fab0a7",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BossNass_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BossNass_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

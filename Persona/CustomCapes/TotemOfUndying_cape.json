@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "c634d0e8-5de3-42b3-80fe-f24ecf76e34f",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/TotemOfUndying_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TotemOfUndying_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

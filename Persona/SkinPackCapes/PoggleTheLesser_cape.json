@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "6b844c89-59d9-4caa-9143-1a5b76909d37",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/PoggleTheLesser_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/PoggleTheLesser_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

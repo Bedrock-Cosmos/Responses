@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "5596c731-6efd-406f-918f-d70c8f8ef049",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/MoonKnight_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MoonKnight_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

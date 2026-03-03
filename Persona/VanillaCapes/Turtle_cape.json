@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "2b7ab0aa-8488-4f77-a9a6-06cb63e15a72",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Turtle_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Turtle_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "2d8a17e9-5e8f-4650-bb2b-2b3dfb53221e",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Liz10_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Liz10_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

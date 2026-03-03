@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "00068673-39b8-4f15-b120-9111890baae3",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Knight2_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Knight2_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "2e2a8de5-ee9c-4e6c-a291-58bc99a26a97",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Switch_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Switch_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

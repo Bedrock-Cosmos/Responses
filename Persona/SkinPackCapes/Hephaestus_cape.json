@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "badc7939-ee1f-4dfd-9ef5-3ab55929f7b5",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Hephaestus_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Hephaestus_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

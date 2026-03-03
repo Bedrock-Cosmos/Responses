@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "3aefd6a3-34ab-4d3a-9685-e665a23da1c1",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/MediumPing_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MediumPing_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

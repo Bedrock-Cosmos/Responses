@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "6ea871f0-f754-45e9-acba-f5b0e7efd983",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Morbius_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Morbius_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

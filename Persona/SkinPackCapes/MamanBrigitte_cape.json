@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "7a0323a4-91ee-465a-a31d-f92a450382d9",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/MamanBrigitte_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MamanBrigitte_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

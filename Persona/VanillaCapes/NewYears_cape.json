@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "9805de5c-09b5-4fb0-8d6c-23aaa7e1e9b4",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/NewYears_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/NewYears_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

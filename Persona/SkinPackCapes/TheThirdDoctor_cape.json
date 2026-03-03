@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "9852a421-ffe2-4d53-ba09-4a3986edea60",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/TheThirdDoctor_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TheThirdDoctor_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

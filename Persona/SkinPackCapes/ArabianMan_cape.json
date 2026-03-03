@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "1e84f9c0-e3ca-4314-b03a-235dbe194690",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/ArabianMan_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/ArabianMan_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

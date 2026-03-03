@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "49977dc2-0d4e-4f95-aa06-60f7db936eb5",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Wasp_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Wasp_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

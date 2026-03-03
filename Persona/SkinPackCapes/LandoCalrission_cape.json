@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "aa51a29f-0c31-46cd-92bd-d19c130842ec",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/LandoCalrission_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/LandoCalrission_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

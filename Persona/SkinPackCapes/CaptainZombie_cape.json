@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "3a3dea37-f4dd-48c6-9a00-1ea3d18c3f9c",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/CaptainZombie_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CaptainZombie_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

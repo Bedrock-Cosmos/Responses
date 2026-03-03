@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "91085abb-7f0b-4e8e-93e1-6f5bf4d93815",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Dragon_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Dragon_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

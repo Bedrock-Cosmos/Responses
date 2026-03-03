@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "9c98382b-adc9-466b-957a-b61e7f4e4dd0",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/EnchantingTable_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/EnchantingTable_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

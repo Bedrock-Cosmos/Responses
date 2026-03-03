@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "e371fd66-6dff-49de-b909-5a541ecbbb33",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Perseus_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Perseus_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

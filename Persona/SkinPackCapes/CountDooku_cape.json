@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "956421d3-49b7-4daf-9e44-57191f48e94e",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/CountDooku_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CountDooku_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

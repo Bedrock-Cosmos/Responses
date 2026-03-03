@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "65979bfc-f208-4397-b4f6-3ee2bc0ea616",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/1stBirthday_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/1stBirthday_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

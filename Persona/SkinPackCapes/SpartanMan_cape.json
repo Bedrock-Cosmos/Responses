@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "51c488de-57d8-4cdb-a3c4-776bff9c0f72",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SpartanMan_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/SpartanMan_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

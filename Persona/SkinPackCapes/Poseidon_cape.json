@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "4954b842-21a4-41f0-b3a7-dd1f2444e5c2",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Poseidon_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Poseidon_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

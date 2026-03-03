@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "012e9566-0a05-495e-8cc5-a3279932ec75",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/WhiteRobedFigure_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/WhiteRobedFigure_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "a4980c64-f04d-4fa3-97a7-7e1290836bbf",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/UnusedWings_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/UnusedWings_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

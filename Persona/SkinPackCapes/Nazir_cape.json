@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "efcd2737-8c6b-4d08-86ed-863f1e96a58d",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Nazir_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Nazir_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

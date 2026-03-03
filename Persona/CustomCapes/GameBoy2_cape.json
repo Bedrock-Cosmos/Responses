@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "991fb21f-a0d7-471d-a557-ba5c90185e32",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/GameBoy2_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GameBoy2_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

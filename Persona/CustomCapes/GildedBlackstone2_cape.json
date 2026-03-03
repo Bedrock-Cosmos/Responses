@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "4f667fd0-3c6f-4b6e-bffa-9adb641935e4",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/GildedBlackstone2_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GildedBlackstone2_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

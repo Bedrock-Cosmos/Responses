@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "b6bc42c6-14bd-46eb-8809-a1a8f6ff88b9",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Blueprint_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Blueprint_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

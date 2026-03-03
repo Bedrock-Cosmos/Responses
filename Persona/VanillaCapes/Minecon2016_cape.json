@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "bb3f8cd6-9a5b-47ad-b629-9352e140d3eb",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Minecon2016_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Minecon2016_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

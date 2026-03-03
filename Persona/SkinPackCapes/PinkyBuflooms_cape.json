@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "45d15706-3ddd-493e-80b1-e16a17019a5e",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/PinkyBuflooms_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/PinkyBuflooms_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

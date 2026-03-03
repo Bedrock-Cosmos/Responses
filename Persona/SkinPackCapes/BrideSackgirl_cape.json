@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "c8db9671-0e23-4031-b06c-51c6572df35c",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/BrideSackgirl_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BrideSackgirl_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

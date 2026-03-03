@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "89974215-86bc-40a5-b8f8-0b955cb1548b",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/WickedWitch_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/WickedWitch_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

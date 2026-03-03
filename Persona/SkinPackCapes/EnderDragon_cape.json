@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "4994ab93-69e1-41c5-9b28-83b100ca33b1",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/EnderDragon_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/EnderDragon_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

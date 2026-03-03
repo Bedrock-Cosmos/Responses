@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "2e28030a-e072-424f-a889-c62f129de6cf",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Moderator_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Moderator_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

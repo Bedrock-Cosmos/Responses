@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "8c2e546f-d348-482e-9881-ce9737927592",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Sword_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Sword_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

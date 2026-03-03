@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "43a24ec8-8288-46ae-9a9f-b0170756c439",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/ScrollsChamp_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/ScrollsChamp_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

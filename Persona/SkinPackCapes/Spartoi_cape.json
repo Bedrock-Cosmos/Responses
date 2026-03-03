@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "cfd9e8d0-cb3a-4b4b-92d7-34098286b3ee",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Spartoi_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Spartoi_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

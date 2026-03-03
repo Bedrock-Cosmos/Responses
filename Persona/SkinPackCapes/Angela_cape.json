@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "be16c819-6e7c-4dd7-83d0-3a6bce7e16dc",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Angela_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Angela_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

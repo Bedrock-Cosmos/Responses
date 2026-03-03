@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "73c4303d-7246-4db6-a124-3fc4537e2bd9",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/FairySackgirl_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/FairySackgirl_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

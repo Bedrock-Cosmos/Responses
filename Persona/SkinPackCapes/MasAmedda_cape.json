@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "96b8dc5f-5950-49f1-b296-4e7bf88631fe",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/MasAmedda_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MasAmedda_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

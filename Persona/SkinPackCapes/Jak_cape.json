@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "c56a45d7-e2de-4e2e-a678-bb0dda0f8904",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Jak_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Jak_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

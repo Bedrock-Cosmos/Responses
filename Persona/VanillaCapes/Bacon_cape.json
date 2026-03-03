@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "9e54f93b-9365-45e8-b191-048b836a1b16",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Bacon_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Bacon_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

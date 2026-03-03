@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "d0641540-b401-413f-bfbb-c74d1d04f2ed",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/TheCollector_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TheCollector_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

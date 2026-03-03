@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "d2800095-8015-4c56-8f00-468a6ad352e5",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Kraven_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Kraven_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

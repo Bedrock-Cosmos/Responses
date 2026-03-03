@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "7bba621f-8523-4367-bdd5-49bf8618c1be",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/IceLord_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/IceLord_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "7f005c60-6223-497b-9805-5fbe5dca312a",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/cheapsh0t_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/cheapsh0t_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

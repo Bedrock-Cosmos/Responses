@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "d2f28881-7480-49b4-9c54-e7f6064838cb",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Microsoft_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Microsoft_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

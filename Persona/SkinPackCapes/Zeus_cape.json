@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "74d84016-004d-4678-b259-eab27f9b98bd",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Zeus_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Zeus_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

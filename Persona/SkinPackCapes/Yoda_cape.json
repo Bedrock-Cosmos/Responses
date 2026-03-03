@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "14ef85f8-a3db-4cce-9419-1a72f89d724c",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Yoda_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Yoda_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

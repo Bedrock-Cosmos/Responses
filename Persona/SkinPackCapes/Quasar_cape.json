@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "79a5a141-eda9-4daa-badd-4fdb72cc7c63",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Quasar_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Quasar_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

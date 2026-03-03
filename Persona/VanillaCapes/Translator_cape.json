@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "105b6cae-6326-478b-9569-f0a0b89d102d",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Translator_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Translator_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

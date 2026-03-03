@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "c73b2f03-8206-4c04-a673-a938114fe173",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Wraith_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Wraith_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "8cc2759b-8c45-43b9-bb87-c073975e9744",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Hypixel_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Hypixel_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

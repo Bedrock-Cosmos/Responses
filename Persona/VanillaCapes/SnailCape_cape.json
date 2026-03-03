@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "0026b149-9916-451b-93ef-6957a41497e7",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/SnailCape_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/SnailCape_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

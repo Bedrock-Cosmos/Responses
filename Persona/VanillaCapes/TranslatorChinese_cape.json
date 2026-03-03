@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "31a8a60c-d284-48a4-935e-b90165d81f3b",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/TranslatorChinese_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TranslatorChinese_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"

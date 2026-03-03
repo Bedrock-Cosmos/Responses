@@ -120,8 +120,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Minecon2011_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Minecon2011_cape.png"
+                  "url": "https://capes.bedrock-cosmos.app/icons/Minecon2011_cape.png",
+                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Minecon2011_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -169,8 +169,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Minecon2012_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Minecon2012_cape.png"
+                  "url": "https://capes.bedrock-cosmos.app/icons/Minecon2012_cape.png",
+                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Minecon2012_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -218,8 +218,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Minecon2013_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Minecon2013_cape.png"
+                  "url": "https://capes.bedrock-cosmos.app/icons/Minecon2013_cape.png",
+                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Minecon2013_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -267,8 +267,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Minecon2015_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Minecon2015_cape.png"
+                  "url": "https://capes.bedrock-cosmos.app/icons/Minecon2015_cape.png",
+                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Minecon2015_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -316,8 +316,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Minecon2016_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Minecon2016_cape.png"
+                  "url": "https://capes.bedrock-cosmos.app/icons/Minecon2016_cape.png",
+                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Minecon2016_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -414,8 +414,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MojangOld_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/MojangOld_cape.png"
+                  "url": "https://capes.bedrock-cosmos.app/icons/MojangOld_cape.png",
+                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MojangOld_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -463,8 +463,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Mojang_cape.png",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Persona/Mojang_cape.png"
+                  "url": "https://capes.bedrock-cosmos.app/icons/Mojang_cape.png",
+                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Mojang_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -610,8 +610,8 @@
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/All-Packs.jpg",
-                  "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/All-Packs.jpg?width=800&height=450"
+                  "url": "https://bedrock-cosmos.app/thumbnails/All-Packs.jpg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/All-Packs.jpg?width=800&height=450"
                 },
                 "packType": "Realms",
                 "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",

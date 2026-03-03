@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "980a56a8-3269-4cbe-9b36-8267decb795a",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Omniarchive_cape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Omniarchive_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
