@@ -225,7 +225,7 @@
         "components": [
           {
             "binary": {
-              "url": "https://pack.bedrock-cosmos.app/uss/24886/BionicBenSkinPack.zip"
+              "url": "https://cdn.bedrock-cosmos.app/uss/24886/BionicBenSkinPack.zip"
             },
             "packIdentity": {
               "type": "skinpack",

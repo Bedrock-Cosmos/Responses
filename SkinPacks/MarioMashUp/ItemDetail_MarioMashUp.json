@@ -181,10 +181,10 @@
           {
             "binaries": [
               {
-                "url": "https://pack.bedrock-cosmos.app/uss/7f4ba/MarioM.zip"
+                "url": "https://cdn.bedrock-cosmos.app/uss/7f4ba/MarioM.zip"
               },
               {
-                "url": "https://pack.bedrock-cosmos.app/uss/47ca6/Mario.zip"
+                "url": "https://cdn.bedrock-cosmos.app/uss/47ca6/Mario.zip"
               }
             ],
             "price": {
@@ -236,7 +236,7 @@
         "components": [
           {
             "binary": {
-              "url": "https://pack.bedrock-cosmos.app/uss/47ca6/Mario.zip"
+              "url": "https://cdn.bedrock-cosmos.app/uss/47ca6/Mario.zip"
             },
             "packIdentity": {
               "type": "skinpack",

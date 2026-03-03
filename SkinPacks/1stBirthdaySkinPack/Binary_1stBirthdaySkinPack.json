@@ -226,7 +226,7 @@
       "Contents": [
         {
           "Id": "e59f7dcb-c993-4514-85e8-2d5fbcc8741b",
-          "Url": "https://pack.bedrock-cosmos.app/uss/20253/1stBirthday.zip",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/20253/1stBirthday.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.2.0",
           "Tags": [],

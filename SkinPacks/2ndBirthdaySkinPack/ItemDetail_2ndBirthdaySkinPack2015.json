@@ -251,7 +251,7 @@
                     "components": [
                       {
                         "binary": {
-                          "url": "https://pack.bedrock-cosmos.app/uss/d532b/2ndBirthday.zip"
+                          "url": "https://cdn.bedrock-cosmos.app/uss/d532b/2ndBirthday.zip"
                         },
                         "packIdentity": {
                           "type": "skinpack",
@@ -383,7 +383,7 @@
                     "components": [
                       {
                         "binary": {
-                          "url": "https://pack.bedrock-cosmos.app/uss/d532b/2ndBirthday.zip"
+                          "url": "https://cdn.bedrock-cosmos.app/uss/d532b/2ndBirthday.zip"
                         },
                         "packIdentity": {
                           "type": "skinpack",

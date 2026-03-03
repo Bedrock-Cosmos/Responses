@@ -535,7 +535,7 @@
         },
         {
           "Id": "27034ec7-6252-47df-af3f-6c4b7e12fed0",
-          "Url": "https://pack.bedrock-cosmos.app/uss/218d7/ActionsStuff.zip",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/218d7/ActionsStuff.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Tags": [],

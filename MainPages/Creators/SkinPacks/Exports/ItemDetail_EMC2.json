@@ -227,7 +227,7 @@
         "components": [
           {
             "binary": {
-              "url": "https://pack.bedrock-cosmos.app/uss/6d111/EMC2.zip"
+              "url": "https://cdn.bedrock-cosmos.app/uss/6d111/EMC2.zip"
             },
             "packIdentity": {
               "type": "skinpack",

@@ -223,7 +223,7 @@
         "components": [
           {
             "binary": {
-              "url": "https://pack.bedrock-cosmos.app/uss/91551/HalloweenCharitySkinPack.zip"
+              "url": "https://cdn.bedrock-cosmos.app/uss/91551/HalloweenCharitySkinPack.zip"
             },
             "packIdentity": {
               "type": "skinpack",

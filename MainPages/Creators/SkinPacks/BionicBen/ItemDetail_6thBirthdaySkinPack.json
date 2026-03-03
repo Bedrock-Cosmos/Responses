@@ -225,7 +225,7 @@
         "components": [
           {
             "binary": {
-              "url": "https://pack.bedrock-cosmos.app/uss/342df/6thBirthdaySkinPack.zip"
+              "url": "https://cdn.bedrock-cosmos.app/uss/342df/6thBirthdaySkinPack.zip"
             },
             "packIdentity": {
               "type": "skinpack",
