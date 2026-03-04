@@ -5303,7 +5303,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "ItemDetail_77540382-9678-4471-b530-49789e7529c6",
+                    "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
@@ -5343,7 +5343,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "ItemDetail_77540382-9678-4471-b530-49789e7529c6",
+                    "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
@@ -5383,7 +5383,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "ItemDetail_0a94862d-8e28-4626-98c2-9b9df4c906a2",
+                    "linksTo": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false
@@ -5423,7 +5423,7 @@
                 "startDate": "2025-10-25T12:00:00Z",
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
-                    "linksTo": "ItemDetail_0a94862d-8e28-4626-98c2-9b9df4c906a2",
+                    "linksTo": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "navigateInPlace": false

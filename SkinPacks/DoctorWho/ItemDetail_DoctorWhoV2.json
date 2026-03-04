@@ -1,7 +1,7 @@
 {
   "result": {
-    "id": "0a94862d-8e28-4626-98c2-9b9df4c906a2",
-    "pageId": "ItemDetail_0a94862d-8e28-4626-98c2-9b9df4c906a2",
+    "id": "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+    "pageId": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
     "addToRecentlyViewed": false,
     "pageName": "ItemDetail For 'Doctor Who Skins Volume II'",
     "rows": [
@@ -42,15 +42,15 @@
         "components": [
           {
             "item": {
-              "id": "0a94862d-8e28-4626-98c2-9b9df4c906a2",
+              "id": "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
               "contentType": "MarketplaceDurableCatalog_V1.2",
               "title": "Doctor Who Skins Volume II",
               "creatorName": "Minecraft",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://4jstudios.com/wp-content/uploads/2022/09/DrWho2_Thumbnail_0.jpg",
-                "urlWithResolution": "https://4jstudios.com/wp-content/uploads/2022/09/DrWho2_Thumbnail_0.jpg?width=800&height=450"
+                "url": "https://xforgeassets002.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/53d3bee7-73e7-4c54-933c-06d693cc6eb9/DrWho2_Thumbnail_0.jpg",
+                "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/53d3bee7-73e7-4c54-933c-06d693cc6eb9/DrWho2_Thumbnail_0.jpg?width=800&height=450"
               },
               "price": {
                 "listPrice": -1,
@@ -80,8 +80,8 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "0e53bc61-1603-4048-97ef-2938b7e9b12e",
-                  "version": "1.0.0"
+                  "uuid": "83ba3582-970f-4100-b8cc-277a10217b13",
+                  "version": "1.0.6"
                 }
               ],
               "tags": [],
@@ -152,8 +152,8 @@
             },
             "packIdentity": {
               "type": "skinpack",
-              "uuid": "0e53bc61-1603-4048-97ef-2938b7e9b12e",
-              "version": "1.0.0"
+              "uuid": "83ba3582-970f-4100-b8cc-277a10217b13",
+              "version": "1.0.6"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
@@ -162,42 +162,6 @@
             "headerText": "Doctor Who Skins Volume II: %s",
             "text": {
               "value": "Doctor Who Skins Volume II: %s",
-              "style": {
-                "highlightColor": [],
-                "alignment": "Left",
-                "textColor": [1.0, 1.0, 1.0],
-                "font": "default",
-                "showBackground": false,
-                "showOutline": false,
-                "indent": 0.0,
-                "buttonWidth": 0.0,
-                "color": [],
-                "offerControlIdType": "None"
-              },
-              "replacements": []
-            },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "ImageGallery",
-        "components": [
-          {
-            "images": [
-              {
-                "type": "Unknown",
-                "url": "https://bedrock-cosmos.app/thumbnails/DoesNotWork2_thumbnail.jpg",
-                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/DoesNotWork2_thumbnail.jpg?width=800&height=450"
-              }
-            ],
-            "type": "imageGalleryComp",
-            "$type": "ImageGalleryComponent"
-          },
-          {
-            "text": {
-              "value": "What skins do NOT work on The Hive?\n- K9\n- Racnoss\n- Gel Guard Plasma Creature",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",

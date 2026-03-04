@@ -3,10 +3,10 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "79fe9dfe-a65b-4a47-b264-cc0aba1d7b3e",
+      "Id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
       "Contents": [
         {
-          "Id": "759aed41-f477-47ab-9664-67b05d69e22b",
+          "Id": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
           "Url": "https://cdn.bedrock-cosmos.app/uss/759ae/DoctorWho1.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.2.0",
@@ -21,8 +21,8 @@
         "packIdentity": [
           {
             "type": "skinpack",
-            "uuid": "759aed41-f477-47ab-9664-67b05d69e22b",
-            "version": "1.0.0"
+            "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+            "version": "1.0.6"
           }
         ]
       }

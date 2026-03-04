@@ -40,11 +40,11 @@
     "response": "SkinPacks\\CharitySkinPacks\\Search_CoralCraftersSkinPack.json"
   },
   {
-    "uuid": "759aed41-f477-47ab-9664-67b05d69e22b",
+    "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
     "response": "SkinPacks\\DoctorWho\\Search_DoctorWhoV1.json"
   },
   {
-    "uuid": "0e53bc61-1603-4048-97ef-2938b7e9b12e",
+    "uuid": "83ba3582-970f-4100-b8cc-277a10217b13",
     "response": "SkinPacks\\DoctorWho\\Search_DoctorWhoV2.json"
   },
   {
@@ -163,6 +163,15 @@
     "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
     "response": "SkinPacks\\1stBirthdaySkinPack\\Search_1stBirthdaySkinPack.json"
   },
+  {
+    "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\Search_2ndBirthdaySkinPack2015.json"
+  },
+  {
+    "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77",
+    "response": "SkinPacks\\GreekMythologyMashUp\\Search_GreekMythologyMashUp.json"
+  },
+  // Creator Packs
   {
     "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
     "response": "MainPages\\Creators\\SkinPacks\\Exports\\Search_EMC1.json"

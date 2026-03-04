@@ -1,5 +1,95 @@
 [
   {
+    "uuid": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+    "response": "SkinPacks\\1stBirthdaySkinPack\\Binary_1stBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "770196c2-718f-43ef-94d6-8e53a7b5b0af",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\Binary_2ndBirthdaySkinPack2015.json"
+  },
+  {
+    "uuid": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+    "response": "SkinPacks\\DoctorWho\\Binary_DoctorWhoV1.json"
+  },
+  {
+    "uuid": "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+    "response": "SkinPacks\\DoctorWho\\Binary_DoctorWhoV2.json"
+  },
+  {
+    "uuid": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+    "response": "SkinPacks\\FestiveMashUp\\Binary_Festive.json"
+  },
+  {
+    "uuid": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+    "response": "SkinPacks\\MarioMashUp\\Binary_MarioMashUp.json"
+  },
+  {
+    "uuid": "2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+    "response": "SkinPacks\\SkinPack\\Binary_SkinPack4.json"
+  },
+  {
+    "uuid": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
+    "response": "SkinPacks\\SkinPack\\Binary_SkinPack5.json"
+  },
+  {
+    "uuid": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+    "response": "SkinPacks\\SkinPack\\Binary_SkinPack6.json"
+  },
+  {
+    "uuid": "38fdf771-febb-4b6f-a162-c42850817d95",
+    "response": "SkinPacks\\LEGORMinecraftTMDragonSlayer\\Binary_LEGORMinecraftTMDragonSlayer.json"
+  },
+  {
+    "uuid": "358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+    "response": "SkinPacks\\CharitySkinPacks\\Binary_SummerofArcadeSkinPack.json"
+  },
+  {
+    "uuid": "5b13cb52-e2bf-438c-97f2-1105c54929d9",
+    "response": "SkinPacks\\CharitySkinPacks\\Binary_HalloweenCharitySkinPack.json"
+  },
+  {
+    "uuid": "32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+    "response": "SkinPacks\\GreekMythologyMashUp\\Binary_GreekMythologyMashUp.json"
+  },
+  {
+    "uuid": "61c7a786-d7ad-49e0-a710-817121cd9795",
+    "response": "SkinPacks\\Other\\Binary_ActionsStuff.json"
+  },
+  {
+    "uuid": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+    "response": "SkinPacks\\LittleBigPlanetMashUp\\Binary_LittleBigPlanetMashup.json"
+  },
+  // Creator Packs
+  {
+    "uuid": "22688cde-3822-4bd8-9638-625713ba4dfd",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC1.json"
+  },
+  {
+    "uuid": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC2.json"
+  },
+  {
+    "uuid": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC3.json"
+  },
+  {
+    "uuid": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC4.json"
+  },
+  {
+    "uuid": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Binary_6thBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Binary_BionicBenSkinPack.json"
+  },
+  {
+    "uuid": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Binary_ProjectStarSkinPack.json"
+  },
+  // Capes
+  {
     "uuid": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
     "response": "Persona\\VanillaCapes\\1stBirthday_cape.json"
   },
@@ -714,81 +804,5 @@
   {
     "uuid": "f3a358d0-d3d8-42b2-b01b-47aa2533754c",
     "response": "Persona\\SkinPackCapes\\SherriAndTerri_cape.json"
-  },
-  {
-    "uuid": "77540382-9678-4471-b530-49789e7529c6",
-    "response": "SkinPacks\\DoctorWho\\Binary_DoctorWhoV1.json"
-  },
-  {
-    "uuid": "0a94862d-8e28-4626-98c2-9b9df4c906a2",
-    "response": "SkinPacks\\DoctorWho\\Binary_DoctorWhoV2.json"
-  },
-  {
-    "uuid": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
-    "response": "SkinPacks\\FestiveMashUp\\Binary_Festive.json"
-  },
-  {
-    "uuid": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
-    "response": "SkinPacks\\MarioMashUp\\Binary_MarioMashUp.json"
-  },
-  {
-    "uuid": "2f60a7a0-8010-49b1-8b57-851ac41f34cf",
-    "response": "SkinPacks\\SkinPack\\Binary_SkinPack4.json"
-  },
-  {
-    "uuid": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
-    "response": "SkinPacks\\SkinPack\\Binary_SkinPack5.json"
-  },
-  {
-    "uuid": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
-    "response": "SkinPacks\\SkinPack\\Binary_SkinPack6.json"
-  },
-  {
-    "uuid": "38fdf771-febb-4b6f-a162-c42850817d95",
-    "response": "SkinPacks\\LEGORMinecraftTMDragonSlayer\\Binary_LEGORMinecraftTMDragonSlayer.json"
-  },
-  {
-    "uuid": "358a8710-bcf4-4cd7-ae86-a63ffec500c8",
-    "response": "SkinPacks\\CharitySkinPacks\\Binary_SummerofArcadeSkinPack.json"
-  },
-  {
-    "uuid": "5b13cb52-e2bf-438c-97f2-1105c54929d9",
-    "response": "SkinPacks\\CharitySkinPacks\\Binary_HalloweenCharitySkinPack.json"
-  },
-  {
-    "uuid": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
-    "response": "SkinPacks\\1stBirthdaySkinPack\\Binary_1stBirthdaySkinPack.json"
-  },
-  {
-    "uuid": "22688cde-3822-4bd8-9638-625713ba4dfd",
-    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC1.json"
-  },
-  {
-    "uuid": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
-    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC2.json"
-  },
-  {
-    "uuid": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
-    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC3.json"
-  },
-  {
-    "uuid": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
-    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Binary_EMC4.json"
-  },
-  {
-    "uuid": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
-    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Binary_6thBirthdaySkinPack.json"
-  },
-  {
-    "uuid": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
-    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Binary_BionicBenSkinPack.json"
-  },
-  {
-    "uuid": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
-    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Binary_ProjectStarSkinPack.json"
-  },
-  {
-    "uuid": "61c7a786-d7ad-49e0-a710-817121cd9795",
-    "response": "SkinPacks\\Other\\Binary_ActionsStuff.json"
   }
 ]

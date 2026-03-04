@@ -624,15 +624,15 @@
                 "startDate": "2025-10-25T12:00:00Z"
               },
               {
-                "id": "77540382-9678-4471-b530-49789e7529c6",
+                "id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "title": "Doctor Who Skins Volume I",
                 "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://4jstudios.com/wp-content/uploads/2022/09/DrWho1_Thumbnail_0.jpg",
-                  "urlWithResolution": "https://4jstudios.com/wp-content/uploads/2022/09/DrWho1_Thumbnail_0.jpg?width=800&height=450"
+                  "url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg?width=800&height=450"
                 },
                 "price": {
                   "listPrice": -1,
@@ -642,9 +642,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_77540382-9678-4471-b530-49789e7529c6",
+                "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_77540382-9678-4471-b530-49789e7529c6",
+                  "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
@@ -662,22 +662,22 @@
                 "packIdentity": [
                   {
                     "type": "skinpack",
-                    "uuid": "759aed41-f477-47ab-9664-67b05d69e22b",
-                    "version": "1.0.0"
+                    "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+                    "version": "1.0.6"
                   }
                 ],
                 "startDate": "2025-10-25T12:00:00Z"
               },
               {
-                "id": "0a94862d-8e28-4626-98c2-9b9df4c906a2",
+                "id": "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
                 "title": "Doctor Who Skins Volume II",
                 "creatorName": "Minecraft",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://4jstudios.com/wp-content/uploads/2022/09/DrWho2_Thumbnail_0.jpg",
-                  "urlWithResolution": "https://4jstudios.com/wp-content/uploads/2022/09/DrWho2_Thumbnail_0.jpg?width=800&height=450"
+                  "url": "https://xforgeassets002.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/53d3bee7-73e7-4c54-933c-06d693cc6eb9/DrWho2_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/53d3bee7-73e7-4c54-933c-06d693cc6eb9/DrWho2_Thumbnail_0.jpg?width=800&height=450"
                 },
                 "price": {
                   "listPrice": -1,
@@ -687,9 +687,9 @@
                   "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                   "virtualCurrencyType": "Minecoin"
                 },
-                "linksTo": "ItemDetail_0a94862d-8e28-4626-98c2-9b9df4c906a2",
+                "linksTo": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
                 "linksToInfo": {
-                  "linksTo": "ItemDetail_0a94862d-8e28-4626-98c2-9b9df4c906a2",
+                  "linksTo": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
                   "linkType": "pageId",
                   "displayType": "store_layout.store_data_driven_screen",
                   "navigateInPlace": false
@@ -707,8 +707,8 @@
                 "packIdentity": [
                   {
                     "type": "skinpack",
-                    "uuid": "0e53bc61-1603-4048-97ef-2938b7e9b12e",
-                    "version": "1.0.0"
+                    "uuid": "83ba3582-970f-4100-b8cc-277a10217b13",
+                    "version": "1.0.6"
                   }
                 ],
                 "startDate": "2025-10-25T12:00:00Z"

@@ -1,7 +1,7 @@
 {
   "result": {
-    "id": "77540382-9678-4471-b530-49789e7529c6",
-    "pageId": "ItemDetail_77540382-9678-4471-b530-49789e7529c6",
+    "id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+    "pageId": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
     "addToRecentlyViewed": false,
     "pageName": "ItemDetail For 'Doctor Who Skins Volume I'",
     "rows": [
@@ -42,15 +42,15 @@
         "components": [
           {
             "item": {
-              "id": "77540382-9678-4471-b530-49789e7529c6",
+              "id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
               "contentType": "MarketplaceDurableCatalog_V1.2",
               "title": "Doctor Who Skins Volume I",
               "creatorName": "Minecraft",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://4jstudios.com/wp-content/uploads/2022/09/DrWho1_Thumbnail_0.jpg",
-                "urlWithResolution": "https://4jstudios.com/wp-content/uploads/2022/09/DrWho1_Thumbnail_0.jpg?width=800&height=450"
+                "url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg",
+                "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg?width=800&height=450"
               },
               "price": {
                 "listPrice": -1,
@@ -80,8 +80,8 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "759aed41-f477-47ab-9664-67b05d69e22b",
-                  "version": "1.0.0"
+                  "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+                  "version": "1.0.6"
                 }
               ],
               "tags": [],
@@ -152,8 +152,8 @@
             },
             "packIdentity": {
               "type": "skinpack",
-              "uuid": "759aed41-f477-47ab-9664-67b05d69e22b",
-              "version": "1.0.0"
+              "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+              "version": "1.0.6"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
@@ -162,42 +162,6 @@
             "headerText": "Doctor Who Skins Volume I: %s",
             "text": {
               "value": "Doctor Who Skins Volume I: %s",
-              "style": {
-                "highlightColor": [],
-                "alignment": "Left",
-                "textColor": [1.0, 1.0, 1.0],
-                "font": "default",
-                "showBackground": false,
-                "showOutline": false,
-                "indent": 0.0,
-                "buttonWidth": 0.0,
-                "color": [],
-                "offerControlIdType": "None"
-              },
-              "replacements": []
-            },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "ImageGallery",
-        "components": [
-          {
-            "images": [
-              {
-                "type": "Unknown",
-                "url": "https://bedrock-cosmos.app/thumbnails/DoesNotWork1_thumbnail.jpg",
-                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/DoesNotWork1_thumbnail.jpg?width=800&height=450"
-              }
-            ],
-            "type": "imageGalleryComp",
-            "$type": "ImageGalleryComponent"
-          },
-          {
-            "text": {
-              "value": "What skins do NOT work on The Hive?\n- Davros\n- Weeping Angel\n- Teselecta Antibody\n- ALL Daleks",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",

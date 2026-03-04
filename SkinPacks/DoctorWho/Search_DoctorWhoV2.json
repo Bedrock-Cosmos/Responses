@@ -15,7 +15,7 @@
           "Type": "namespace",
           "TypeString": "namespace"
         },
-        "Id": "0a94862d-8e28-4626-98c2-9b9df4c906a2",
+        "Id": "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
         "Type": "bundle",
         "AlternateIds": [
           {
@@ -45,8 +45,8 @@
         "IsStackable": false,
         "Platforms": ["title.bedrockvanilla"],
         "Tags": [
-          "0a94862d-8e28-4626-98c2-9b9df4c906a2",
-          "0e53bc61-1603-4048-97ef-2938b7e9b12e",
+          "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+          "83ba3582-970f-4100-b8cc-277a10217b13",
           "skinpack",
           "has_skinpack",
           "genre.action",
@@ -65,15 +65,15 @@
         ],
         "DisplayProperties": {
           "creatorName": "Minecraft",
-          "offerId": "0a94862d-8e28-4626-98c2-9b9df4c906a2",
+          "offerId": "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
           "originalCreatorId": "2535448579972708",
           "price": -1,
           "purchasable": false,
           "packIdentity": [
             {
               "type": "skinpack",
-              "uuid": "0e53bc61-1603-4048-97ef-2938b7e9b12e",
-              "version": "1.0.0"
+              "uuid": "83ba3582-970f-4100-b8cc-277a10217b13",
+              "version": "1.0.6"
             }
           ],
           "skinPack": {
