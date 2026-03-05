@@ -257,7 +257,7 @@
                 "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f066b5d3-bf21-4abe-9d5d-30541826a1c5/primary.zip"
               },
               {
-                "url": "https://cdn.bedrock-cosmos.app/uss/f2c9e/GreekMythology.zip"
+                "url": "https://cdn.bedrockcosmos.app/uss/f2c9e/GreekMythology.zip"
               }
             ],
             "type": "purchaseInfoComp",
@@ -383,7 +383,7 @@
         "components": [
           {
             "binary": {
-              "url": "https://cdn.bedrock-cosmos.app/uss/f2c9e/GreekMythology.zip"
+              "url": "https://cdn.bedrockcosmos.app/uss/f2c9e/GreekMythology.zip"
             },
             "packIdentity": { "type": "skinpack", "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77", "version": "3.3.26" },
             "type": "skinViewerComp",
