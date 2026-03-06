@@ -124,8 +124,8 @@
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/82ee5e9c-6822-43c5-a326-5fbabe7e10f2/GreekMythology_thumbnail_800x450.jpg",
-                "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/82ee5e9c-6822-43c5-a326-5fbabe7e10f2/GreekMythology_thumbnail_800x450.jpg?width=800&height=450"
+                "url": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg",
+                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg?width=800&height=450"
               },
               "rating": { "average": 4.4, "totalCount": 63859 },
               "price": {
@@ -227,8 +227,8 @@
                 {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/82ee5e9c-6822-43c5-a326-5fbabe7e10f2/GreekMythology_thumbnail_800x450.jpg",
-                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/82ee5e9c-6822-43c5-a326-5fbabe7e10f2/GreekMythology_thumbnail_800x450.jpg?width=800&height=450"
+                  "url": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg?width=800&height=450"
                 }
               ],
               "contents": [],

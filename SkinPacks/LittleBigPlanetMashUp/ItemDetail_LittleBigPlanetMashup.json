@@ -49,8 +49,8 @@
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg",
-                "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg?width=800&height=450"
+                "url": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg",
+                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg?width=800&height=450"
               },
               "rating": {
                 "average": 4.3,
@@ -147,8 +147,8 @@
                 {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg?width=800&height=450"
+                  "url": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg?width=800&height=450"
                 }
               ],
               "contents": [],
