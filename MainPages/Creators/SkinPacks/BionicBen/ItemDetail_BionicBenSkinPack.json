@@ -137,8 +137,8 @@
                 "virtualCurrencyType": "Minecoin"
               },
               "rating": {
-                "average": 0.0,
-                "totalCount": 0
+                "average": 4.9,
+                "totalCount": 88
               },
               "linksTo": "MultiItemPage_BionicBen_Marketplace",
               "linksToInfo": {
@@ -193,11 +193,7 @@
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
-                "textColor": [
-                  1.0,
-                  1.0,
-                  1.0
-                ],
+                "textColor": [1.0, 1.0, 1.0],
                 "font": "default",
                 "showBackground": false,
                 "showOutline": false,
@@ -242,11 +238,7 @@
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
-                "textColor": [
-                  1.0,
-                  1.0,
-                  1.0
-                ],
+                "textColor": [1.0, 1.0, 1.0],
                 "font": "default",
                 "showBackground": false,
                 "showOutline": false,
@@ -260,6 +252,32 @@
             },
             "type": "headerComp",
             "$type": "HeaderComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "RatingRow",
+        "components": [
+          {
+            "rating": {
+              "average": 4.9,
+              "totalCount": 88,
+              "count5Star": 83,
+              "count4Star": 4,
+              "count3Star": 0,
+              "count2Star": 1,
+              "count1Star": 0,
+              "ownership": "NotOwned",
+              "ratingPercentages": {
+                "percentage5Star": "94%%",
+                "percentage4Star": "5%%",
+                "percentage3Star": "0%%",
+                "percentage2Star": "1%%",
+                "percentage1Star": "0%%"
+              }
+            },
+            "type": "ratingComp",
+            "$type": "RatingComponent"
           }
         ]
       }
