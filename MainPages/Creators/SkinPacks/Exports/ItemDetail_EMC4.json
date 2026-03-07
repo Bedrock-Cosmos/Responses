@@ -139,8 +139,8 @@
                 "virtualCurrencyType": "Minecoin"
               },
               "rating": {
-                "average": 0.0,
-                "totalCount": 0
+                "average": 5.0,
+                "totalCount": 10
               },
               "linksTo": "MultiItemPage_Exports_Marketplace",
               "linksToInfo": {
@@ -195,11 +195,7 @@
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
-                "textColor": [
-                  1.0,
-                  1.0,
-                  1.0
-                ],
+                "textColor": [1.0, 1.0, 1.0],
                 "font": "default",
                 "showBackground": false,
                 "showOutline": false,
@@ -244,11 +240,7 @@
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
-                "textColor": [
-                  1.0,
-                  1.0,
-                  1.0
-                ],
+                "textColor": [1.0, 1.0, 1.0],
                 "font": "default",
                 "showBackground": false,
                 "showOutline": false,
@@ -262,6 +254,32 @@
             },
             "type": "headerComp",
             "$type": "HeaderComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "RatingRow",
+        "components": [
+          {
+            "rating": {
+              "average": 5.0,
+              "totalCount": 10,
+              "count5Star": 10,
+              "count4Star": 0,
+              "count3Star": 0,
+              "count2Star": 0,
+              "count1Star": 0,
+              "ownership": "NotOwned",
+              "ratingPercentages": {
+                "percentage5Star": "100%%",
+                "percentage4Star": "0%%",
+                "percentage3Star": "0%%",
+                "percentage2Star": "0%%",
+                "percentage1Star": "0%%"
+              }
+            },
+            "type": "ratingComp",
+            "$type": "RatingComponent"
           }
         ]
       }
