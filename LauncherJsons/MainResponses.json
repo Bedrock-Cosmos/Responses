@@ -354,6 +354,10 @@
     "response": "MainPages\\Creators\\Persona\\BionicBen_Persona.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/PersonaCreatorPage_master_player_account!Stars",
+    "response": "MainPages\\Creators\\Persona\\Stars_Persona.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_BionicBen_Marketplace",
     "response": "MainPages\\Creators\\Marketplace\\BionicBen_Marketplace.json"
   },

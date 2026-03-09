@@ -4834,15 +4834,15 @@
           {
             "items": [
               {
-                "id": "29b830ac-19c0-463f-a9e1-4811c290d19e",
+                "id": "94b3e845-5721-4969-b66a-b8f7128bfbb0",
                 "contentType": "PersonaDurable",
                 "title": "BionicBen Cape",
                 "creatorName": "BionicBen - §lCLICK HERE FOR MORE CAPES!",
                 "thumbnail": {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://capes.bedrock-cosmos.app/icons/BionicBenClassic_cape.png",
-                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BionicBenClassic_cape.png"
+                  "url": "https://capes.bedrock-cosmos.app/icons/BionicBen_cape.png",
+                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BionicBen_cape.png"
                 },
                 "price": {
                   "listPrice": 0,
@@ -4859,7 +4859,7 @@
                 "packIdentity": [
                   {
                     "type": "persona_piece",
-                    "uuid": "0026d531-de7d-4e1c-943c-31cb42673ba1",
+                    "uuid": "e9ffe72b-2d98-4e55-ad77-c0d06ba42ec7",
                     "version": "1.0.0"
                   }
                 ],
@@ -4867,6 +4867,46 @@
                 "namedLinksToInfoMap": {
                   "dr.persona_creator_page": {
                     "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
+                "id": "b178226d-1fe8-45bd-b2a2-b527be0f90cf",
+                "contentType": "PersonaDurable",
+                "title": "Stars Cape",
+                "creatorName": "Stars - §lCLICK HERE FOR MORE CAPES!",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://capes.bedrock-cosmos.app/icons/Stars_cape.png",
+                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Stars_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "rare",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "463651ee-d90c-44e2-934e-d9382f905d20",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!Stars",
                     "linkType": "external",
                     "displayType": "store_layout.character_creator_screen",
                     "navigateInPlace": false

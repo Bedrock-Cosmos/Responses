@@ -434,12 +434,16 @@
     "response": "Persona\\CustomCapes\\YouTube1_cape.json"
   },
   {
-    "uuid": "29b830ac-19c0-463f-a9e1-4811c290d19e",
-    "response": "Persona\\CreatorCapes\\BionicBen\\BionicBenClassic_cape.json"
+    "uuid": "94b3e845-5721-4969-b66a-b8f7128bfbb0",
+    "response": "Persona\\CreatorCapes\\BionicBen\\BionicBen_cape.json"
   },
   {
     "uuid": "fa44ffcf-6c60-45f4-b959-296faa9895d4",
     "response": "Persona\\CreatorCapes\\BionicBen\\BadPing_cape.json"
+  },
+  {
+    "uuid": "29b830ac-19c0-463f-a9e1-4811c290d19e",
+    "response": "Persona\\CreatorCapes\\BionicBen\\BionicBenClassic_cape.json"
   },
   {
     "uuid": "6acb51d1-dfe1-435e-803f-425f959b9382",
@@ -456,6 +460,22 @@
   {
     "uuid": "1472a239-f11c-4462-a302-59bc9df01a8b",
     "response": "Persona\\CreatorCapes\\BionicBen\\Scythe_cape.json"
+  },
+  {
+    "uuid": "b178226d-1fe8-45bd-b2a2-b527be0f90cf",
+    "response": "Persona\\CreatorCapes\\Stars\\Stars_cape.json"
+  },
+  {
+    "uuid": "b8657da9-d315-462f-9c0f-0dbb00fc208f",
+    "response": "Persona\\CreatorCapes\\Stars\\Blossom_cape.json"
+  },
+  {
+    "uuid": "33ea3751-eaac-4139-95d2-f9d4978cb039",
+    "response": "Persona\\CreatorCapes\\Stars\\Snowy_cape.json"
+  },
+  {
+    "uuid": "cdc530a3-b427-4368-9cb9-5fa816a64b89",
+    "response": "Persona\\CreatorCapes\\Stars\\Sunflower_cape.json"
   },
   {
     "uuid": "09f9b23e-8d9c-4ff5-8c11-9c5d3f405df0",
