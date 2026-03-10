@@ -1029,6 +1029,50 @@
                 }
               },
               {
+                "id": "b01a36e6-6426-4585-8eba-6024bea40820",
+                "contentType": "PersonaDurable",
+                "title": "Omniarchive Cape",
+                "creatorName": "Crackers0106",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://capes.bedrock-cosmos.app/icons/Omniarchive_cape.png",
+                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Omniarchive_cape.png"
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "pieceType": "persona_capes",
+                "rarity": "common",
+                "ownership": "Purchased",
+                "packType": "Persona",
+                "packIdentity": [
+                  {
+                    "type": "persona_piece",
+                    "uuid": "ee0a67c7-27f7-4ec7-b3e1-dbf58b04a296",
+                    "version": "1.0.0"
+                  }
+                ],
+                "startDate": "2025-10-25T12:00:00Z",
+                "namedLinksToInfoMap": {
+                  "dr.persona_creator_page": {
+                    "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                    "linkType": "external",
+                    "displayType": "store_layout.character_creator_screen",
+                    "screenTitle": {
+                      "value": "Custom Capes",
+                      "replacements": []
+                    },
+                    "navigateInPlace": false
+                  }
+                }
+              },
+              {
                 "id": "01f86701-e166-4cff-97a5-e40dd192f3ec",
                 "contentType": "PersonaDurable",
                 "title": "OptiFine Cape",
@@ -1099,50 +1143,6 @@
                   {
                     "type": "persona_piece",
                     "uuid": "b586a749-ee8c-4ffc-8b65-cc747c72b7be",
-                    "version": "1.0.0"
-                  }
-                ],
-                "startDate": "2025-10-25T12:00:00Z",
-                "namedLinksToInfoMap": {
-                  "dr.persona_creator_page": {
-                    "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
-                    "linkType": "external",
-                    "displayType": "store_layout.character_creator_screen",
-                    "screenTitle": {
-                      "value": "Custom Capes",
-                      "replacements": []
-                    },
-                    "navigateInPlace": false
-                  }
-                }
-              },
-              {
-                "id": "b01a36e6-6426-4585-8eba-6024bea40820",
-                "contentType": "PersonaDurable",
-                "title": "Omniarchive Cape",
-                "creatorName": "Crackers0106",
-                "thumbnail": {
-                  "tag": "Thumbnail",
-                  "type": "Thumbnail",
-                  "url": "https://capes.bedrock-cosmos.app/icons/Omniarchive_cape.png",
-                  "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Omniarchive_cape.png"
-                },
-                "price": {
-                  "listPrice": 0,
-                  "realmsInfo": {
-                    "inRealmsPlus": false
-                  },
-                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                  "virtualCurrencyType": "Minecoin"
-                },
-                "pieceType": "persona_capes",
-                "rarity": "common",
-                "ownership": "Purchased",
-                "packType": "Persona",
-                "packIdentity": [
-                  {
-                    "type": "persona_piece",
-                    "uuid": "ee0a67c7-27f7-4ec7-b3e1-dbf58b04a296",
                     "version": "1.0.0"
                   }
                 ],
