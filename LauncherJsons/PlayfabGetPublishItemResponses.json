@@ -326,6 +326,14 @@
     "response": "Persona\\CustomCapes\\BlockOfNetherite_cape.json"
   },
   {
+    "uuid": "aae7860e-fc65-4dee-a261-5b31018a1aff",
+    "response": "Persona\\CustomCapes\\Breeze_cape.json"
+  },
+  {
+    "uuid": "3a8a8a10-da0e-4622-962c-955c8e02385f",
+    "response": "Persona\\CustomCapes\\BreezePurple_cape.json"
+  },
+  {
     "uuid": "7932e680-a9f0-45fa-b422-88ed7f1b2335",
     "response": "Persona\\CustomCapes\\CreeperKing_cape.json"
   },
