@@ -85,7 +85,7 @@
                 {
                   "type": "skinpack",
                   "uuid": "e4d586b5-ab6f-4fd5-82d5-6158a755e012",
-                  "version": "1.0.5"
+                  "version": "3.11.26"
                 }
               ],
               "tags": [],
@@ -162,7 +162,7 @@
             "packIdentity": {
               "type": "skinpack",
               "uuid": "e4d586b5-ab6f-4fd5-82d5-6158a755e012",
-              "version": "1.0.5"
+              "version": "3.11.26"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"

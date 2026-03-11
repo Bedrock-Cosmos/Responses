@@ -553,5 +553,10 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_5b13cb52-e2bf-438c-97f2-1105c54929d9",
     "response": "SkinPacks\\CharitySkinPacks\\Viewer_HalloweenCharitySkinPack.json"
+  },
+  // Cape Opener
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/DressingRoom_7660dda7-f417-4f66-96ec-d7a43e33b5e5",
+    "response": "Persona\\VanillaCapes\\4J_Cape_Preview.json"
   }
 ]

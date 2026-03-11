@@ -59,6 +59,95 @@
     "uuid": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
     "response": "SkinPacks\\LittleBigPlanetMashUp\\Binary_LittleBigPlanetMashup.json"
   },
+
+  {
+    "uuid": "02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\Binary_2ndBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "603d6be1-7745-4ad8-8af3-908ad017500f",
+    "response": "SkinPacks\\3rdBirthdaySkinPack\\Binary_3rdBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "a2a7ad5c-f55e-44ff-9f70-a5ae1db821b4",
+    "response": "SkinPacks\\4thBirthdaySkinPack\\Binary_4thBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "cc1e1b86-1863-4c1c-9103-b82b2b70a74b",
+    "response": "SkinPacks\\5thBirthdaySkinPack\\Binary_5thBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "b3b50166-5612-4ff1-8f03-9af0b01cb4da",
+    "response": "SkinPacks\\CapeSkinPacks\\Binary_FoundersCape.json"
+  },
+  {
+    "uuid": "7dae6bfe-e92b-403e-842e-d8d75e329644",
+    "response": "SkinPacks\\CapeSkinPacks\\Binary_Minecon2015SkinPack.json"
+  },
+  {
+    "uuid": "20b4d681-df67-420c-aff3-07673bb44d07",
+    "response": "SkinPacks\\CapeSkinPacks\\Binary_MINECON2016SkinPack.json"
+  },
+  {
+    "uuid": "29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+    "response": "SkinPacks\\CharitySkinPacks\\Binary_CoralCraftersSkinPack.json"
+  },
+  {
+    "uuid": "0d8ce926-257f-4297-b585-05d1f88e782a",
+    "response": "SkinPacks\\CharitySkinPacks\\Binary_PawsandClawsCosplayPack.json"
+  },
+  {
+    "uuid": "0c77040a-abb6-4938-963d-5a8e9872c85c",
+    "response": "SkinPacks\\EarthSkins\\Binary_EarthSkin.json"
+  },
+  {
+    "uuid": "01d22780-c8c6-421d-a5cf-c615a398c480",
+    "response": "SkinPacks\\EarthSkins\\Binary_MumboJumboGrianSkins.json"
+  },
+  {
+    "uuid": "920a3a5c-b344-42a8-bf23-021b0d315239",
+    "response": "SkinPacks\\GiveCampaignSkins\\Binary_BrodysGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "83722c79-a25d-4448-a853-3a4b0fdd99d5",
+    "response": "SkinPacks\\GiveCampaignSkins\\Binary_ClairesGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "e205acc9-2c5a-430f-8576-d87c5ba67db4",
+    "response": "SkinPacks\\GiveCampaignSkins\\Binary_JoslynsGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "633422ca-cdc9-44c8-a25d-a43fb2d76bc7",
+    "response": "SkinPacks\\GiveCampaignSkins\\Binary_LucysGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "b89ef5de-78ad-4a48-b8a5-f12065286e7d",
+    "response": "SkinPacks\\LegacySkinPack\\Binary_LegacySkinPack"
+  },
+  {
+    "uuid": "2766095f-b2c0-4237-911f-e18a30fb0928",
+    "response": "SkinPacks\\MarvelSkinPacks\\Binary_MarvelAvengersSkinPack.json"
+  },
+  {
+    "uuid": "1213b670-c82f-4e28-baf2-9f0d88954c9a",
+    "response": "SkinPacks\\MarvelSkinPacks\\Binary_MarvelGuardiansoftheGalaxySkinPack.json"
+  },
+  {
+    "uuid": "b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+    "response": "SkinPacks\\MarvelSkinPacks\\Binary_MarvelSpiderManSkinPack.json"
+  },
+  {
+    "uuid": "4ad937a2-bf33-4390-93e3-62198b58f9ff",
+    "response": "SkinPacks\\MightyMorphinPowerRangers\\Binary_MightyMorphinPowerRangers.json"
+  },
+  {
+    "uuid": "f60ed293-2f4c-46e5-92b3-922a95df2dd6",
+    "response": "SkinPacks\\StrangerThingsSkinPack\\Binary_StrangerThingsSkinPack.json"
+  },
+  {
+    "uuid": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+    "response": "SkinPacks\\TheSimpsonsSkinPack\\Binary_TheSimpsonsSkinPack.json"
+  },
   // Creator Packs
   {
     "uuid": "22688cde-3822-4bd8-9638-625713ba4dfd",
