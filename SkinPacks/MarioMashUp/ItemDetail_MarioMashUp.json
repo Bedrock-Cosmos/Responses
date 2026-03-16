@@ -170,7 +170,7 @@
               ],
               "minPerformanceTier": "SuperLowTier",
               "wishlisted": false,
-              "platformRestricted": true,
+              "platformRestricted": false,
               "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0",
               "startDate": "2026-01-11T18:00:00Z",
               "thumbnailPreviewOnly": false

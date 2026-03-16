@@ -423,7 +423,7 @@
                   "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg"
                 },
                 "price": {
-                  "listPrice": 0,
+                  "listPrice": -1,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -612,7 +612,7 @@
                   "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack3-ClassicRestored_thumbnail.jpg"
                 },
                 "price": {
-                  "listPrice": 0,
+                  "listPrice": 490,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },

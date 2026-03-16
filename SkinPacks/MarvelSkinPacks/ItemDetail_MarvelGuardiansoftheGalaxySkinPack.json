@@ -57,7 +57,7 @@
                 "totalCount": 194
               },
               "price": {
-                "listPrice": 1000000,
+                "listPrice": -1,
                 "realmsInfo": {
                   "inRealmsPlus": false
                 },
@@ -112,7 +112,7 @@
           },
           {
             "price": {
-              "listPrice": 1000000,
+              "listPrice": -1,
               "realmsInfo": {
                 "inRealmsPlus": false
               },

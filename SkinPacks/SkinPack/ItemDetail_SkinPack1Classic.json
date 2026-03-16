@@ -154,7 +154,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "Customize your character with this selection of stunning skins!",
+            "description": "Customize your character with this selection of stunning skins!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account.",
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

@@ -8,8 +8,8 @@
         "Id": "22688cde-3822-4bd8-9638-625713ba4dfd",
         "Type": "bundle",
         "Title": {
-          "NEUTRAL": "Exports's Matching Cosmetics 1",
-          "neutral": "Exports's Matching Cosmetics 1"
+          "NEUTRAL": "Matching Cosmetics 1",
+          "neutral": "Matching Cosmetics 1"
         },
         "Description": {
           "NEUTRAL": "Express yourself in-game with a friend or partner using the 30 skins in this pack!",
@@ -35,7 +35,8 @@
               "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
               "version": "1.0.0"
             }
-          ]
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=jDdXPw8ehZY"
         }
       }
     ],

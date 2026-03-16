@@ -150,11 +150,11 @@
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/productId/420ce26e-f6a7-4420-8067-8cf2965a39d6",
-    "response": "SkinPacks\\BiomeSettlers3\\ItemDetail_BiomeSettlers3.json"
+    "response": "SkinPacks\\BiomeSettlers\\ItemDetail_BiomeSettlers3.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/ItemDetail_420ce26e-f6a7-4420-8067-8cf2965a39d6",
-    "response": "SkinPacks\\BiomeSettlers3\\ItemDetail_BiomeSettlers3.json"
+    "response": "SkinPacks\\BiomeSettlers\\ItemDetail_BiomeSettlers3.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/productId/920a3a5c-b344-42a8-bf23-021b0d315239",

@@ -150,7 +150,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "Dress as a native of the Tundra, Forest, or Desert!",
+            "description": "Dress as a native of the Tundra, Forest, or Desert!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account.",
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }

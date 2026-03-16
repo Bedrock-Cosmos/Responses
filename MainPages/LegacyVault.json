@@ -254,7 +254,7 @@
                   "totalCount": 26545
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -321,7 +321,7 @@
                   "totalCount": 10503
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -393,7 +393,7 @@
                   "totalCount": 3511
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -459,7 +459,7 @@
                   "totalCount": 6346
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -525,7 +525,7 @@
                   "totalCount": 3045
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -723,7 +723,7 @@
                   "totalCount": 78
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -789,7 +789,7 @@
                   "totalCount": 83
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -855,7 +855,7 @@
                   "totalCount": 3932
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1053,7 +1053,7 @@
                   "totalCount": 17559
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1121,7 +1121,7 @@
                   "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg?width=800&height=450"
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1143,7 +1143,7 @@
                   "behaviors": 0,
                   "addOns": 0
                 },
-                "flags": [],
+                "flags": ["New"],
                 "ownership": "NotOwned",
                 "packType": "SkinPack",
                 "packIdentity": [
@@ -1188,7 +1188,7 @@
                   "totalCount": 168909
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1254,7 +1254,7 @@
                   "totalCount": 0
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1320,7 +1320,7 @@
                   "totalCount": 123
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1386,7 +1386,7 @@
                   "totalCount": 791784
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1452,7 +1452,7 @@
                   "totalCount": 12888
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1638,7 +1638,7 @@
                   "totalCount": 79
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1704,7 +1704,7 @@
                   "totalCount": 0
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1764,7 +1764,7 @@
                   "totalCount": 107
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1830,7 +1830,7 @@
                   "totalCount": 194
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1896,7 +1896,7 @@
                   "totalCount": 435
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -1962,7 +1962,7 @@
                   "totalCount": 10734
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -2028,7 +2028,7 @@
                   "totalCount": 3175
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -2094,7 +2094,7 @@
                   "totalCount": 18067
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -2160,7 +2160,7 @@
                   "totalCount": 268
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -2238,7 +2238,7 @@
                   "totalCount": 1336
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -2874,7 +2874,7 @@
                   "totalCount": 25457
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -2936,7 +2936,7 @@
                   "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SummerOfArcade_thumbnail.jpg"
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },
@@ -3003,7 +3003,7 @@
                   "totalCount": 2377
                 },
                 "price": {
-                  "listPrice": -1,
+                  "listPrice": 0,
                   "realmsInfo": {
                     "inRealmsPlus": false
                   },

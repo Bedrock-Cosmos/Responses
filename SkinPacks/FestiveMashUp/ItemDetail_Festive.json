@@ -110,86 +110,203 @@
             },
             "type": "purchaseInfoComp",
             "$type": "PurchaseInfoComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "TextRow",
-        "components": [
-          {
-            "text": {
-              "value": "Legacy Vault Port",
-              "style": {
-                "highlightColor": [],
-                "alignment": "Left",
-                "textColor": [1.0, 1.0, 1.0],
-                "font": "MinecraftTen",
-                "showBackground": false,
-                "showOutline": false,
-                "indent": 0.0,
-                "buttonWidth": 0.0,
-                "color": [],
-                "offerControlIdType": "None"
-              },
-              "replacements": []
-            },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
           },
           {
-            "text": {
-              "value": "- Added Herobrine\r\n- Adds correct LCE Tomte\r\n- Some skins work on featured servers!",
-              "style": {
-                "highlightColor": [],
-                "alignment": "Left",
-                "textColor": [],
-                "font": "SmoothWithEmoticons",
-                "showBackground": false,
-                "showOutline": false,
-                "indent": 0.0,
-                "buttonWidth": 0.0,
-                "color": [],
-                "offerControlIdType": "None"
+            "tabs": [
+              {
+                "tabButtonName": {
+                  "value": "About",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Center",
+                    "textColor": [0.3, 0.3, 0.3],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "rows": [
+                  {
+                    "controlId": "ItemDescription",
+                    "components": [
+                      {
+                        "headerText": "store.mashup.description",
+                        "text": {
+                          "value": "store.mashup.description",
+                          "style": {
+                            "highlightColor": [],
+                            "alignment": "Left",
+                            "textColor": [1.0, 1.0, 1.0],
+                            "font": "default",
+                            "showBackground": false,
+                            "showOutline": false,
+                            "indent": 0.0,
+                            "buttonWidth": 0.0,
+                            "color": [],
+                            "offerControlIdType": "None"
+                          },
+                          "replacements": []
+                        },
+                        "type": "headerComp",
+                        "$type": "HeaderComponent"
+                      },
+                      {
+                        "description": "Celebrate the Festive period with this wintery Mash-up Pack containing a Festive style Texture Pack, Skin Pack, new music and a Festive world!\r\nPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\nThis is a Legacy Vault port of Festive Mash-Up.\r\n• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in Settings > General > Only Allow Trusted Skins Off.\r\n• This Skin Pack cannot be worn on featured servers!",
+                        "type": "itemDescriptionComp",
+                        "$type": "ItemDescriptionComponent"
+                      }
+                    ]
+                  },
+                  {
+                    "controlId": "SkinPreview",
+                    "components": [
+                      {
+                        "packIdentity": {
+                          "type": "skinpack",
+                          "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
+                          "version": "1.0.0"
+                        },
+                        "type": "skinViewerComp",
+                        "$type": "SkinViewerComponent"
+                      },
+                      {
+                        "headerText": "Festive Mash-Up: %s",
+                        "text": {
+                          "value": "Festive Mash-Up: %s",
+                          "style": {
+                            "highlightColor": [],
+                            "alignment": "Left",
+                            "textColor": [1.0, 1.0, 1.0],
+                            "font": "default",
+                            "showBackground": false,
+                            "showOutline": false,
+                            "indent": 0.0,
+                            "buttonWidth": 0.0,
+                            "color": [],
+                            "offerControlIdType": "None"
+                          },
+                          "replacements": []
+                        },
+                        "type": "headerComp",
+                        "$type": "HeaderComponent"
+                      }
+                    ]
+                  }
+                ],
+                "type": "navigationTabEntryComp",
+                "$type": "NavigationTabEntryComponent"
               },
-              "replacements": []
-            },
-            "type": "textComponent",
-            "$type": "TextComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "SkinPreview",
-        "components": [
-          {
-            "packIdentity": {
-              "type": "skinpack",
-              "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
-              "version": "1.0.0"
-            },
-            "type": "skinViewerComp",
-            "$type": "SkinViewerComponent"
-          },
-          {
-            "headerText": "Festive Mash-Up: %s",
-            "text": {
-              "value": "Festive Mash-Up: %s",
-              "style": {
-                "highlightColor": [],
-                "alignment": "Left",
-                "textColor": [1.0, 1.0, 1.0],
-                "font": "default",
-                "showBackground": false,
-                "showOutline": false,
-                "indent": 0.0,
-                "buttonWidth": 0.0,
-                "color": [],
-                "offerControlIdType": "None"
-              },
-              "replacements": []
-            },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
+              {
+                "tabButtonName": {
+                  "value": "Notes",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Center",
+                    "textColor": [0.3, 0.3, 0.3],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "rows": [
+                  {
+                    "controlId": "TextRow",
+                    "components": [
+                      {
+                        "text": {
+                          "value": "Legacy Vault Port",
+                          "style": {
+                            "highlightColor": [],
+                            "alignment": "Left",
+                            "textColor": [1.0, 1.0, 1.0],
+                            "font": "MinecraftTen",
+                            "showBackground": false,
+                            "showOutline": false,
+                            "indent": 0.0,
+                            "buttonWidth": 0.0,
+                            "color": [],
+                            "offerControlIdType": "None"
+                          },
+                          "replacements": []
+                        },
+                        "type": "headerComp",
+                        "$type": "HeaderComponent"
+                      },
+                      {
+                        "text": {
+                          "value": "- Added Xmas Herobrine\r\n- Added correct Tomte model from Legacy Console Editions",
+                          "style": {
+                            "highlightColor": [],
+                            "alignment": "Left",
+                            "textColor": [],
+                            "font": "SmoothWithEmoticons",
+                            "showBackground": false,
+                            "showOutline": false,
+                            "indent": 0.0,
+                            "buttonWidth": 0.0,
+                            "color": [],
+                            "offerControlIdType": "None"
+                          },
+                          "replacements": []
+                        },
+                        "type": "textComponent",
+                        "$type": "TextComponent"
+                      }
+                    ]
+                  },
+                  {
+                    "controlId": "SkinPreview",
+                    "components": [
+                      {
+                        "packIdentity": {
+                          "type": "skinpack",
+                          "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
+                          "version": "1.0.0"
+                        },
+                        "type": "skinViewerComp",
+                        "$type": "SkinViewerComponent"
+                      },
+                      {
+                        "headerText": "Festive Mash-Up: %s",
+                        "text": {
+                          "value": "Festive Mash-Up: %s",
+                          "style": {
+                            "highlightColor": [],
+                            "alignment": "Left",
+                            "textColor": [1.0, 1.0, 1.0],
+                            "font": "default",
+                            "showBackground": false,
+                            "showOutline": false,
+                            "indent": 0.0,
+                            "buttonWidth": 0.0,
+                            "color": [],
+                            "offerControlIdType": "None"
+                          },
+                          "replacements": []
+                        },
+                        "type": "headerComp",
+                        "$type": "HeaderComponent"
+                      }
+                    ]
+                  }
+                ],
+                "type": "navigationTabEntryComp",
+                "$type": "NavigationTabEntryComponent"
+              }
+            ],
+            "initialTabName": "About",
+            "type": "navigationTabComp",
+            "$type": "NavigationTabComponent"
           }
         ]
       }

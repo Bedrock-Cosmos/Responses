@@ -180,6 +180,18 @@
             },
             "type": "itemSummaryComp",
             "$type": "ItemSummaryComponent"
+          },
+          {
+            "price": {
+              "listPrice": -1,
+              "realmsInfo": {
+                "inRealmsPlus": false
+              },
+              "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+              "virtualCurrencyType": "Minecoin"
+            },
+            "type": "purchaseInfoComp",
+            "$type": "PurchaseInfoComponent"
           }
         ]
       },

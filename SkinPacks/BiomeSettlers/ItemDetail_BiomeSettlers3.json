@@ -57,7 +57,7 @@
                 "totalCount": 5385
               },
               "price": {
-                "listPrice": 310,
+                "listPrice": 0,
                 "realmsInfo": {
                   "inRealmsPlus": false
                 },
@@ -112,7 +112,7 @@
           },
           {
             "price": {
-              "listPrice": 310,
+              "listPrice": -1,
               "realmsInfo": {
                 "inRealmsPlus": false
               },
@@ -154,7 +154,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "Get this pack and make your home in distant lands or ocean depths!",
+            "description": "Get this pack and make your home in distant lands or ocean depths!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account.",
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
