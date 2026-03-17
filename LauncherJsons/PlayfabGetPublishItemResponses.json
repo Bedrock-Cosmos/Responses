@@ -907,18 +907,18 @@
   },
   {
     "uuid": "22688cde-3822-4bd8-9638-625713ba4dfd",
-    "response": "SkinPacks\\Creators\\Exports\\Binary_MatchingCosmetics1.json"
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC1.json"
   },
   {
     "uuid": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
-    "response": "SkinPacks\\Creators\\Exports\\Binary_MatchingCosmetics2.json"
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC2.json"
   },
   {
     "uuid": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
-    "response": "SkinPacks\\Creators\\Exports\\Binary_MatchingCosmetics3.json"
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC3.json"
   },
   {
     "uuid": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
-    "response": "SkinPacks\\Creators\\Exports\\Binary_MatchingCosmetics4.json"
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC4.json"
   }
 ]
