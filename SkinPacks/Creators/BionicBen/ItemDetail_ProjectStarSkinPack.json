@@ -1,9 +1,9 @@
 {
   "result": {
-    "id": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
-    "pageId": "ItemDetail_aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+    "id": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+    "pageId": "ItemDetail_0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'BionicBen Skin Pack'",
+    "pageName": "ItemDetail For 'Project Star Skin Pack'",
     "rows": [
       {
         "controlId": "Layout",
@@ -120,15 +120,15 @@
         "components": [
           {
             "item": {
-              "id": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+              "id": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
               "contentType": "MarketplaceDurableCatalog_V1.2",
-              "title": "BionicBen Skin Pack",
+              "title": "Project Star Skin Pack",
               "creatorName": "BionicBen",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://bedrock-cosmos.app/thumbnails/BionicBenSkinPack_thumbnail.jpg",
-                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBenSkinPack_thumbnail.jpg?width=800&height=450"
+                "url": "https://bedrock-cosmos.app/thumbnails/ProjectStarSkinPack_thumbnail.jpg",
+                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ProjectStarSkinPack_thumbnail.jpg?width=800&height=450"
               },
               "price": {
                 "listPrice": -1,
@@ -137,8 +137,8 @@
                 "virtualCurrencyType": "Minecoin"
               },
               "rating": {
-                "average": 4.9,
-                "totalCount": 88
+                "average": 0.0,
+                "totalCount": 0
               },
               "linksTo": "MultiItemPage_BionicBen_Marketplace",
               "linksToInfo": {
@@ -152,7 +152,7 @@
                 "navigateInPlace": false
               },
               "statistics": {
-                "skins": 15,
+                "skins": 22,
                 "worlds": 0,
                 "textures": 0,
                 "behaviors": 0,
@@ -164,7 +164,7 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
+                  "uuid": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
                   "version": "1.0.0"
                 }
               ],
@@ -173,7 +173,7 @@
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
-              "startDate": "2026-02-28T19:10:41Z",
+              "startDate": "2026-02-28T19:13:18Z",
               "subscription": [],
               "thumbnailPreviewOnly": false,
               "namedLinksToInfoMap": {}
@@ -221,7 +221,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "A skin pack containing a variety of BionicBen's skins throughout his YouTube history - from holiday skins to the infamous mega skin!\r\n\r\nCreator's Note: The mega skins and skins with HD capes included in this skin pack may not work on featured servers.",
+            "description": "A skin pack previously made for the Project Star Launcher. This pack contains Steve and Alex in Project Star attire and 11 uniquely-colored capes!",
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
@@ -233,20 +233,20 @@
         "components": [
           {
             "binary": {
-              "url": "https://cdn.bedrock-cosmos.app/uss/24886/BionicBenSkinPack.zip"
+              "url": "https://cdn.bedrock-cosmos.app/uss/a8822/ProjectStarSkinPack.zip"
             },
             "packIdentity": {
               "type": "skinpack",
-              "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
+              "uuid": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
               "version": "1.0.0"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
           },
           {
-            "headerText": "BionicBen Skin Pack: %s",
+            "headerText": "Project Star Skin Pack: %s",
             "text": {
-              "value": "BionicBen Skin Pack: %s",
+              "value": "Project Star Skin Pack: %s",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
@@ -264,32 +264,6 @@
             },
             "type": "headerComp",
             "$type": "HeaderComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "RatingRow",
-        "components": [
-          {
-            "rating": {
-              "average": 4.9,
-              "totalCount": 88,
-              "count5Star": 83,
-              "count4Star": 4,
-              "count3Star": 0,
-              "count2Star": 1,
-              "count1Star": 0,
-              "ownership": "NotOwned",
-              "ratingPercentages": {
-                "percentage5Star": "94%%",
-                "percentage4Star": "5%%",
-                "percentage3Star": "0%%",
-                "percentage2Star": "1%%",
-                "percentage1Star": "0%%"
-              }
-            },
-            "type": "ratingComp",
-            "$type": "RatingComponent"
           }
         ]
       }

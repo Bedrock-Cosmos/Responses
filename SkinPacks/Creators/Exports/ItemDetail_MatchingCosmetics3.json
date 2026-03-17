@@ -1,9 +1,9 @@
 {
   "result": {
-    "id": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
-    "pageId": "ItemDetail_a045e0ba-b58e-44d5-b463-e8968f28ae99",
+    "id": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+    "pageId": "ItemDetail_2d43de6c-6846-4cdc-a43b-55f8627b7b01",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'EMC2'",
+    "pageName": "ItemDetail For 'EMC3'",
     "rows": [
       {
         "controlId": "Layout",
@@ -120,15 +120,15 @@
         "components": [
           {
             "item": {
-              "id": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
+              "id": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
               "contentType": "MarketplaceDurableCatalog_V1.2",
-              "title": "Matching Cosmetics 2",
+              "title": "Matching Cosmetics 3",
               "creatorName": "Exports",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics2_thumbnail.jpg",
-                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics2_thumbnail.jpg?width=800&height=450"
+                "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics3_thumbnail.jpg",
+                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics3_thumbnail.jpg?width=800&height=450"
               },
               "price": {
                 "listPrice": -1,
@@ -139,8 +139,8 @@
                 "virtualCurrencyType": "Minecoin"
               },
               "rating": {
-                "average": 5.0,
-                "totalCount": 10
+                "average": 0.0,
+                "totalCount": 0
               },
               "linksTo": "MultiItemPage_Exports_Marketplace",
               "linksToInfo": {
@@ -166,16 +166,17 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "6d111aff-3c61-4e8c-a0b3-5da38332430c",
+                  "uuid": "0484ef22-b675-4468-b58d-699890b377b1",
                   "version": "1.0.0"
                 }
               ],
               "contents": [],
               "wishlisted": false,
               "platformRestricted": false,
+              "videoUrl": "https://www.youtube.com/watch?v=ZmeyYheOC_k",
               "iconOverlay": [],
               "descriptionLineByLine": [],
-              "startDate": "2026-03-01T13:34:48Z",
+              "startDate": "2026-03-01T13:33:47Z",
               "subscription": [],
               "thumbnailPreviewOnly": false,
               "namedLinksToInfoMap": {}
@@ -223,7 +224,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "Express yourself in-game with a friend or partner using the 30 skins in this pack!",
+            "description": "Express yourself in-game with a friend or partner using the 30 skins in this third skin pack!",
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
@@ -235,20 +236,20 @@
         "components": [
           {
             "binary": {
-              "url": "https://cdn.bedrock-cosmos.app/uss/6d111/EMC2.zip"
+              "url": "https://cdn.bedrock-cosmos.app/uss/0484e/EMC3.zip"
             },
             "packIdentity": {
               "type": "skinpack",
-              "uuid": "6d111aff-3c61-4e8c-a0b3-5da38332430c",
+              "uuid": "0484ef22-b675-4468-b58d-699890b377b1",
               "version": "1.0.0"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
           },
           {
-            "headerText": "Matching Cosmetics 2: %s",
+            "headerText": "Matching Cosmetics 3: %s",
             "text": {
-              "value": "Matching Cosmetics 2: %s",
+              "value": "Matching Cosmetics 3: %s",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
@@ -266,32 +267,6 @@
             },
             "type": "headerComp",
             "$type": "HeaderComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "RatingRow",
-        "components": [
-          {
-            "rating": {
-              "average": 5.0,
-              "totalCount": 10,
-              "count5Star": 10,
-              "count4Star": 0,
-              "count3Star": 0,
-              "count2Star": 0,
-              "count1Star": 0,
-              "ownership": "NotOwned",
-              "ratingPercentages": {
-                "percentage5Star": "100%%",
-                "percentage4Star": "0%%",
-                "percentage3Star": "0%%",
-                "percentage2Star": "0%%",
-                "percentage1Star": "0%%"
-              }
-            },
-            "type": "ratingComp",
-            "$type": "RatingComponent"
           }
         ]
       }

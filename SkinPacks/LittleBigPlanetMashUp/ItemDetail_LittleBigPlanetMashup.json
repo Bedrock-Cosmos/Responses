@@ -285,9 +285,9 @@
             "$type": "PanoramaComponent"
           },
           {
-            "headerText": "Journey In A New World!",
+            "headerText": "Journey in a new world!",
             "text": {
-              "value": "Journey In A New World!",
+              "value": "Journey in a new world!",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",

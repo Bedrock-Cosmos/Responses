@@ -139,8 +139,8 @@
                 "virtualCurrencyType": "Minecoin"
               },
               "rating": {
-                "average": 5.0,
-                "totalCount": 10
+                "average": 0.0,
+                "totalCount": 0
               },
               "linksTo": "MultiItemPage_Exports_Marketplace",
               "linksToInfo": {
@@ -173,6 +173,7 @@
               "contents": [],
               "wishlisted": false,
               "platformRestricted": false,
+              "videoUrl": "https://www.youtube.com/watch?v=eL5Sg009y0c",
               "iconOverlay": [],
               "descriptionLineByLine": [],
               "startDate": "2026-03-01T13:32:10Z",
@@ -223,7 +224,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "Express yourself in-game with a friend or partner using the 30 skins in this pack!",
+            "description": "Express yourself in-game with a friend or partner using the 30 skins in this fourth skin pack!",
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
@@ -266,32 +267,6 @@
             },
             "type": "headerComp",
             "$type": "HeaderComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "RatingRow",
-        "components": [
-          {
-            "rating": {
-              "average": 5.0,
-              "totalCount": 10,
-              "count5Star": 10,
-              "count4Star": 0,
-              "count3Star": 0,
-              "count2Star": 0,
-              "count1Star": 0,
-              "ownership": "NotOwned",
-              "ratingPercentages": {
-                "percentage5Star": "100%%",
-                "percentage4Star": "0%%",
-                "percentage3Star": "0%%",
-                "percentage2Star": "0%%",
-                "percentage1Star": "0%%"
-              }
-            },
-            "type": "ratingComp",
-            "$type": "RatingComponent"
           }
         ]
       }

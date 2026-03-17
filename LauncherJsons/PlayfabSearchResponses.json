@@ -174,30 +174,30 @@
   // Creator Packs
   {
     "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
-    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Search_6thBirthdaySkinPack.json"
+    "response": "SkinPacks\\Creators\\BionicBen\\Search_6thBirthdaySkinPack.json"
   },
   {
     "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
-    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Search_BionicBenSkinPack.json"
+    "response": "SkinPacks\\Creators\\BionicBen\\Search_BionicBenSkinPack.json"
   },
   {
     "uuid": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
-    "response": "MainPages\\Creators\\SkinPacks\\BionicBen\\Search_ProjectStarSkinPack.json"
+    "response": "SkinPacks\\Creators\\BionicBen\\Search_ProjectStarSkinPack.json"
   },
   {
     "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
-    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Search_EMC1.json"
+    "response": "SkinPacks\\Creators\\Exports\\Search_MatchingCosmetics1.json"
   },
   {
     "uuid": "6d111aff-3c61-4e8c-a0b3-5da38332430c",
-    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Search_EMC2.json"
+    "response": "SkinPacks\\Creators\\Exports\\Search_MatchingCosmetics2.json"
   },
   {
     "uuid": "0484ef22-b675-4468-b58d-699890b377b1",
-    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Search_EMC3.json"
+    "response": "SkinPacks\\Creators\\Exports\\Search_MatchingCosmetics3.json"
   },
   {
     "uuid": "2291990c-6b7a-42d8-ad13-c1b490b9e1f6",
-    "response": "MainPages\\Creators\\SkinPacks\\Exports\\Search_EMC4.json"
+    "response": "SkinPacks\\Creators\\Exports\\Search_MatchingCosmetics4.json"
   }
 ]

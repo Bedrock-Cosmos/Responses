@@ -12,8 +12,8 @@
           "neutral": "EMC2"
         },
         "Description": {
-          "NEUTRAL": "Express yourself in-game with a friend or partner using the 30 skins in this pack!",
-          "neutral": "Express yourself in-game with a friend or partner using the 30 skins in this pack!"
+          "NEUTRAL": "Express yourself in-game with a friend or partner using the 30 skins in this second skin pack!",
+          "neutral": "Express yourself in-game with a friend or partner using the 30 skins in this second skin pack!"
         },
         "ContentType": "MarketplaceDurableCatalog_V1.2",
         "Tags": [
@@ -35,7 +35,8 @@
               "uuid": "6d111aff-3c61-4e8c-a0b3-5da38332430c",
               "version": "1.0.0"
             }
-          ]
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=cgrhwL2inRw"
         }
       }
     ],

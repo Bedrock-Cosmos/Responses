@@ -1,9 +1,9 @@
 {
   "result": {
-    "id": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
-    "pageId": "ItemDetail_1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+    "id": "22688cde-3822-4bd8-9638-625713ba4dfd",
+    "pageId": "ItemDetail_22688cde-3822-4bd8-9638-625713ba4dfd",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For '6th Birthday Skin Pack'",
+    "pageName": "ItemDetail For 'Matching Cosmetics 1'",
     "rows": [
       {
         "controlId": "Layout",
@@ -120,15 +120,15 @@
         "components": [
           {
             "item": {
-              "id": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+              "id": "22688cde-3822-4bd8-9638-625713ba4dfd",
               "contentType": "MarketplaceDurableCatalog_V1.2",
-              "title": "6th Birthday Skin Pack",
-              "creatorName": "BionicBen",
+              "title": "Matching Cosmetics 1",
+              "creatorName": "Exports",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://bedrock-cosmos.app/thumbnails/6thBirthdaySkinPack_thumbnail.jpg",
-                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/6thBirthdaySkinPack_thumbnail.jpg?width=800&height=450"
+                "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics1_thumbnail.jpg",
+                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics1_thumbnail.jpg?width=800&height=450"
               },
               "price": {
                 "listPrice": -1,
@@ -137,22 +137,18 @@
                 "virtualCurrencyType": "Minecoin"
               },
               "rating": {
-                "average": 5.0,
-                "totalCount": 10
+                "average": 0.0,
+                "totalCount": 0
               },
-              "linksTo": "MultiItemPage_BionicBen_Marketplace",
+              "linksTo": "MultiItemPage_Exports_Marketplace",
               "linksToInfo": {
-                "linksTo": "MultiItemPage_BionicBen_Marketplace",
+                "linksTo": "MultiItemPage_Exports_Marketplace",
                 "linkType": "pageId",
                 "displayType": "store_layout.store_data_driven_screen",
-                "screenTitle": {
-                  "value": "BionicBen",
-                  "replacements": []
-                },
                 "navigateInPlace": false
               },
               "statistics": {
-                "skins": 23,
+                "skins": 30,
                 "worlds": 0,
                 "textures": 0,
                 "behaviors": 0,
@@ -164,16 +160,17 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
+                  "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
                   "version": "1.0.0"
                 }
               ],
               "contents": [],
               "wishlisted": false,
               "platformRestricted": false,
+              "videoUrl": "https://www.youtube.com/watch?v=jDdXPw8ehZY",
               "iconOverlay": [],
               "descriptionLineByLine": [],
-              "startDate": "2026-02-28T19:08:03Z",
+              "startDate": "2026-02-27T21:47:48Z",
               "subscription": [],
               "thumbnailPreviewOnly": false,
               "namedLinksToInfoMap": {}
@@ -221,7 +218,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "A twist on Minecraft's 1st Birthday Skin Pack with 23 brand new skins to select from!\r\n\r\nCreator's Note: This pack was mostly made for fun (partially jokingly) back in 2021. I had not previously published it before, but now it is free to use in Bedrock Cosmos!",
+            "description": "Express yourself in-game with a friend or partner using the 30 skins in this first skin pack!",
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
@@ -233,20 +230,20 @@
         "components": [
           {
             "binary": {
-              "url": "https://cdn.bedrock-cosmos.app/uss/342df/6thBirthdaySkinPack.zip"
+              "url": "https://cdn.bedrock-cosmos.app/uss/51bb5/EMC1.zip"
             },
             "packIdentity": {
               "type": "skinpack",
-              "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
+              "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
               "version": "1.0.0"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
           },
           {
-            "headerText": "6th Birthday Skin Pack: %s",
+            "headerText": "Matching Cosmetics 1: %s",
             "text": {
-              "value": "6th Birthday Skin Pack: %s",
+              "value": "Matching Cosmetics 1: %s",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
@@ -264,32 +261,6 @@
             },
             "type": "headerComp",
             "$type": "HeaderComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "RatingRow",
-        "components": [
-          {
-            "rating": {
-              "average": 5.0,
-              "totalCount": 10,
-              "count5Star": 10,
-              "count4Star": 0,
-              "count3Star": 0,
-              "count2Star": 0,
-              "count1Star": 0,
-              "ownership": "NotOwned",
-              "ratingPercentages": {
-                "percentage5Star": "100%%",
-                "percentage4Star": "0%%",
-                "percentage3Star": "0%%",
-                "percentage2Star": "0%%",
-                "percentage1Star": "0%%"
-              }
-            },
-            "type": "ratingComp",
-            "$type": "RatingComponent"
           }
         ]
       }

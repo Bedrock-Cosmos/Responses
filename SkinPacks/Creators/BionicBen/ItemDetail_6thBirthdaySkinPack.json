@@ -1,9 +1,9 @@
 {
   "result": {
-    "id": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
-    "pageId": "ItemDetail_0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+    "id": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+    "pageId": "ItemDetail_1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'Project Star Skin Pack'",
+    "pageName": "ItemDetail For '6th Birthday Skin Pack'",
     "rows": [
       {
         "controlId": "Layout",
@@ -120,15 +120,15 @@
         "components": [
           {
             "item": {
-              "id": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+              "id": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
               "contentType": "MarketplaceDurableCatalog_V1.2",
-              "title": "Project Star Skin Pack",
+              "title": "6th Birthday Skin Pack",
               "creatorName": "BionicBen",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://bedrock-cosmos.app/thumbnails/ProjectStarSkinPack_thumbnail.jpg",
-                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ProjectStarSkinPack_thumbnail.jpg?width=800&height=450"
+                "url": "https://bedrock-cosmos.app/thumbnails/6thBirthdaySkinPack_thumbnail.jpg",
+                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/6thBirthdaySkinPack_thumbnail.jpg?width=800&height=450"
               },
               "price": {
                 "listPrice": -1,
@@ -137,8 +137,8 @@
                 "virtualCurrencyType": "Minecoin"
               },
               "rating": {
-                "average": 4.6,
-                "totalCount": 14
+                "average": 0.0,
+                "totalCount": 0
               },
               "linksTo": "MultiItemPage_BionicBen_Marketplace",
               "linksToInfo": {
@@ -152,7 +152,7 @@
                 "navigateInPlace": false
               },
               "statistics": {
-                "skins": 22,
+                "skins": 23,
                 "worlds": 0,
                 "textures": 0,
                 "behaviors": 0,
@@ -164,7 +164,7 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
+                  "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
                   "version": "1.0.0"
                 }
               ],
@@ -173,7 +173,7 @@
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
-              "startDate": "2026-02-28T19:13:18Z",
+              "startDate": "2026-02-28T19:08:03Z",
               "subscription": [],
               "thumbnailPreviewOnly": false,
               "namedLinksToInfoMap": {}
@@ -221,7 +221,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "A skin pack previously made for the Project Star Launcher. This pack contains Steve and Alex in Project Star attire and 11 uniquely-colored capes!",
+            "description": "A twist on Minecraft's 1st Birthday Skin Pack with 23 brand new skins to select from!\r\n\r\nCreator's Note: This pack was mostly made for fun (partially jokingly) back in 2021. I had not previously published it before, but now it is free to use in Bedrock Cosmos!",
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
@@ -233,20 +233,20 @@
         "components": [
           {
             "binary": {
-              "url": "https://cdn.bedrock-cosmos.app/uss/a8822/ProjectStarSkinPack.zip"
+              "url": "https://cdn.bedrock-cosmos.app/uss/342df/6thBirthdaySkinPack.zip"
             },
             "packIdentity": {
               "type": "skinpack",
-              "uuid": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
+              "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
               "version": "1.0.0"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
           },
           {
-            "headerText": "Project Star Skin Pack: %s",
+            "headerText": "6th Birthday Skin Pack: %s",
             "text": {
-              "value": "Project Star Skin Pack: %s",
+              "value": "6th Birthday Skin Pack: %s",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
@@ -264,32 +264,6 @@
             },
             "type": "headerComp",
             "$type": "HeaderComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "RatingRow",
-        "components": [
-          {
-            "rating": {
-              "average": 4.6,
-              "totalCount": 14,
-              "count5Star": 11,
-              "count4Star": 1,
-              "count3Star": 1,
-              "count2Star": 1,
-              "count1Star": 0,
-              "ownership": "NotOwned",
-              "ratingPercentages": {
-                "percentage5Star": "79%%",
-                "percentage4Star": "7%%",
-                "percentage3Star": "7%%",
-                "percentage2Star": "7%%",
-                "percentage1Star": "0%%"
-              }
-            },
-            "type": "ratingComp",
-            "$type": "RatingComponent"
           }
         ]
       }

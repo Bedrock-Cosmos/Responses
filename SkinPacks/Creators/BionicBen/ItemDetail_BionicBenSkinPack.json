@@ -1,9 +1,9 @@
 {
   "result": {
-    "id": "22688cde-3822-4bd8-9638-625713ba4dfd",
-    "pageId": "ItemDetail_22688cde-3822-4bd8-9638-625713ba4dfd",
+    "id": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+    "pageId": "ItemDetail_aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'Matching Cosmetics 1'",
+    "pageName": "ItemDetail For 'BionicBen Skin Pack'",
     "rows": [
       {
         "controlId": "Layout",
@@ -120,15 +120,15 @@
         "components": [
           {
             "item": {
-              "id": "22688cde-3822-4bd8-9638-625713ba4dfd",
+              "id": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
               "contentType": "MarketplaceDurableCatalog_V1.2",
-              "title": "Matching Cosmetics 1",
-              "creatorName": "Exports",
+              "title": "BionicBen Skin Pack",
+              "creatorName": "BionicBen",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics1_thumbnail.jpg",
-                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics1_thumbnail.jpg?width=800&height=450"
+                "url": "https://bedrock-cosmos.app/thumbnails/BionicBenSkinPack_thumbnail.jpg",
+                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBenSkinPack_thumbnail.jpg?width=800&height=450"
               },
               "price": {
                 "listPrice": -1,
@@ -137,18 +137,22 @@
                 "virtualCurrencyType": "Minecoin"
               },
               "rating": {
-                "average": 5.0,
-                "totalCount": 10
+                "average": 0.0,
+                "totalCount": 0
               },
-              "linksTo": "MultiItemPage_Exports_Marketplace",
+              "linksTo": "MultiItemPage_BionicBen_Marketplace",
               "linksToInfo": {
-                "linksTo": "MultiItemPage_Exports_Marketplace",
+                "linksTo": "MultiItemPage_BionicBen_Marketplace",
                 "linkType": "pageId",
                 "displayType": "store_layout.store_data_driven_screen",
+                "screenTitle": {
+                  "value": "BionicBen",
+                  "replacements": []
+                },
                 "navigateInPlace": false
               },
               "statistics": {
-                "skins": 30,
+                "skins": 15,
                 "worlds": 0,
                 "textures": 0,
                 "behaviors": 0,
@@ -160,17 +164,16 @@
               "packIdentity": [
                 {
                   "type": "skinpack",
-                  "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
+                  "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
                   "version": "1.0.0"
                 }
               ],
               "contents": [],
               "wishlisted": false,
               "platformRestricted": false,
-              "videoUrl": "https://www.youtube.com/watch?v=jDdXPw8ehZY",
               "iconOverlay": [],
               "descriptionLineByLine": [],
-              "startDate": "2026-02-27T21:47:48Z",
+              "startDate": "2026-02-28T19:10:41Z",
               "subscription": [],
               "thumbnailPreviewOnly": false,
               "namedLinksToInfoMap": {}
@@ -218,7 +221,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "Express yourself in-game with a friend or partner using the 30 skins in this pack!",
+            "description": "A skin pack containing a variety of BionicBen's skins throughout his YouTube history - from holiday skins to the infamous mega skin!\r\n\r\nCreator's Note: The mega skins and skins with HD capes included in this skin pack may not work on featured servers.",
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
@@ -230,20 +233,20 @@
         "components": [
           {
             "binary": {
-              "url": "https://cdn.bedrock-cosmos.app/uss/51bb5/EMC1.zip"
+              "url": "https://cdn.bedrock-cosmos.app/uss/24886/BionicBenSkinPack.zip"
             },
             "packIdentity": {
               "type": "skinpack",
-              "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
+              "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
               "version": "1.0.0"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
           },
           {
-            "headerText": "Matching Cosmetics 1: %s",
+            "headerText": "BionicBen Skin Pack: %s",
             "text": {
-              "value": "Matching Cosmetics 1: %s",
+              "value": "BionicBen Skin Pack: %s",
               "style": {
                 "highlightColor": [],
                 "alignment": "Left",
@@ -261,32 +264,6 @@
             },
             "type": "headerComp",
             "$type": "HeaderComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "RatingRow",
-        "components": [
-          {
-            "rating": {
-              "average": 5.0,
-              "totalCount": 10,
-              "count5Star": 10,
-              "count4Star": 0,
-              "count3Star": 0,
-              "count2Star": 0,
-              "count1Star": 0,
-              "ownership": "NotOwned",
-              "ratingPercentages": {
-                "percentage5Star": "100%%",
-                "percentage4Star": "0%%",
-                "percentage3Star": "0%%",
-                "percentage2Star": "0%%",
-                "percentage1Star": "0%%"
-              }
-            },
-            "type": "ratingComp",
-            "$type": "RatingComponent"
           }
         ]
       }

@@ -3,11 +3,11 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
+      "Id": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
       "Contents": [
         {
-          "Id": "6d111aff-3c61-4e8c-a0b3-5da38332430c",
-          "Url": "https://cdn.bedrock-cosmos.app/uss/6d111/EMC2.zip",
+          "Id": "0484ef22-b675-4468-b58d-699890b377b1",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/0484e/EMC3.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.2.0",
           "Tags": [],
@@ -20,10 +20,11 @@
         "packIdentity": [
           {
             "type": "skinpack",
-            "uuid": "6d111aff-3c61-4e8c-a0b3-5da38332430c",
+            "uuid": "0484ef22-b675-4468-b58d-699890b377b1",
             "version": "1.0.0"
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=ZmeyYheOC_k"
       }
     }
   }
