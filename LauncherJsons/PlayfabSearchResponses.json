@@ -132,8 +132,16 @@
     "response": "SkinPacks\\SkinPack\\Search_SkinPack2.json"
   },
   {
+    "uuid": "d53c598e-3ea8-48d5-80e2-3ae9fc08e527",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack2Classic.json"
+  },
+  {
     "uuid": "640f444e-0d59-4d9a-9502-d64658a9b51b",
     "response": "SkinPacks\\SkinPack\\Search_SkinPack3.json"
+  },
+  {
+    "uuid": "5371bde5-04bb-4195-8305-67dd24194f7b",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack3Classic.json"
   },
   {
     "uuid": "55fa75f0-1635-485f-9586-1bdd0cb6a255",

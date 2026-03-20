@@ -515,7 +515,7 @@
                   {
                     "type": "skinpack",
                     "uuid": "4bab3ca4-ff91-4546-8291-75c1eee892eb",
-                    "version": "1.14.2026"
+                    "version": "3.20.2026"
                   }
                 ],
                 "minPerformanceTier": "LowTier",
@@ -577,8 +577,8 @@
                 "packIdentity": [
                   {
                     "type": "skinpack",
-                    "uuid": "2d567390-431f-410f-ac70-2b0debf0042c",
-                    "version": "1.14.2026"
+                    "uuid": "d78aa7a2-9680-417c-97da-01c9cfbf0c4b",
+                    "version": "3.20.2026"
                   }
                 ],
                 "minPerformanceTier": "LowTier",
@@ -704,7 +704,7 @@
                   {
                     "type": "skinpack",
                     "uuid": "11ba3596-51bc-4128-a2e8-9ca9e8aaad19",
-                    "version": "1.14.2026"
+                    "version": "3.20.2026"
                   }
                 ],
                 "minPerformanceTier": "LowTier",
@@ -767,7 +767,7 @@
                   {
                     "type": "skinpack",
                     "uuid": "57514036-df03-4590-aad3-81c6d7fd5b3c",
-                    "version": "1.14.2026"
+                    "version": "3.20.2026"
                   }
                 ],
                 "minPerformanceTier": "LowTier",

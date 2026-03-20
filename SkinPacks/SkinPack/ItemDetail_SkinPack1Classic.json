@@ -72,7 +72,7 @@
                 "navigateInPlace": false
               },
               "statistics": {
-                "skins": 1,
+                "skins": 44,
                 "worlds": 0,
                 "textures": 0,
                 "behaviors": 0,
@@ -85,7 +85,7 @@
                 {
                   "type": "skinpack",
                   "uuid": "f73518e4-10b6-4eaa-a088-7b246483694e",
-                  "version": "1.0.3"
+                  "version": "3.20.2026"
                 }
               ],
               "tags": [],
@@ -165,12 +165,12 @@
         "components": [
           {
             "binary": {
-              "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/2a3ad8be-3347-4460-b0ea-442d6f01754d/SkinPack_1.zip"
+              "url": "https://cdn.bedrockcosmos.app/uss/f7351/SkinPack1Classic.zip"
             },
             "packIdentity": {
               "type": "skinpack",
               "uuid": "f73518e4-10b6-4eaa-a088-7b246483694e",
-              "version": "1.0.3"
+              "version": "3.20.2026"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
