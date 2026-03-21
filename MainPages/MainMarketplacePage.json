@@ -262,7 +262,7 @@
               {
                 "id": "470b2a4f-e587-4877-a006-64242b690085",
                 "contentType": "MarketplaceDurableCatalog_V1.2",
-                "title": "Minecraft Restored",
+                "title": "Minecraft Restored (Experimental)",
                 "description": "",
                 "creatorName": "Bedrock Cosmos",
                 "thumbnail": {
@@ -393,7 +393,7 @@
             "$type": "HeaderComponent"
           },
           {
-            "description": "Minecraft Restored adds several removed features back to marketplace items, such as Skins and Capes!",
+            "description": "Minecraft Restored adds several removed features back to marketplace items, such as Skins and Capes! All Minecraft Restored packs will overwrite their original corresponding pack versions.\nThis section of Bedrock Cosmos is also Experimental and subject to change.",
             "type": "itemDescriptionComp",
             "$type": "ItemDescriptionComponent"
           }
