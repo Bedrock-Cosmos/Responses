@@ -155,7 +155,7 @@
                 {
                   "type": "skinpack",
                   "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
-                  "version": "1.1.5"
+                  "version": "1.1.6"
                 },
                 {
                   "type": "resourcepack",
@@ -241,7 +241,7 @@
             "packIdentity": {
               "type": "skinpack",
               "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
-              "version": "1.1.5"
+              "version": "1.1.6"
             },
             "type": "skinViewerComp",
             "$type": "SkinViewerComponent"
