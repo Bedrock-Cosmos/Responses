@@ -90,12 +90,12 @@
                 {
                   "type": "resourcepack",
                   "uuid": "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
-                  "version": "1.0.71"
+                  "version": "1.0.73"
                 },
                 {
                   "type": "worldtemplate",
                   "uuid": "1dde574b-2b4d-48e6-951e-d135093bcdc9",
-                  "version": "1.0.71"
+                  "version": "1.0.73"
                 }
               ],
               "minPerformanceTier": "SuperLowTier",
