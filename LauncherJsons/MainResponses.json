@@ -575,5 +575,14 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/DressingRoom_fa359c7a-889b-4ce1-9d68-08691ca7303c",
     "response": "..\\CustomJsons\\PersonaItemPreview.json"
+  },
+  // Debug
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/MultiItemPage_PersonaCharacterCreator",
+    "response": "MainPages\\MultiItemPage_PersonaCharacterCreator.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v1.0/layout/pages/DressingRoom_Hidden",
+    "response": "MainPages\\DressingRoom_Hidden.json"
   }
 ]
