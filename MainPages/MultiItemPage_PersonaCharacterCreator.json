@@ -4,572 +4,574 @@
     "pageId": "MultiItemPage_PersonaCharacterCreator",
     "addToRecentlyViewed": false,
     "pageName": "Home L1",
-    "rows": [
-      {
-        "controlId": "Layout",
-        "components": [
-          { "type": "personaOfferInteractionComp", "$type": "PersonaOfferInteractionComponent" },
-          { "type": "appearanceInteractionComp", "$type": "AppearanceInteractionComponent" },
-          { "type": "openColorPickerComp", "$type": "OpenColorPickerComponent" },
-          { "type": "openExpandedAppearanceViewComp", "$type": "OpenExpandedAppearanceViewComponent" },
-          { "type": "dispPreviewPieceComp", "$type": "DisplayPreviewedPieceOfferComponent" },
-          { "type": "sideSelectionComp", "$type": "PersonaSideSelection" },
-          {
-            "linksToInfo": {
-              "linksTo": "MultiItemPage_DressingRoomCoinScreen",
-              "linkType": "pageId",
-              "displayType": "store_layout.character_creator_screen",
-              "screenTitle": {
-                "value": "dr.header.minecoin.screen",
-                "style": {
-                  "highlightColor": [],
-                  "alignment": "Left",
-                  "textColor": [],
-                  "font": "MinecraftTen",
-                  "showBackground": false,
-                  "showOutline": false,
-                  "indent": 0.0,
-                  "buttonWidth": 0.0,
-                  "color": [],
-                  "offerControlIdType": "None",
-                  "outlineColor": []
-                },
-                "replacements": []
-              },
-              "navigateInPlace": false
-            },
-            "isVisible": true,
-            "type": "topBarMinecoinComp",
-            "$type": "TopBarMinecoinComponent"
-          },
-          {
-            "linksToInfo": {
-              "linksTo": "Search_DressingRoomSearchHome",
-              "linkType": "pageId",
-              "displayType": "store_layout.character_creator_screen",
-              "screenTitle": {
-                "value": "dr.header.search.home",
-                "style": {
-                  "highlightColor": [],
-                  "alignment": "Left",
-                  "textColor": [],
-                  "font": "MinecraftTen",
-                  "showBackground": false,
-                  "showOutline": false,
-                  "indent": 0.0,
-                  "buttonWidth": 0.0,
-                  "color": [],
-                  "offerControlIdType": "None",
-                  "outlineColor": []
-                },
-                "replacements": []
-              },
-              "navigateInPlace": false
-            },
-            "isVisible": true,
-            "type": "topBarSearchComp",
-            "$type": "TopBarSearchComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "LightDropdown",
-        "components": [
-          {
-            "text": { "value": "dr.categories.body", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/body" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "isExpanded": false, "dropdownId": 0, "type": "dropdownComp", "$type": "DropdownComponent" }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.base", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/skin_texture" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Bases",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.hair", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/hair" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Hairs",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.eyes", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/eyes" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Eyes",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.mouth", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/mouth" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Mouths",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.facial_hair", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/facial_hair" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_FacialHairs",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.arms", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/arms" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Arms",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.legs", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/legs" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Legs",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.size", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/body_size" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Size",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "LightDropdown",
-        "components": [
-          {
-            "text": { "value": "dr.categories.style", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/style" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "isExpanded": false, "dropdownId": 1, "type": "dropdownComp", "$type": "DropdownComponent" }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.top", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/tops" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Tops",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.bottom", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/bottoms" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Bottoms",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.outerwear", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/outerwear" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Outerwears",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.headwear", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/head" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Headwears",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.gloves", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/hands" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Gloves",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.footwear", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/feet" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Footwears",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.face_item", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/face_accessory" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_FaceItems",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "dr.categories.back_item", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/back_accessory" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_BackItems",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      },
-      {
-        "controlId": "DarkRedirectButton",
-        "components": [
-          {
-            "text": { "value": "Hidden", "replacements": [] },
-            "type": "headerComp",
-            "$type": "HeaderComponent"
-          },
-          {
-            "textureImage": { "type": "Texture", "localPath": "textures/ui/sidebar_icons/star" },
-            "textureFilterType": "InUserPackages",
-            "type": "textureComp",
-            "$type": "TextureComponent"
-          },
-          {
-            "linksTo": {
-              "linksTo": "DressingRoom_Hidden",
-              "linkType": "internal",
-              "displayType": "store_layout.character_creator_screen",
-              "navigateInPlace": false
-            },
-            "type": "redirectButtonComp",
-            "$type": "RedirectComponent"
-          }
-        ]
-      }
-    ],
-    "itemsPerRow": 0,
-    "screenshotHeightRatio": 0.0,
-    "inventoryVersion": "1/Mw==",
     "pageRefresh": false,
     "sidebarLayoutType": "Persona",
-    "navigationRows": []
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              { "type": "personaOfferInteractionComp", "$type": "PersonaOfferInteractionComponent" },
+              { "type": "appearanceInteractionComp", "$type": "AppearanceInteractionComponent" },
+              { "type": "openColorPickerComp", "$type": "OpenColorPickerComponent" },
+              { "type": "openExpandedAppearanceViewComp", "$type": "OpenExpandedAppearanceViewComponent" },
+              { "type": "dispPreviewPieceComp", "$type": "DisplayPreviewedPieceOfferComponent" },
+              { "type": "sideSelectionComp", "$type": "PersonaSideSelection" },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_DressingRoomSearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.search.home",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "LightDropdown",
+            "components": [
+              {
+                "text": { "value": "dr.categories.body", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/body" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "isExpanded": false, "dropdownId": 0, "type": "dropdownComp", "$type": "DropdownComponent" }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.base", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/skin_texture" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Bases",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.hair", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/hair" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Hairs",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.eyes", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/eyes" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Eyes",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.mouth", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/mouth" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Mouths",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.facial_hair", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/facial_hair" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_FacialHairs",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.arms", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/arms" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Arms",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.legs", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/legs" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Legs",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.size", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/body_size" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Size",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "LightDropdown",
+            "components": [
+              {
+                "text": { "value": "dr.categories.style", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/style" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "isExpanded": false, "dropdownId": 1, "type": "dropdownComp", "$type": "DropdownComponent" }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.top", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/tops" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Tops",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.bottom", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/bottoms" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Bottoms",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.outerwear", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/outerwear" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Outerwears",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.headwear", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/head" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Headwears",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.gloves", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/hands" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Gloves",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.footwear", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/feet" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Footwears",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.face_item", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/face_accessory" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_FaceItems",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "dr.categories.back_item", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/back_accessory" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_BackItems",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "DarkRedirectButton",
+            "components": [
+              {
+                "text": { "value": "Hidden", "replacements": [] },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "textureImage": { "type": "Texture", "localPath": "textures/ui/sidebar_icons/star" },
+                "textureFilterType": "InUserPackages",
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              },
+              {
+                "linksTo": {
+                  "linksTo": "DressingRoom_Hidden",
+                  "linkType": "internal",
+                  "displayType": "store_layout.character_creator_screen",
+                  "navigateInPlace": false
+                },
+                "type": "redirectButtonComp",
+                "$type": "RedirectComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
   }
 }
