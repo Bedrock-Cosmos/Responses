@@ -132,303 +132,189 @@
                 },
                 "type": "purchaseInfoComp",
                 "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
               },
               {
-                "tabs": [
+                "description": "Minecraft is growing up, time to celebrate together our 2nd Birthday!\r\nOnly available for Minecraft on PlayStation 4 (2019).",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ImageGallery",
+            "components": [
+              {
+                "images": [
                   {
-                    "tabButtonName": {
-                      "value": "About",
-                      "style": {
-                        "highlightColor": [],
-                        "alignment": "Center",
-                        "textColor": [0.3, 0.3, 0.3],
-                        "font": "MinecraftTen",
-                        "showBackground": false,
-                        "showOutline": false,
-                        "indent": 0.0,
-                        "buttonWidth": 0.0,
-                        "color": [],
-                        "offerControlIdType": "None"
-                      },
-                      "replacements": []
-                    },
-                    "rows": [
-                      {
-                        "controlId": "ItemDescription",
-                        "components": [
-                          {
-                            "headerText": "store.mashup.description",
-                            "text": {
-                              "value": "store.mashup.description",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "default",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "headerComp",
-                            "$type": "HeaderComponent"
-                          },
-                          {
-                            "description": "Minecraft is growing up, time to celebrate together our 2nd Birthday!\r\nOnly available for Minecraft on PlayStation 4 (2019).",
-                            "type": "itemDescriptionComp",
-                            "$type": "ItemDescriptionComponent"
-                          }
-                        ]
-                      },
-                      {
-                        "controlId": "ImageGallery",
-                        "components": [
-                          {
-                            "images": [
-                              {
-                                "type": "Unknown",
-                                "url": "https://live.staticflickr.com/700/23799777976_755ca4f91b_k.jpg",
-                                "urlWithResolution": "https://live.staticflickr.com/700/23799777976_755ca4f91b_k.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://live.staticflickr.com/767/23199084283_6074fb148d_k.jpg",
-                                "urlWithResolution": "https://live.staticflickr.com/767/23199084283_6074fb148d_k.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://live.staticflickr.com/5711/23197760554_6f68aa244f_k.jpg",
-                                "urlWithResolution": "https://live.staticflickr.com/5711/23197760554_6f68aa244f_k.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://live.staticflickr.com/776/23717496312_c5db712f56_k.jpg",
-                                "urlWithResolution": "https://live.staticflickr.com/776/23717496312_c5db712f56_k.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://live.staticflickr.com/595/23530202240_b3704f7d7b_k.jpg",
-                                "urlWithResolution": "https://live.staticflickr.com/595/23530202240_b3704f7d7b_k.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://live.staticflickr.com/5730/23457938609_309431c93a_k.jpg",
-                                "urlWithResolution": "https://live.staticflickr.com/5730/23457938609_309431c93a_k.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://live.staticflickr.com/743/23825885855_25201746ff_k.jpg",
-                                "urlWithResolution": "https://live.staticflickr.com/743/23825885855_25201746ff_k.jpg?width=800&height=450"
-                              }
-                            ],
-                            "type": "imageGalleryComp",
-                            "$type": "ImageGalleryComponent"
-                          },
-                          {
-                            "headerText": "Gallery",
-                            "text": {
-                              "value": "Gallery",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "default",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "headerComp",
-                            "$type": "HeaderComponent"
-                          }
-                        ]
-                      },
-                      {
-                        "controlId": "SkinPreview",
-                        "components": [
-                          {
-                            "binary": {
-                              "url": "https://cdn.bedrockcosmos.app/uss/d532b/2ndBirthday.zip"
-                            },
-                            "packIdentity": {
-                              "type": "skinpack",
-                              "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
-                              "version": "3.1.26"
-                            },
-                            "type": "skinViewerComp",
-                            "$type": "SkinViewerComponent"
-                          },
-                          {
-                            "headerText": "2nd Birthday Skin Pack - 2015: %s",
-                            "text": {
-                              "value": "2nd Birthday Skin Pack - 2015: %s",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "default",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "headerComp",
-                            "$type": "HeaderComponent"
-                          }
-                        ]
-                      },
-                      {
-                        "controlId": "RatingRow",
-                        "components": [
-                          {
-                            "rating": {
-                              "average": 4.6,
-                              "totalCount": 10503,
-                              "count5Star": 8759,
-                              "count4Star": 665,
-                              "count3Star": 351,
-                              "count2Star": 120,
-                              "count1Star": 608,
-                              "id": "770196c2-718f-43ef-94d6-8e53a7b5b0af",
-                              "ownership": "NotOwned",
-                              "ratingPercentages": {
-                                "percentage5Star": "83%",
-                                "percentage4Star": "6%",
-                                "percentage3Star": "3%",
-                                "percentage2Star": "1%",
-                                "percentage1Star": "6%"
-                              }
-                            },
-                            "type": "ratingComp",
-                            "$type": "RatingComponent"
-                          }
-                        ]
-                      }
-                    ],
-                    "type": "navigationTabEntryComp",
-                    "$type": "NavigationTabEntryComponent"
+                    "type": "Unknown",
+                    "url": "https://live.staticflickr.com/700/23799777976_755ca4f91b_k.jpg",
+                    "urlWithResolution": "https://live.staticflickr.com/700/23799777976_755ca4f91b_k.jpg?width=800&height=450"
                   },
                   {
-                    "tabButtonName": {
-                      "value": "Notes",
-                      "style": {
-                        "highlightColor": [],
-                        "alignment": "Center",
-                        "textColor": [0.3, 0.3, 0.3],
-                        "font": "MinecraftTen",
-                        "showBackground": false,
-                        "showOutline": false,
-                        "indent": 0.0,
-                        "buttonWidth": 0.0,
-                        "color": [],
-                        "offerControlIdType": "None"
-                      },
-                      "replacements": []
-                    },
-                    "rows": [
-                      {
-                        "controlId": "TextRow",
-                        "components": [
-                          {
-                            "text": {
-                              "value": "Cosmos Fixes",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "MinecraftTen",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "headerComp",
-                            "$type": "HeaderComponent"
-                          },
-                          {
-                            "text": {
-                              "value": "- Fixed Capes being in the belt folder.",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [],
-                                "font": "SmoothWithEmoticons",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "textComponent",
-                            "$type": "TextComponent"
-                          }
-                        ]
-                      },
-                      {
-                        "controlId": "SkinPreview",
-                        "components": [
-                          {
-                            "binary": {
-                              "url": "https://cdn.bedrockcosmos.app/uss/d532b/2ndBirthday.zip"
-                            },
-                            "packIdentity": {
-                              "type": "skinpack",
-                              "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
-                              "version": "3.1.26"
-                            },
-                            "type": "skinViewerComp",
-                            "$type": "SkinViewerComponent"
-                          },
-                          {
-                            "headerText": "2nd Birthday Skin Pack - 2015: %s",
-                            "text": {
-                              "value": "2nd Birthday Skin Pack - 2015: %s",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "default",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "headerComp",
-                            "$type": "HeaderComponent"
-                          }
-                        ]
-                      }
-                    ],
-                    "type": "navigationTabEntryComp",
-                    "$type": "NavigationTabEntryComponent"
+                    "type": "Unknown",
+                    "url": "https://live.staticflickr.com/767/23199084283_6074fb148d_k.jpg",
+                    "urlWithResolution": "https://live.staticflickr.com/767/23199084283_6074fb148d_k.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://live.staticflickr.com/5711/23197760554_6f68aa244f_k.jpg",
+                    "urlWithResolution": "https://live.staticflickr.com/5711/23197760554_6f68aa244f_k.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://live.staticflickr.com/776/23717496312_c5db712f56_k.jpg",
+                    "urlWithResolution": "https://live.staticflickr.com/776/23717496312_c5db712f56_k.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://live.staticflickr.com/595/23530202240_b3704f7d7b_k.jpg",
+                    "urlWithResolution": "https://live.staticflickr.com/595/23530202240_b3704f7d7b_k.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://live.staticflickr.com/5730/23457938609_309431c93a_k.jpg",
+                    "urlWithResolution": "https://live.staticflickr.com/5730/23457938609_309431c93a_k.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://live.staticflickr.com/743/23825885855_25201746ff_k.jpg",
+                    "urlWithResolution": "https://live.staticflickr.com/743/23825885855_25201746ff_k.jpg?width=800&height=450"
                   }
                 ],
-                "initialTabName": "About",
-                "type": "navigationTabComp",
-                "$type": "NavigationTabComponent"
+                "type": "imageGalleryComp",
+                "$type": "ImageGalleryComponent"
+              },
+              {
+                "headerText": "Gallery",
+                "text": {
+                  "value": "Gallery",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "PublicChangelogRow",
+            "components": [
+              {
+                "text": {
+                  "value": "- Fixed Capes being in the belt folder.",
+                  "replacements": []
+                },
+                "genres": [],
+                "subgenres": [],
+                "playerCounts": [],
+                "tags": [],
+                "headerText": "Cosmos Fixes",
+                "headerIcon": { "type": "Unknown", "localPath": "textures/ui/infobulb" },
+                "warnings": [],
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://cdn.bedrockcosmos.app/uss/d532b/2ndBirthday.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
+                  "version": "3.1.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "2nd Birthday Skin Pack - 2015: %s",
+                "text": {
+                  "value": "2nd Birthday Skin Pack - 2015: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.6,
+                  "totalCount": 10503,
+                  "count5Star": 8759,
+                  "count4Star": 665,
+                  "count3Star": 351,
+                  "count2Star": 120,
+                  "count1Star": 608,
+                  "id": "770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "83%",
+                    "percentage4Star": "6%",
+                    "percentage3Star": "3%",
+                    "percentage2Star": "1%",
+                    "percentage1Star": "6%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
               }
             ]
           }
