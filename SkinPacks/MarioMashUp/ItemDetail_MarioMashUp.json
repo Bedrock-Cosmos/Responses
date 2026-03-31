@@ -165,12 +165,12 @@
                     {
                       "type": "resourcepack",
                       "uuid": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
-                      "version": "1.1.5"
+                      "version": "1.1.6"
                     },
                     {
                       "type": "worldtemplate",
                       "uuid": "c5e0d6e9-29b7-3b04-9408-032cc8a386c6",
-                      "version": "1.1.5"
+                      "version": "1.1.6"
                     }
                   ],
                   "minPerformanceTier": "SuperLowTier",

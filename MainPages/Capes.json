@@ -4928,6 +4928,47 @@
                         "navigateInPlace": false
                       }
                     }
+                  },
+                  {
+                    "id": "0e377825-9488-4496-b75a-21de4b008b0a",
+                    "contentType": "PersonaDurable",
+                    "title": "Tiny Takeover Cape",
+                    "description": "\u00a7",
+                    "creatorName": "Essential",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/TinyTakeoverCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/TinyTakeoverCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "3ddf71f3-8eb2-4491-9b48-cd1c8bf6f465",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-03-30T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
                   }
                 ],
                 "totalItems": 400,
