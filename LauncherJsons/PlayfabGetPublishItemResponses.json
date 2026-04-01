@@ -743,6 +743,10 @@
     "uuid": "f3a358d0-d3d8-42b2-b01b-47aa2533754c",
     "response": "Persona\\SkinPackCapes\\SherriAndTerri_cape.json"
   },
+  {
+    "uuid": "0e377825-9488-4496-b75a-21de4b008b0a",
+    "response": "Persona\\CustomCapes\\TinyTakeoverCape.json"
+  },
   // Skin Packs
   {
     "uuid": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
@@ -838,7 +842,7 @@
   },
   {
     "uuid": "b89ef5de-78ad-4a48-b8a5-f12065286e7d",
-    "response": "SkinPacks\\LegacySkinPack\\Binary_LegacySkinPack"
+    "response": "SkinPacks\\LegacySkinPack\\Binary_LegacySkinPack.json"
   },
   {
     "uuid": "38fdf771-febb-4b6f-a162-c42850817d95",

@@ -1,5 +1,9 @@
 [
   {
+    "url": "https://entitlements.mktpl.minecraft-services.net/api/v1.0/currencies/virtual/balances",
+    "response": "AprilFoolsCoins.json"
+  },
+  {
     "url": "https://20ca2.playfabapi.com/Catalog/GetPublishedItem",
     "response": "ProcessedInPlayfabGetPublishItemResponsesJson"
   },
