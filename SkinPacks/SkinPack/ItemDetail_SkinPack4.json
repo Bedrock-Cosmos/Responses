@@ -126,290 +126,179 @@
                 },
                 "type": "purchaseInfoComp",
                 "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
               },
               {
-                "tabs": [
+                "description": "This fourth skin pack brings you a fresh bunch of exciting skins for you to customise your Minecraft character with!\r\nPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\nThis is a Legacy Vault port of Skin Pack 4.\r\n• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in Settings > General > Only Allow Trusted Skins Off.\r\n• This Skin Pack cannot be worn on featured servers!",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ImageGallery",
+            "components": [
+              {
+                "images": [
                   {
-                    "tabButtonName": {
-                      "value": "About",
-                      "style": {
-                        "highlightColor": [],
-                        "alignment": "Center",
-                        "textColor": [0.3, 0.3, 0.3],
-                        "font": "MinecraftTen",
-                        "showBackground": false,
-                        "showOutline": false,
-                        "indent": 0.0,
-                        "buttonWidth": 0.0,
-                        "color": [],
-                        "offerControlIdType": "None"
-                      },
-                      "replacements": []
-                    },
-                    "rows": [
-                      {
-                        "controlId": "ItemDescription",
-                        "components": [
-                          {
-                            "headerText": "store.mashup.description",
-                            "text": {
-                              "value": "store.mashup.description",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "default",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "headerComp",
-                            "$type": "HeaderComponent"
-                          },
-                          {
-                            "description": "This fourth skin pack brings you a fresh bunch of exciting skins for you to customise your Minecraft character with!\r\nPLEASE CLICK SHOW MORE FOR ADDITIONAL USAGE INFORMATION!\r\n\nThis is a Legacy Vault port of Skin Pack 4.\r\n• This Skin Pack cannot be seen by other players unless they have ''Only Allow Trusted Skins'' disabled! You can ask them to disable it in Settings > General > Only Allow Trusted Skins Off.\r\n• This Skin Pack cannot be worn on featured servers!",
-                            "type": "itemDescriptionComp",
-                            "$type": "ItemDescriptionComponent"
-                          }
-                        ]
-                      },
-                      {
-                        "controlId": "ImageGallery",
-                        "components": [
-                          {
-                            "images": [
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg1.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg1.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg2.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg2.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg3.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg3.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg4.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg4.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg5.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg5.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg6.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg6.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg7.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg7.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg8.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg8.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg9.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg9.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg10.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg10.jpg?width=800&height=450"
-                              },
-                              {
-                                "type": "Unknown",
-                                "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg11.jpg",
-                                "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg11.jpg?width=800&height=450"
-                              }
-                            ],
-                            "type": "imageGalleryComp",
-                            "$type": "ImageGalleryComponent"
-                          },
-                          {
-                            "headerText": "Gallery",
-                            "text": {
-                              "value": "Gallery",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "default",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "headerComp",
-                            "$type": "HeaderComponent"
-                          }
-                        ]
-                      },
-                      {
-                        "controlId": "SkinPreview",
-                        "components": [
-                          {
-                            "packIdentity": {
-                              "type": "skinpack",
-                              "uuid": "55fa75f0-1635-485f-9586-1bdd0cb6a255",
-                              "version": "1.0.0"
-                            },
-                            "type": "skinViewerComp",
-                            "$type": "SkinViewerComponent"
-                          },
-                          {
-                            "headerText": "Skin Pack 4: %s",
-                            "text": {
-                              "value": "Skin Pack 4: %s",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "default",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "headerComp",
-                            "$type": "HeaderComponent"
-                          }
-                        ]
-                      }
-                    ],
-                    "type": "navigationTabEntryComp",
-                    "$type": "NavigationTabEntryComponent"
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg1.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg1.jpg?width=800&height=450"
                   },
                   {
-                    "tabButtonName": {
-                      "value": "Notes",
-                      "style": {
-                        "highlightColor": [],
-                        "alignment": "Center",
-                        "textColor": [0.3, 0.3, 0.3],
-                        "font": "MinecraftTen",
-                        "showBackground": false,
-                        "showOutline": false,
-                        "indent": 0.0,
-                        "buttonWidth": 0.0,
-                        "color": [],
-                        "offerControlIdType": "None"
-                      },
-                      "replacements": []
-                    },
-                    "rows": [
-                      {
-                        "controlId": "TextRow",
-                        "components": [
-                          {
-                            "text": {
-                              "value": "Legacy Vault Port (Xbox 360 + Xbox One)",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "MinecraftTen",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "headerComp",
-                            "$type": "HeaderComponent"
-                          },
-                          {
-                            "text": {
-                              "value": "- Added antlers to Blacksmith\r\n- Includes both variants of Sensei\r\n- Added King, Necromancer, Fidget & Dust\r\n- Added a tail to Wolf which went unused & adds texture to bottom torso.",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [],
-                                "font": "SmoothWithEmoticons",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "textComponent",
-                            "$type": "TextComponent"
-                          }
-                        ]
-                      },
-                      {
-                        "controlId": "SkinPreview",
-                        "components": [
-                          {
-                            "packIdentity": {
-                              "type": "skinpack",
-                              "uuid": "55fa75f0-1635-485f-9586-1bdd0cb6a255",
-                              "version": "1.0.0"
-                            },
-                            "type": "skinViewerComp",
-                            "$type": "SkinViewerComponent"
-                          },
-                          {
-                            "headerText": "Skin Pack 4: %s",
-                            "text": {
-                              "value": "Skin Pack 4: %s",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "default",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None"
-                              },
-                              "replacements": []
-                            },
-                            "type": "headerComp",
-                            "$type": "HeaderComponent"
-                          }
-                        ]
-                      }
-                    ],
-                    "type": "navigationTabEntryComp",
-                    "$type": "NavigationTabEntryComponent"
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg2.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg2.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg3.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg3.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg4.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg4.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg5.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg5.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg6.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg6.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg7.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg7.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg8.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg8.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg9.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg9.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg10.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg10.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg11.jpg",
+                    "urlWithResolution": "https://download-ssl.xbox.com/content/images/2f60a7a0-8010-49b1-8b57-851ac41f34cf/1033/screenlg11.jpg?width=800&height=450"
                   }
                 ],
-                "initialTabName": "About",
-                "type": "navigationTabComp",
-                "$type": "NavigationTabComponent"
+                "type": "imageGalleryComp",
+                "$type": "ImageGalleryComponent"
+              },
+              {
+                "headerText": "Gallery",
+                "text": {
+                  "value": "Gallery",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "PublicChangelogRow",
+            "components": [
+              {
+                "text": {
+                  "value": "- Added antlers to Blacksmith\r\n- Includes both variants of Sensei\r\n- Added King, Necromancer, Fidget & Dust\r\n- Added a tail to Wolf which went unused & adds texture to bottom torso.",
+                  "replacements": []
+                },
+                "genres": [],
+                "subgenres": [],
+                "playerCounts": [],
+                "tags": [],
+                "headerText": "Legacy Vault Port (Xbox 360 + Xbox One)",
+                "headerIcon": { "type": "Unknown", "localPath": "textures/ui/infobulb" },
+                "warnings": [],
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "55fa75f0-1635-485f-9586-1bdd0cb6a255",
+                  "version": "1.0.0"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Skin Pack 4: %s",
+                "text": {
+                  "value": "Skin Pack 4: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
               }
             ]
           }
