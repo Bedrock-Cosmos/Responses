@@ -1,9 +1,0 @@
-{
-  "result": {
-    "virtualCurrencyBalances": [
-      { "type": "Minecoin", "amount": 1000000 },
-      { "type": "PlayStationToken", "amount": 0 }
-    ],
-    "inventoryVersion": "1/NzE3"
-  }
-}

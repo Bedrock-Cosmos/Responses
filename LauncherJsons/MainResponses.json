@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://entitlements.mktpl.minecraft-services.net/api/v1.0/currencies/virtual/balances",
-    "response": "AprilFoolsCoins.json"
-  },
-  {
     "url": "https://20ca2.playfabapi.com/Catalog/GetPublishedItem",
     "response": "ProcessedInPlayfabGetPublishItemResponsesJson"
   },
@@ -73,6 +69,10 @@
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerPage_master_player_account!5F3E53D5C111968C",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerOffers_0ad4e564-8dcd-4b16-bdf7-229f3c9a0cd0",
     "response": "MainPages\\MainMarketplaceButton_append.json"
   },
   {
