@@ -385,6 +385,10 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_Exports_Marketplace",
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_YEH_Marketplace",
+    "response": "MainPages\\Creators\\Marketplace\\YEH_Marketplace.json"
+  },
   // Creator Skin Packs
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
@@ -441,6 +445,22 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
     "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC4.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_REPOSEMIBOTS.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_REPOSEMIBOTS.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/86e6a53f-6ae6-4109-935a-72f877194c02",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_REPOSEMIBOTS5D.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_86e6a53f-6ae6-4109-935a-72f877194c02",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_REPOSEMIBOTS5D.json"
   },
   //
   // Completed
