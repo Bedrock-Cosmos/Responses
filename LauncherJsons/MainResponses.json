@@ -389,6 +389,10 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_YEH_Marketplace",
     "response": "MainPages\\Creators\\Marketplace\\YEH_Marketplace.json"
   },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_ZeroMISTER_JA_Marketplace",
+    "response": "MainPages\\Creators\\Marketplace\\ZeroMISTER_JA_Marketplace.json"
+  },
   // Creator Skin Packs
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
@@ -461,6 +465,46 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_86e6a53f-6ae6-4109-935a-72f877194c02",
     "response": "SkinPacks\\Creators\\YEH\\ItemDetail_REPOSEMIBOTS5D.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_BlackHole.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_BlackHole.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/dedd7dce-a317-4786-930f-9c2357d25d82",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_DetectiveConanSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_dedd7dce-a317-4786-930f-9c2357d25d82",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_DetectiveConanSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/ae90416f-1942-4c2b-a675-8d947fc53cf1",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_Doraemon.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_ae90416f-1942-4c2b-a675-8d947fc53cf1",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_Doraemon.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/7197503c-817f-4c5d-b570-67b2758d707b",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_HotelTransylvaniaSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_7197503c-817f-4c5d-b570-67b2758d707b",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_HotelTransylvaniaSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/f6303374-6ab5-4079-baa0-6200189aa6a2",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_NeonGenesisEvangelion.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_f6303374-6ab5-4079-baa0-6200189aa6a2",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_NeonGenesisEvangelion.json"
   },
   //
   // Completed
