@@ -188,43 +188,6 @@
               }
             ]
           },
-          // {
-          //   "controlId": "ItemDescription",
-          //   "components": [
-          //     {
-          //       "headerText": "store.mashup.description",
-          //       "text": {
-          //         "value": "store.mashup.description",
-          //         "style": {
-          //           "highlightColor": [],
-          //           "alignment": "Left",
-          //           "textColor": [
-          //             1,
-          //             1,
-          //             1
-          //           ],
-          //           "font": "default",
-          //           "showBackground": false,
-          //           "showOutline": false,
-          //           "indent": 0,
-          //           "buttonWidth": 0,
-          //           "color": [],
-          //           "offerControlIdType": "None",
-          //           "outlineColor": []
-          //         },
-          //         "replacements": []
-          //       },
-          //       "type": "headerComp",
-          //       "$type": "HeaderComponent"
-          //     },
-          //     {
-          //       "description": "10+ cool skins just for you.",
-          //       "type": "itemDescriptionComp",
-          //       "$type": "ItemDescriptionComponent"
-          //     }
-          //   ],
-          //   "telemetryId": "store.mashup.description"
-          // },
           {
             "controlId": "SkinPreview",
             "components": [
