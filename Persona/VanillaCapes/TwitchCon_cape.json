@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9a2434c3-dc77-4951-81ac-950e880d65b6",
+      "Contents": [
+        {
+          "Id": "b5b8d52b-35ab-400e-a782-1de129416cf9",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TwitchCon_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2a6950a9-7fee-45ad-940d-91c6eac4e71e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

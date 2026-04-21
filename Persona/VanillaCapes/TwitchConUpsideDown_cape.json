@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ab58b067-bed0-466b-8abe-ad3382680fa0",
+      "Contents": [
+        {
+          "Id": "1361fe31-3d84-4cb1-85bb-979a22cd9637",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TwitchConUpsideDown_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "64969f82-cdf2-43cb-9536-6bfc666aed36",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

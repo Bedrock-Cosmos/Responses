@@ -43,8 +43,8 @@
                       "font": "MinecraftTen",
                       "showBackground": false,
                       "showOutline": false,
-                      "indent": 0.0,
-                      "buttonWidth": 0.0,
+                      "indent": 0,
+                      "buttonWidth": 0,
                       "color": [],
                       "offerControlIdType": "None"
                     },
@@ -70,8 +70,8 @@
                       "font": "MinecraftTen",
                       "showBackground": false,
                       "showOutline": false,
-                      "indent": 0.0,
-                      "buttonWidth": 0.0,
+                      "indent": 0,
+                      "buttonWidth": 0,
                       "color": [],
                       "offerControlIdType": "None"
                     },
@@ -94,16 +94,22 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1,
+                      1,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -963,6 +969,86 @@
                     }
                   },
                   {
+                    "id": "9a2434c3-dc77-4951-81ac-950e880d65b6",
+                    "contentType": "PersonaDurable",
+                    "title": "TwitchCon Cape",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/TwitchCon_cape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/TwitchCon_cape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "2a6950a9-7fee-45ad-940d-91c6eac4e71e",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2025-10-25T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "ab58b067-bed0-466b-8abe-ad3382680fa0",
+                    "contentType": "PersonaDurable",
+                    "title": "TwitchCon (Upside Down) Cape",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/TwitchConUpsideDown_cape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/TwitchConUpsideDown_cape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "64969f82-cdf2-43cb-9536-6bfc666aed36",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2025-10-25T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "d323193d-0897-4b95-9bf4-4fdb7905fffb",
                     "contentType": "PersonaDurable",
                     "title": "Yearn Cape",
@@ -1103,9 +1189,14 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [0.70196, 0.8392, 0.8588, 0.2],
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -1123,16 +1214,22 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1,
+                      1,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -3485,9 +3582,14 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [0.70196, 0.8392, 0.8588, 0.2],
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -3505,16 +3607,22 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1,
+                      1,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -4933,7 +5041,7 @@
                     "id": "0e377825-9488-4496-b75a-21de4b008b0a",
                     "contentType": "PersonaDurable",
                     "title": "Tiny Takeover Cape",
-                    "description": "\u00a7",
+                    "description": "§",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
@@ -5000,9 +5108,14 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [0.243, 0.776, 0.839, 1.0],
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [
+                      0.243,
+                      0.776,
+                      0.839,
+                      1
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -5020,12 +5133,17 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [0.098, 0.247, 0.608, 1.0],
+                    "textColor": [
+                      0.098,
+                      0.247,
+                      0.608,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
@@ -5045,12 +5163,17 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [0.243, 0.776, 0.839, 1.0],
+                    "textColor": [
+                      0.243,
+                      0.776,
+                      0.839,
+                      1
+                    ],
                     "font": "SmoothWithEmoticons",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   }
@@ -5178,9 +5301,14 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [0.243, 0.776, 0.839, 1.0],
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [
+                      0.243,
+                      0.776,
+                      0.839,
+                      1
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -5198,16 +5326,22 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1,
+                      1,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -8713,7 +8847,10 @@
           }
         ]
       },
-      { "sectionName": "navigation", "rows": [] }
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
     ]
   }
 }
