@@ -3,11 +3,11 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "9a2434c3-dc77-4951-81ac-950e880d65b6",
+      "Id": "fadaddbd-da2a-4d90-b81a-ba1484c1b872",
       "Contents": [
         {
-          "Id": "b5b8d52b-35ab-400e-a782-1de129416cf9",
-          "Url": "https://capes.bedrock-cosmos.app/zips/TwitchCon_cape.zip",
+          "Id": "ae22c1d1-f2fc-499e-966d-a71ca4e5fe1d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CrafterUpsideDown_cape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "2a6950a9-7fee-45ad-940d-91c6eac4e71e",
+            "uuid": "8af1df2a-87e0-4379-8516-a2cb73dd5277",
             "version": "1.0.0"
           }
         ]
