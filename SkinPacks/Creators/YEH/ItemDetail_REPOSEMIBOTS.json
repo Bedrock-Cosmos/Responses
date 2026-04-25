@@ -157,7 +157,7 @@
                     "navigateInPlace": false
                   },
                   "statistics": {
-                    "skins": 50,
+                    "skins": 75,
                     "worlds": 0,
                     "textures": 0,
                     "behaviors": 0,
@@ -226,7 +226,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "Enjoy this cool REPO Skin Pack with 50 skins!",
+                "description": "Enjoy this cool REPO skin pack with 75 Semibots of different sizes and colors!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }

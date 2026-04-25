@@ -157,7 +157,7 @@
                     "navigateInPlace": false
                   },
                   "statistics": {
-                    "skins": 37,
+                    "skins": 73,
                     "worlds": 0,
                     "textures": 0,
                     "behaviors": 0,
@@ -226,7 +226,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "Enjoy this cool Skin Pack with all colors of players now in 5D!",
+                "description": "Enjoy this cool REPO skin pack with Semibots of different sizes and colors, now in \"5D\"!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }
