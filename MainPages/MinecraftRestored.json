@@ -354,6 +354,69 @@
                     "namedLinksToInfoMap": {}
                   },
                   {
+                    "id": "1ae848aa-d5c2-4c73-8671-3d6d43f6e776",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Legacy Skin Pack Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_b89ef5de-78ad-4a48-b8a5-f12065286e7d",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b89ef5de-78ad-4a48-b8a5-f12065286e7d",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "39fa1d65-b3ca-4726-b9e0-f3d2a404e5a4",
+                        "version": "4.13.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
                     "id": "afbbf5f0-875c-4627-a644-bc1dac1adbb1",
                     "contentType": "MarketplaceDurableCatalog_V1.2",
                     "title": "LEGO(R) Minecraft(TM) Dragon Slayer Restored",
@@ -795,7 +858,7 @@
                     "namedLinksToInfoMap": {}
                   }
                 ],
-                "totalItems": 10,
+                "totalItems": 11,
                 "type": "pagedItemListComp",
                 "$type": "PagedItemListComponent"
               }
