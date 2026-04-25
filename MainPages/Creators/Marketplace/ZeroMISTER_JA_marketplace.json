@@ -63,6 +63,26 @@
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
+              },
+              {
+                "text": {
+                  "value": " Discord: @zeromrja\n Minecraft Profile: bedrockviewer.com/profile/zeromrja\n Website: zeromrja.github.io\n X: @zeromrja\n YouTube: youtube.com/@źéŕóḿŕj́á\r\n ",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "textComponent",
+                "$type": "TextComponent"
               }
             ]
           },
