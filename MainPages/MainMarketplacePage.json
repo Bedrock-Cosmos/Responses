@@ -320,8 +320,14 @@
                       {
                         "tag": "screenshot",
                         "type": "Screenshot",
-                        "url": "https://bedrock-cosmos.app/thumbnails/ActionsAndStuffRestored_thumbnail.jpg",
-                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ActionsAndStuffRestored_thumbnail.jpg"
+                        "url": "https://bedrock-cosmos.app/thumbnails/SkinPack2-ClassicRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack2-ClassicRestored_thumbnail.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg"
                       },
                       {
                         "tag": "screenshot",
@@ -332,14 +338,8 @@
                       {
                         "tag": "screenshot",
                         "type": "Screenshot",
-                        "url": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg",
-                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg"
-                      },
-                      {
-                        "tag": "screenshot",
-                        "type": "Screenshot",
-                        "url": "https://bedrock-cosmos.app/thumbnails/2ndBirthday-SonyRestored_thumbnail.jpg",
-                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/2ndBirthday-SonyRestored_thumbnail.jpg"
+                        "url": "https://bedrock-cosmos.app/thumbnails/ActionsAndStuffRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ActionsAndStuffRestored_thumbnail.jpg"
                       }
                     ],
                     "contents": [],
