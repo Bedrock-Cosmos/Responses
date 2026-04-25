@@ -83,7 +83,7 @@
                       "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg?width=800&height=450"
                     },
                     "price": {
-                      "listPrice": -1,
+                      "listPrice": 0,
                       "realmsInfo": {
                         "inRealmsPlus": false
                       },
@@ -108,7 +108,7 @@
                       "behaviors": 0,
                       "addOns": 0
                     },
-                    "flags": [],
+                    "flags": ["New"],
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [
@@ -140,7 +140,7 @@
                       "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/DetectiveConan_thumbnail.jpg?width=800&height=450"
                     },
                     "price": {
-                      "listPrice": -1,
+                      "listPrice": 0,
                       "realmsInfo": {
                         "inRealmsPlus": false
                       },
@@ -165,7 +165,7 @@
                       "behaviors": 0,
                       "addOns": 0
                     },
-                    "flags": [],
+                    "flags": ["New"],
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [
@@ -197,7 +197,7 @@
                       "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Doraemon_thumbnail.jpg?width=800&height=450"
                     },
                     "price": {
-                      "listPrice": -1,
+                      "listPrice": 0,
                       "realmsInfo": {
                         "inRealmsPlus": false
                       },
@@ -222,7 +222,7 @@
                       "behaviors": 0,
                       "addOns": 0
                     },
-                    "flags": [],
+                    "flags": ["New"],
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [
@@ -254,7 +254,7 @@
                       "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/HotelTransylvania_thumbnail.jpg?width=800&height=450"
                     },
                     "price": {
-                      "listPrice": -1,
+                      "listPrice": 0,
                       "realmsInfo": {
                         "inRealmsPlus": false
                       },
@@ -279,7 +279,7 @@
                       "behaviors": 0,
                       "addOns": 0
                     },
-                    "flags": [],
+                    "flags": ["New"],
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [
@@ -311,7 +311,7 @@
                       "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Evangelion_thumbnail.jpg?width=800&height=450"
                     },
                     "price": {
-                      "listPrice": -1,
+                      "listPrice": 0,
                       "realmsInfo": {
                         "inRealmsPlus": false
                       },
@@ -336,7 +336,7 @@
                       "behaviors": 0,
                       "addOns": 0
                     },
-                    "flags": [],
+                    "flags": ["New"],
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [

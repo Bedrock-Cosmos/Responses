@@ -107,7 +107,7 @@
                       "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEHREPOSEMIBOTS_thumbnail.jpg?width=800&height=450"
                     },
                     "price": {
-                      "listPrice": -1,
+                      "listPrice": 0,
                       "realmsInfo": {
                         "inRealmsPlus": false
                       },
@@ -132,7 +132,7 @@
                       "behaviors": 0,
                       "addOns": 0
                     },
-                    "flags": [],
+                    "flags": ["New"],
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [
@@ -163,7 +163,7 @@
                       "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEHREPOSEMIBOTS5D_thumbnail.jpg?width=800&height=450"
                     },
                     "price": {
-                      "listPrice": -1,
+                      "listPrice": 0,
                       "realmsInfo": {
                         "inRealmsPlus": false
                       },
@@ -188,7 +188,7 @@
                       "behaviors": 0,
                       "addOns": 0
                     },
-                    "flags": [],
+                    "flags": ["New"],
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [
