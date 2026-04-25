@@ -930,6 +930,10 @@
     "response": "SkinPacks\\Creators\\BionicBen\\Binary_6thBirthdaySkinPack.json"
   },
   {
+    "uuid": "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+    "response": "SkinPacks\\Creators\\BionicBen\\Binary_Deadmau5SkinPack.json"
+  },
+  {
     "uuid": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
     "response": "SkinPacks\\Creators\\BionicBen\\Binary_BionicBenSkinPack.json"
   },
@@ -952,6 +956,22 @@
   {
     "uuid": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
     "response": "SkinPacks\\Creators\\Exports\\Binary_EMC4.json"
+  },
+  {
+    "uuid": "a2a191a7-ad0d-4802-a990-975538c7489f",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC5.json"
+  },
+  {
+    "uuid": "7a92c69c-d1c8-4c00-b3a2-cd9c7e650148",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC6.json"
+  },
+  {
+    "uuid": "dfc5ace1-fd1c-414c-8b1f-ec34e1bf7ba8",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC7.json"
+  },
+  {
+    "uuid": "0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC8.json"
   },
   {
     "uuid": "17c404b3-3979-49a3-93cb-3f53e2e33eb6",
