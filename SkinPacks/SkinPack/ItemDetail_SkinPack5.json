@@ -255,7 +255,10 @@
                 "playerCounts": [],
                 "tags": [],
                 "headerText": "Legacy Vault Port (Xbox 360 + Xbox One)",
-                "headerIcon": { "type": "Unknown", "localPath": "textures/ui/infobulb" },
+                "headerIcon": {
+                  "type": "Unknown",
+                  "localPath": "textures/ui/infobulb"
+                },
                 "warnings": [],
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"

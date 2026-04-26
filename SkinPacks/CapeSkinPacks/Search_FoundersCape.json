@@ -30,13 +30,28 @@
         },
         "Keywords": {
           "en-US": {
-            "Values": ["Exploration", "Cape", "Character Customization", "Survival"]
+            "Values": [
+              "Exploration",
+              "Cape",
+              "Character Customization",
+              "Survival"
+            ]
           },
           "NEUTRAL": {
-            "Values": ["Exploration", "Cape", "Character Customization", "Survival"]
+            "Values": [
+              "Exploration",
+              "Cape",
+              "Character Customization",
+              "Survival"
+            ]
           },
           "neutral": {
-            "Values": ["Exploration", "Cape", "Character Customization", "Survival"]
+            "Values": [
+              "Exploration",
+              "Cape",
+              "Character Customization",
+              "Survival"
+            ]
           }
         },
         "ContentType": "MarketplaceDurableCatalog_V1.2",

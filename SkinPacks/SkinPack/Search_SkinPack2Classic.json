@@ -35,28 +35,13 @@
         },
         "Keywords": {
           "en-US": {
-            "Values": [
-              "Survival",
-              "Skin",
-              "Classic",
-              "Old School"
-            ]
+            "Values": ["Survival", "Skin", "Classic", "Old School"]
           },
           "NEUTRAL": {
-            "Values": [
-              "Survival",
-              "Skin",
-              "Classic",
-              "Old School"
-            ]
+            "Values": ["Survival", "Skin", "Classic", "Old School"]
           },
           "neutral": {
-            "Values": [
-              "Survival",
-              "Skin",
-              "Classic",
-              "Old School"
-            ]
+            "Values": ["Survival", "Skin", "Classic", "Old School"]
           }
         },
         "ContentType": "MarketplaceDurableCatalog_V1.2",

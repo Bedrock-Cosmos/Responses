@@ -37,9 +37,7 @@
           "TypeString": "master_player_account"
         },
         "IsStackable": false,
-        "Platforms": [
-          "xboxone.store"
-        ],
+        "Platforms": ["xboxone.store"],
         "Tags": [
           "80c85890-dad7-4d3a-b2ef-60071327b7cf",
           "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",

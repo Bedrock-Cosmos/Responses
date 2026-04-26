@@ -19,9 +19,11 @@
         "originalCreatorId": "2535448579972708",
         "purchasable": false,
         "packIdentity": [
-          { "type": "skinpack", 
-          "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88", 
-          "version": "2.26.2026" }
+          {
+            "type": "skinpack",
+            "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88",
+            "version": "2.26.2026"
+          }
         ],
         "skinPack": { "count": 1 }
       }

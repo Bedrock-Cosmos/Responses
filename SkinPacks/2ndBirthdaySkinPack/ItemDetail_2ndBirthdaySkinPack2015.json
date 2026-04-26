@@ -246,7 +246,10 @@
                 "playerCounts": [],
                 "tags": [],
                 "headerText": "Cosmos Fixes",
-                "headerIcon": { "type": "Unknown", "localPath": "textures/ui/infobulb" },
+                "headerIcon": {
+                  "type": "Unknown",
+                  "localPath": "textures/ui/infobulb"
+                },
                 "warnings": [],
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"

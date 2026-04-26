@@ -27,9 +27,21 @@
         "originalCreatorId": "2535448579972708",
         "purchasable": true,
         "packIdentity": [
-          { "type": "skinpack", "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77", "version": "3.3.26" },
-          { "type": "resourcepack", "uuid": "98330b0a-2c79-4d30-b9c8-136098340edc", "version": "1.0.79" },
-          { "type": "worldtemplate", "uuid": "e8ad3b41-ddd3-4247-907b-090419cdb7ca", "version": "1.0.79" }
+          {
+            "type": "skinpack",
+            "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77",
+            "version": "3.3.26"
+          },
+          {
+            "type": "resourcepack",
+            "uuid": "98330b0a-2c79-4d30-b9c8-136098340edc",
+            "version": "1.0.79"
+          },
+          {
+            "type": "worldtemplate",
+            "uuid": "e8ad3b41-ddd3-4247-907b-090419cdb7ca",
+            "version": "1.0.79"
+          }
         ]
       }
     }

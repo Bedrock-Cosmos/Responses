@@ -13,10 +13,22 @@
           {
             "controlId": "Layout",
             "components": [
-              { "type": "personaOfferInteractionComp", "$type": "PersonaOfferInteractionComponent" },
-              { "type": "appearanceInteractionComp", "$type": "AppearanceInteractionComponent" },
-              { "type": "openColorPickerComp", "$type": "OpenColorPickerComponent" },
-              { "type": "openExpandedAppearanceViewComp", "$type": "OpenExpandedAppearanceViewComponent" },
+              {
+                "type": "personaOfferInteractionComp",
+                "$type": "PersonaOfferInteractionComponent"
+              },
+              {
+                "type": "appearanceInteractionComp",
+                "$type": "AppearanceInteractionComponent"
+              },
+              {
+                "type": "openColorPickerComp",
+                "$type": "OpenColorPickerComponent"
+              },
+              {
+                "type": "openExpandedAppearanceViewComp",
+                "$type": "OpenExpandedAppearanceViewComponent"
+              },
               {
                 "linksToInfo": {
                   "linksTo": "MultiItemPage_DressingRoomCoinScreen",
@@ -3954,7 +3966,10 @@
                 "type": "pagedItemListComp",
                 "$type": "PagedItemListComponent"
               },
-              { "type": "dispPreviewPieceComp", "$type": "DisplayPreviewedPieceOfferComponent" }
+              {
+                "type": "dispPreviewPieceComp",
+                "$type": "DisplayPreviewedPieceOfferComponent"
+              }
             ],
             "telemetryId": "Minecraft Earth Items"
           },
@@ -4902,7 +4917,10 @@
                 "type": "pagedItemListComp",
                 "$type": "PagedItemListComponent"
               },
-              { "type": "dispPreviewPieceComp", "$type": "DisplayPreviewedPieceOfferComponent" }
+              {
+                "type": "dispPreviewPieceComp",
+                "$type": "DisplayPreviewedPieceOfferComponent"
+              }
             ],
             "telemetryId": "Minecraft Dungeons Items"
           },

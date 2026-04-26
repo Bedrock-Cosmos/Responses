@@ -210,11 +210,7 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [
-                      1,
-                      1,
-                      1
-                    ],
+                    "textColor": [1, 1, 1],
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
@@ -259,11 +255,7 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [
-                      1,
-                      1,
-                      1
-                    ],
+                    "textColor": [1, 1, 1],
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,

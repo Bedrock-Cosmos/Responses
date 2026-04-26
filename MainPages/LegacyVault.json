@@ -170,7 +170,10 @@
                   "navigateInPlace": false
                 },
                 "isVisible": true,
-                "topBarIcon": { "type": "SidebarNavIcon", "localPath": "textures/ui/sidebar_icons/my_content_large" },
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
                 "inventoryTitle": {
                   "value": "store.myLibrary",
                   "style": {

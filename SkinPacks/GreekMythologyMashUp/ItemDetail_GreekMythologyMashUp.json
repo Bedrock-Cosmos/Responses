@@ -94,7 +94,10 @@
                   "navigateInPlace": false
                 },
                 "isVisible": true,
-                "topBarIcon": { "type": "SidebarNavIcon", "localPath": "textures/ui/sidebar_icons/my_content_large" },
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
                 "inventoryTitle": {
                   "value": "store.myLibrary",
                   "style": {
@@ -147,14 +150,32 @@
                     "screenTitle": { "value": "Minecraft", "replacements": [] },
                     "navigateInPlace": false
                   },
-                  "statistics": { "skins": 39, "worlds": 1, "textures": 1, "behaviors": 0, "addOns": 0 },
+                  "statistics": {
+                    "skins": 39,
+                    "worlds": 1,
+                    "textures": 1,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
                   "flags": [],
                   "ownership": "NotOwned",
                   "packType": "MashUp",
                   "packIdentity": [
-                    { "type": "skinpack", "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77", "version": "3.3.26" },
-                    { "type": "resourcepack", "uuid": "98330b0a-2c79-4d30-b9c8-136098340edc", "version": "1.0.79" },
-                    { "type": "worldtemplate", "uuid": "e8ad3b41-ddd3-4247-907b-090419cdb7ca", "version": "1.0.79" }
+                    {
+                      "type": "skinpack",
+                      "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77",
+                      "version": "3.3.26"
+                    },
+                    {
+                      "type": "resourcepack",
+                      "uuid": "98330b0a-2c79-4d30-b9c8-136098340edc",
+                      "version": "1.0.79"
+                    },
+                    {
+                      "type": "worldtemplate",
+                      "uuid": "e8ad3b41-ddd3-4247-907b-090419cdb7ca",
+                      "version": "1.0.79"
+                    }
                   ],
                   "tags": [
                     {

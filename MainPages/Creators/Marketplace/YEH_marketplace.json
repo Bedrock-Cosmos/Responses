@@ -50,11 +50,7 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [
-                      1.0,
-                      1.0,
-                      1.0
-                    ],
+                    "textColor": [1.0, 1.0, 1.0],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,

@@ -13,11 +13,26 @@
           {
             "controlId": "Layout",
             "components": [
-              { "type": "personaOfferInteractionComp", "$type": "PersonaOfferInteractionComponent" },
-              { "type": "appearanceInteractionComp", "$type": "AppearanceInteractionComponent" },
-              { "type": "openColorPickerComp", "$type": "OpenColorPickerComponent" },
-              { "type": "openExpandedAppearanceViewComp", "$type": "OpenExpandedAppearanceViewComponent" },
-              { "type": "dispPreviewPieceComp", "$type": "DisplayPreviewedPieceOfferComponent" },
+              {
+                "type": "personaOfferInteractionComp",
+                "$type": "PersonaOfferInteractionComponent"
+              },
+              {
+                "type": "appearanceInteractionComp",
+                "$type": "AppearanceInteractionComponent"
+              },
+              {
+                "type": "openColorPickerComp",
+                "$type": "OpenColorPickerComponent"
+              },
+              {
+                "type": "openExpandedAppearanceViewComp",
+                "$type": "OpenExpandedAppearanceViewComponent"
+              },
+              {
+                "type": "dispPreviewPieceComp",
+                "$type": "DisplayPreviewedPieceOfferComponent"
+              },
               { "type": "sideSelectionComp", "$type": "PersonaSideSelection" },
               {
                 "linksToInfo": {
@@ -371,7 +386,10 @@
                 "type": "pagedItemListComp",
                 "$type": "PagedItemListComponent"
               },
-              { "type": "dispPreviewPieceComp", "$type": "DisplayPreviewedPieceOfferComponent" }
+              {
+                "type": "dispPreviewPieceComp",
+                "$type": "DisplayPreviewedPieceOfferComponent"
+              }
             ],
             "telemetryId": "Tiny Take Over Items"
           },
@@ -384,12 +402,20 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/body" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/body"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "isExpanded": false, "dropdownId": 0, "type": "dropdownComp", "$type": "DropdownComponent" }
+              {
+                "isExpanded": false,
+                "dropdownId": 0,
+                "type": "dropdownComp",
+                "$type": "DropdownComponent"
+              }
             ]
           },
           {
@@ -401,12 +427,19 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/skin_texture" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/skin_texture"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 0,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Bases",
@@ -428,12 +461,19 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/hair" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/hair"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 0,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Hairs",
@@ -455,12 +495,19 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/eyes" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/eyes"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 0,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Eyes",
@@ -482,12 +529,19 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/mouth" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/mouth"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 0,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Mouths",
@@ -504,17 +558,27 @@
             "controlId": "DarkRedirectButton",
             "components": [
               {
-                "text": { "value": "dr.categories.facial_hair", "replacements": [] },
+                "text": {
+                  "value": "dr.categories.facial_hair",
+                  "replacements": []
+                },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/facial_hair" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/facial_hair"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 0,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_FacialHairs",
@@ -536,12 +600,19 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/arms" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/arms"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 0,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Arms",
@@ -563,12 +634,19 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/legs" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/legs"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 0,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Legs",
@@ -590,12 +668,19 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/body_size" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/body_size"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 0, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 0,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Size",
@@ -617,12 +702,20 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/style" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/style"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "isExpanded": false, "dropdownId": 1, "type": "dropdownComp", "$type": "DropdownComponent" }
+              {
+                "isExpanded": false,
+                "dropdownId": 1,
+                "type": "dropdownComp",
+                "$type": "DropdownComponent"
+              }
             ]
           },
           {
@@ -634,12 +727,19 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/tops" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/tops"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 1,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Tops",
@@ -661,12 +761,19 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/bottoms" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/bottoms"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 1,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Bottoms",
@@ -683,17 +790,27 @@
             "controlId": "DarkRedirectButton",
             "components": [
               {
-                "text": { "value": "dr.categories.outerwear", "replacements": [] },
+                "text": {
+                  "value": "dr.categories.outerwear",
+                  "replacements": []
+                },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/outerwear" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/outerwear"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 1,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Outerwears",
@@ -710,17 +827,27 @@
             "controlId": "DarkRedirectButton",
             "components": [
               {
-                "text": { "value": "dr.categories.headwear", "replacements": [] },
+                "text": {
+                  "value": "dr.categories.headwear",
+                  "replacements": []
+                },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/head" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/head"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 1,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Headwears",
@@ -742,12 +869,19 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/hands" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/hands"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 1,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Gloves",
@@ -764,17 +898,27 @@
             "controlId": "DarkRedirectButton",
             "components": [
               {
-                "text": { "value": "dr.categories.footwear", "replacements": [] },
+                "text": {
+                  "value": "dr.categories.footwear",
+                  "replacements": []
+                },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/feet" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/feet"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 1,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_Footwears",
@@ -791,17 +935,27 @@
             "controlId": "DarkRedirectButton",
             "components": [
               {
-                "text": { "value": "dr.categories.face_item", "replacements": [] },
+                "text": {
+                  "value": "dr.categories.face_item",
+                  "replacements": []
+                },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/face_accessory" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/face_accessory"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 1,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_FaceItems",
@@ -818,17 +972,27 @@
             "controlId": "DarkRedirectButton",
             "components": [
               {
-                "text": { "value": "dr.categories.back_item", "replacements": [] },
+                "text": {
+                  "value": "dr.categories.back_item",
+                  "replacements": []
+                },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/subcategory_icons/back_accessory" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/subcategory_icons/back_accessory"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"
               },
-              { "dropdownId": 1, "type": "dropdownOptionComp", "$type": "DropdownOptionComponent" },
+              {
+                "dropdownId": 1,
+                "type": "dropdownOptionComp",
+                "$type": "DropdownOptionComponent"
+              },
               {
                 "linksTo": {
                   "linksTo": "DressingRoom_BackItems",
@@ -850,7 +1014,10 @@
                 "$type": "HeaderComponent"
               },
               {
-                "textureImage": { "type": "Texture", "localPath": "textures/ui/sidebar_icons/star" },
+                "textureImage": {
+                  "type": "Texture",
+                  "localPath": "textures/ui/sidebar_icons/star"
+                },
                 "textureFilterType": "InUserPackages",
                 "type": "textureComp",
                 "$type": "TextureComponent"

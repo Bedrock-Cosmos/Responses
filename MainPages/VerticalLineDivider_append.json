@@ -13,12 +13,7 @@
           "showOutline": false,
           "indent": 0,
           "buttonWidth": 0,
-          "color": [
-            0.70196,
-            0.8392,
-            0.8588,
-            0.2
-          ],
+          "color": [0.70196, 0.8392, 0.8588, 0.2],
           "offerControlIdType": "None",
           "outlineColor": []
         }

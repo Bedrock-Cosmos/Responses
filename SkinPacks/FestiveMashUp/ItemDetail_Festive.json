@@ -162,7 +162,10 @@
                 "playerCounts": [],
                 "tags": [],
                 "headerText": "Legacy Vault Port",
-                "headerIcon": { "type": "Unknown", "localPath": "textures/ui/infobulb" },
+                "headerIcon": {
+                  "type": "Unknown",
+                  "localPath": "textures/ui/infobulb"
+                },
                 "warnings": [],
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"

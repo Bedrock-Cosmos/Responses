@@ -15,12 +15,7 @@
           "descriptionCoin": {
             "value": "Coin Description",
             "style": {
-              "highlightColor": [
-                0.94,
-                0.81,
-                0.09,
-                1
-              ],
+              "highlightColor": [0.94, 0.81, 0.09, 1],
               "alignment": "Center",
               "textColor": [],
               "font": "default",
@@ -107,19 +102,9 @@
             {
               "value": "         View Bedrock Cosmos Packs",
               "style": {
-                "highlightColor": [
-                  0.94,
-                  0.81,
-                  0.09,
-                  1
-                ],
+                "highlightColor": [0.94, 0.81, 0.09, 1],
                 "alignment": "Left",
-                "textColor": [
-                  0.93,
-                  0.8,
-                  0.09,
-                  1
-                ],
+                "textColor": [0.93, 0.8, 0.09, 1],
                 "font": "MinecraftTen",
                 "showBackground": false,
                 "showOutline": false,

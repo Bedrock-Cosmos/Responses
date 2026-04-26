@@ -114,7 +114,10 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
@@ -163,7 +166,10 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
@@ -212,7 +218,10 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
@@ -261,7 +270,10 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
@@ -310,7 +322,10 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
@@ -359,7 +374,10 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
@@ -408,7 +426,10 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
@@ -457,7 +478,10 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
@@ -506,7 +530,10 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
@@ -555,7 +582,10 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,

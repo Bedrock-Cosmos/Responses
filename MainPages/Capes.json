@@ -94,11 +94,7 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [
-                      1,
-                      1,
-                      1
-                    ],
+                    "textColor": [1, 1, 1],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -107,9 +103,7 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": [
-                    "dr.categories.capes"
-                  ]
+                  "replacements": ["dr.categories.capes"]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -1191,12 +1185,7 @@
                     "showOutline": false,
                     "indent": 0,
                     "buttonWidth": 0,
-                    "color": [
-                      0.70196,
-                      0.8392,
-                      0.8588,
-                      0.2
-                    ],
+                    "color": [0.70196, 0.8392, 0.8588, 0.2],
                     "offerControlIdType": "None"
                   }
                 },
@@ -1214,11 +1203,7 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [
-                      1,
-                      1,
-                      1
-                    ],
+                    "textColor": [1, 1, 1],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -1227,9 +1212,7 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": [
-                    "dr.categories.capes"
-                  ]
+                  "replacements": ["dr.categories.capes"]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -3584,12 +3567,7 @@
                     "showOutline": false,
                     "indent": 0,
                     "buttonWidth": 0,
-                    "color": [
-                      0.70196,
-                      0.8392,
-                      0.8588,
-                      0.2
-                    ],
+                    "color": [0.70196, 0.8392, 0.8588, 0.2],
                     "offerControlIdType": "None"
                   }
                 },
@@ -3607,11 +3585,7 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [
-                      1,
-                      1,
-                      1
-                    ],
+                    "textColor": [1, 1, 1],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -3620,9 +3594,7 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": [
-                    "dr.categories.capes"
-                  ]
+                  "replacements": ["dr.categories.capes"]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -5110,12 +5082,7 @@
                     "showOutline": false,
                     "indent": 0,
                     "buttonWidth": 0,
-                    "color": [
-                      0.243,
-                      0.776,
-                      0.839,
-                      1
-                    ],
+                    "color": [0.243, 0.776, 0.839, 1],
                     "offerControlIdType": "None"
                   }
                 },
@@ -5133,12 +5100,7 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [
-                      0.098,
-                      0.247,
-                      0.608,
-                      1
-                    ],
+                    "textColor": [0.098, 0.247, 0.608, 1],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -5163,12 +5125,7 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [
-                      0.243,
-                      0.776,
-                      0.839,
-                      1
-                    ],
+                    "textColor": [0.243, 0.776, 0.839, 1],
                     "font": "SmoothWithEmoticons",
                     "showBackground": false,
                     "showOutline": false,
@@ -5303,12 +5260,7 @@
                     "showOutline": false,
                     "indent": 0,
                     "buttonWidth": 0,
-                    "color": [
-                      0.243,
-                      0.776,
-                      0.839,
-                      1
-                    ],
+                    "color": [0.243, 0.776, 0.839, 1],
                     "offerControlIdType": "None"
                   }
                 },
@@ -5326,11 +5278,7 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [
-                      1,
-                      1,
-                      1
-                    ],
+                    "textColor": [1, 1, 1],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -5339,9 +5287,7 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": [
-                    "dr.categories.capes"
-                  ]
+                  "replacements": ["dr.categories.capes"]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"

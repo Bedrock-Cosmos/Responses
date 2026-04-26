@@ -94,7 +94,10 @@
                   "navigateInPlace": false
                 },
                 "isVisible": true,
-                "topBarIcon": { "type": "SidebarNavIcon", "localPath": "textures/ui/sidebar_icons/my_content_large" },
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
                 "inventoryTitle": {
                   "value": "store.myLibrary",
                   "style": {
@@ -144,15 +147,28 @@
                     "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
-                    "screenTitle": { "value": "Spark Universe", "replacements": [] },
+                    "screenTitle": {
+                      "value": "Spark Universe",
+                      "replacements": []
+                    },
                     "navigateInPlace": false
                   },
-                  "statistics": { "skins": 12, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+                  "statistics": {
+                    "skins": 12,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
                   "flags": [],
                   "ownership": "Purchased",
                   "packType": "SkinPack",
                   "packIdentity": [
-                    { "type": "skinpack", "uuid": "c57e2707-5015-4c19-8623-2d059956789c", "version": "1.0.10" }
+                    {
+                      "type": "skinpack",
+                      "uuid": "c57e2707-5015-4c19-8623-2d059956789c",
+                      "version": "1.0.10"
+                    }
                   ],
                   "tags": [
                     {

@@ -146,11 +146,21 @@
                     "contentType": "MarketplaceDurableCatalog_V1.2",
                     "title": "Actions & Stuff 1.9.1",
                     "creatorName": "Oreville Studios",
-                    "statistics": { "skins": 20, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+                    "statistics": {
+                      "skins": 20,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [
-                      { "type": "skinpack", "uuid": "218d7771-3b76-4bdf-a46e-5f76af23353a", "version": "3.1.26" }
+                      {
+                        "type": "skinpack",
+                        "uuid": "218d7771-3b76-4bdf-a46e-5f76af23353a",
+                        "version": "3.1.26"
+                      }
                     ],
                     "namedLinksToInfoMap": {
                       "dr.expanded_skins": {
