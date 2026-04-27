@@ -3,11 +3,11 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "0e377825-9488-4496-b75a-21de4b008b0a",
+      "Id": "1ef8a9ed-7bae-432c-bd86-953269ca0531",
       "Contents": [
         {
-          "Id": "8a0ade43-c2b4-44b1-abcb-58de6a7ecc45",
-          "Url": "https://capes.bedrock-cosmos.app/zips/TinyTakeoverCape.zip",
+          "Id": "45bef993-a02c-4b19-8320-25f639fa0a8a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/CreakingCape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "3ddf71f3-8eb2-4491-9b48-cd1c8bf6f465",
+            "uuid": "6dd88cec-2d57-491f-ba4d-d9c2f41798e4",
             "version": "1.0.0"
           }
         ]

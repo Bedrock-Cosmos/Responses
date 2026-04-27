@@ -397,6 +397,10 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_ZeroMISTER_JA_Marketplace",
     "response": "MainPages\\Creators\\Marketplace\\ZeroMISTER_JA_Marketplace.json"
   },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!Essential",
+    "response": "MainPages\\Creators\\Persona\\Essential_Persona.json"
+  },
   // Creator Skin Packs
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/1dafe8e5-aacc-4518-98ed-f6ce66bfba80",

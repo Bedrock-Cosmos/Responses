@@ -753,7 +753,71 @@
   },
   {
     "uuid": "0e377825-9488-4496-b75a-21de4b008b0a",
-    "response": "Persona\\CustomCapes\\TinyTakeoverCape.json"
+    "response": "Persona\\CustomCapes\\Essential\\TinyTakeoverCape.json"
+  },
+  {
+    "uuid": "6344711f-031f-4a4b-a186-1a0293bef194",
+    "response": "Persona\\CustomCapes\\Essential\\WildflowerCape.json"
+  },
+  {
+    "uuid": "852bea8b-3645-4ef8-959b-b0dd23285e24",
+    "response": "Persona\\CustomCapes\\Essential\\CubeCraftCape.json"
+  },
+  {
+    "uuid": "cae495c4-7242-4504-a107-e4566fb8dc0d",
+    "response": "Persona\\CustomCapes\\Essential\\TrialCape.json"
+  },
+  {
+    "uuid": "8cd0c142-1562-4212-9c27-c38f2ef0f325",
+    "response": "Persona\\CustomCapes\\Essential\\EssentialDiscordCape.json"
+  },
+  {
+    "uuid": "c3ee626e-91a6-4a8b-8d49-fd0f6ab2ba65",
+    "response": "Persona\\CustomCapes\\Essential\\NautilusCape.json"
+  },
+  {
+    "uuid": "49b293c9-c0b7-4100-a760-17d213e9417e",
+    "response": "Persona\\CustomCapes\\Essential\\NautilusZombieCape.json"
+  },
+  {
+    "uuid": "8cd61655-67ca-42e8-bffa-84edfc68c3fb",
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCape.json"
+  },
+  {
+    "uuid": "2c018d95-d44d-4b6b-b8a1-7135411ef257",
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCapeExposed.json"
+  },
+  {
+    "uuid": "def17786-1e66-44ee-aace-6f7ce7037dc0",
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCapeWeathered.json"
+  },
+  {
+    "uuid": "1e20accc-ce9d-49ff-b9fd-88dff3f8ee98",
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCapeOxidized.json"
+  },
+  {
+    "uuid": "dee1ead7-6f6c-45d7-b647-5e733ef90a5b",
+    "response": "Persona\\CustomCapes\\Essential\\SkyCape.json"
+  },
+  {
+    "uuid": "2be802db-df1a-403c-a8e5-a83d09e6f539",
+    "response": "Persona\\CustomCapes\\Essential\\BlossomCape.json"
+  },
+  {
+    "uuid": "1ef8a9ed-7bae-432c-bd86-953269ca0531",
+    "response": "Persona\\CustomCapes\\Essential\\CreakingCape.json"
+  },
+  {
+    "uuid": "8fb07868-d2e7-4b06-84f8-fc38e4f6cd9a",
+    "response": "Persona\\CustomCapes\\Essential\\SnifferCape.json"
+  },
+  {
+    "uuid": "95a65048-d96d-4061-8c4c-8dfb3343ea6c",
+    "response": "Persona\\CustomCapes\\Essential\\PrideCape.json"
+  },
+  {
+    "uuid": "48d3ae91-5066-40f1-83f6-0a9d56166eff",
+    "response": "Persona\\CustomCapes\\Essential\\PrideCape2.json"
   },
   // Skin Packs
   {

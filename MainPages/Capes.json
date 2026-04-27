@@ -5018,8 +5018,8 @@
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/TinyTakeoverCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/TinyTakeoverCape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -5046,7 +5046,11 @@
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
                         "linkType": "external",
                         "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Essential Mod Capes",
+                          "replacements": []
+                        }
                       }
                     }
                   }
