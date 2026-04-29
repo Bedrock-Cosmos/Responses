@@ -362,7 +362,7 @@
                             "$type": "TextComponent"
                           }
                         ],
-                        "telemetryId": "1.0.7"
+                        "telemetryId": ""
                       }
                     ],
                     "type": "navigationTabEntryComp",
