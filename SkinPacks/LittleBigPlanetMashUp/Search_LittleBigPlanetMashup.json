@@ -24,44 +24,32 @@
           }
         ],
         "Title": {
-          "en-US": "LittleBigPlanet™ Mash-up",
           "NEUTRAL": "LittleBigPlanet™ Mash-up",
           "neutral": "LittleBigPlanet™ Mash-up"
         },
         "Description": {
-          "en-US": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4.",
           "NEUTRAL": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4.",
           "neutral": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4."
         },
         "Keywords": {
-          "en-US": {
-            "Values": [
-              "Survival",
-              "Open World",
-              "Exploration",
-              "Adventures",
-              "Cute",
-              "Surreal"
-            ]
-          },
           "NEUTRAL": {
             "Values": [
-              "Survival",
-              "Open World",
               "Exploration",
               "Adventures",
               "Cute",
-              "Surreal"
+              "Surreal",
+              "Survival",
+              "Open World"
             ]
           },
           "neutral": {
             "Values": [
-              "Survival",
-              "Open World",
               "Exploration",
               "Adventures",
               "Cute",
-              "Surreal"
+              "Surreal",
+              "Survival",
+              "Open World"
             ]
           }
         },
@@ -77,33 +65,36 @@
           "TypeString": "master_player_account"
         },
         "IsStackable": false,
-        "Platforms": ["b.store", "title.bedrockvanilla"],
+        "Platforms": [
+          "b.store",
+          "title.bedrockvanilla"
+        ],
         "Tags": [
           "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
           "0f2e08ee-8ef2-4521-b03d-9f89c907c70e",
           "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
           "1dde574b-2b4d-48e6-951e-d135093bcdc9",
+          "tag.exploration",
+          "tag.adventures",
+          "tag.cute",
+          "tag.surreal",
+          "1P",
           "mashup",
           "has_skinpack",
           "survival_spawn_world",
           "genre.survival",
           "subgenre.open_world",
-          "playercount.1-4",
-          "tag.exploration",
-          "tag.adventures",
-          "tag.cute",
-          "tag.surreal",
-          "1P"
+          "playercount.1-4"
         ],
         "CreationDate": "2019-10-29T18:49:24.369Z",
-        "LastModifiedDate": "2025-07-04T17:14:22.894Z",
+        "LastModifiedDate": "2026-03-31T15:17:33.379Z",
         "Contents": [],
         "Images": [
           {
-            "Id": "0d96b5b9-79ac-402b-a796-3bce90f12348",
+            "Id": "aa76e7af-907e-4241-a198-594105c6d062",
             "Tag": "Thumbnail",
             "Type": "Thumbnail",
-            "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg"
+            "Url": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg"
           }
         ],
         "ItemReferences": [
@@ -172,12 +163,12 @@
         },
         "Rating": {
           "Average": 4.3,
-          "TotalCount": 18670,
-          "Count5Star": 13923,
-          "Count4Star": 1394,
-          "Count3Star": 863,
-          "Count2Star": 367,
-          "Count1Star": 2123
+          "TotalCount": 18756,
+          "Count5Star": 13997,
+          "Count4Star": 1397,
+          "Count3Star": 862,
+          "Count2Star": 370,
+          "Count1Star": 2130
         },
         "DeepLinks": [],
         "DisplayProperties": {
@@ -195,12 +186,12 @@
             {
               "type": "resourcepack",
               "uuid": "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
-              "version": "1.0.73"
+              "version": "1.0.75"
             },
             {
               "type": "worldtemplate",
               "uuid": "1dde574b-2b4d-48e6-951e-d135093bcdc9",
-              "version": "1.0.73"
+              "version": "1.0.75"
             }
           ],
           "skinPack": {
@@ -237,7 +228,8 @@
             "uk-UA": "",
             "zh-CN": "",
             "zh-TW": ""
-          }
+          },
+          "hardwareMemoryTier": 0
         }
       }
     ],

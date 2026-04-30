@@ -43,8 +43,8 @@
                       "font": "MinecraftTen",
                       "showBackground": false,
                       "showOutline": false,
-                      "indent": 0,
-                      "buttonWidth": 0,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
                       "color": [],
                       "offerControlIdType": "None"
                     },
@@ -70,8 +70,8 @@
                       "font": "MinecraftTen",
                       "showBackground": false,
                       "showOutline": false,
-                      "indent": 0,
-                      "buttonWidth": 0,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
                       "color": [],
                       "offerControlIdType": "None"
                     },
@@ -94,12 +94,12 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1, 1, 1],
+                    "textColor": [1.0, 1.0, 1.0],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
@@ -1183,8 +1183,8 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [0.70196, 0.8392, 0.8588, 0.2],
                     "offerControlIdType": "None"
                   }
@@ -1203,12 +1203,12 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1, 1, 1],
+                    "textColor": [1.0, 1.0, 1.0],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
@@ -3565,8 +3565,8 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [0.70196, 0.8392, 0.8588, 0.2],
                     "offerControlIdType": "None"
                   }
@@ -3585,12 +3585,12 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1, 1, 1],
+                    "textColor": [1.0, 1.0, 1.0],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
@@ -5084,8 +5084,8 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [0.243, 0.776, 0.839, 1],
                     "offerControlIdType": "None"
                   }
@@ -5108,8 +5108,8 @@
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
@@ -5133,8 +5133,8 @@
                     "font": "SmoothWithEmoticons",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [],
                     "offerControlIdType": "None"
                   }
@@ -5262,8 +5262,8 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [0.243, 0.776, 0.839, 1],
                     "offerControlIdType": "None"
                   }
@@ -5282,12 +5282,12 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1, 1, 1],
+                    "textColor": [1.0, 1.0, 1.0],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
