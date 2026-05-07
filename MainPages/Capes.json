@@ -43,8 +43,8 @@
                       "font": "MinecraftTen",
                       "showBackground": false,
                       "showOutline": false,
-                      "indent": 0.0,
-                      "buttonWidth": 0.0,
+                      "indent": 0,
+                      "buttonWidth": 0,
                       "color": [],
                       "offerControlIdType": "None"
                     },
@@ -70,8 +70,8 @@
                       "font": "MinecraftTen",
                       "showBackground": false,
                       "showOutline": false,
-                      "indent": 0.0,
-                      "buttonWidth": 0.0,
+                      "indent": 0,
+                      "buttonWidth": 0,
                       "color": [],
                       "offerControlIdType": "None"
                     },
@@ -94,16 +94,22 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1,
+                      1,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -309,6 +315,86 @@
                     }
                   },
                   {
+                    "id": "5ebb1117-0c01-4b0d-b7b0-7c312e11b952",
+                    "contentType": "PersonaDurable",
+                    "title": "Crafter Cape",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/Crafter_cape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Crafter_cape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "2e155d8d-d3af-4a45-9fb2-1429cdac1275",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2025-10-25T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "fadaddbd-da2a-4d90-b81a-ba1484c1b872",
+                    "contentType": "PersonaDurable",
+                    "title": "Crafter (Upside Down) Cape",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CrafterUpsideDown_cape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CrafterUpsideDown_cape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "8af1df2a-87e0-4379-8516-a2cb73dd5277",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2025-10-25T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "76bb8cb2-f246-4b17-8cdd-37bfa62df2bd",
                     "contentType": "PersonaDurable",
                     "title": "Follower's Cape",
@@ -449,56 +535,6 @@
                       }
                     ],
                     "startDate": "2025-02-11T01:00:00Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "7b59f6ad-d9aa-4b12-baf3-bd61ada29970",
-                    "contentType": "PersonaDurable",
-                    "title": "MC Experience Cape",
-                    "creatorName": "Minecraft",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5528da8b-8328-40fd-b666-40f5a64d5c4c/cape_lbe_Thumbnail_0.png",
-                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/5528da8b-8328-40fd-b666-40f5a64d5c4c/cape_lbe_Thumbnail_0.png?width=800&height=450"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
-                    "flags": [],
-                    "pieceType": "persona_capes",
-                    "rarity": "legendary",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "efd2b594-49bb-48b9-b9f2-9b0ac2ef3af4",
-                        "version": "1.1.0"
-                      }
-                    ],
-                    "images": [
-                      {
-                        "tag": "Thumbnail",
-                        "type": "Thumbnail",
-                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5528da8b-8328-40fd-b666-40f5a64d5c4c/cape_lbe_Thumbnail_0.png",
-                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/5528da8b-8328-40fd-b666-40f5a64d5c4c/cape_lbe_Thumbnail_0.png?width=800&height=450"
-                      }
-                    ],
-                    "startDate": "2024-10-18T15:00:00Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -699,6 +735,46 @@
                       }
                     ],
                     "startDate": "2022-01-18T18:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "2c632742-483a-43f2-90d8-1ab8e119ea92",
+                    "contentType": "PersonaDurable",
+                    "title": "Moonlight Trail Cape",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/MoonlightTrailCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MoonlightTrailCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "a8f8ea56-faea-4de0-898c-21e7f4ff84c1",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-05-07T03:16:52Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -963,6 +1039,56 @@
                     }
                   },
                   {
+                    "id": "7b59f6ad-d9aa-4b12-baf3-bd61ada29970",
+                    "contentType": "PersonaDurable",
+                    "title": "Villager Rescue Cape",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5528da8b-8328-40fd-b666-40f5a64d5c4c/cape_lbe_Thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/5528da8b-8328-40fd-b666-40f5a64d5c4c/cape_lbe_Thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "flags": [],
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "efd2b594-49bb-48b9-b9f2-9b0ac2ef3af4",
+                        "version": "1.1.0"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5528da8b-8328-40fd-b666-40f5a64d5c4c/cape_lbe_Thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/5528da8b-8328-40fd-b666-40f5a64d5c4c/cape_lbe_Thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "startDate": "2024-10-18T15:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "d323193d-0897-4b95-9bf4-4fdb7905fffb",
                     "contentType": "PersonaDurable",
                     "title": "Yearn Cape",
@@ -1103,9 +1229,14 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [0.70196, 0.8392, 0.8588, 0.2],
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -1123,16 +1254,22 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1,
+                      1,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -3485,9 +3622,14 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [0.70196, 0.8392, 0.8588, 0.2],
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -3501,20 +3643,26 @@
             "components": [
               {
                 "text": {
-                  "value": "Custom Capes (32)",
+                  "value": "Custom Capes (33)",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1,
+                      1,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -4581,7 +4729,7 @@
                     "id": "8d59e86b-138c-4308-8ccc-7f1f26695b03",
                     "contentType": "PersonaDurable",
                     "title": "Paper Cape",
-                    "creatorName": "RanchyCeaser",
+                    "creatorName": "Majimellow",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -4625,7 +4773,7 @@
                     "id": "7ef3e8b3-50a6-4f94-9de3-9c50a011a7be",
                     "contentType": "PersonaDurable",
                     "title": "Phantom Wings Cape",
-                    "creatorName": "RanchyCeaser",
+                    "creatorName": "Majimellow",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -4933,13 +5081,13 @@
                     "id": "0e377825-9488-4496-b75a-21de4b008b0a",
                     "contentType": "PersonaDurable",
                     "title": "Tiny Takeover Cape",
-                    "description": "\u00a7",
+                    "description": "§",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/TinyTakeoverCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/TinyTakeoverCape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -4966,7 +5114,11 @@
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
                         "linkType": "external",
                         "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Essential Mod Capes",
+                          "replacements": []
+                        }
                       }
                     }
                   }
@@ -5000,9 +5152,14 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [0.243, 0.776, 0.839, 1.0],
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [
+                      0.243,
+                      0.776,
+                      0.839,
+                      1
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -5020,12 +5177,17 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [0.098, 0.247, 0.608, 1.0],
+                    "textColor": [
+                      0.098,
+                      0.247,
+                      0.608,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
@@ -5045,12 +5207,17 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [0.243, 0.776, 0.839, 1.0],
+                    "textColor": [
+                      0.243,
+                      0.776,
+                      0.839,
+                      1
+                    ],
                     "font": "SmoothWithEmoticons",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   }
@@ -5178,9 +5345,14 @@
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [0.243, 0.776, 0.839, 1.0],
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [
+                      0.243,
+                      0.776,
+                      0.839,
+                      1
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -5198,16 +5370,22 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1,
+                      1,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -8713,7 +8891,10 @@
           }
         ]
       },
-      { "sectionName": "navigation", "rows": [] }
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
     ]
   }
 }

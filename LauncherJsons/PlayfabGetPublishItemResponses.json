@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "5ebb1117-0c01-4b0d-b7b0-7c312e11b952",
+    "response": "Persona\\VanillaCapes\\Crafter_cape.json"
+  },
+  {
+    "uuid": "fadaddbd-da2a-4d90-b81a-ba1484c1b872",
+    "response": "Persona\\VanillaCapes\\CrafterUpsideDown_cape.json"
+  },
+  {
+    "uuid": "2c632742-483a-43f2-90d8-1ab8e119ea92",
+    "response": "Persona\\VanillaCapes\\MoonlightTrailCape.json"
+  },
+  {
     "uuid": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
     "response": "Persona\\VanillaCapes\\1stBirthday_cape.json"
   },
@@ -745,7 +757,71 @@
   },
   {
     "uuid": "0e377825-9488-4496-b75a-21de4b008b0a",
-    "response": "Persona\\CustomCapes\\TinyTakeoverCape.json"
+    "response": "Persona\\CustomCapes\\Essential\\TinyTakeoverCape.json"
+  },
+  {
+    "uuid": "6344711f-031f-4a4b-a186-1a0293bef194",
+    "response": "Persona\\CustomCapes\\Essential\\WildflowerCape.json"
+  },
+  {
+    "uuid": "852bea8b-3645-4ef8-959b-b0dd23285e24",
+    "response": "Persona\\CustomCapes\\Essential\\CubeCraftCape.json"
+  },
+  {
+    "uuid": "cae495c4-7242-4504-a107-e4566fb8dc0d",
+    "response": "Persona\\CustomCapes\\Essential\\TrialCape.json"
+  },
+  {
+    "uuid": "8cd0c142-1562-4212-9c27-c38f2ef0f325",
+    "response": "Persona\\CustomCapes\\Essential\\EssentialDiscordCape.json"
+  },
+  {
+    "uuid": "c3ee626e-91a6-4a8b-8d49-fd0f6ab2ba65",
+    "response": "Persona\\CustomCapes\\Essential\\NautilusCape.json"
+  },
+  {
+    "uuid": "49b293c9-c0b7-4100-a760-17d213e9417e",
+    "response": "Persona\\CustomCapes\\Essential\\NautilusZombieCape.json"
+  },
+  {
+    "uuid": "8cd61655-67ca-42e8-bffa-84edfc68c3fb",
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCape.json"
+  },
+  {
+    "uuid": "2c018d95-d44d-4b6b-b8a1-7135411ef257",
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCapeExposed.json"
+  },
+  {
+    "uuid": "def17786-1e66-44ee-aace-6f7ce7037dc0",
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCapeWeathered.json"
+  },
+  {
+    "uuid": "1e20accc-ce9d-49ff-b9fd-88dff3f8ee98",
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCapeOxidized.json"
+  },
+  {
+    "uuid": "dee1ead7-6f6c-45d7-b647-5e733ef90a5b",
+    "response": "Persona\\CustomCapes\\Essential\\SkyCape.json"
+  },
+  {
+    "uuid": "2be802db-df1a-403c-a8e5-a83d09e6f539",
+    "response": "Persona\\CustomCapes\\Essential\\BlossomCape.json"
+  },
+  {
+    "uuid": "1ef8a9ed-7bae-432c-bd86-953269ca0531",
+    "response": "Persona\\CustomCapes\\Essential\\CreakingCape.json"
+  },
+  {
+    "uuid": "8fb07868-d2e7-4b06-84f8-fc38e4f6cd9a",
+    "response": "Persona\\CustomCapes\\Essential\\SnifferCape.json"
+  },
+  {
+    "uuid": "95a65048-d96d-4061-8c4c-8dfb3343ea6c",
+    "response": "Persona\\CustomCapes\\Essential\\PrideCape.json"
+  },
+  {
+    "uuid": "48d3ae91-5066-40f1-83f6-0a9d56166eff",
+    "response": "Persona\\CustomCapes\\Essential\\PrideCape2.json"
   },
   // Skin Packs
   {
@@ -872,10 +948,10 @@
     "uuid": "4ad937a2-bf33-4390-93e3-62198b58f9ff",
     "response": "SkinPacks\\MightyMorphinPowerRangers\\Binary_MightyMorphinPowerRangers.json"
   },
-  {
-    "uuid": "61c7a786-d7ad-49e0-a710-817121cd9795",
-    "response": "SkinPacks\\Other\\Binary_ActionsStuff.json"
-  },
+  // { // Add back at a later date
+  //   "uuid": "61c7a786-d7ad-49e0-a710-817121cd9795",
+  //   "response": "SkinPacks\\Other\\Binary_ActionsStuff.json"
+  // },
   {
     "uuid": "d1e7ecae-b422-40a2-8037-cf24571f901c",
     "response": "SkinPacks\\SkinPack\\Binary_SkinPack1Classic.json"
@@ -922,6 +998,10 @@
     "response": "SkinPacks\\Creators\\BionicBen\\Binary_6thBirthdaySkinPack.json"
   },
   {
+    "uuid": "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+    "response": "SkinPacks\\Creators\\BionicBen\\Binary_Deadmau5SkinPack.json"
+  },
+  {
     "uuid": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
     "response": "SkinPacks\\Creators\\BionicBen\\Binary_BionicBenSkinPack.json"
   },
@@ -944,5 +1024,50 @@
   {
     "uuid": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
     "response": "SkinPacks\\Creators\\Exports\\Binary_EMC4.json"
+  },
+  {
+    "uuid": "a2a191a7-ad0d-4802-a990-975538c7489f",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC5.json"
+  },
+  {
+    "uuid": "7a92c69c-d1c8-4c00-b3a2-cd9c7e650148",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC6.json"
+  },
+  {
+    "uuid": "dfc5ace1-fd1c-414c-8b1f-ec34e1bf7ba8",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC7.json"
+  },
+  {
+    "uuid": "0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC8.json"
+  },
+  {
+    "uuid": "17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+    "response": "SkinPacks\\Creators\\YEH\\Binary_REPOSEMIBOTS.json"
+  },
+  {
+    "uuid": "86e6a53f-6ae6-4109-935a-72f877194c02",
+    "response": "SkinPacks\\Creators\\YEH\\Binary_REPOSEMIBOTS5D.json"
+  },
+  //
+  {
+    "uuid": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Binary_BlackHole.json"
+  },
+  {
+    "uuid": "dedd7dce-a317-4786-930f-9c2357d25d82",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Binary_DetectiveConanSkinPack.json"
+  },
+  {
+    "uuid": "ae90416f-1942-4c2b-a675-8d947fc53cf1",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Binary_Doraemon.json"
+  },
+  {
+    "uuid": "7197503c-817f-4c5d-b570-67b2758d707b",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Binary_HotelTransylvaniaSkinPack.json"
+  },
+  {
+    "uuid": "f6303374-6ab5-4079-baa0-6200189aa6a2",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Binary_NeonGenesisEvangelion.json"
   }
 ]
