@@ -42,8 +42,8 @@
                       "font": "MinecraftTen",
                       "showBackground": false,
                       "showOutline": false,
-                      "indent": 0.0,
-                      "buttonWidth": 0.0,
+                      "indent": 0,
+                      "buttonWidth": 0,
                       "color": [],
                       "offerControlIdType": "None"
                     },
@@ -69,8 +69,8 @@
                       "font": "MinecraftTen",
                       "showBackground": false,
                       "showOutline": false,
-                      "indent": 0.0,
-                      "buttonWidth": 0.0,
+                      "indent": 0,
+                      "buttonWidth": 0,
                       "color": [],
                       "offerControlIdType": "None"
                     },
@@ -94,12 +94,16 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1,
+                      1,
+                      1
+                    ],
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   }
@@ -108,7 +112,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "All capes here are created by BionicBen!\n\nDiscord: discord.gg/hBujWqu\nYouTube: youtube.com/@BionicBen1218",
+                "description": "All capes here are created by NAC!\n\nDiscord: @fortnitelimited",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }
@@ -119,20 +123,26 @@
             "components": [
               {
                 "text": {
-                  "value": "Capes by BionicBen",
+                  "value": "Capes by NAC",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1,
+                      1,
+                      1
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
+                    "indent": 0,
+                    "buttonWidth": 0,
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -140,15 +150,15 @@
               {
                 "items": [
                   {
-                    "id": "fa44ffcf-6c60-45f4-b959-296faa9895d4",
+                    "id": "cb4d8a68-f97d-40b5-b11e-59294826a0cc",
                     "contentType": "PersonaDurable",
-                    "title": "Bad Ping Cape",
-                    "creatorName": "BionicBen",
+                    "title": "MCC Aqua Axolotls Cape",
+                    "creatorName": "NAC",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/BadPing_cape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BadPing_cape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCAquaAxolotlsCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCAquaAxolotlsCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -165,14 +175,14 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "61a1506e-1b1a-4973-9585-8f07b60f22c9",
+                        "uuid": "186473ca-ae1f-4361-9e69-50644eaa0a68",
                         "version": "1.0.0"
                       }
                     ],
-                    "startDate": "2025-10-25T12:00:00Z",
+                    "startDate": "2026-05-12T23:05:11Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
                         "linkType": "external",
                         "displayType": "store_layout.character_creator_screen",
                         "navigateInPlace": false
@@ -180,15 +190,15 @@
                     }
                   },
                   {
-                    "id": "29b830ac-19c0-463f-a9e1-4811c290d19e",
+                    "id": "f838ccc1-a8d2-4bf5-b820-2cbee6d6c7a6",
                     "contentType": "PersonaDurable",
-                    "title": "BionicBen Classic Cape",
-                    "creatorName": "BionicBen",
+                    "title": "MCC Blue Bats Cape",
+                    "creatorName": "NAC",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/BionicBenClassic_cape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BionicBenClassic_cape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCBlueBatsCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCBlueBatsCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -205,14 +215,14 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "0026d531-de7d-4e1c-943c-31cb42673ba1",
+                        "uuid": "80cb534a-a1b2-4eee-b975-477bc7541365",
                         "version": "1.0.0"
                       }
                     ],
-                    "startDate": "2025-10-25T12:00:00Z",
+                    "startDate": "2026-05-12T23:06:56Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
                         "linkType": "external",
                         "displayType": "store_layout.character_creator_screen",
                         "navigateInPlace": false
@@ -220,15 +230,15 @@
                     }
                   },
                   {
-                    "id": "6acb51d1-dfe1-435e-803f-425f959b9382",
+                    "id": "acf80f4c-f232-4608-aecf-7e9807bb9d4e",
                     "contentType": "PersonaDurable",
-                    "title": "Bread Cape",
-                    "creatorName": "BionicBen",
+                    "title": "MCC Cyan Coyotes Cape",
+                    "creatorName": "NAC",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Bread_cape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Bread_cape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCCyanCoyotesCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCCyanCoyotesCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -245,14 +255,14 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "d7e1503a-f518-4fdb-8a46-636213d8e131",
+                        "uuid": "12664480-30d5-48e1-bc53-433c2914f245",
                         "version": "1.0.0"
                       }
                     ],
-                    "startDate": "2025-10-25T12:00:00Z",
+                    "startDate": "2026-05-12T23:07:31Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
                         "linkType": "external",
                         "displayType": "store_layout.character_creator_screen",
                         "navigateInPlace": false
@@ -260,15 +270,15 @@
                     }
                   },
                   {
-                    "id": "9616be9d-eca6-4d5d-aae7-fce58530a9f5",
+                    "id": "299d4eb2-645a-4929-af4c-9cc80b9d0745",
                     "contentType": "PersonaDurable",
-                    "title": "Good Ping Cape",
-                    "creatorName": "BionicBen",
+                    "title": "MCC Green Geckos Cape",
+                    "creatorName": "NAC",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/GoodPing_cape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/GoodPing_cape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCGreenGeckosCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCGreenGeckosCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -285,14 +295,14 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "1ee7c325-5383-49e7-9846-df6561b9362a",
+                        "uuid": "b4c3511f-9fd2-447e-a5a0-cd0fa73bce6e",
                         "version": "1.0.0"
                       }
                     ],
-                    "startDate": "2025-10-25T12:00:00Z",
+                    "startDate": "2026-05-12T23:08:00Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
                         "linkType": "external",
                         "displayType": "store_layout.character_creator_screen",
                         "navigateInPlace": false
@@ -300,15 +310,15 @@
                     }
                   },
                   {
-                    "id": "77fc588f-be6f-4def-8ab6-26ac46901897",
+                    "id": "3b553920-305e-4b7b-8496-feacb2a0440b",
                     "contentType": "PersonaDurable",
-                    "title": "Medium Ping Cape",
-                    "creatorName": "BionicBen",
+                    "title": "MCC Lime Llamas Cape",
+                    "creatorName": "NAC",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/MediumPing_cape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MediumPing_cape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCLimeLlamasCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCLimeLlamasCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -325,14 +335,14 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "a03288f1-26d7-4f21-9ca5-5529b3a86935",
+                        "uuid": "7b08aafe-a133-4867-a189-87724996465b",
                         "version": "1.0.0"
                       }
                     ],
-                    "startDate": "2025-10-25T12:00:00Z",
+                    "startDate": "2026-05-12T23:08:26Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
                         "linkType": "external",
                         "displayType": "store_layout.character_creator_screen",
                         "navigateInPlace": false
@@ -340,15 +350,15 @@
                     }
                   },
                   {
-                    "id": "1472a239-f11c-4462-a302-59bc9df01a8b",
+                    "id": "cc2cd21c-407f-4bc5-858e-adcc7f4bb6db",
                     "contentType": "PersonaDurable",
-                    "title": "Scythe Cape",
-                    "creatorName": "BionicBen",
+                    "title": "MCC Orange Ocelots Cape",
+                    "creatorName": "NAC",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Scythe_cape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Scythe_cape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCOrangeOcelotsCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCOrangeOcelotsCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -365,14 +375,174 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "9ef4cea7-c477-48e2-85d8-c5834d5f2696",
+                        "uuid": "22e33fb2-0620-4872-b3b0-ad7a956a1f33",
                         "version": "1.0.0"
                       }
                     ],
-                    "startDate": "2025-10-25T12:00:00Z",
+                    "startDate": "2026-05-12T23:08:55Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "bf37ce64-ce9a-441a-a8f6-2be5fa08c282",
+                    "contentType": "PersonaDurable",
+                    "title": "MCC Pink Parrots Cape",
+                    "creatorName": "NAC",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCPinkParrotsCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCPinkParrotsCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "8d89444c-fa62-4a2c-8206-42aaaa980ae1",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-05-12T23:09:18Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "0bedf938-e537-453c-93d9-bfd63fa1fbe6",
+                    "contentType": "PersonaDurable",
+                    "title": "MCC Purple Pandas Cape",
+                    "creatorName": "NAC",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCPurplePandasCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCPurplePandasCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "494fb1fb-4979-475a-b92c-610419da7b48",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-05-12T23:09:41Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "02885b68-3289-4e06-afe5-205a88d372e2",
+                    "contentType": "PersonaDurable",
+                    "title": "MCC Red Rabbits Cape",
+                    "creatorName": "NAC",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCRedRabbitsCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCRedRabbitsCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "37f68b29-8bee-4535-a88b-f7879d504616",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-05-12T23:10:08Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "5299cc99-f1e9-4e28-b4e4-ac47a82d4c8f",
+                    "contentType": "PersonaDurable",
+                    "title": "MCC Yellow Yaks Cape",
+                    "creatorName": "NAC",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCYellowYaksCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCYellowYaksCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "e3be4ec3-849c-47d5-8071-72dde16fda09",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-05-12T23:10:32Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
                         "linkType": "external",
                         "displayType": "store_layout.character_creator_screen",
                         "navigateInPlace": false
@@ -405,7 +575,10 @@
           }
         ]
       },
-      { "sectionName": "navigation", "rows": [] }
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
     ]
   }
 }

@@ -436,6 +436,50 @@
     "response": "Persona\\CreatorCapes\\DL0ZE\\WitherCape.json"
   },
   {
+    "uuid": "720e267e-ef85-4a29-a1b9-066a0c00901e",
+    "response": "Persona\\CreatorCapes\\NAC\\NACCape.json"
+  },
+  {
+    "uuid": "cb4d8a68-f97d-40b5-b11e-59294826a0cc",
+    "response": "Persona\\CreatorCapes\\NAC\\MCCAquaAxolotlsCape.json"
+  },
+  {
+    "uuid": "f838ccc1-a8d2-4bf5-b820-2cbee6d6c7a6",
+    "response": "Persona\\CreatorCapes\\NAC\\MCCBlueBatsCape.json"
+  },
+  {
+    "uuid": "acf80f4c-f232-4608-aecf-7e9807bb9d4e",
+    "response": "Persona\\CreatorCapes\\NAC\\MCCCyanCoyotesCape.json"
+  },
+  {
+    "uuid": "299d4eb2-645a-4929-af4c-9cc80b9d0745",
+    "response": "Persona\\CreatorCapes\\NAC\\MCCGreenGeckosCape.json"
+  },
+  {
+    "uuid": "3b553920-305e-4b7b-8496-feacb2a0440b",
+    "response": "Persona\\CreatorCapes\\NAC\\MCCLimeLlamasCape.json"
+  },
+  {
+    "uuid": "cc2cd21c-407f-4bc5-858e-adcc7f4bb6db",
+    "response": "Persona\\CreatorCapes\\NAC\\MCCOrangeOcelotsCape.json"
+  },
+  {
+    "uuid": "bf37ce64-ce9a-441a-a8f6-2be5fa08c282",
+    "response": "Persona\\CreatorCapes\\NAC\\MCCPinkParrotsCape.json"
+  },
+  {
+    "uuid": "0bedf938-e537-453c-93d9-bfd63fa1fbe6",
+    "response": "Persona\\CreatorCapes\\NAC\\MCCPurplePandasCape.json"
+  },
+  {
+    "uuid": "02885b68-3289-4e06-afe5-205a88d372e2",
+    "response": "Persona\\CreatorCapes\\NAC\\MCCRedRabbitsCape.json"
+  },
+  {
+    "uuid": "5299cc99-f1e9-4e28-b4e4-ac47a82d4c8f",
+    "response": "Persona\\CreatorCapes\\NAC\\MCCYellowYaksCape.json"
+  },
+  {
     "uuid": "b178226d-1fe8-45bd-b2a2-b527be0f90cf",
     "response": "Persona\\CreatorCapes\\Stars\\Stars_cape.json"
   },
