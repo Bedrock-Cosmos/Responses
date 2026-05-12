@@ -108,7 +108,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "All Capes here are created by Stars!\n\nDiscord: @stars6199\nYouTube: youtube.com/@Hypervitaminosis",
+                "description": "All capes here are created by Stars!\n\nDiscord: @stars6199\nYouTube: youtube.com/@Hypervitaminosis",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }

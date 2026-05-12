@@ -5272,6 +5272,50 @@
                     }
                   },
                   {
+                    "id": "e09f5be3-e610-4f4f-9477-2e68a5034e38",
+                    "contentType": "PersonaDurable",
+                    "title": "DL0ZE Cape",
+                    "creatorName": "DL0ZE - §lCLICK HERE FOR MORE CAPES!",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/DL0ZE/DL0ZECape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/CreatorCapes/DL0ZE/DL0ZECape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "rare",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "80a97f0f-206e-4004-8fbc-7350d20b1176",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2025-10-25T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "DL0ZE",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "b178226d-1fe8-45bd-b2a2-b527be0f90cf",
                     "contentType": "PersonaDurable",
                     "title": "Stars Cape",

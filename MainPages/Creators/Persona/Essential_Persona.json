@@ -108,7 +108,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "All Capes here are from Essential Mod!\nhttps://essential.gg/en",
+                "description": "All capes here are from Essential Mod!\nhttps://essential.gg/en",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }
