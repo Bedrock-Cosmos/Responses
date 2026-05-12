@@ -3,23 +3,24 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "93ef578a-eb82-4840-a969-79986b9385c5",
+      "Id": "1bcf2c21-652e-4ae4-9af2-630968571130",
       "Contents": [
         {
-          "Id": "1d2015aa-1d6e-4f44-922b-0ea00422dd19",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Dripleaf.zip",
+          "Id": "6dd80702-e71a-4add-8d7e-845b78d1b11e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MysteryCape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
         }
       ],
       "DisplayProperties": {
-        "creatorName": "8onfire",
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
         "purchasable": true,
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "8b041915-8309-4fb1-95f4-633fc59fe47d",
+            "uuid": "ba897dba-f47a-4940-9592-09a1414119fa",
             "version": "1.0.0"
           }
         ]

@@ -3,23 +3,24 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "93ef578a-eb82-4840-a969-79986b9385c5",
+      "Id": "1ef8a9ed-7bae-432c-bd86-953269ca0531",
       "Contents": [
         {
-          "Id": "1d2015aa-1d6e-4f44-922b-0ea00422dd19",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Dripleaf.zip",
+          "Id": "45bef993-a02c-4b19-8320-25f639fa0a8a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/CreakingCape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
         }
       ],
       "DisplayProperties": {
-        "creatorName": "8onfire",
+        "creatorName": "Essential",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
         "purchasable": true,
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "8b041915-8309-4fb1-95f4-633fc59fe47d",
+            "uuid": "6dd88cec-2d57-491f-ba4d-d9c2f41798e4",
             "version": "1.0.0"
           }
         ]

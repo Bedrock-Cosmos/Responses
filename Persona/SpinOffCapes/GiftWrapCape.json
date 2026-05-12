@@ -3,23 +3,24 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "93ef578a-eb82-4840-a969-79986b9385c5",
+      "Id": "a82f16ff-2520-4024-b318-13aca62e6710",
       "Contents": [
         {
-          "Id": "1d2015aa-1d6e-4f44-922b-0ea00422dd19",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Dripleaf.zip",
+          "Id": "566576f4-0d30-4a10-9c90-eeff342a124c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GiftWrapCape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
         }
       ],
       "DisplayProperties": {
-        "creatorName": "8onfire",
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
         "purchasable": true,
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "8b041915-8309-4fb1-95f4-633fc59fe47d",
+            "uuid": "39aabd06-c2e5-4c0f-8a4b-465f7f552df7",
             "version": "1.0.0"
           }
         ]

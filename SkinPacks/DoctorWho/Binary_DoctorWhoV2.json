@@ -6,8 +6,13 @@
       "Id": "0865b49f-0123-459e-8e6d-a1ec99f5f9fa",
       "Contents": [
         {
+<<<<<<< Updated upstream
           "Id": "0e53bc61-1603-4048-97ef-2938b7e9b12e",
           "Url": "https://pack.bedrock-cosmos.app/uss/0e53b/RYAPKPBVuJrsVx.zip",
+=======
+          "Id": "83ba3582-970f-4100-b8cc-277a10217b13",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/ab79774d-e7ee-49d8-a09e-2bf1dc28e482/secondary.zip",
+>>>>>>> Stashed changes
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.2.0",
           "Tags": [],

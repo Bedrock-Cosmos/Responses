@@ -3,23 +3,24 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "93ef578a-eb82-4840-a969-79986b9385c5",
+      "Id": "e6ac6826-b590-4aaf-b87a-c4499d4283a1",
       "Contents": [
         {
-          "Id": "1d2015aa-1d6e-4f44-922b-0ea00422dd19",
-          "Url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/refs/heads/main/Main/Packs/Persona/Creator/Dripleaf.zip",
+          "Id": "2fff024f-bd7b-41b8-a1ac-9e6194341c8c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/AmethystCape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
         }
       ],
       "DisplayProperties": {
-        "creatorName": "8onfire",
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
         "purchasable": true,
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "8b041915-8309-4fb1-95f4-633fc59fe47d",
+            "uuid": "14b678be-c843-40e8-b748-accfce84c2f4",
             "version": "1.0.0"
           }
         ]
