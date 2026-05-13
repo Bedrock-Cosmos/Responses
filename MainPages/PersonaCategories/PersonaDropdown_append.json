@@ -55,7 +55,7 @@
         },
         {
           "linksTo": {
-            "linksTo": "DressingRoom_Hidden",
+            "linksTo": "DressingRoom_CreeperCrunchCereal",
             "linkType": "internal",
             "displayType": "store_layout.character_creator_screen",
             "navigateInPlace": false
