@@ -700,13 +700,25 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_fa359c7a-889b-4ce1-9d68-08691ca7303c",
     "response": "..\\CustomJsons\\PersonaItemPreview.json"
   },
-  // Debug
+  // Character Creator Persona Menu
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaCharacterCreator",
-    "response": "MainPages\\MultiItemPage_PersonaCharacterCreator.json"
+    "response": "MainPages\\PersonaCategories\\PersonaDropdown_append.json"
   },
   {
-    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_Hidden",
-    "response": "MainPages\\DressingRoom_Hidden.json"
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_CreeperCrunchCereal",
+    "response": "MainPages\\PersonaCategories\\CreeperCrunchCereal.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_MinecraftDungeons",
+    "response": "MainPages\\PersonaCategories\\MinecraftDungeons.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_MinecraftEarth",
+    "response": "MainPages\\PersonaCategories\\MinecraftEarth.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_TinyTakeover",
+    "response": "MainPages\\PersonaCategories\\TinyTakeover.json"
   }
 ]
