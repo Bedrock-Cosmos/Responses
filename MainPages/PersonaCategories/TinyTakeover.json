@@ -43,8 +43,8 @@
                       "font": "MinecraftTen",
                       "showBackground": false,
                       "showOutline": false,
-                      "indent": 0,
-                      "buttonWidth": 0,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
                       "color": [],
                       "offerControlIdType": "None",
                       "outlineColor": []
@@ -71,8 +71,8 @@
                       "font": "MinecraftTen",
                       "showBackground": false,
                       "showOutline": false,
-                      "indent": 0,
-                      "buttonWidth": 0,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
                       "color": [],
                       "offerControlIdType": "None",
                       "outlineColor": []
@@ -97,15 +97,15 @@
                     "highlightColor": [],
                     "alignment": "Left",
                     "textColor": [
-                      1,
-                      1,
-                      1
+                      1.0,
+                      1.0,
+                      1.0
                     ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
                     "color": [],
                     "offerControlIdType": "None",
                     "outlineColor": []
