@@ -229,7 +229,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "Express yourself in-game with a friend or partner using the 30 skins in this third skin pack!",
+                "description": "Express yourself in game with a friend or partner using the 30 skins in this third skin pack!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }

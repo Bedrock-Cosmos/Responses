@@ -228,7 +228,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "Express yourself in-game with a friend or partner using the 30 skins in this eighth skin pack!",
+                "description": "Express yourself in game with a friend or partner using the 30 skins in this eighth skin pack!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }
