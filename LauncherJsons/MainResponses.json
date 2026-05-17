@@ -8,6 +8,10 @@
     "response": "ProcessedInPlayfabSearchResponsesJson"
   },
   {
+    "url": "https://entitlements.mktpl.minecraft-services.net/api/v1.0/player/inventory?includeReceipt=true",
+    "response": "ForwardedToCosmosApi"
+  },
+  {
     "url": "https://messaging.mktpl.minecraft-services.net/api/v1.0/session/start",
     "response": "ProcessedInApp"
   },
