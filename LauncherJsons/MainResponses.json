@@ -511,6 +511,14 @@
     "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC8.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/b20dc966-1071-4845-a7a0-b0d2acb253ce",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_LEGOMinecraftSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b20dc966-1071-4845-a7a0-b0d2acb253ce",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_LEGOMinecraftSkinPack.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/17c404b3-3979-49a3-93cb-3f53e2e33eb6",
     "response": "SkinPacks\\Creators\\YEH\\ItemDetail_REPOSEMIBOTS.json"
   },

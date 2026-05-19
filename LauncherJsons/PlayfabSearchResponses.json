@@ -229,6 +229,10 @@
     "response": "SkinPacks\\Creators\\Exports\\Search_EMC8.json"
   },
   {
+    "uuid": "f978adc0-729f-406d-bc0c-08cfbf5f9c30",
+    "response": "SkinPacks\\Creators\\YEH\\Search_LEGOMinecraftSkinPack.json"
+  },
+  {
     "uuid": "2f8d9fb8-c3c9-47d5-8460-e15da1a528fb",
     "response": "SkinPacks\\Creators\\YEH\\Search_REPOSEMIBOTS.json"
   },

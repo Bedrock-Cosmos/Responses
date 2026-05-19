@@ -1130,6 +1130,10 @@
     "response": "SkinPacks\\Creators\\Exports\\Binary_EMC8.json"
   },
   {
+    "uuid": "b20dc966-1071-4845-a7a0-b0d2acb253ce",
+    "response": "SkinPacks\\Creators\\YEH\\Binary_LEGOMinecraftSkinPack.json"
+  },
+  {
     "uuid": "17c404b3-3979-49a3-93cb-3f53e2e33eb6",
     "response": "SkinPacks\\Creators\\YEH\\Binary_REPOSEMIBOTS.json"
   },
