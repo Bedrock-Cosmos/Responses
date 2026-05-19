@@ -21,15 +21,15 @@
       "startDate": "2025-10-25T12:00:00Z"
     },
     {
-      "id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+      "id": "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
       "contentType": "MarketplaceDurableCatalog_V1.2",
-      "title": "Doctor Who Skins Volume I",
-      "creatorName": "Minecraft",
+      "title": "Deadmau5 Skin Pack",
+      "creatorName": "BionicBen",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg",
-        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg?width=800&height=450"
+        "url": "https://bedrock-cosmos.app/thumbnails/Deadmau5SkinPack_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Deadmau5SkinPack_thumbnail.jpg?width=800&height=450"
       },
       "price": {
         "listPrice": -1,
@@ -39,122 +39,215 @@
         "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
         "virtualCurrencyType": "Minecoin"
       },
-      "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+      "linksTo": "ItemDetail_aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
       "linksToInfo": {
-        "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+        "linksTo": "ItemDetail_aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
         "linkType": "pageId",
         "displayType": "store_layout.store_data_driven_screen",
         "navigateInPlace": false
       },
       "statistics": {
-        "skins": 57,
+        "skins": 22,
         "worlds": 0,
         "textures": 0,
         "behaviors": 0,
         "addOns": 0
       },
-      "flags": [],
+      "flags": ["New"],
       "ownership": "Purchased",
       "packType": "SkinPack",
       "packIdentity": [
         {
           "type": "skinpack",
-          "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
-          "version": "1.0.6"
-        }
-      ],
-      "startDate": "2025-10-25T12:00:00Z"
-    },
-    {
-      "id": "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
-      "contentType": "MarketplaceDurableCatalog_V1.2",
-      "title": "Doctor Who Skins Volume II",
-      "creatorName": "Minecraft",
-      "thumbnail": {
-        "tag": "Thumbnail",
-        "type": "Thumbnail",
-        "url": "https://xforgeassets002.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/53d3bee7-73e7-4c54-933c-06d693cc6eb9/DrWho2_Thumbnail_0.jpg",
-        "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/53d3bee7-73e7-4c54-933c-06d693cc6eb9/DrWho2_Thumbnail_0.jpg?width=800&height=450"
-      },
-      "price": {
-        "listPrice": -1,
-        "realmsInfo": {
-          "inRealmsPlus": false
-        },
-        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-        "virtualCurrencyType": "Minecoin"
-      },
-      "linksTo": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
-      "linksToInfo": {
-        "linksTo": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
-        "linkType": "pageId",
-        "displayType": "store_layout.store_data_driven_screen",
-        "navigateInPlace": false
-      },
-      "statistics": {
-        "skins": 51,
-        "worlds": 0,
-        "textures": 0,
-        "behaviors": 0,
-        "addOns": 0
-      },
-      "flags": [],
-      "ownership": "Purchased",
-      "packType": "SkinPack",
-      "packIdentity": [
-        {
-          "type": "skinpack",
-          "uuid": "83ba3582-970f-4100-b8cc-277a10217b13",
-          "version": "1.0.6"
-        }
-      ],
-      "startDate": "2025-10-25T12:00:00Z"
-    },
-    {
-      "id": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
-      "contentType": "MarketplaceDurableCatalog_V1.2",
-      "title": "Festive Mash-Up",
-      "creatorName": "Minecraft",
-      "thumbnail": {
-        "tag": "Thumbnail",
-        "type": "Thumbnail",
-        "url": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg",
-        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg?width=800&height=450"
-      },
-      "price": {
-        "listPrice": -1,
-        "realmsInfo": {
-          "inRealmsPlus": false
-        },
-        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-        "virtualCurrencyType": "Minecoin"
-      },
-      "linksTo": "ItemDetail_62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
-      "linksToInfo": {
-        "linksTo": "ItemDetail_62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
-        "linkType": "pageId",
-        "displayType": "store_layout.store_data_driven_screen",
-        "navigateInPlace": false
-      },
-      "creatorPage": "CreatorPage_master_player_account!HiddenDelisted",
-      "statistics": {
-        "skins": 1,
-        "worlds": 0,
-        "textures": 0,
-        "behaviors": 0,
-        "addOns": 0
-      },
-      "flags": [],
-      "ownership": "Purchased",
-      "packType": "SkinPack",
-      "packIdentity": [
-        {
-          "type": "skinpack",
-          "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
+          "uuid": "aa5e26c6-9032-487e-9ed5-a6b99d68ba98",
           "version": "1.0.0"
         }
       ],
-      "startDate": "2025-10-25T12:00:00Z"
+      "startDate": "2020-01-01T12:00:00Z"
+    },
+    {
+      "id": "0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Matching Cosmetics 8",
+      "creatorName": "Exports",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics8_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics8_thumbnail.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!Exports",
+      "statistics": {
+        "skins": 30,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": ["New"],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "cd99e175-5498-4edf-8bb2-ab29cbfc00b9",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2020-01-01T12:00:00Z"
+    },
+    {
+      "id": "b20dc966-1071-4845-a7a0-b0d2acb253ce",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "LEGO(R) Minecraft(TM) Skin Pack",
+      "creatorName": "YEH",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/YEHLegoMinecraftSkinPack_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEHLegoMinecraftSkinPack_thumbnail.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_b20dc966-1071-4845-a7a0-b0d2acb253ce",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_b20dc966-1071-4845-a7a0-b0d2acb253ce",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!YEH",
+      "statistics": {
+        "skins": 119,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": ["New"],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "f978adc0-729f-406d-bc0c-08cfbf5f9c30",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2020-01-01T12:00:00Z"
+    },
+    {
+      "id": "86e6a53f-6ae6-4109-935a-72f877194c02",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "R.E.P.O SEMIBOTS 5D",
+      "creatorName": "YEH",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/YEHREPOSEMIBOTS5D_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEHREPOSEMIBOTS5D_thumbnail.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_86e6a53f-6ae6-4109-935a-72f877194c02",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_86e6a53f-6ae6-4109-935a-72f877194c02",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!YEH",
+      "statistics": {
+        "skins": 37,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": ["New"],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "73d78fb2-9cd7-43bb-8f60-899f654761e1",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2020-01-01T12:00:00Z"
+    },
+    {
+      "id": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "R.E.P.O SEMIBOTS 5D",
+      "creatorName": "ZeroMISTER JA",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!ZeroMISTER_JA",
+      "statistics": {
+        "skins": 4,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": ["New"],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2020-01-01T12:00:00Z"
     },
     {
       "id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
