@@ -206,7 +206,7 @@
     {
       "id": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
       "contentType": "MarketplaceDurableCatalog_V1.2",
-      "title": "R.E.P.O SEMIBOTS 5D",
+      "title": "Black Hole Skin Pack",
       "creatorName": "ZeroMISTER JA",
       "thumbnail": {
         "tag": "Thumbnail",
@@ -248,6 +248,51 @@
         }
       ],
       "startDate": "2020-01-01T12:00:00Z"
+    },
+    {
+      "id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Doctor Who Skins Volume I",
+      "creatorName": "Minecraft",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg",
+        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "statistics": {
+        "skins": 57,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": [],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+          "version": "1.0.6"
+        }
+      ],
+      "startDate": "2025-10-25T12:00:00Z"
     },
     {
       "id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
