@@ -228,8 +228,8 @@
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/MoonlightTrailCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MoonlightTrailCape.png"
+        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b0762502-9ad6-47cf-91bb-dc1203f5ac2a/moonlight_trail_cape_Thumbnail_0.png",
+        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b0762502-9ad6-47cf-91bb-dc1203f5ac2a/moonlight_trail_cape_Thumbnail_0.png"
       },
       "price": {
         "listPrice": 0,
@@ -246,11 +246,11 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "a8f8ea56-faea-4de0-898c-21e7f4ff84c1",
-          "version": "1.0.0"
+          "uuid": "fb61d2ba-2125-aca5-eda9-f3d9c7638205",
+          "version": "1.1.0"
         }
       ],
-      "startDate": "2025-10-25T12:00:00Z",
+      "startDate": "2026-02-26T18:01:34Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
           "linksTo": "DressingRoom_Capes",
