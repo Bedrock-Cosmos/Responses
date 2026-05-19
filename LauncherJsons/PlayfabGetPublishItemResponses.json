@@ -1,11 +1,11 @@
 [
   {
-    "uuid": "5ebb1117-0c01-4b0d-b7b0-7c312e11b952",
-    "response": "Persona\\VanillaCapes\\Crafter_cape.json"
+    "uuid": "847f2d6e-388d-46eb-a440-c559fcfec432",
+    "response": "Persona\\VanillaCapes\\BuilderCape.json"
   },
   {
-    "uuid": "fadaddbd-da2a-4d90-b81a-ba1484c1b872",
-    "response": "Persona\\VanillaCapes\\CrafterUpsideDown_cape.json"
+    "uuid": "d693b98a-bba7-4fce-83b0-7715c8187765",
+    "response": "Persona\\VanillaCapes\\CrafterCape.json"
   },
   {
     "uuid": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",

@@ -3,11 +3,11 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "5ebb1117-0c01-4b0d-b7b0-7c312e11b952",
+      "Id": "d693b98a-bba7-4fce-83b0-7715c8187765",
       "Contents": [
         {
-          "Id": "05368cc7-aabf-44c4-a3cd-fec3b017a13f",
-          "Url": "https://capes.bedrock-cosmos.app/zips/Crafter_cape.zip",
+          "Id": "6cd77625-f7f8-428c-ac54-5a0f6e090262",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CrafterCape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "2e155d8d-d3af-4a45-9fb2-1429cdac1275",
+            "uuid": "28a98ae4-38eb-459c-bbb8-e6ddce9888cb",
             "version": "1.0.0"
           }
         ]

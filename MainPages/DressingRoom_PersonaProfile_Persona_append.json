@@ -119,13 +119,13 @@
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000003",
       "contentType": "PersonaDurable",
-      "title": "Crafter Cape",
+      "title": "Builder Cape",
       "creatorName": "Minecraft",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/Crafter_cape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Crafter_cape.png"
+        "url": "https://capes.bedrock-cosmos.app/icons/BuilderCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BuilderCape.png"
       },
       "price": {
         "listPrice": 0,
@@ -142,7 +142,7 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "2e155d8d-d3af-4a45-9fb2-1429cdac1275",
+          "uuid": "5a47f304-cfd1-4498-992e-160fe3236c82",
           "version": "1.0.0"
         }
       ],
@@ -171,13 +171,13 @@
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000004",
       "contentType": "PersonaDurable",
-      "title": "Crafter (Upside Down) Cape",
+      "title": "Crafter Cape",
       "creatorName": "Minecraft",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/CrafterUpsideDown_cape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CrafterUpsideDown_cape.png"
+        "url": "https://capes.bedrock-cosmos.app/icons/CrafterCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CrafterCape.png"
       },
       "price": {
         "listPrice": 0,
@@ -194,7 +194,7 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "8af1df2a-87e0-4379-8516-a2cb73dd5277",
+          "uuid": "28a98ae4-38eb-459c-bbb8-e6ddce9888cb",
           "version": "1.0.0"
         }
       ],

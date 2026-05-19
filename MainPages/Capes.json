@@ -161,6 +161,46 @@
                     }
                   },
                   {
+                    "id": "847f2d6e-388d-46eb-a440-c559fcfec432",
+                    "contentType": "PersonaDurable",
+                    "title": "Builder Cape",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/BuilderCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BuilderCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "5a47f304-cfd1-4498-992e-160fe3236c82",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2025-10-25T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "b9fb90bb-48a8-4c9f-97c5-43121f29ad84",
                     "contentType": "PersonaDurable",
                     "title": "Cherry Cape",
@@ -311,15 +351,15 @@
                     }
                   },
                   {
-                    "id": "5ebb1117-0c01-4b0d-b7b0-7c312e11b952",
+                    "id": "d693b98a-bba7-4fce-83b0-7715c8187765",
                     "contentType": "PersonaDurable",
                     "title": "Crafter Cape",
                     "creatorName": "Minecraft",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Crafter_cape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Crafter_cape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/CrafterCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CrafterCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -336,47 +376,7 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "2e155d8d-d3af-4a45-9fb2-1429cdac1275",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2025-10-25T12:00:00Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "fadaddbd-da2a-4d90-b81a-ba1484c1b872",
-                    "contentType": "PersonaDurable",
-                    "title": "Crafter (Upside Down) Cape",
-                    "creatorName": "Minecraft",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/CrafterUpsideDown_cape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CrafterUpsideDown_cape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "legendary",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "8af1df2a-87e0-4379-8516-a2cb73dd5277",
+                        "uuid": "28a98ae4-38eb-459c-bbb8-e6ddce9888cb",
                         "version": "1.0.0"
                       }
                     ],
