@@ -114,11 +114,14 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
-                    "id": "00000000-0000-0000-0000-000000000000",
+                    "id": "00000000-0000-0000-0000-000000000001",
                     "contentType": "PersonaDurable",
                     "title": "Minecon 2011 Cape",
                     "creatorName": "Minecraft",
@@ -163,11 +166,14 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
-                    "id": "00000000-0000-0000-0000-000000000001",
+                    "id": "00000000-0000-0000-0000-000000000002",
                     "contentType": "PersonaDurable",
                     "title": "Minecon 2012 Cape",
                     "creatorName": "Minecraft",
@@ -212,11 +218,14 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
-                    "id": "00000000-0000-0000-0000-000000000002",
+                    "id": "00000000-0000-0000-0000-000000000003",
                     "contentType": "PersonaDurable",
                     "title": "Minecon 2013 Cape",
                     "creatorName": "Minecraft",
@@ -261,11 +270,14 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
-                    "id": "00000000-0000-0000-0000-000000000003",
+                    "id": "00000000-0000-0000-0000-000000000004",
                     "contentType": "PersonaDurable",
                     "title": "Minecon 2015 Cape",
                     "creatorName": "Minecraft",
@@ -310,11 +322,14 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
-                    "id": "00000000-0000-0000-0000-000000000004",
+                    "id": "00000000-0000-0000-0000-000000000005",
                     "contentType": "PersonaDurable",
                     "title": "Minecon 2016 Cape",
                     "creatorName": "Minecraft",
@@ -359,11 +374,14 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
-                    "id": "00000000-0000-0000-0000-000000000005",
+                    "id": "00000000-0000-0000-0000-000000000006",
                     "contentType": "PersonaDurable",
                     "title": "Founder's Cape",
                     "creatorName": "Minecraft",
@@ -408,11 +426,14 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
-                    "id": "00000000-0000-0000-0000-000000000006",
+                    "id": "00000000-0000-0000-0000-000000000007",
                     "contentType": "PersonaDurable",
                     "title": "Mojang Cape (Old)",
                     "creatorName": "Minecraft",
@@ -457,11 +478,14 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
-                    "id": "00000000-0000-0000-0000-000000000007",
+                    "id": "00000000-0000-0000-0000-000000000008",
                     "contentType": "PersonaDurable",
                     "title": "Mojang Cape",
                     "creatorName": "Minecraft",
@@ -506,11 +530,14 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
-                    "id": "00000000-0000-0000-0000-000000000008",
+                    "id": "00000000-0000-0000-0000-000000000009",
                     "contentType": "PersonaDurable",
                     "title": "Mojang Studios Cape",
                     "creatorName": "Minecraft",
@@ -555,11 +582,14 @@
                       "linksTo": "DressingRoom_Capes",
                       "linkType": "pageId",
                       "displayType": "store_layout.character_creator_screen",
-                      "screenTitle": { "value": "profileScreen.Header", "replacements": [] },
+                      "screenTitle": {
+                        "value": "profileScreen.Header",
+                        "replacements": []
+                      },
                       "navigateInPlace": false
                     },
                     "thumbnailPreviewOnly": true,
-                    "id": "00000000-0000-0000-0000-000000000009",
+                    "id": "00000000-0000-0000-0000-000000000010",
                     "contentType": "PersonaDurable",
                     "title": "Tiny Takeover Cape",
                     "description": "\u00a7",
@@ -567,8 +597,8 @@
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/TinyTakeoverCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/TinyTakeoverCape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png"
                     },
                     "price": {
                       "listPrice": 0,
