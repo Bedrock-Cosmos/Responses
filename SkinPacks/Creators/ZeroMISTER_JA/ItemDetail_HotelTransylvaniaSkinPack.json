@@ -145,9 +145,9 @@
                     "average": 0,
                     "totalCount": 0
                   },
-                  "linksTo": "MultiItemPage_ZeroMISTER JA_Marketplace",
+                  "linksTo": "MultiItemPage_ZeroMISTER_JA_Marketplace",
                   "linksToInfo": {
-                    "linksTo": "MultiItemPage_ZeroMISTER JA_Marketplace",
+                    "linksTo": "MultiItemPage_ZeroMISTER_JA_Marketplace",
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "screenTitle": {
