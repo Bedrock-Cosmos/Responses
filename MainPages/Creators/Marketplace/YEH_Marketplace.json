@@ -206,7 +206,7 @@
                   {
                     "id": "86e6a53f-6ae6-4109-935a-72f877194c02",
                     "contentType": "MarketplaceDurableCatalog_V1.2",
-                    "title": "R.E.P.O SEMIBOTS 5D",
+                    "title": "R.E.P.O SEMIBOTS: 5D",
                     "creatorName": "YEH",
                     "thumbnail": {
                       "tag": "Thumbnail",
@@ -228,13 +228,13 @@
                       "linkType": "pageId",
                       "displayType": "store_layout.store_data_driven_screen",
                       "screenTitle": {
-                        "value": "R.E.P.O SEMIBOTS 5D",
+                        "value": "R.E.P.O SEMIBOTS: 5D",
                         "replacements": []
                       },
                       "navigateInPlace": false
                     },
                     "statistics": {
-                      "skins": 37,
+                      "skins": 73,
                       "worlds": 0,
                       "textures": 0,
                       "behaviors": 0,
