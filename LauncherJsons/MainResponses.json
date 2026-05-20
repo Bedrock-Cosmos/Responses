@@ -536,11 +536,11 @@
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
-    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_BlackHole.json"
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_BlackHoleSkinPack.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
-    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_BlackHole.json"
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_BlackHoleSkinPack.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/dedd7dce-a317-4786-930f-9c2357d25d82",
@@ -552,11 +552,11 @@
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/ae90416f-1942-4c2b-a675-8d947fc53cf1",
-    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_Doraemon.json"
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_DoraemonSkinPack.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_ae90416f-1942-4c2b-a675-8d947fc53cf1",
-    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_Doraemon.json"
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_DoraemonSkinPack.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/7197503c-817f-4c5d-b570-67b2758d707b",
@@ -568,11 +568,11 @@
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/f6303374-6ab5-4079-baa0-6200189aa6a2",
-    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_NeonGenesisEvangelion.json"
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_NeonGenesisEvangelionSkinPack.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_f6303374-6ab5-4079-baa0-6200189aa6a2",
-    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_NeonGenesisEvangelion.json"
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_NeonGenesisEvangelionSkinPack.json"
   },
   //
   // Completed

@@ -3,7 +3,7 @@
     "id": "f6303374-6ab5-4079-baa0-6200189aa6a2",
     "pageId": "ItemDetail_f6303374-6ab5-4079-baa0-6200189aa6a2",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'Neon Genesis Evangelion'",
+    "pageName": "ItemDetail For 'Neon Genesis Evangelion Skin Pack'",
     "layout": [
       {
         "sectionName": "rows",
@@ -125,7 +125,7 @@
                 "item": {
                   "id": "f6303374-6ab5-4079-baa0-6200189aa6a2",
                   "contentType": "MarketplaceDurableCatalog_V1.2",
-                  "title": "Neon Genesis Evangelion",
+                  "title": "Neon Genesis Evangelion Skin Pack",
                   "creatorName": "ZeroMISTER JA",
                   "thumbnail": {
                     "tag": "Thumbnail",

@@ -5,11 +5,11 @@
     "Count": 1,
     "Items": [
       {
-        "Id": "ae90416f-1942-4c2b-a675-8d947fc53cf1",
+        "Id": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
         "Type": "bundle",
         "Title": {
-          "NEUTRAL": "Doraemon",
-          "neutral": "Doraemon"
+          "NEUTRAL": "Black Hole Skin Pack",
+          "neutral": "Black Hole Skin Pack"
         },
         "Description": {
           "NEUTRAL": "-",
@@ -17,8 +17,8 @@
         },
         "ContentType": "MarketplaceDurableCatalog_V1.2",
         "Tags": [
-          "ae90416f-1942-4c2b-a675-8d947fc53cf1",
-          "7489dfb0-f606-41fc-9bfb-c7ef396d8358",
+          "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+          "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
           "skinpack",
           "has_skinpack",
           "3P"
@@ -27,12 +27,12 @@
         "LastModifiedDate": "2026-04-14T18:49:56Z",
         "DisplayProperties": {
           "creatorName": "ZeroMISTER JA",
-          "offerId": "ae90416f-1942-4c2b-a675-8d947fc53cf1",
+          "offerId": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
           "purchasable": false,
           "packIdentity": [
             {
               "type": "skinpack",
-              "uuid": "7489dfb0-f606-41fc-9bfb-c7ef396d8358",
+              "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
               "version": "1.0.0"
             }
           ]

@@ -242,7 +242,7 @@
   },
   {
     "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
-    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_BlackHole.json"
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_BlackHoleSkinPack.json"
   },
   {
     "uuid": "a7952402-135e-4f5d-abea-5b738904e2c4",
@@ -250,7 +250,7 @@
   },
   {
     "uuid": "7489dfb0-f606-41fc-9bfb-c7ef396d8358",
-    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_Doraemon.json"
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_DoraemonSkinPack.json"
   },
   {
     "uuid": "b53d0382-a1e0-4707-9dd2-92ccae001033",
@@ -258,6 +258,6 @@
   },
   {
     "uuid": "863a125c-4fd6-413d-8f82-a3ab232e69ec",
-    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_NeonGenesisEvangelion.json"
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_NeonGenesisEvangelionSkinPack.json"
   }
 ]

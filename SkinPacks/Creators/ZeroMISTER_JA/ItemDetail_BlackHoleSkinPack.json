@@ -1,9 +1,9 @@
 {
   "result": {
-    "id": "ae90416f-1942-4c2b-a675-8d947fc53cf1",
-    "pageId": "ItemDetail_ae90416f-1942-4c2b-a675-8d947fc53cf1",
+    "id": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+    "pageId": "ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'Doraemon'",
+    "pageName": "ItemDetail For 'Black Hole Skin Pack'",
     "layout": [
       {
         "sectionName": "rows",
@@ -123,15 +123,15 @@
             "components": [
               {
                 "item": {
-                  "id": "ae90416f-1942-4c2b-a675-8d947fc53cf1",
+                  "id": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
                   "contentType": "MarketplaceDurableCatalog_V1.2",
-                  "title": "Doraemon",
+                  "title": "Black Hole Skin Pack",
                   "creatorName": "ZeroMISTER JA",
                   "thumbnail": {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://bedrock-cosmos.app/thumbnails/Doraemon_thumbnail.jpg",
-                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Doraemon_thumbnail.jpg?width=800&height=450"
+                    "url": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg?width=800&height=450"
                   },
                   "price": {
                     "listPrice": -1,
@@ -157,7 +157,7 @@
                     "navigateInPlace": false
                   },
                   "statistics": {
-                    "skins": 11,
+                    "skins": 4,
                     "worlds": 0,
                     "textures": 0,
                     "behaviors": 0,
@@ -169,7 +169,7 @@
                   "packIdentity": [
                     {
                       "type": "skinpack",
-                      "uuid": "7489dfb0-f606-41fc-9bfb-c7ef396d8358",
+                      "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
                       "version": "1.0.0"
                     }
                   ],
@@ -226,7 +226,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "A cubic Bedrock Edition port of the Doraemon collaboration from Minecraft China Edition!",
+                "description": "A Bedrock Edition port of the space-themed Black Hole skins from Minecraft China Edition!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }
@@ -238,20 +238,20 @@
             "components": [
               {
                 "binary": {
-                  "url": "https://cdn.bedrock-cosmos.app/uss/7489d/Doraemon.zip"
+                  "url": "https://cdn.bedrock-cosmos.app/uss/ec24d/BlackHole.zip"
                 },
                 "packIdentity": {
                   "type": "skinpack",
-                  "uuid": "7489dfb0-f606-41fc-9bfb-c7ef396d8358",
+                  "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
                   "version": "1.0.0"
                 },
                 "type": "skinViewerComp",
                 "$type": "SkinViewerComponent"
               },
               {
-                "headerText": "Doraemon: %s",
+                "headerText": "Black Hole: %s",
                 "text": {
-                  "value": "Doraemon: %s",
+                  "value": "Black Hole: %s",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
