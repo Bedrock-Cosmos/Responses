@@ -3,7 +3,7 @@
     "id": "86e6a53f-6ae6-4109-935a-72f877194c02",
     "pageId": "ItemDetail_86e6a53f-6ae6-4109-935a-72f877194c02",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'R.E.P.O SEMIBOTS 5D'",
+    "pageName": "ItemDetail For 'R.E.P.O SEMIBOTS: 5D'",
     "layout": [
       {
         "sectionName": "rows",
@@ -125,7 +125,7 @@
                 "item": {
                   "id": "86e6a53f-6ae6-4109-935a-72f877194c02",
                   "contentType": "MarketplaceDurableCatalog_V1.2",
-                  "title": "R.E.P.O SEMIBOTS 5D",
+                  "title": "R.E.P.O SEMIBOTS: 5D",
                   "creatorName": "YEH",
                   "thumbnail": {
                     "tag": "Thumbnail",
@@ -226,7 +226,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "Enjoy this cool REPO skin pack with Semibots of different sizes and colors, now in \"5D\"!",
+                "description": "Enjoy this cool R.E.P.O skin pack with Semibots of different sizes and colors, now in \"5D\"!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }
@@ -249,9 +249,9 @@
                 "$type": "SkinViewerComponent"
               },
               {
-                "headerText": "R.E.P.O SEMIBOTS 5D: %s",
+                "headerText": "R.E.P.O SEMIBOTS: 5D: %s",
                 "text": {
-                  "value": "R.E.P.O SEMIBOTS 5D: %s",
+                  "value": "R.E.P.O SEMIBOTS: 5D: %s",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",

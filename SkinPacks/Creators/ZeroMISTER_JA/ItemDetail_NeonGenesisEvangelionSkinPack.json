@@ -249,9 +249,9 @@
                 "$type": "SkinViewerComponent"
               },
               {
-                "headerText": "Neon Genesis Evangelion: %s",
+                "headerText": "Neon Genesis Evangelion Skin Pack: %s",
                 "text": {
-                  "value": "Neon Genesis Evangelion: %s",
+                  "value": "Neon Genesis Evangelion Skin Pack: %s",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",

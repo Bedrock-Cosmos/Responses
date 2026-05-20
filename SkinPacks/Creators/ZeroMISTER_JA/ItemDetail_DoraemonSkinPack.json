@@ -249,9 +249,9 @@
                 "$type": "SkinViewerComponent"
               },
               {
-                "headerText": "Doraemon: %s",
+                "headerText": "Doraemon Skin Pack: %s",
                 "text": {
-                  "value": "Doraemon: %s",
+                  "value": "Doraemon Skin Pack: %s",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",

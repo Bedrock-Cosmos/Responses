@@ -249,9 +249,9 @@
                 "$type": "SkinViewerComponent"
               },
               {
-                "headerText": "Black Hole: %s",
+                "headerText": "Black Hole Skin Pack: %s",
                 "text": {
-                  "value": "Black Hole: %s",
+                  "value": "Black Hole Skin Pack: %s",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
