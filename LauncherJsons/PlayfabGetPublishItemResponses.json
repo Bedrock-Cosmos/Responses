@@ -977,6 +977,10 @@
     "response": "Persona\\SpinOffCapes\\OminousCape.json"
   },
   {
+    "uuid": "e0a2af8c-ee2f-4103-90d6-545c23c843eb",
+    "response": "Persona\\SpinOffCapes\\PhantomCape.json"
+  },
+  {
     "uuid": "a7eda0a7-5896-4e05-a01d-e03449567ecb",
     "response": "Persona\\SpinOffCapes\\PrismCape.json"
   },
