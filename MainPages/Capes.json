@@ -3622,13 +3622,13 @@
                   {
                     "id": "a115555a-315d-4a0f-8437-78df54a3f653",
                     "contentType": "PersonaDurable",
-                    "title": "Birthday Cape",
+                    "title": "Birthday (Dungeons) Cape",
                     "creatorName": "Minecraft Dungeons",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/BirthdayCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/BirthdayCape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/BirthdayDungeonsCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/BirthdayDungeonsCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -4150,13 +4150,13 @@
                   {
                     "id": "372ef312-7f50-4e2b-a985-62cb832e4c55",
                     "contentType": "PersonaDurable",
-                    "title": "Iron Golem cape",
+                    "title": "Iron Golem Cape",
                     "creatorName": "Minecraft Dungeons",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/IronGolemcape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/IronGolemcape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/IronGolemCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/IronGolemCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -4414,13 +4414,13 @@
                   {
                     "id": "47fb8bcd-9db1-4262-b1ad-c1c6bafdeaac",
                     "contentType": "PersonaDurable",
-                    "title": "Sinister Blue Cape",
+                    "title": "Sinister Cape",
                     "creatorName": "Minecraft Dungeons",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/SinisterBlueCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/SinisterBlueCape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/SinisterCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/SinisterCape.png"
                     },
                     "price": {
                       "listPrice": 0,
