@@ -1,14 +1,26 @@
 {
-  "id": "7f21535e-062c-442a-bcf0-2e68934f9d8f",
-  "instanceId": "7f21535e-062c-442a-bcf0-2e68934f9d8f",
+  "id": "ba44ec36-727a-48a9-8a88-71c11864e0a6",
+  "instanceId": "ba44ec36-727a-48a9-8a88-71c11864e0a6",
   "surface": "InboxMessage",
-  "template": "ContentListNoCTA",
+  "template": "GameDrop",
   "header": "A News-Filled Bedrock Cosmos Update!",
-  "body": "Welcome to Bedrock Cosmos's v1.1.0 update! This update brings several new features (like this news message you are seeing now) and pieces of content to enjoy. Several new creators have also joined the Bedrock Cosmos team, and with that, many brand new capes and skin packs have been released. Be sure to check them out!",
+  "body": "Welcome to Bedrock Cosmos's v1.1.0 update! This update brings several new features (like this news message you are seeing now) and pieces of content to enjoy.",
   "images": {
     "Primary": {
-      "id": "bffb289b-6a05-43dd-a0f1-e2cf1bc718a9",
+      "id": "0f351b33-bac9-4ead-a481-9cf9d58576b4",
       "url": "https://bedrock-cosmos.app/thumbnails/News/News_2026-05-30.png"
+    },
+    "UpdateOne": {
+      "id": "0aae3b02-4978-4c23-bc0c-7cf0c20e8d5b",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/News_Subimage1_2026-05-30.png"
+    },
+    "UpdateTwo": {
+      "id": "90cd167e-6581-4803-8d9e-e7ec1587a092",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/News_Subimage2_2026-05-30.png"
+    },
+    "UpdateThree": {
+      "id": "f39c07a5-e2db-476c-8850-167083b28a53",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/News_Subimage3_2026-05-30.png"
     }
   },
   "buttons": {
@@ -16,100 +28,46 @@
       "text": "Dismiss",
       "action": "Dismiss",
       "link": "",
-      "description": ""
+      "description": "",
+      "saleBanner": ""
     },
-    "CallToAction": {
-      "text": "What's New?",
+    "FooterCTA": {
+      "text": "Changelog",
       "action": "External",
       "link": "https://bedrock-cosmos.app/changelogs/",
-      "description": ""
+      "description": "",
+      "saleBanner": ""
     }
   },
-  "reportId": "ZWRjMzEzNzktYWJhYi00MmZlLWFlY2MtYjBkNjAzOGFlY2Fh",
+  "reportId": "MDAzMDU4ZjAtNjkwNS00NmVmLWE5Y2UtZTFjMDI3NjNjNmY3",
   "isControl": false,
   "sender": "Bedrock Cosmos",
   "status": "Unread",
-  "persistToInbox": false,
   "persistToInboxOnImpression": false,
   "inboxCategory": "BedrockCosmosNews",
-  "dateReceived": "2025-10-25T02:45:42.0793091Z",
-  "itemList": [
-    {
-      "id": "2de148de-3196-4dac-8e2a-a28e589da380",
-      "contentType": "PersonaDurable",
-      "title": "Hero Cape",
-      "description": "§",
-      "creatorName": "Minecraft Dungeons",
-      "thumbnail": {
-        "tag": "Thumbnail",
-        "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png"
-      },
-      "price": {
-        "listPrice": 0,
-        "realmsInfo": {
-          "inRealmsPlus": false
-        },
-        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-        "virtualCurrencyType": "Minecoin"
-      },
-      "pieceType": "persona_capes",
-      "rarity": "epic",
-      "ownership": "Purchased",
-      "packType": "Persona",
-      "packIdentity": [
-        {
-          "type": "persona_piece",
-          "uuid": "1a1b2012-f9a0-4aa4-921a-b273f76f6e2b",
-          "version": "1.0.0"
-        }
-      ],
-      "images": [
-        {
-          "tag": "Thumbnail",
-          "type": "Thumbnail",
-          "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png",
-          "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png"
-        }
-      ],
-      "startDate": "2020-01-01T12:00:00Z",
-      "namedLinksToInfoMap": {
-        "dr.persona_creator_page": {
-          "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
-          "linkType": "external",
-          "displayType": "store_layout.character_creator_screen",
-          "navigateInPlace": false
-        }
-      }
-    }
-  ],
+  "dateReceived": "2026-05-28T03:12:38.192Z",
+  "itemList": [],
   "style": "Default",
-  "associatedProducts": [],
-  "messageItemList": [
-    {
-      "button": {
-        "id": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
-        "text": "New Custom Capes!",
-        "action": "Internal",
-        "link": "/realms-pdp",
-        "description": "Several new capes have been added, including ones from Minecraft Dungeons and Essential!"
-      },
-      "image": {
-        "id": "91b8c70a-50cd-4b48-a0fa-ddbf160d2045",
-        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png",
-        "imageSize": {
-          "height": 450,
-          "width": 450
-        }
-      }
-    }
+  "messageTitles": [
+    "BedrockVanilla"
   ],
+  "associatedProducts": [],
+  "messageItemList": [],
   "messageText": {
     "header": "A News-Filled Bedrock Cosmos Update!",
-    "body": "Welcome to Bedrock Cosmos's v1.1.0 update! This update brings several new features (like this news message you are seeing now) and pieces of content to enjoy. Several new creators have also joined the Bedrock Cosmos team, and with that, many brand new capes and skin packs have been released. Be sure to check them out!"
+    "body": "Welcome to Bedrock Cosmos's v1.1.0 update! This update brings several new features (like this news message you are seeing now) and pieces of content to enjoy.",
+    "subTitle": "",
+    "updateOneTitle": "In-Game News",
+    "updateTwoTitle": "New Skin Packs",
+    "updateThreeTitle": "New Capes",
+    "updateOneBody": "Receive the latest information about Bedrock Cosmos and new cosmetics directly through Minecraft's inbox system!",
+    "updateTwoBody": "Check out 10+ new skin packs made by Bedrock Cosmos creators!",
+    "updateThreeBody": "Additional capes have been added to Bedrock Cosmos, including Minecraft Dungeons capes, MCC team capes (by NAC), and more!",
+    "footerHeader": "",
+    "footerBody": "For additional information about this update, feel free to check out our changelog!"
   },
   "versionConstraint": "",
+  "launcherVersionConstraint": "",
   "colors": {},
-  "isSentimentSubmitButtonVisible": false
+  "ageRanges": []
 }
