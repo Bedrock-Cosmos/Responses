@@ -964,12 +964,12 @@
     "response": "Persona\\CustomCapes\\Essential\\CopperGolemExposedCape.json"
   },
   {
-    "uuid": "1e20accc-ce9d-49ff-b9fd-88dff3f8ee98",
-    "response": "Persona\\CustomCapes\\Essential\\CopperGolemOxidizedCape.json"
-  },
-  {
     "uuid": "def17786-1e66-44ee-aace-6f7ce7037dc0",
     "response": "Persona\\CustomCapes\\Essential\\CopperGolemWeatheredCape.json"
+  },
+  {
+    "uuid": "1e20accc-ce9d-49ff-b9fd-88dff3f8ee98",
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemOxidizedCape.json"
   },
   {
     "uuid": "dee1ead7-6f6c-45d7-b647-5e733ef90a5b",

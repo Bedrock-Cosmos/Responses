@@ -119,7 +119,7 @@
             "components": [
               {
                 "text": {
-                  "value": "Essential Capes",
+                  "value": "Essential Mod Capes",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
@@ -140,16 +140,15 @@
               {
                 "items": [
                   {
-                    "id": "0e377825-9488-4496-b75a-21de4b008b0a",
+                    "id": "2be802db-df1a-403c-a8e5-a83d09e6f539",
                     "contentType": "PersonaDurable",
-                    "title": "Tiny Takeover Cape",
-                    "description": "§",
+                    "title": "Blossom Cape",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/BlossomCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/BlossomCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -166,271 +165,11 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "3ddf71f3-8eb2-4491-9b48-cd1c8bf6f465",
+                        "uuid": "c28a0e7f-35ba-4dee-a784-49fe521b0992",
                         "version": "1.0.0"
                       }
                     ],
-                    "startDate": "2026-03-30T12:00:00Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "6344711f-031f-4a4b-a186-1a0293bef194",
-                    "contentType": "PersonaDurable",
-                    "title": "Wildflower Cape",
-                    "creatorName": "Essential",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/WildflowerCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/WildflowerCape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "legendary",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "6c6e36e6-d28e-4eac-bdcb-34db5f652b1e",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2026-04-27T11:22:32Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false,
-                        "screenTitle": {
-                          "value": "Essential Mod Capes",
-                          "replacements": []
-                        }
-                      }
-                    }
-                  },
-                  {
-                    "id": "852bea8b-3645-4ef8-959b-b0dd23285e24",
-                    "contentType": "PersonaDurable",
-                    "title": "Essential CubeCraft Cape",
-                    "creatorName": "Essential",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialCubeCraftCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialCubeCraftCape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "epic",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "abdf8792-936b-4a97-bd84-375cb90e43ab",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2026-04-27T11:02:03Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false,
-                        "screenTitle": {
-                          "value": "Essential Mod Capes",
-                          "replacements": []
-                        }
-                      }
-                    }
-                  },
-                  {
-                    "id": "cae495c4-7242-4504-a107-e4566fb8dc0d",
-                    "contentType": "PersonaDurable",
-                    "title": "Trial Cape",
-                    "creatorName": "Essential",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/TrialCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/TrialCape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "legendary",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "8c5cf4ee-7df9-4b5f-b623-d4c876762df1",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2026-04-27T11:23:17Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false,
-                        "screenTitle": {
-                          "value": "Essential Mod Capes",
-                          "replacements": []
-                        }
-                      }
-                    }
-                  },
-                  {
-                    "id": "8cd0c142-1562-4212-9c27-c38f2ef0f325",
-                    "contentType": "PersonaDurable",
-                    "title": "Essential Discord Cape",
-                    "creatorName": "Essential",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialDiscordCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialDiscordCape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "rare",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "04ef3712-d5ad-4a5e-b172-98e3b3ab427a",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2026-04-27T11:25:17Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false,
-                        "screenTitle": {
-                          "value": "Essential Mod Capes",
-                          "replacements": []
-                        }
-                      }
-                    }
-                  },
-                  {
-                    "id": "c3ee626e-91a6-4a8b-8d49-fd0f6ab2ba65",
-                    "contentType": "PersonaDurable",
-                    "title": "Nautilus Cape",
-                    "creatorName": "Essential",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/NautilusCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/NautilusCape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "legendary",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "147e5fa7-22a2-48b9-bb26-c62dec84fd18",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2026-04-27T11:26:31Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false,
-                        "screenTitle": {
-                          "value": "Essential Mod Capes",
-                          "replacements": []
-                        }
-                      }
-                    }
-                  },
-                  {
-                    "id": "49b293c9-c0b7-4100-a760-17d213e9417e",
-                    "contentType": "PersonaDurable",
-                    "title": "Nautilus Zombie Cape",
-                    "creatorName": "Essential",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/NautilusZombieCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/NautilusZombieCape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "legendary",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "c00b714d-3209-46a5-8dc3-a01b978a4790",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2026-04-27T11:27:05Z",
+                    "startDate": "2026-04-27T11:36:09Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -621,94 +360,6 @@
                     }
                   },
                   {
-                    "id": "dee1ead7-6f6c-45d7-b647-5e733ef90a5b",
-                    "contentType": "PersonaDurable",
-                    "title": "Sky Cape",
-                    "creatorName": "Essential",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/SkyCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/SkyCape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "legendary",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "faa132bf-4f94-45d0-afbd-e92aac77479b",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2026-04-27T11:34:33Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false,
-                        "screenTitle": {
-                          "value": "Essential Mod Capes",
-                          "replacements": []
-                        }
-                      }
-                    }
-                  },
-                  {
-                    "id": "2be802db-df1a-403c-a8e5-a83d09e6f539",
-                    "contentType": "PersonaDurable",
-                    "title": "Blossom Cape",
-                    "creatorName": "Essential",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/BlossomCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/BlossomCape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "legendary",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "c28a0e7f-35ba-4dee-a784-49fe521b0992",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2026-04-27T11:36:09Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false,
-                        "screenTitle": {
-                          "value": "Essential Mod Capes",
-                          "replacements": []
-                        }
-                      }
-                    }
-                  },
-                  {
                     "id": "1ef8a9ed-7bae-432c-bd86-953269ca0531",
                     "contentType": "PersonaDurable",
                     "title": "Creaking Cape",
@@ -753,15 +404,15 @@
                     }
                   },
                   {
-                    "id": "8fb07868-d2e7-4b06-84f8-fc38e4f6cd9a",
+                    "id": "852bea8b-3645-4ef8-959b-b0dd23285e24",
                     "contentType": "PersonaDurable",
-                    "title": "Sniffer Cape",
+                    "title": "Essential CubeCraft Cape",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/SnifferCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/SnifferCape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialCubeCraftCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialCubeCraftCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -772,17 +423,61 @@
                       "virtualCurrencyType": "Minecoin"
                     },
                     "pieceType": "persona_capes",
-                    "rarity": "legendary",
+                    "rarity": "epic",
                     "ownership": "Purchased",
                     "packType": "Persona",
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "41dfccaa-706b-4b6f-8d10-9d8be954d066",
+                        "uuid": "abdf8792-936b-4a97-bd84-375cb90e43ab",
                         "version": "1.0.0"
                       }
                     ],
-                    "startDate": "2026-04-27T11:37:42Z",
+                    "startDate": "2026-04-27T11:02:03Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Essential Mod Capes",
+                          "replacements": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "8cd0c142-1562-4212-9c27-c38f2ef0f325",
+                    "contentType": "PersonaDurable",
+                    "title": "Essential Discord Cape",
+                    "creatorName": "Essential",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialDiscordCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialDiscordCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "rare",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "04ef3712-d5ad-4a5e-b172-98e3b3ab427a",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-04-27T11:25:17Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -871,6 +566,311 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:39:28Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Essential Mod Capes",
+                          "replacements": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "c3ee626e-91a6-4a8b-8d49-fd0f6ab2ba65",
+                    "contentType": "PersonaDurable",
+                    "title": "Nautilus Cape",
+                    "creatorName": "Essential",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/NautilusCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/NautilusCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "147e5fa7-22a2-48b9-bb26-c62dec84fd18",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-04-27T11:26:31Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Essential Mod Capes",
+                          "replacements": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "49b293c9-c0b7-4100-a760-17d213e9417e",
+                    "contentType": "PersonaDurable",
+                    "title": "Nautilus (Zombie) Cape",
+                    "creatorName": "Essential",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/NautilusZombieCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/NautilusZombieCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "c00b714d-3209-46a5-8dc3-a01b978a4790",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-04-27T11:27:05Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Essential Mod Capes",
+                          "replacements": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "dee1ead7-6f6c-45d7-b647-5e733ef90a5b",
+                    "contentType": "PersonaDurable",
+                    "title": "Sky Cape",
+                    "creatorName": "Essential",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/SkyCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/SkyCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "faa132bf-4f94-45d0-afbd-e92aac77479b",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-04-27T11:34:33Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Essential Mod Capes",
+                          "replacements": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "8fb07868-d2e7-4b06-84f8-fc38e4f6cd9a",
+                    "contentType": "PersonaDurable",
+                    "title": "Sniffer Cape",
+                    "creatorName": "Essential",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/SnifferCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/SnifferCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "41dfccaa-706b-4b6f-8d10-9d8be954d066",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-04-27T11:37:42Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Essential Mod Capes",
+                          "replacements": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "0e377825-9488-4496-b75a-21de4b008b0a",
+                    "contentType": "PersonaDurable",
+                    "title": "Tiny Takeover Cape",
+                    "description": "§",
+                    "creatorName": "Essential",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "3ddf71f3-8eb2-4491-9b48-cd1c8bf6f465",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-03-30T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "cae495c4-7242-4504-a107-e4566fb8dc0d",
+                    "contentType": "PersonaDurable",
+                    "title": "Trial Cape",
+                    "creatorName": "Essential",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/TrialCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/TrialCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "8c5cf4ee-7df9-4b5f-b623-d4c876762df1",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-04-27T11:23:17Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Essential Mod Capes",
+                          "replacements": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "6344711f-031f-4a4b-a186-1a0293bef194",
+                    "contentType": "PersonaDurable",
+                    "title": "Wildflower Cape",
+                    "creatorName": "Essential",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/WildflowerCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/WildflowerCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "6c6e36e6-d28e-4eac-bdcb-34db5f652b1e",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-04-27T11:22:32Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",

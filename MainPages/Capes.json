@@ -6121,10 +6121,6 @@
                         "linkType": "external",
                         "displayType": "store_layout.character_creator_screen",
                         "navigateInPlace": false,
-                        "screenTitle": {
-                          "value": "Essential Mod Capes",
-                          "replacements": []
-                        }
                       }
                     }
                   }
