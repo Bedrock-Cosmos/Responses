@@ -232,6 +232,94 @@
     "response": "Persona\\VanillaCapes\\Xbox_cape.json"
   },
   {
+    "uuid": "e6ac6826-b590-4aaf-b87a-c4499d4283a1",
+    "response": "Persona\\SpinOffCapes\\AmethystCape.json"
+  },
+  {
+    "uuid": "a115555a-315d-4a0f-8437-78df54a3f653",
+    "response": "Persona\\SpinOffCapes\\BirthdayDungeonsCape.json"
+  },
+  {
+    "uuid": "cac8a80c-dfd5-4056-9af0-3bb549a9e8d3",
+    "response": "Persona\\SpinOffCapes\\CloudyClimbCape.json"
+  },
+  {
+    "uuid": "d4e66f66-c47e-4020-8fdf-897432617d02",
+    "response": "Persona\\SpinOffCapes\\CloudyClimbTrailerCape.json"
+  },
+  {
+    "uuid": "cae14f00-efc1-4be9-afcf-513a125a8e91",
+    "response": "Persona\\SpinOffCapes\\CowCrusaderCape.json"
+  },
+  {
+    "uuid": "1f0b25db-b7bc-4080-b345-394a3f18c977",
+    "response": "Persona\\SpinOffCapes\\DownpourCape.json"
+  },
+  {
+    "uuid": "615a566e-d44b-4de4-9d91-46fc20072141",
+    "response": "Persona\\SpinOffCapes\\FaunaFaireCape.json"
+  },
+  {
+    "uuid": "a82f16ff-2520-4024-b318-13aca62e6710",
+    "response": "Persona\\SpinOffCapes\\GiftWrapCape.json"
+  },
+  {
+    "uuid": "6335945a-ce24-41e1-9401-66c2e4d25557",
+    "response": "Persona\\SpinOffCapes\\GlowCape.json"
+  },
+  {
+    "uuid": "1da006d2-a91d-4677-9492-6ef57c6b7b35",
+    "response": "Persona\\SpinOffCapes\\GourdianCape.json"
+  },
+  {
+    "uuid": "ee861fd0-95dd-4954-af6e-1962582facfb",
+    "response": "Persona\\SpinOffCapes\\HammerCape.json"
+  },
+  {
+    "uuid": "2de148de-3196-4dac-8e2a-a28e589da380",
+    "response": "Persona\\SpinOffCapes\\HeroCape.json"
+  },
+  {
+    "uuid": "1a20c9bd-838b-4dad-b1b0-4e93a66b5fad",
+    "response": "Persona\\SpinOffCapes\\IceologerCape.json"
+  },
+  {
+    "uuid": "372ef312-7f50-4e2b-a985-62cb832e4c55",
+    "response": "Persona\\SpinOffCapes\\IronGolemCape.json"
+  },
+  {
+    "uuid": "4cd3e857-ccdc-4d38-86cc-a7df3863973a",
+    "response": "Persona\\SpinOffCapes\\LuminousNightCape.json"
+  },
+  {
+    "uuid": "1bcf2c21-652e-4ae4-9af2-630968571130",
+    "response": "Persona\\SpinOffCapes\\MysteryCape.json"
+  },
+  {
+    "uuid": "a04cbd2c-fc46-452a-ad9a-b6aaa24b6a87",
+    "response": "Persona\\SpinOffCapes\\OminousCape.json"
+  },
+  {
+    "uuid": "e0a2af8c-ee2f-4103-90d6-545c23c843eb",
+    "response": "Persona\\SpinOffCapes\\PhantomCape.json"
+  },
+  {
+    "uuid": "a7eda0a7-5896-4e05-a01d-e03449567ecb",
+    "response": "Persona\\SpinOffCapes\\PrismCape.json"
+  },
+  {
+    "uuid": "6a07d42d-3e17-45b4-b712-0d6165e7c2d5",
+    "response": "Persona\\SpinOffCapes\\RedRoyalCape.json"
+  },
+  {
+    "uuid": "47fb8bcd-9db1-4262-b1ad-c1c6bafdeaac",
+    "response": "Persona\\SpinOffCapes\\SinisterCape.json"
+  },
+  {
+    "uuid": "1a3f66b4-a66b-4a44-bb79-d795ca40bbf7",
+    "response": "Persona\\SpinOffCapes\\TurtleShellCape.json"
+  },
+  {
     "uuid": "80a1968a-853e-4ca8-9c70-6de7ddb732b1",
     "response": "Persona\\CustomCapes\\BlockOfDiamond_cape.json"
   },
@@ -906,95 +994,6 @@
   {
     "uuid": "48d3ae91-5066-40f1-83f6-0a9d56166eff",
     "response": "Persona\\CustomCapes\\Essential\\EssentialPrideCape2.json"
-  },
-  // Dungeons
-  {
-    "uuid": "e6ac6826-b590-4aaf-b87a-c4499d4283a1",
-    "response": "Persona\\SpinOffCapes\\AmethystCape.json"
-  },
-  {
-    "uuid": "a115555a-315d-4a0f-8437-78df54a3f653",
-    "response": "Persona\\SpinOffCapes\\BirthdayDungeonsCape.json"
-  },
-  {
-    "uuid": "cac8a80c-dfd5-4056-9af0-3bb549a9e8d3",
-    "response": "Persona\\SpinOffCapes\\CloudyClimbCape.json"
-  },
-  {
-    "uuid": "d4e66f66-c47e-4020-8fdf-897432617d02",
-    "response": "Persona\\SpinOffCapes\\CloudyClimbTrailerCape.json"
-  },
-  {
-    "uuid": "cae14f00-efc1-4be9-afcf-513a125a8e91",
-    "response": "Persona\\SpinOffCapes\\CowCrusaderCape.json"
-  },
-  {
-    "uuid": "1f0b25db-b7bc-4080-b345-394a3f18c977",
-    "response": "Persona\\SpinOffCapes\\DownpourCape.json"
-  },
-  {
-    "uuid": "615a566e-d44b-4de4-9d91-46fc20072141",
-    "response": "Persona\\SpinOffCapes\\FaunaFaireCape.json"
-  },
-  {
-    "uuid": "a82f16ff-2520-4024-b318-13aca62e6710",
-    "response": "Persona\\SpinOffCapes\\GiftWrapCape.json"
-  },
-  {
-    "uuid": "6335945a-ce24-41e1-9401-66c2e4d25557",
-    "response": "Persona\\SpinOffCapes\\GlowCape.json"
-  },
-  {
-    "uuid": "1da006d2-a91d-4677-9492-6ef57c6b7b35",
-    "response": "Persona\\SpinOffCapes\\GourdianCape.json"
-  },
-  {
-    "uuid": "ee861fd0-95dd-4954-af6e-1962582facfb",
-    "response": "Persona\\SpinOffCapes\\HammerCape.json"
-  },
-  {
-    "uuid": "2de148de-3196-4dac-8e2a-a28e589da380",
-    "response": "Persona\\SpinOffCapes\\HeroCape.json"
-  },
-  {
-    "uuid": "1a20c9bd-838b-4dad-b1b0-4e93a66b5fad",
-    "response": "Persona\\SpinOffCapes\\IceologerCape.json"
-  },
-  {
-    "uuid": "372ef312-7f50-4e2b-a985-62cb832e4c55",
-    "response": "Persona\\SpinOffCapes\\IronGolemCape.json"
-  },
-  {
-    "uuid": "4cd3e857-ccdc-4d38-86cc-a7df3863973a",
-    "response": "Persona\\SpinOffCapes\\LuminousNightCape.json"
-  },
-  {
-    "uuid": "1bcf2c21-652e-4ae4-9af2-630968571130",
-    "response": "Persona\\SpinOffCapes\\MysteryCape.json"
-  },
-  {
-    "uuid": "a04cbd2c-fc46-452a-ad9a-b6aaa24b6a87",
-    "response": "Persona\\SpinOffCapes\\OminousCape.json"
-  },
-  {
-    "uuid": "e0a2af8c-ee2f-4103-90d6-545c23c843eb",
-    "response": "Persona\\SpinOffCapes\\PhantomCape.json"
-  },
-  {
-    "uuid": "a7eda0a7-5896-4e05-a01d-e03449567ecb",
-    "response": "Persona\\SpinOffCapes\\PrismCape.json"
-  },
-  {
-    "uuid": "6a07d42d-3e17-45b4-b712-0d6165e7c2d5",
-    "response": "Persona\\SpinOffCapes\\RedRoyalCape.json"
-  },
-  {
-    "uuid": "47fb8bcd-9db1-4262-b1ad-c1c6bafdeaac",
-    "response": "Persona\\SpinOffCapes\\SinisterCape.json"
-  },
-  {
-    "uuid": "1a3f66b4-a66b-4a44-bb79-d795ca40bbf7",
-    "response": "Persona\\SpinOffCapes\\TurtleShellCape.json"
   },
   // Skin Packs
   {
