@@ -3,11 +3,11 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "1e20accc-ce9d-49ff-b9fd-88dff3f8ee98",
+      "Id": "2c018d95-d44d-4b6b-b8a1-7135411ef257",
       "Contents": [
         {
-          "Id": "4d332e49-4b0f-4ffe-b51b-49bdc3d01c71",
-          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/CopperGolemCapeOxidized.zip",
+          "Id": "862f2c97-0761-46a3-ba62-313d4c2b638e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/CopperGolemExposedCape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "9097cdc1-8b4b-4975-8b68-1c22ce1a86d3",
+            "uuid": "bc79bee1-477d-49c1-9582-65a1223877ba",
             "version": "1.0.0"
           }
         ]

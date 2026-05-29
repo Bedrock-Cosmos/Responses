@@ -3,11 +3,11 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "48d3ae91-5066-40f1-83f6-0a9d56166eff",
+      "Id": "852bea8b-3645-4ef8-959b-b0dd23285e24",
       "Contents": [
         {
-          "Id": "c8b64a18-163c-418f-ba9d-698d0ea9d628",
-          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/PrideCape2.zip",
+          "Id": "01e23ae8-40a1-49bd-bf2c-308c11a5d965",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/EssentialCubeCraftCape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "d4bcd439-d36f-4c30-b1e1-c7c4d02fa6f5",
+            "uuid": "abdf8792-936b-4a97-bd84-375cb90e43ab",
             "version": "1.0.0"
           }
         ]

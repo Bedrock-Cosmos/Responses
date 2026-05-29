@@ -3,11 +3,11 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "95a65048-d96d-4061-8c4c-8dfb3343ea6c",
+      "Id": "1e20accc-ce9d-49ff-b9fd-88dff3f8ee98",
       "Contents": [
         {
-          "Id": "4a46dd60-6900-497c-afbc-e257f0410e2d",
-          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/PrideCape.zip",
+          "Id": "4d332e49-4b0f-4ffe-b51b-49bdc3d01c71",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/CopperGolemOxidizedCape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
@@ -20,7 +20,7 @@
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "e3e13cc6-a1cf-4839-96af-5f50686e76d9",
+            "uuid": "9097cdc1-8b4b-4975-8b68-1c22ce1a86d3",
             "version": "1.0.0"
           }
         ]

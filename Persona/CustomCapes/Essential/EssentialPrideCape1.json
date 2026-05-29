@@ -3,24 +3,24 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "47fb8bcd-9db1-4262-b1ad-c1c6bafdeaac",
+      "Id": "95a65048-d96d-4061-8c4c-8dfb3343ea6c",
       "Contents": [
         {
-          "Id": "4bf29b4b-1618-48b6-82ee-5535488adbda",
-          "Url": "https://capes.bedrock-cosmos.app/zips/SinisterBlueCape.zip",
+          "Id": "4a46dd60-6900-497c-afbc-e257f0410e2d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/EssentialPrideCape1.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
         }
       ],
       "DisplayProperties": {
-        "creatorName": "Minecraft Dungeons",
+        "creatorName": "Essential",
         "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
         "purchasable": true,
         "packIdentity": [
           {
             "type": "persona_piece",
-            "uuid": "6acb12ab-16e7-4133-ac15-ea90b29d1a03",
+            "uuid": "e3e13cc6-a1cf-4839-96af-5f50686e76d9",
             "version": "1.0.0"
           }
         ]

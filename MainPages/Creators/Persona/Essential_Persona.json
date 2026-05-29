@@ -227,13 +227,13 @@
                   {
                     "id": "852bea8b-3645-4ef8-959b-b0dd23285e24",
                     "contentType": "PersonaDurable",
-                    "title": "CubeCraft Cape",
+                    "title": "Essential CubeCraft Cape",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/CubeCraftCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/CubeCraftCape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialCubeCraftCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialCubeCraftCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -491,13 +491,13 @@
                   {
                     "id": "2c018d95-d44d-4b6b-b8a1-7135411ef257",
                     "contentType": "PersonaDurable",
-                    "title": "Copper Golem Cape Exposed",
+                    "title": "Copper Golem (Exposed) Cape",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemCapeExposed.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemCapeExposed.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemExposedCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemExposedCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -535,13 +535,13 @@
                   {
                     "id": "def17786-1e66-44ee-aace-6f7ce7037dc0",
                     "contentType": "PersonaDurable",
-                    "title": "Copper Golem Cape Weathered",
+                    "title": "Copper Golem (Weathered) Cape",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemCapeWeathered.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemCapeWeathered.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemWeatheredCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemWeatheredCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -579,13 +579,13 @@
                   {
                     "id": "1e20accc-ce9d-49ff-b9fd-88dff3f8ee98",
                     "contentType": "PersonaDurable",
-                    "title": "Copper Golem Cape Oxidized",
+                    "title": "Copper Golem (Oxidized) Cape",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemCapeOxidized.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemCapeOxidized.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemOxidizedCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/CopperGolemOxidizedCape.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -799,13 +799,13 @@
                   {
                     "id": "95a65048-d96d-4061-8c4c-8dfb3343ea6c",
                     "contentType": "PersonaDurable",
-                    "title": "Pride Cape",
+                    "title": "Essential Pride Cape 1",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/PrideCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/PrideCape.png"
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialPrideCape1.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialPrideCape1.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -843,12 +843,12 @@
                   {
                     "id": "48d3ae91-5066-40f1-83f6-0a9d56166eff",
                     "contentType": "PersonaDurable",
-                    "title": "Pride Cape 2",
+                    "title": "Essential Pride Cape 2",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/PrideCape2.png",
+                      "url": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialPrideCape2.png",
                       "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/PrideCape2.png"
                     },
                     "price": {

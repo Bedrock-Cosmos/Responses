@@ -849,7 +849,7 @@
   },
   {
     "uuid": "852bea8b-3645-4ef8-959b-b0dd23285e24",
-    "response": "Persona\\CustomCapes\\Essential\\CubeCraftCape.json"
+    "response": "Persona\\CustomCapes\\Essential\\EssentialCubeCraftCape.json"
   },
   {
     "uuid": "cae495c4-7242-4504-a107-e4566fb8dc0d",
@@ -873,15 +873,15 @@
   },
   {
     "uuid": "2c018d95-d44d-4b6b-b8a1-7135411ef257",
-    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCapeExposed.json"
-  },
-  {
-    "uuid": "def17786-1e66-44ee-aace-6f7ce7037dc0",
-    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCapeWeathered.json"
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemExposedCape.json"
   },
   {
     "uuid": "1e20accc-ce9d-49ff-b9fd-88dff3f8ee98",
-    "response": "Persona\\CustomCapes\\Essential\\CopperGolemCapeOxidized.json"
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemOxidizedCape.json"
+  },
+  {
+    "uuid": "def17786-1e66-44ee-aace-6f7ce7037dc0",
+    "response": "Persona\\CustomCapes\\Essential\\CopperGolemWeatheredCape.json"
   },
   {
     "uuid": "dee1ead7-6f6c-45d7-b647-5e733ef90a5b",
@@ -901,11 +901,11 @@
   },
   {
     "uuid": "95a65048-d96d-4061-8c4c-8dfb3343ea6c",
-    "response": "Persona\\CustomCapes\\Essential\\PrideCape.json"
+    "response": "Persona\\CustomCapes\\Essential\\EssentialPrideCape1.json"
   },
   {
     "uuid": "48d3ae91-5066-40f1-83f6-0a9d56166eff",
-    "response": "Persona\\CustomCapes\\Essential\\PrideCape2.json"
+    "response": "Persona\\CustomCapes\\Essential\\EssentialPrideCape2.json"
   },
   // Dungeons
   {
@@ -990,7 +990,7 @@
   },
   {
     "uuid": "47fb8bcd-9db1-4262-b1ad-c1c6bafdeaac",
-    "response": "Persona\\SpinOffCapes\\SinisterBlueCape.json"
+    "response": "Persona\\SpinOffCapes\\SinisterCape.json"
   },
   {
     "uuid": "1a3f66b4-a66b-4a44-bb79-d795ca40bbf7",
