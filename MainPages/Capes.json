@@ -159,15 +159,15 @@
                     }
                   },
                   {
-                    "id": "06a2e8d4-8bcf-4ae4-ad1d-1e86bc6dfcb3",
+                    "id": "f3e77de1-3ab8-4a79-acce-b1bbf5c297a4",
                     "contentType": "PersonaDurable",
                     "title": "Builder Cape",
                     "creatorName": "Minecraft",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/BuilderCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BuilderCape.png"
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/98a34e08-7be0-461c-bf06-f82c83871205/builder_cape_Thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/98a34e08-7be0-461c-bf06-f82c83871205/builder_cape_Thumbnail_0.png?width=800&height=450"
                     },
                     "price": {
                       "listPrice": 0,
@@ -184,8 +184,8 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "7292c7b9-d286-4733-b328-e28233726e73",
-                        "version": "1.0.0"
+                        "uuid": "bc3c0aa3-c170-b219-250b-3e4e8cc8a031",
+                        "version": "1.1.0"
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
@@ -349,15 +349,15 @@
                     }
                   },
                   {
-                    "id": "e776c843-92c7-4990-aff2-bc77f0c5238c",
+                    "id": "eb67460a-a95d-4874-8cf0-5eea31642c7a",
                     "contentType": "PersonaDurable",
                     "title": "Crafter Cape",
                     "creatorName": "Minecraft",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/CrafterCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CrafterCape.png"
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c2ebca1e-4951-4957-8b78-d64073838a98/crafter_cape_Thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c2ebca1e-4951-4957-8b78-d64073838a98/crafter_cape_Thumbnail_0.png?width=800&height=450"
                     },
                     "price": {
                       "listPrice": 0,
@@ -374,8 +374,8 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "d94904e0-d13f-4e09-9710-956a5bce1728",
-                        "version": "1.0.0"
+                        "uuid": "6f9ff976-a1a3-0b9a-118c-7604320381ef",
+                        "version": "1.1.0"
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",

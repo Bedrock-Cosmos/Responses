@@ -1,13 +1,5 @@
 [
   {
-    "uuid": "06a2e8d4-8bcf-4ae4-ad1d-1e86bc6dfcb3",
-    "response": "Persona\\VanillaCapes\\BuilderCape.json"
-  },
-  {
-    "uuid": "e776c843-92c7-4990-aff2-bc77f0c5238c",
-    "response": "Persona\\VanillaCapes\\CrafterCape.json"
-  },
-  {
     "uuid": "1fe4a7b1-f44f-4a22-bcf8-c7f86e454a76",
     "response": "Persona\\VanillaCapes\\1stBirthday_cape.json"
   },
