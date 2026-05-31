@@ -736,5 +736,14 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_TinyTakeover",
     "response": "MainPages\\PersonaCategories\\TinyTakeover.json"
+  },
+  // Aquatic Quest Map
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/098aebfb-e2e3-411d-8ddd-825a6a0dc664",
+    "response": "Other\\AquaticQuestMap\\ItemDetail_AquaticQuestMap.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_098aebfb-e2e3-411d-8ddd-825a6a0dc664",
+    "response": "Other\\AquaticQuestMap\\ItemDetail_AquaticQuestMap.json"
   }
 ]
