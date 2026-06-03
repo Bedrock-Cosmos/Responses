@@ -259,5 +259,10 @@
   {
     "uuid": "863a125c-4fd6-413d-8f82-a3ab232e69ec",
     "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_NeonGenesisEvangelionSkinPack.json"
+  },
+  // Cape Physics
+  {
+    "uuid": "7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
+    "response": "Other\\CapePhysics\\Search_CapePhysics.json"
   }
 ]

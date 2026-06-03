@@ -745,5 +745,18 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_098aebfb-e2e3-411d-8ddd-825a6a0dc664",
     "response": "Other\\AquaticQuestMap\\ItemDetail_AquaticQuestMap.json"
+  },
+  // Cape Physics
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/packId/7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
+    "response": "Other\\CapePhysics\\ItemDetail_CapePhysics.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/be094038-1e9b-42ca-b849-7c6345f2be50",
+    "response": "Other\\CapePhysics\\ItemDetail_CapePhysics.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_be094038-1e9b-42ca-b849-7c6345f2be50",
+    "response": "Other\\CapePhysics\\ItemDetail_CapePhysics.json"
   }
 ]
