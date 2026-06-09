@@ -308,8 +308,16 @@
     "response": "Persona\\SpinOffCapes\\SinisterCape.json"
   },
   {
+    "uuid": "a22db560-6235-4171-a286-5f86f5077bff",
+    "response": "Persona\\SpinOffCapes\\SoulCape.json"
+  },
+  {
     "uuid": "1a3f66b4-a66b-4a44-bb79-d795ca40bbf7",
     "response": "Persona\\SpinOffCapes\\TurtleShellCape.json"
+  },
+  {
+    "uuid": "435b2432-cea9-40cc-a488-995d78cded05",
+    "response": "Persona\\SpinOffCapes\\TwistedCape.json"
   },
   {
     "uuid": "80a1968a-853e-4ca8-9c70-6de7ddb732b1",
