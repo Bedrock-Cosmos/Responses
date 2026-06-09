@@ -6720,9 +6720,13 @@
                     "startDate": "2026-04-27T11:34:33Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
                         "linkType": "external",
                         "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
                         "navigateInPlace": false
                       }
                     }
