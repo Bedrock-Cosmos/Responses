@@ -320,6 +320,14 @@
     "response": "Persona\\SpinOffCapes\\TwistedCape.json"
   },
   {
+    "uuid": "5bba5540-377b-4ec2-9633-4551c4e82e37",
+    "response": "Persona\\CustomCapes\\AndroidCape.json"
+  },
+  {
+    "uuid": "9fa8cacf-5aef-4415-b655-ab82df15656d",
+    "response": "Persona\\CustomCapes\\BedNewCape.json"
+  },
+  {
     "uuid": "80a1968a-853e-4ca8-9c70-6de7ddb732b1",
     "response": "Persona\\CustomCapes\\BlockOfDiamond_cape.json"
   },
@@ -396,6 +404,14 @@
     "response": "Persona\\CustomCapes\\Hypixel_cape.json"
   },
   {
+    "uuid": "86c248d2-0615-40ff-afc1-e8d6a04435ed",
+    "response": "Persona\\CustomCapes\\MCape.json"
+  },
+  {
+    "uuid": "8b7e5613-3394-43a5-8655-022bf2be0d6f",
+    "response": "Persona\\CustomCapes\\MelonCape.json"
+  },
+  {
     "uuid": "4ca17959-173d-4ae0-ae15-d114ac23bb02",
     "response": "Persona\\CustomCapes\\Microsoft_cape.json"
   },
@@ -426,6 +442,10 @@
   {
     "uuid": "449308f3-1f33-4b92-ae94-f7fb198e2c01",
     "response": "Persona\\CustomCapes\\Pumpkin_cape.json"
+  },
+  {
+    "uuid": "64f80879-ff7c-4490-81f8-f081d2dc1bb5",
+    "response": "Persona\\CustomCapes\\SquidCape2.json"
   },
   {
     "uuid": "4ca9116f-0e34-4ec3-ae1b-203cc31a6540",
