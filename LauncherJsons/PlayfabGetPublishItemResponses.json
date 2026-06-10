@@ -584,6 +584,10 @@
     "response": "Persona\\CreatorCapes\\NAC\\MCCYellowYaksCape.json"
   },
   {
+    "uuid": "88b7ad01-d26b-4b03-aee4-d0f15db6181b",
+    "response": "Persona\\CreatorCapes\\Sability\\SabilityCape.json"
+  },
+  {
     "uuid": "9ebb516e-b275-4652-a1e1-c66452d45227",
     "response": "Persona\\CreatorCapes\\Sability\\BedrockViewerCape.json"
   },
