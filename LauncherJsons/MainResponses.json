@@ -762,5 +762,70 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_be094038-1e9b-42ca-b849-7c6345f2be50",
     "response": "Other\\CapePhysics\\ItemDetail_CapePhysics.json"
+  },
+  // Hidden DLC (Replace later with API instead)
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_HiddenDLC",
+    "response": "MainPages\\HiddenDLC.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b052935a-9c47-43eb-ac50-ac3760100fd8",
+    "response": "Other\\ItemDetail_GrimaceEgg.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_7d85c0b7-7847-4fd4-bf39-8510d41ca33f",
+    "response": "Other\\ItemDetail_BirdieWings.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_337cf2c8-134c-4a72-b193-7cc19f052b53",
+    "response": "Other\\ItemDetail_ZombieHamburglar.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_5d1b928c-71ac-412a-8f2a-65e66247afbb",
+    "response": "Other\\ItemDetail_SodaPotion.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_26c398b0-9649-459d-8406-71f744a668ab",
+    "response": "Other\\ItemDetail_BigMacCrystal.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b843f9fd-51df-4147-95cf-d9e8773b2077",
+    "response": "Other\\ItemDetail_YouTubeCreatorsSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b9fe7cdc-d1e2-45b4-ad40-13162160381b",
+    "response": "Other\\ItemDetail_GhastStationSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_488934f5-3151-4f57-8a61-5484a9d8e01c",
+    "response": "Other\\ItemDetail_DungeonsHeroSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_cf25f557-7146-49e8-acdc-b5b32012e4aa",
+    "response": "Other\\ItemDetail_MobVoteSkinPack2022.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_04055158-74ca-4581-8ecb-c17759518ed1",
+    "response": "Other\\ItemDetail_AMinecraftMovieJetpack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_069b2db5-5164-48ba-afb2-e95d81aa763f",
+    "response": "Other\\ItemDetail_AMinecraftMovieDLC.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_26e35b2b-ac51-49b6-98df-ca15f06f912c",
+    "response": "Other\\ItemDetail_McDonaldsAdd-On.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_6ac55b36-b539-4f49-a0ee-89cc2c60cfb7",
+    "response": "Other\\ItemDetail_AMinecraftMovieAdd-On.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_89967d0c-b75a-4ff8-a603-4683aca4713a",
+    "response": "Other\\ItemDetail_AMinecraftMovieHeroPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b8294b31-2d62-4823-a13e-52d5ea6e6ef4",
+    "response": "Other\\ItemDetail_LavaChickenAdd-On.json"
   }
 ]
