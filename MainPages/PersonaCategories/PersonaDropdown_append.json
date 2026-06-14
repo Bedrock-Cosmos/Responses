@@ -79,7 +79,7 @@
         {
           "textureImage": {
             "type": "Texture",
-            "localPath": "textures/ui/bubble/bubble-background"
+            "localPath": "textures/items/ruby"
           },
           "textureFilterType": "InUserPackages",
           "type": "textureComp",
