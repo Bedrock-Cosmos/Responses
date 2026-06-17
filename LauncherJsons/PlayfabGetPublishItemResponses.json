@@ -1338,6 +1338,10 @@
     "uuid": "f6303374-6ab5-4079-baa0-6200189aa6a2",
     "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Binary_NeonGenesisEvangelionSkinPack.json"
   },
+  {
+    "uuid": "ee2e819d-323d-4245-b2a5-b679ae961402",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_VariousGirls.json"
+  },
   // Cape Physics
   {
     "uuid": "be094038-1e9b-42ca-b849-7c6345f2be50",
