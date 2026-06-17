@@ -145,9 +145,9 @@
                     "average": 0,
                     "totalCount": 0
                   },
-                  "linksTo": "MultiItemPage_Alleis Elis_Marketplace",
+                  "linksTo": "MultiItemPage_Alleis_Elis_Marketplace",
                   "linksToInfo": {
-                    "linksTo": "MultiItemPage_Alleis Elis_Marketplace",
+                    "linksTo": "MultiItemPage_Alleis_Elis_Marketplace",
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "screenTitle": {
@@ -218,7 +218,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "Transform your look with 12 different girl skins!\\nIncludes 5 Normal Skins, 2 Custom Geometry Skins, and 5 Hive Cosmetics!",
+                "description": "Transform your look with 12 different girl skins!\r\nIncludes 5 Normal Skins, 2 Custom Geometry Skins, and 5 Hive Cosmetics!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }

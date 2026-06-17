@@ -110,9 +110,9 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksTo": "MultiItemPage_Alleis Elis_Marketplace",
+                    "linksTo": "MultiItemPage_Alleis_Elis_Marketplace",
                     "linksToInfo": {
-                      "linksTo": "MultiItemPage_Alleis Elis_Marketplace",
+                      "linksTo": "MultiItemPage_Alleis_Elis_Marketplace",
                       "linkType": "pageId",
                       "displayType": "store_layout.store_data_driven_screen",
                       "navigateInPlace": false
@@ -377,7 +377,7 @@
                     "namedLinksToInfoMap": {}
                   }
                 ],
-                "totalItems": 4,
+                "totalItems": 12,
                 "type": "pagedItemListComp",
                 "$type": "PagedItemListComponent"
               }
