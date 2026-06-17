@@ -1,0 +1,173 @@
+{
+  "result": {
+    "id": "de8f53dd-639b-4180-9cd5-1b14124b2758",
+    "pageId": "DressingRoom_Outerwears",
+    "addToRecentlyViewed": false,
+    "pageName": "Home L1",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "type": "personaOfferInteractionComp",
+                "$type": "PersonaOfferInteractionComponent"
+              },
+              {
+                "type": "appearanceInteractionComp",
+                "$type": "AppearanceInteractionComponent"
+              },
+              {
+                "type": "openColorPickerComp",
+                "$type": "OpenColorPickerComponent"
+              },
+              {
+                "type": "openExpandedAppearanceViewComp",
+                "$type": "OpenExpandedAppearanceViewComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_DressingRoomSearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.search.home",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "text": {
+                  "value": "LEGO Minecraft Items",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": [
+                    "dr.categories.outerwear"
+                  ]
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "items": [
+
+                ],
+                "totalItems": 4,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              },
+              {
+                "type": "dispPreviewPieceComp",
+                "$type": "DisplayPreviewedPieceOfferComponent"
+              }
+            ],
+            "telemetryId": "LEGO Minecraft Items"
+          },
+          {
+            "controlId": "VerticalLineDivider",
+            "components": [
+              {
+                "textureImage": {
+                  "type": "Unknown",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  }
+                },
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}
