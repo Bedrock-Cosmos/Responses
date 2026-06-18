@@ -166,7 +166,7 @@
         },
         {
           "linksTo": {
-            "linksTo": "DressingRoom_LEGOMinecraft",
+            "linksTo": "DressingRoom_RedeemableItems",
             "linkType": "internal",
             "displayType": "store_layout.character_creator_screen",
             "navigateInPlace": false
