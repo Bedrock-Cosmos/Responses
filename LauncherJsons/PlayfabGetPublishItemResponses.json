@@ -1258,6 +1258,10 @@
   },
   // Creator Packs
   {
+    "uuid": "ee2e819d-323d-4245-b2a5-b679ae961402",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_VariousGirls.json"
+  },
+  {
     "uuid": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
     "response": "SkinPacks\\Creators\\BionicBen\\Binary_6thBirthdaySkinPack.json"
   },
@@ -1337,10 +1341,6 @@
   {
     "uuid": "f6303374-6ab5-4079-baa0-6200189aa6a2",
     "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Binary_NeonGenesisEvangelionSkinPack.json"
-  },
-  {
-    "uuid": "ee2e819d-323d-4245-b2a5-b679ae961402",
-    "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_VariousGirls.json"
   },
   // Cape Physics
   {

@@ -181,6 +181,12 @@
                       {
                         "tag": "screenshot",
                         "type": "Screenshot",
+                        "url": "https://bedrock-cosmos.app/thumbnails/Alleis_Elis.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Alleis_Elis.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
                         "url": "https://bedrock-cosmos.app/thumbnails/Exports.jpg",
                         "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Exports.jpg"
                       },
@@ -195,12 +201,6 @@
                         "type": "Screenshot",
                         "url": "https://bedrock-cosmos.app/thumbnails/ZeroMrJA.jpg",
                         "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ZeroMrJA.jpg"
-                      },
-                      {
-                        "tag": "screenshot",
-                        "type": "Screenshot",
-                        "url": "https://bedrock-cosmos.app/thumbnails/Alleis_Elis.jpg",
-                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Alleis_Elis.jpg"
                       }
                     ],
                     "contents": [],
