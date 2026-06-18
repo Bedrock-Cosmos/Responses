@@ -730,16 +730,16 @@
     "response": "MainPages\\PersonaCategories\\CreeperCrunchCereal.json"
   },
   {
-    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_LEGOMinecraft",
-    "response": "MainPages\\PersonaCategories\\LEGOMinecraft.json"
-  },
-  {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_MinecraftDungeons",
     "response": "MainPages\\PersonaCategories\\MinecraftDungeons.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_MinecraftEarth",
     "response": "MainPages\\PersonaCategories\\MinecraftEarth.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_RedeemableItems",
+    "response": "MainPages\\PersonaCategories\\RedeemableItems.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_TinyTakeover",

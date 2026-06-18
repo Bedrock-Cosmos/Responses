@@ -92,7 +92,7 @@
             "components": [
               {
                 "text": {
-                  "value": "LEGO Minecraft Items",
+                  "value": "Redeemable Items",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
@@ -130,7 +130,7 @@
                 "$type": "DisplayPreviewedPieceOfferComponent"
               }
             ],
-            "telemetryId": "LEGO Minecraft Items"
+            "telemetryId": "Redeemable Items"
           },
           {
             "controlId": "VerticalLineDivider",
