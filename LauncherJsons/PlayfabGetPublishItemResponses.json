@@ -1314,6 +1314,10 @@
     "response": "SkinPacks\\Creators\\Exports\\Binary_EMC8.json"
   },
   {
+    "uuid": "74694ab4-178f-4c60-a0dd-96ec4627390e",
+    "response": "SkinPacks\\Creators\\SRG64\\Binary_SRGsVoxelSkinPack.json"
+  },
+  {
     "uuid": "b20dc966-1071-4845-a7a0-b0d2acb253ce",
     "response": "SkinPacks\\Creators\\YEH\\Binary_LEGOMinecraftSkinPack.json"
   },
@@ -1325,7 +1329,6 @@
     "uuid": "86e6a53f-6ae6-4109-935a-72f877194c02",
     "response": "SkinPacks\\Creators\\YEH\\Binary_REPOSEMIBOTS5D.json"
   },
-  //
   {
     "uuid": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
     "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Binary_BlackHoleSkinPack.json"

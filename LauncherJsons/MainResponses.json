@@ -414,6 +414,10 @@
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_SRG64_Marketplace",
+    "response": "MainPages\\Creators\\Marketplace\\SRG64_Marketplace.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_YEH_Marketplace",
     "response": "MainPages\\Creators\\Marketplace\\YEH_Marketplace.json"
   },
@@ -541,6 +545,14 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
     "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC8.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/74694ab4-178f-4c60-a0dd-96ec4627390e",
+    "response": "SkinPacks\\Creators\\SRG64\\ItemDetail_SRGsVoxelSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_74694ab4-178f-4c60-a0dd-96ec4627390e",
+    "response": "SkinPacks\\Creators\\SRG64\\ItemDetail_SRGsVoxelSkinPack.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/b20dc966-1071-4845-a7a0-b0d2acb253ce",

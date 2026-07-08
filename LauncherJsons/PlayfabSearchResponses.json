@@ -237,6 +237,10 @@
     "response": "SkinPacks\\Creators\\Exports\\Search_EMC8.json"
   },
   {
+    "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
+    "response": "SkinPacks\\Creators\\SRG64\\Search_SRGsVoxelSkinPack.json"
+  },
+  {
     "uuid": "f978adc0-729f-406d-bc0c-08cfbf5f9c30",
     "response": "SkinPacks\\Creators\\YEH\\Search_LEGOMinecraftSkinPack.json"
   },
