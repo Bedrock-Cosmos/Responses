@@ -185,6 +185,18 @@
                 },
                 "type": "itemSummaryComp",
                 "$type": "ItemSummaryComponent"
+              },
+              {
+                "price": {
+                  "listPrice": -1,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
               }
             ]
           },
@@ -218,7 +230,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "Customize your character with over 150 skins from various franchises, like Super Mario, Super Smash Bros. Ultimate, Minecraft Legends, and more!\n\nSkins with YELLOW names work on some featured servers, like The Hive.\nOther skins use fully-custom models and likely will not work on featured servers.",
+                "description": "Customize your character with over 150 skins from various franchises, like Super Mario, Super Smash Bros., Minecraft Legends, and more!\n\nSkins with YELLOW names work on some featured servers, like The Hive.\nOther skins use fully-custom models and likely will not work on featured servers.",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }
