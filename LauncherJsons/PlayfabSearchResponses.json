@@ -181,6 +181,10 @@
   },
   // Creator Packs
   {
+    "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Search_AlleisSkinPack.json"
+  },
+  {
     "uuid": "60d6c1f6-ba2c-4086-ae92-bb46f90f3b74",
     "response": "SkinPacks\\Creators\\Alleis_Elis\\Search_VariousGirls.json"
   },

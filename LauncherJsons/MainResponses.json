@@ -431,6 +431,14 @@
   },
   // Creator Skin Packs
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/b1026ea3-1c85-492d-aa01-21a1d51829fe",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\ItemDetail_AlleisSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b1026ea3-1c85-492d-aa01-21a1d51829fe",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\ItemDetail_AlleisSkinPack.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/ee2e819d-323d-4245-b2a5-b679ae961402",
     "response": "SkinPacks\\Creators\\Alleis_Elis\\ItemDetail_VariousGirls.json"
   },

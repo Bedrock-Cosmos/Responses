@@ -1258,6 +1258,10 @@
   },
   // Creator Packs
   {
+    "uuid": "b1026ea3-1c85-492d-aa01-21a1d51829fe",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_AlleisSkinPack.json"
+  },
+  {
     "uuid": "ee2e819d-323d-4245-b2a5-b679ae961402",
     "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_VariousGirls.json"
   },
