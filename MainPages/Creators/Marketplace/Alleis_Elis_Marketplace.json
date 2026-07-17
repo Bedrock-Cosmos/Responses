@@ -132,14 +132,14 @@
                       "behaviors": 0,
                       "addOns": 0
                     },
-                    "flags": [],
+                    "flags": ["New"],
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [
                       {
                         "type": "skinpack",
                         "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
-                        "version": "1.0.0"
+                        "version": "1.3.5"
                       }
                     ],
                     "contents": [],
@@ -188,7 +188,7 @@
                       "behaviors": 0,
                       "addOns": 0
                     },
-                    "flags": [],
+                    "flags": ["New"],
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [
