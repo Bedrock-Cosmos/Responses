@@ -4,7 +4,7 @@
   "surface": "InboxMessage",
   "template": "HeroImageCTA",
   "header": "Bedrock Cosmos v1.1.1 is here!",
-  "body": "The latest Bedrock Cosmos update brings several new skin capes and 200+ new creator skins to use! Be sure to check out the new content!",
+  "body": "The latest Bedrock Cosmos update brings several new skin capes and 200+ new creator skins to use! Several brand new creators also have their content featured, so be sure to check them out!",
   "images": {
     "Primary": {
       "id": "36e240ff-5435-4441-afec-5d3ddc6f6996",
@@ -43,7 +43,7 @@
   "messageItemList": [],
   "messageText": {
     "header": "Bedrock Cosmos v1.1.1 is here!",
-    "body": "The latest Bedrock Cosmos update brings several new skin capes and 200+ new creator skins to use! Be sure to check out the new content!"
+    "body": "The latest Bedrock Cosmos update brings several new skin capes and 200+ new creator skins to use! Several brand new creators also have their content featured, so be sure to check them out!"
   },
   "versionConstraint": "",
   "launcherVersionConstraint": "",
