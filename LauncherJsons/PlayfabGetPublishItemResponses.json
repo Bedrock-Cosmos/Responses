@@ -1262,6 +1262,10 @@
     "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_AlleisSkinPack.json"
   },
   {
+    "uuid": "8713ccc6-b61f-4d3a-9719-02b4c670967d",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_AlleisSlopPack.json"
+  },
+  {
     "uuid": "ee2e819d-323d-4245-b2a5-b679ae961402",
     "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_VariousGirls.json"
   },
@@ -1312,6 +1316,10 @@
   {
     "uuid": "0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
     "response": "SkinPacks\\Creators\\Exports\\Binary_EMC8.json"
+  },
+  {
+    "uuid": "fc4de45c-9d1c-4909-87be-6e3366a857ba",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC9.json"
   },
   {
     "uuid": "74694ab4-178f-4c60-a0dd-96ec4627390e",
