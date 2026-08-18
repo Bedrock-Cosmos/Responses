@@ -1322,6 +1322,10 @@
     "response": "SkinPacks\\Creators\\Exports\\Binary_EMC9.json"
   },
   {
+    "uuid": "43132398-078d-4a7f-b6b9-5ae469f1e727",
+    "response": "SkinPacks\\Creators\\Mono\\Binary_CasualKnightsSkinPack.json"
+  },
+  {
     "uuid": "74694ab4-178f-4c60-a0dd-96ec4627390e",
     "response": "SkinPacks\\Creators\\SRG64\\Binary_SRGsVoxelSkinPack.json"
   },

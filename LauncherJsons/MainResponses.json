@@ -414,6 +414,10 @@
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_Mono_Marketplace",
+    "response": "MainPages\\Creators\\Marketplace\\Mono_Marketplace.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_SRG64_Marketplace",
     "response": "MainPages\\Creators\\Marketplace\\SRG64_Marketplace.json"
   },
@@ -561,6 +565,14 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_fc4de45c-9d1c-4909-87be-6e3366a857ba",
     "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC9.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/43132398-078d-4a7f-b6b9-5ae469f1e727",
+    "response": "SkinPacks\\Creators\\Mono\\ItemDetail_CasualKnightsSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_43132398-078d-4a7f-b6b9-5ae469f1e727",
+    "response": "SkinPacks\\Creators\\Mono\\ItemDetail_CasualKnightsSkinPack.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/74694ab4-178f-4c60-a0dd-96ec4627390e",
