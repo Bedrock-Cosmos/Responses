@@ -4743,7 +4743,7 @@
             "components": [
               {
                 "text": {
-                  "value": "Custom Capes (54)",
+                  "value": "Custom Capes (64)",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
@@ -6786,7 +6786,7 @@
                   {
                     "id": "27076531-21e4-4f5a-9e2e-0c6047edb317",
                     "contentType": "PersonaDurable",
-                    "title": "Poké Ball Cape",
+                    "title": "Poke Ball Cape",
                     "creatorName": "Avalanche_Ali",
                     "thumbnail": {
                       "tag": "Thumbnail",
@@ -7558,7 +7558,7 @@
             "components": [
               {
                 "text": {
-                  "value": " Creator Capes (5)",
+                  "value": " Creator Capes (6)",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
