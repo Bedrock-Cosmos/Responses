@@ -1,14 +1,14 @@
 {
-  "id": "63606978-db31-4584-a887-b1d27fce615c",
-  "instanceId": "63606978-db31-4584-a887-b1d27fce615c",
+  "id": "924137fe-3399-4752-9b1f-c6aa9cbd95ad",
+  "instanceId": "924137fe-3399-4752-9b1f-c6aa9cbd95ad",
   "surface": "InboxMessage",
   "template": "HeroImageCTA",
-  "header": "Bedrock Cosmos v1.1.1 is here!",
-  "body": "The latest Bedrock Cosmos update brings several new skin capes and 200+ new creator skins to use! Several brand new creators also have their content featured, so be sure to check them out!",
+  "header": "A new Bedrock Cosmos mini-update is here!",
+  "body": "Welcome to Bedrock Cosmos v1.1.2! We've collaborated with even more creators to bring you some new content as we are continuing to work on our next major update!\n\nAn assortment of capes have been added by Wizardry, which are themed around different types of scenery! We also have added a handful of new skin packs, as well as updating a few from previous updates to add new skins!\n\nWhat's next for Bedrock Cosmos? If you haven't been keeping up with the teasers in our Discord server, our next major update for our Windows launcher will include a menu editor! This will allow you to customize which capes and skin packs appear in your in-game menus to allow for better customization.\n\nFeel free to check out our changelog as well for the full update details. Thanks for being a part of Bedrock Cosmos!",
   "images": {
     "Primary": {
-      "id": "36e240ff-5435-4441-afec-5d3ddc6f6996",
-      "url": "https://bedrock-cosmos.app/thumbnails/News/News_2026-07-18.png"
+      "id": "c8cbb85d-06c8-4a11-a7ad-4dc9ff515f44",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/News_2026-08-20.png"
     }
   },
   "buttons": {
@@ -16,24 +16,22 @@
       "text": "Dismiss",
       "action": "Dismiss",
       "link": "",
-      "description": "",
-      "saleBanner": ""
+      "description": ""
     },
     "CallToAction": {
       "text": "Changelog",
       "action": "External",
       "link": "https://bedrock-cosmos.app/changelogs/",
-      "description": "",
-      "saleBanner": ""
+      "description": ""
     }
   },
-  "reportId": "YzAwN2UxYWEtNDEyMi00MjUxLTlhMmQtOWQwNTU2YmZhMjk0",
+  "reportId": "ODk3OTU0MjAtNTBlMi00NDQ3LWJiMGYtZWFmZTFiMzM3ODY1",
   "isControl": false,
   "sender": "Bedrock Cosmos",
   "status": "Unread",
   "persistToInboxOnImpression": false,
   "inboxCategory": "BedrockCosmosNews",
-  "dateReceived": "2026-07-17T23:21:27.541Z",
+  "dateReceived": "2026-08-21T00:25:45.059Z",
   "itemList": [],
   "style": "Default",
   "messageTitles": [
@@ -42,8 +40,8 @@
   "associatedProducts": [],
   "messageItemList": [],
   "messageText": {
-    "header": "Bedrock Cosmos v1.1.1 is here!",
-    "body": "The latest Bedrock Cosmos update brings several new skin capes and 200+ new creator skins to use! Several brand new creators also have their content featured, so be sure to check them out!"
+    "header": "A new Bedrock Cosmos mini-update is here!",
+    "body": "Welcome to Bedrock Cosmos v1.1.2! We've collaborated with even more creators to bring you some new content as we are continuing to work on our next major update!\n\nAn assortment of capes have been added by Wizardry, which are themed around different types of scenery! We also have added a handful of new skin packs, as well as updating a few from previous updates to add new skins!\n\nWhat's next for Bedrock Cosmos? If you haven't been keeping up with the teasers in our Discord server, our next major update for our Windows launcher will include a menu editor! This will allow you to customize which capes and skin packs appear in your in-game menus to allow for better customization.\n\nFeel free to check out our changelog as well for the full update details. Thanks for being a part of Bedrock Cosmos!"
   },
   "versionConstraint": "",
   "launcherVersionConstraint": "",
