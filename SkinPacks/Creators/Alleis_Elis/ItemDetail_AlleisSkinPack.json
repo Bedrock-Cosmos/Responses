@@ -142,7 +142,7 @@
                   "packIdentity": [
                     {
                       "type": "skinpack",
-                      "uuid": "8ba22442-8fdc-499e-89ce-a9a15a64c2d0",
+                      "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
                       "version": "1.3.8"
                     }
                   ],
@@ -228,11 +228,11 @@
                         "components": [
                           {
                             "binary": {
-                              "url": "https://cdn.bedrock-cosmos.app/uss/FUP/AlleisSkinPack.zip"
+                              "url": "https://cdn.bedrock-cosmos.app/uss/4c783/AlleisSkinPack.zip"
                             },
                             "packIdentity": {
                               "type": "skinpack",
-                              "uuid": "8ba22442-8fdc-499e-89ce-a9a15a64c2d0",
+                              "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
                               "version": "1.3.8"
                             },
                             "type": "skinViewerComp",
