@@ -48,7 +48,7 @@
       },
       "creatorPage": "CreatorPage_master_player_account!Alleis_Elis",
       "statistics": {
-        "skins": 168,
+        "skins": 184,
         "worlds": 0,
         "textures": 0,
         "behaviors": 0,
@@ -61,7 +61,7 @@
         {
           "type": "skinpack",
           "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
-          "version": "1.3.7"
+          "version": "1.3.8"
         }
       ],
       "startDate": "2020-01-01T12:00:00Z"
@@ -186,7 +186,7 @@
       },
       "creatorPage": "CreatorPage_master_player_account!ZeroMISTER_JA",
       "statistics": {
-        "skins": 74,
+        "skins": 85,
         "worlds": 0,
         "textures": 0,
         "behaviors": 0,
