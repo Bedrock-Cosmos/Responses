@@ -1,9 +1,9 @@
 {
   "result": {
-    "id": "b1026ea3-1c85-492d-aa01-21a1d51829fe",
-    "pageId": "ItemDetail_b1026ea3-1c85-492d-aa01-21a1d51829fe",
+    "id": "74694ab4-178f-4c60-a0dd-96ec4627390e",
+    "pageId": "ItemDetail_74694ab4-178f-4c60-a0dd-96ec4627390e",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'Alleis Skin Pack'",
+    "pageName": "ItemDetail For 'SRG's Voxel Skin Pack'",
     "layout": [
       {
         "sectionName": "rows",
@@ -123,15 +123,15 @@
             "components": [
               {
                 "item": {
-                  "id": "b1026ea3-1c85-492d-aa01-21a1d51829fe",
+                  "id": "74694ab4-178f-4c60-a0dd-96ec4627390e",
                   "contentType": "MarketplaceDurableCatalog_V1.2",
-                  "title": "Alleis Skin Pack",
-                  "creatorName": "Alleis Elis",
+                  "title": "SRG's Voxel Skin Pack",
+                  "creatorName": "SRG64",
                   "thumbnail": {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_Update1_thumbnail.jpg",
-                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_Update1_thumbnail.jpg?width=800&height=450"
+                    "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_Update1_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_Update1_thumbnail.jpg?width=800&height=450"
                   },
                   "price": {
                     "listPrice": -1,
@@ -145,19 +145,19 @@
                     "average": 0,
                     "totalCount": 0
                   },
-                  "linksTo": "MultiItemPage_Alleis_Elis_Marketplace",
+                  "linksTo": "MultiItemPage_SRG64_Marketplace",
                   "linksToInfo": {
-                    "linksTo": "MultiItemPage_Alleis_Elis_Marketplace",
+                    "linksTo": "MultiItemPage_SRG64_Marketplace",
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "screenTitle": {
-                      "value": "Alleis Elis",
+                      "value": "SRG64",
                       "replacements": []
                     },
                     "navigateInPlace": false
                   },
                   "statistics": {
-                    "skins": 184,
+                    "skins": 85,
                     "worlds": 0,
                     "textures": 0,
                     "behaviors": 0,
@@ -169,8 +169,8 @@
                   "packIdentity": [
                     {
                       "type": "skinpack",
-                      "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
-                      "version": "1.3.7"
+                      "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
+                      "version": "1.3.1"
                     }
                   ],
                   "contents": [],
@@ -178,7 +178,7 @@
                   "platformRestricted": false,
                   "iconOverlay": [],
                   "descriptionLineByLine": [],
-                  "startDate": "2026-07-07T02:33:34Z",
+                  "startDate": "2026-07-08T03:32:10Z",
                   "subscription": [],
                   "thumbnailPreviewOnly": false,
                   "namedLinksToInfoMap": {}
@@ -197,28 +197,9 @@
                 },
                 "type": "purchaseInfoComp",
                 "$type": "PurchaseInfoComponent"
-              },
-              {
-                "tabs": [
-                  {
-                    "tabButtonName": {
-                      "value": "About",
-                      "style": {
-                        "highlightColor": [],
-                        "alignment": "Center",
-                        "textColor": [0.3, 0.3, 0.3],
-                        "font": "default",
-                        "showBackground": false,
-                        "showOutline": false,
-                        "indent": 0.0,
-                        "buttonWidth": 0.0,
-                        "color": [],
-                        "offerControlIdType": "None",
-                        "outlineColor": []
-                      },
-                      "replacements": []
-                    },
-                    "rows": [
+              }
+            ]
+          },
           {
             "controlId": "ItemDescription",
             "components": [
@@ -249,7 +230,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "Customize your character with over 150 skins from various franchises, like Super Mario, Super Smash Bros., Minecraft Legends, and more!\n\nSkins with YELLOW names work on some featured servers, like The Hive.\nOther skins use fully-custom models and likely will not work on featured servers.",
+                "description": "Pixel art comes to life in this skin pack, with over 70 voxelated characters available to choose from!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }
@@ -257,24 +238,77 @@
             "telemetryId": "store.mashup.description"
           },
           {
+            "controlId": "ImageGallery",
+            "components": [
+              {
+                "images": [
+                  {
+                    "type": "Unknown",
+                    "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery1.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery1.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery2.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery2.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery3.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery3.jpg?width=800&height=450"
+                  }
+                ],
+                "type": "imageGalleryComp",
+                "$type": "ImageGalleryComponent"
+              },
+              {
+                "headerText": "Take a tour!",
+                "text": {
+                  "value": "Take a tour!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ],
+            "telemetryId": "Take a tour!"
+          },
+          {
             "controlId": "SkinPreview",
             "components": [
               {
                 "binary": {
-                  "url": "https://cdn.bedrock-cosmos.app/uss/4c783/AlleisSkinPack.zip"
+                  "url": "https://cdn.bedrock-cosmos.app/uss/d3fab/SRGsVoxelSkinPack.zip"
                 },
                 "packIdentity": {
                   "type": "skinpack",
-                  "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
-                  "version": "1.3.8"
+                  "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
+                  "version": "1.3.1"
                 },
                 "type": "skinViewerComp",
                 "$type": "SkinViewerComponent"
               },
               {
-                "headerText": "Alleis Skin Pack: %s",
+                "headerText": "SRG's Voxel Skin Pack: %s",
                 "text": {
-                  "value": "Alleis Skin Pack: %s",
+                  "value": "SRG's Voxel Skin Pack: %s",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
@@ -299,70 +333,7 @@
               }
             ]
           }
-                    ],
-                    "type": "navigationTabEntryComp",
-                    "$type": "NavigationTabEntryComponent"
-                  },
-                  {
-                    "tabButtonName": {
-                      "value": "Changelog",
-                      "style": {
-                        "highlightColor": [],
-                        "alignment": "Center",
-                        "textColor": [0.3, 0.3, 0.3],
-                        "font": "default",
-                        "showBackground": false,
-                        "showOutline": false,
-                        "indent": 0.0,
-                        "buttonWidth": 0.0,
-                        "color": [],
-                        "offerControlIdType": "None",
-                        "outlineColor": []
-                      },
-                      "replacements": []
-                    },
-                    "rows": [
-                      {
-                        "controlId": "TextRow",
-                        "components": [
-                          {
-                            "text": {
-                              "value": "1.3.8:\n- Added Kasane Teto\n- Added Link\n- Added Mima\n- Added Nattowan\n- Added Shine Sprite\n- Added Cosmic Spirit\n\n1.3.7:\n- Added Verity (Monster)\n- Added Verity (Face)\n- Added That Thing\n- Added Mario Sackboy\n- Added Purple Cosmic Clone\n- Added Red Cosmic Clone\n\n1.3.6:\n- Added 12 New Skins\n- Updated 2 Skin Textures\n\n1.3.5: - Initial Bedrock Cosmos Pack Version Pack Version Released",
-                              "style": {
-                                "highlightColor": [],
-                                "alignment": "Left",
-                                "textColor": [1.0, 1.0, 1.0],
-                                "font": "default",
-                                "showBackground": false,
-                                "showOutline": false,
-                                "indent": 0.0,
-                                "buttonWidth": 0.0,
-                                "color": [],
-                                "offerControlIdType": "None",
-                                "outlineColor": []
-                              },
-                              "replacements": []
-                            },
-                            "type": "textComponent",
-                            "$type": "TextComponent"
-                          }
-                        ],
-                        "telemetryId": ""
-                      }
-                    ],
-                    "type": "navigationTabEntryComp",
-                    "$type": "NavigationTabEntryComponent"
-                  }
-                ],
-                "initialTabName": "About",
-                "type": "navigationTabComp",
-                "$type": "NavigationTabComponent"
-              }
-            ]
-          }
-        ],
-        "type": "navigationTabEntryComp",
-        "$type": "NavigationTabEntryComponent"
+        ]
       },
       {
         "sectionName": "navigation",
