@@ -240,6 +240,10 @@
     "response": "Persona\\SpinOffCapes\\CloudyClimbTrailerCape.json"
   },
   {
+    "uuid": "703106e8-a075-4b96-9ab6-f93a42c5b54c",
+    "response": "Persona\\SpinOffCapes\\CorruptedCreeperCape.json"
+  },
+  {
     "uuid": "cae14f00-efc1-4be9-afcf-513a125a8e91",
     "response": "Persona\\SpinOffCapes\\CowCrusaderCape.json"
   },

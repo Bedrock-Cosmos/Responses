@@ -275,15 +275,15 @@
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000006",
-      "flags": [],
+      "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Twisted Cape",
+      "title": "Corrupted Creeper Cape",
       "creatorName": "Minecraft Dungeons II",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/TwistedCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/TwistedCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/CorruptedCreeperCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/CorruptedCreeperCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -294,17 +294,17 @@
         "virtualCurrencyType": "Minecoin"
       },
       "pieceType": "persona_capes",
-      "rarity": "uncommon",
+      "rarity": "legendary",
       "ownership": "NotOwned",
       "packType": "Persona",
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "ed8b1cca-94b8-4019-9225-33de7f3d2b5a",
+          "uuid": "977936d8-5377-4e58-ac61-1f959f4d1c8a",
           "version": "1.0.0"
         }
       ],
-      "startDate": "2026-06-09T03:23:51Z",
+      "startDate": "2026-08-26T21:54:15Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
           "linksTo": "DressingRoom_Capes",
