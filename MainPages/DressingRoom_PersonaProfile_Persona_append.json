@@ -241,7 +241,7 @@
         "virtualCurrencyType": "Minecoin"
       },
       "pieceType": "persona_capes",
-      "rarity": "uncommon",
+      "rarity": "legendary",
       "ownership": "NotOwned",
       "packType": "Persona",
       "packIdentity": [
@@ -277,13 +277,13 @@
       "id": "00000000-0000-0000-0000-000000000006",
       "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Corrupted Creeper Cape",
+      "title": "Special Cape",
       "creatorName": "Minecraft Dungeons II",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/CorruptedCreeperCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/CorruptedCreeperCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SpecialCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SpecialCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -300,7 +300,7 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "977936d8-5377-4e58-ac61-1f959f4d1c8a",
+          "uuid": "d2e3c979-5c52-46ac-82cf-6590e9e20ee5",
           "version": "1.0.0"
         }
       ],

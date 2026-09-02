@@ -316,6 +316,10 @@
     "response": "Persona\\SpinOffCapes\\SoulCape.json"
   },
   {
+    "uuid": "6e51860c-f70c-4c87-b7e5-1cd1ac2143df",
+    "response": "Persona\\SpinOffCapes\\SpecialCape.json"
+  },
+  {
     "uuid": "1a3f66b4-a66b-4a44-bb79-d795ca40bbf7",
     "response": "Persona\\SpinOffCapes\\TurtleShellCape.json"
   },

@@ -489,6 +489,46 @@
                     }
                   },
                   {
+                    "id": "2de148de-3196-4dac-8e2a-a28e589da380",
+                    "contentType": "PersonaDurable",
+                    "title": "Hero Cape",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "efb8e959-a115-44a4-9cc5-eaa999e10e81",
+                        "version": "1.0.1"
+                      }
+                    ],
+                    "startDate": "2026-05-01T05:57:09Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "a9514181-c826-4d72-bf36-f2379582d1ac",
                     "contentType": "PersonaDurable",
                     "title": "Home Cape",
@@ -1023,6 +1063,46 @@
                       }
                     ],
                     "startDate": "2019-09-04T17:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "435b2432-cea9-40cc-a488-995d78cded05",
+                    "contentType": "PersonaDurable",
+                    "title": "Twisted Cape",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/TwistedCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/TwistedCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "ed8b1cca-94b8-4019-9225-33de7f3d2b5a",
+                        "version": "1.0.1"
+                      }
+                    ],
+                    "startDate": "2026-06-09T03:23:51Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -3621,7 +3701,7 @@
             "components": [
               {
                 "text": {
-                  "value": "Spin-Off Capes (25)",
+                  "value": "Spin-Off Capes (24)",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
@@ -4170,50 +4250,6 @@
                     }
                   },
                   {
-                    "id": "2de148de-3196-4dac-8e2a-a28e589da380",
-                    "contentType": "PersonaDurable",
-                    "title": "Hero Cape",
-                    "creatorName": "Minecraft Dungeons",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "uncommon",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "efb8e959-a115-44a4-9cc5-eaa999e10e81",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2026-05-01T05:57:09Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false,
-                        "screenTitle": {
-                          "value": "Spin-Off Capes",
-                          "replacements": []
-                        }
-                      }
-                    }
-                  },
-                  {
                     "id": "1a20c9bd-838b-4dad-b1b0-4e93a66b5fad",
                     "contentType": "PersonaDurable",
                     "title": "Iceologer Cape",
@@ -4636,10 +4672,54 @@
                       {
                         "type": "persona_piece",
                         "uuid": "15324383-6ccb-4fcd-a2f2-ba3bbfdd18b3",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                       }
                     ],
                     "startDate": "2026-06-09T03:23:21Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Spin-Off Capes",
+                          "replacements": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "6e51860c-f70c-4c87-b7e5-1cd1ac2143df",
+                    "contentType": "PersonaDurable",
+                    "title": "Special Cape",
+                    "creatorName": "Minecraft Dungeons II",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SpecialCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SpecialCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "d2e3c979-5c52-46ac-82cf-6590e9e20ee5",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-09-02T20:03:39Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4684,50 +4764,6 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:08:27Z",
-                    "namedLinksToInfoMap": {
-                      "dr.persona_creator_page": {
-                        "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
-                        "linkType": "external",
-                        "displayType": "store_layout.character_creator_screen",
-                        "navigateInPlace": false,
-                        "screenTitle": {
-                          "value": "Spin-Off Capes",
-                          "replacements": []
-                        }
-                      }
-                    }
-                  },
-                  {
-                    "id": "435b2432-cea9-40cc-a488-995d78cded05",
-                    "contentType": "PersonaDurable",
-                    "title": "Twisted Cape",
-                    "creatorName": "Minecraft Dungeons II",
-                    "thumbnail": {
-                      "tag": "Thumbnail",
-                      "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/TwistedCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/TwistedCape.png"
-                    },
-                    "price": {
-                      "listPrice": 0,
-                      "realmsInfo": {
-                        "inRealmsPlus": false
-                      },
-                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                      "virtualCurrencyType": "Minecoin"
-                    },
-                    "pieceType": "persona_capes",
-                    "rarity": "uncommon",
-                    "ownership": "Purchased",
-                    "packType": "Persona",
-                    "packIdentity": [
-                      {
-                        "type": "persona_piece",
-                        "uuid": "ed8b1cca-94b8-4019-9225-33de7f3d2b5a",
-                        "version": "1.0.0"
-                      }
-                    ],
-                    "startDate": "2026-06-09T03:23:51Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
