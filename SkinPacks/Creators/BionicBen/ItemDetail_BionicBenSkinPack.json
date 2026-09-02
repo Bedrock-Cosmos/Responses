@@ -197,82 +197,296 @@
                 },
                 "type": "purchaseInfoComp",
                 "$type": "PurchaseInfoComponent"
-              }
-            ]
-          },
-          {
-            "controlId": "ItemDescription",
-            "components": [
-              {
-                "headerText": "store.mashup.description",
-                "text": {
-                  "value": "store.mashup.description",
-                  "style": {
-                    "highlightColor": [],
-                    "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
-                    "font": "default",
-                    "showBackground": false,
-                    "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [],
-                    "offerControlIdType": "None",
-                    "outlineColor": []
-                  },
-                  "replacements": []
-                },
-                "type": "headerComp",
-                "$type": "HeaderComponent"
               },
               {
-                "description": "A skin pack containing a variety of BionicBen's skins throughout his YouTube history - from holiday skins to the infamous mega skin!\r\n\r\nCreator's Note: The mega skins and skins with HD capes included in this skin pack may not work on featured servers.",
-                "type": "itemDescriptionComp",
-                "$type": "ItemDescriptionComponent"
-              }
-            ],
-            "telemetryId": "store.mashup.description"
-          },
-          {
-            "controlId": "SkinPreview",
-            "components": [
-              {
-                "binary": {
-                  "url": "https://cdn.bedrock-cosmos.app/uss/24886/BionicBenSkinPack.zip"
-                },
-                "packIdentity": {
-                  "type": "skinpack",
-                  "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
-                  "version": "1.0.3"
-                },
-                "type": "skinViewerComp",
-                "$type": "SkinViewerComponent"
-              },
-              {
-                "headerText": "BionicBen Skin Pack: %s",
-                "text": {
-                  "value": "BionicBen Skin Pack: %s",
-                  "style": {
-                    "highlightColor": [],
-                    "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
-                    "font": "default",
-                    "showBackground": false,
-                    "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [],
-                    "offerControlIdType": "None",
-                    "outlineColor": []
+                "tabs": [
+                  {
+                    "tabButtonName": {
+                      "value": "About",
+                      "style": {
+                        "highlightColor": [],
+                        "alignment": "Center",
+                        "textColor": [0.3, 0.3, 0.3],
+                        "font": "default",
+                        "showBackground": false,
+                        "showOutline": false,
+                        "indent": 0.0,
+                        "buttonWidth": 0.0,
+                        "color": [],
+                        "offerControlIdType": "None",
+                        "outlineColor": []
+                      },
+                      "replacements": []
+                    },
+                    "rows": [
+                      {
+                        "controlId": "ItemDescription",
+                        "components": [
+                          {
+                            "headerText": "store.mashup.description",
+                            "text": {
+                              "value": "store.mashup.description",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None"
+                              },
+                              "replacements": []
+                            },
+                            "type": "headerComp",
+                            "$type": "HeaderComponent"
+                          },
+                          {
+                            "description": "A skin pack containing a variety of BionicBen's skins throughout his YouTube history - from holiday skins to the infamous mega skin!\r\n\r\nCreator's Note: The mega skins and skins with HD capes included in this skin pack may not work on featured servers.",
+                            "type": "itemDescriptionComp",
+                            "$type": "ItemDescriptionComponent"
+                          }
+                        ]
+                      },
+                      {
+                        "controlId": "SkinPreview",
+                        "components": [
+                          {
+                            "binary": {
+                              "url": "https://cdn.bedrock-cosmos.app/uss/24886/BionicBenSkinPack.zip"
+                            },
+                            "packIdentity": {
+                              "type": "skinpack",
+                              "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
+                              "version": "1.0.3"
+                            },
+                            "type": "skinViewerComp",
+                            "$type": "SkinViewerComponent"
+                          },
+                          {
+                            "headerText": "BionicBen Skin Pack: %s",
+                            "text": {
+                              "value": "BionicBen Skin Pack: %s",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None"
+                              },
+                              "replacements": []
+                            },
+                            "type": "headerComp",
+                            "$type": "HeaderComponent"
+                          }
+                        ]
+                      }
+                    ],
+                    "type": "navigationTabEntryComp",
+                    "$type": "NavigationTabEntryComponent"
                   },
-                  "replacements": []
-                },
-                "type": "headerComp",
-                "$type": "HeaderComponent"
+                  {
+                    "tabButtonName": {
+                      "value": "Changelog",
+                      "style": {
+                        "highlightColor": [],
+                        "alignment": "Center",
+                        "textColor": [0.3, 0.3, 0.3],
+                        "font": "default",
+                        "showBackground": false,
+                        "showOutline": false,
+                        "indent": 0.0,
+                        "buttonWidth": 0.0,
+                        "color": [],
+                        "offerControlIdType": "None",
+                        "outlineColor": []
+                      },
+                      "replacements": []
+                    },
+                    "rows": [
+                      {
+                        "controlId": "TextRow",
+                        "components": [
+                          {
+                            "text": {
+                              "value": "1.0.3",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None",
+                                "outlineColor": []
+                              },
+                              "replacements": []
+                            },
+                            "type": "textComponent",
+                            "$type": "TextComponent"
+                          }
+                        ],
+                        "telemetryId": ""
+                      },
+                      {
+                        "controlId": "TextRow",
+                        "components": [
+                          {
+                            "text": {
+                              "value": "- Added Valentine's Day BionicBen\n- Added Valentine's Day BionicBen (Classic)\n- Added Wither Battler BionicBen\n- Added Added Wither Battler BionicBen (Classic)\n- Added Pichu Hoodie BionicBen\n- Added Glitch BionicBen\n\n",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "SmoothWithEmoticons",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None",
+                                "outlineColor": []
+                              },
+                              "replacements": []
+                            },
+                            "type": "textComponent",
+                            "$type": "TextComponent"
+                          }
+                        ],
+                        "telemetryId": ""
+                      },
+                      {
+                        "controlId": "TextRow",
+                        "components": [
+                          {
+                            "text": {
+                              "value": "1.0.2",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None",
+                                "outlineColor": []
+                              },
+                              "replacements": []
+                            },
+                            "type": "textComponent",
+                            "$type": "TextComponent"
+                          }
+                        ],
+                        "telemetryId": ""
+                      },
+                      {
+                        "controlId": "TextRow",
+                        "components": [
+                          {
+                            "text": {
+                              "value": "- Fixed a bug with the texture UVs of Mega BionicBen and Mega BionicBen (Classic)\n\n",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "SmoothWithEmoticons",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None",
+                                "outlineColor": []
+                              },
+                              "replacements": []
+                            },
+                            "type": "textComponent",
+                            "$type": "TextComponent"
+                          }
+                        ],
+                        "telemetryId": ""
+                      },
+                      {
+                        "controlId": "TextRow",
+                        "components": [
+                          {
+                            "text": {
+                              "value": "1.0.1",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None",
+                                "outlineColor": []
+                              },
+                              "replacements": []
+                            },
+                            "type": "textComponent",
+                            "$type": "TextComponent"
+                          }
+                        ],
+                        "telemetryId": ""
+                      },
+                      {
+                        "controlId": "TextRow",
+                        "components": [
+                          {
+                            "text": {
+                              "value": "- Initial Bedrock Cosmos Pack Version Released\n\n",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "SmoothWithEmoticons",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None",
+                                "outlineColor": []
+                              },
+                              "replacements": []
+                            },
+                            "type": "textComponent",
+                            "$type": "TextComponent"
+                          }
+                        ],
+                        "telemetryId": ""
+                      }
+                    ],
+                    "type": "navigationTabEntryComp",
+                    "$type": "NavigationTabEntryComponent"
+                  }
+                ],
+                "initialTabName": "About",
+                "type": "navigationTabComp",
+                "$type": "NavigationTabComponent"
               }
             ]
           }
-        ]
+        ],
+        "type": "navigationTabEntryComp",
+        "$type": "NavigationTabEntryComponent"
       },
       { "sectionName": "navigation", "rows": [] }
     ]
