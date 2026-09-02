@@ -364,6 +364,9 @@
                         ],
                         "telemetryId": ""
                       },
+                      {
+                        "controlId": "TextRow",
+                        "components": [
                           {
                             "text": {
                               "value": "- Added Sans (Bedrock Cosmos Exclusive Skin)\n- Added Lancer\n- Added Flowery\n- Added Aqua\n- Added KawKaw\n- Added Maraschino\n- Added Fuji\n- Added The Batter\n- Added Piku\n\n",
@@ -388,6 +391,9 @@
                         ],
                         "telemetryId": ""
                       },
+                      {
+                        "controlId": "TextRow",
+                        "components": [
                           {
                             "text": {
                               "value": "1.3.0",
@@ -412,6 +418,9 @@
                         ],
                         "telemetryId": ""
                       },
+                      {
+                        "controlId": "TextRow",
+                        "components": [
                           {
                             "text": {
                               "value": "- Initial Bedrock Cosmos Pack Version Released\n\n",
