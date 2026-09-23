@@ -47,7 +47,7 @@
           "linksToInfo": {
             "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
             "linkType": "pageId",
-            "displayType": "store_layout.store_data_driven_screen",
+            "displayType": "store_layout.skin_selector_screen",
             "navigateInPlace": false
           },
           "statistics": {
