@@ -94,7 +94,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
@@ -123,7 +127,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -132,7 +140,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -170,6 +180,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:36:09Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -214,6 +234,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:28:35Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -258,6 +288,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:32:08Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -302,6 +342,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:32:41Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -346,6 +396,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:33:36Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -390,6 +450,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:37:11Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -434,6 +504,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:02:03Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -478,6 +558,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:25:17Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -522,6 +612,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:38:54Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -566,6 +666,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:39:28Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -610,6 +720,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:26:31Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -654,6 +774,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:27:05Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -698,6 +828,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:34:33Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -742,6 +882,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:37:42Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -759,7 +909,7 @@
                     "id": "0e377825-9488-4496-b75a-21de4b008b0a",
                     "contentType": "PersonaDurable",
                     "title": "Tiny Takeover Cape",
-                    "description": "§",
+                    "description": "\u00a7",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
@@ -787,6 +937,12 @@
                       }
                     ],
                     "startDate": "2026-03-30T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -827,6 +983,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:23:17Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -871,6 +1037,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:22:32Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Essential Mod Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -910,7 +1086,10 @@
           }
         ]
       },
-      { "sectionName": "navigation", "rows": [] }
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
     ]
   }
 }

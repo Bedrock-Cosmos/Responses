@@ -180,6 +180,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T23:05:11Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",
@@ -220,6 +226,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T23:06:56Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",
@@ -260,6 +272,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T23:07:31Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",
@@ -300,6 +318,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T23:08:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",
@@ -340,6 +364,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T23:08:26Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",
@@ -380,6 +410,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T23:08:55Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",
@@ -420,6 +456,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T23:09:18Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",
@@ -460,6 +502,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T23:09:41Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",
@@ -500,6 +548,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T23:10:08Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",
@@ -540,6 +594,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T23:10:32Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",

@@ -93,7 +93,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -102,7 +106,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -140,6 +146,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:13:54Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -184,6 +200,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:14:45Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -228,6 +254,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:15:32Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -272,6 +308,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:17:31Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -316,6 +362,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:18:15Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -360,6 +416,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:19:24Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -404,6 +470,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:19:58Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -448,6 +524,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:21:36Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -492,6 +578,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:22:55Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -536,6 +632,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:36:43Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -580,6 +686,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:56:26Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -624,6 +740,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:58:44Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -668,6 +794,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:59:49Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -712,6 +848,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:02:57Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -756,6 +902,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:03:35Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -800,6 +956,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:04:09Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -844,6 +1010,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:04:35Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -888,6 +1064,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:04:35Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -932,6 +1118,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:07:21Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -976,6 +1172,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:08:01Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -1020,6 +1226,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:08:27Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -1065,7 +1281,12 @@
                     "showOutline": false,
                     "indent": 0.0,
                     "buttonWidth": 0.0,
-                    "color": [0.70196, 0.8392, 0.8588, 0.2],
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -1083,7 +1304,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -1092,7 +1317,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -1130,6 +1357,16 @@
                       }
                     ],
                     "startDate": "2026-08-26T21:54:15Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -1174,6 +1411,16 @@
                       }
                     ],
                     "startDate": "2026-06-09T03:23:21Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -1218,6 +1465,16 @@
                       }
                     ],
                     "startDate": "2026-09-02T20:03:39Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -1250,7 +1507,10 @@
           }
         ]
       },
-      { "sectionName": "navigation", "rows": [] }
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
     ]
   }
 }

@@ -94,7 +94,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
@@ -123,7 +127,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -132,7 +140,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -170,6 +180,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
@@ -210,6 +226,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
@@ -250,6 +272,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
@@ -290,6 +318,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
@@ -330,6 +364,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
@@ -370,6 +410,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
@@ -410,6 +456,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
@@ -450,6 +502,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
@@ -490,6 +548,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
@@ -525,7 +589,10 @@
           }
         ]
       },
-      { "sectionName": "navigation", "rows": [] }
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
     ]
   }
 }

@@ -180,6 +180,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:23:58Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -220,6 +226,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:24:26Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -260,6 +272,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:24:48Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -300,6 +318,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:25:14Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -340,6 +364,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:25:36Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -380,6 +410,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:25:59Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -420,6 +456,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:26:18Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -460,6 +502,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:28:25Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -500,6 +548,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:28:47Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -540,6 +594,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:29:05Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -580,6 +640,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:29:25Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -620,6 +686,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:30:12Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -660,6 +732,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:32:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -700,6 +778,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:32:22Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -740,6 +824,12 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:33:05Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",

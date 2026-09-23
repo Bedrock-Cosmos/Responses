@@ -139,13 +139,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -177,6 +171,12 @@
                     "startDate": "2020-07-21T03:46:22.855Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -206,13 +206,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -244,6 +238,12 @@
                     "startDate": "2020-07-21T03:45:04.362Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -273,13 +273,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -311,6 +305,12 @@
                     "startDate": "2020-07-21T03:43:46.482Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -340,13 +340,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -378,6 +372,12 @@
                     "startDate": "2020-07-21T03:47:05.514Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -407,13 +407,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -445,6 +439,12 @@
                     "startDate": "2020-07-21T03:47:48.799Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -474,13 +474,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -512,6 +506,12 @@
                     "startDate": "2020-07-21T03:42:17.613Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -541,13 +541,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -579,6 +573,12 @@
                     "startDate": "2020-07-21T03:48:26.105Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -608,13 +608,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -646,6 +640,12 @@
                     "startDate": "2020-07-21T03:44:24.927Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -675,13 +675,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -713,6 +707,12 @@
                     "startDate": "2020-07-21T03:45:46.024Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -742,13 +742,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -780,6 +774,12 @@
                     "startDate": "2020-07-21T03:43:02.822Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -883,13 +883,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -921,6 +915,12 @@
                     "startDate": "2021-05-20T16:44:24.872Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -950,13 +950,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -988,6 +982,12 @@
                     "startDate": "2021-05-20T16:39:05.509Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1017,13 +1017,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -1055,6 +1049,12 @@
                     "startDate": "2021-05-20T16:45:03.437Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1158,13 +1158,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -1196,6 +1190,12 @@
                     "startDate": "2022-01-31T20:01:07.716Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1225,13 +1225,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -1263,6 +1257,12 @@
                     "startDate": "2022-01-31T20:01:09.158Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1292,13 +1292,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -1330,6 +1324,12 @@
                     "startDate": "2022-01-31T20:02:25.713Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1433,13 +1433,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -1472,6 +1466,12 @@
                     "startDate": "2021-05-20T18:22:01.236Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1501,13 +1501,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -1539,6 +1533,12 @@
                     "startDate": "2023-05-02T18:33:32.48Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1568,13 +1568,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -1606,6 +1600,12 @@
                     "startDate": "2023-05-02T18:31:49.235Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1709,13 +1709,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -1747,6 +1741,12 @@
                     "startDate": "2022-06-01T17:16:36.007Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1776,13 +1776,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -1814,6 +1808,12 @@
                     "startDate": "2021-05-20T18:22:56.533Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1843,13 +1843,7 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksToInfo": {
-                      "linksTo": "",
-                      "linkType": "pageId",
-                      "displayType": "store_layout.store_data_driven_screen",
-                      "navigateInPlace": false
-                    },
-                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "creatorPage": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                     "statistics": {
                       "skins": 0,
                       "worlds": 0,
@@ -1881,6 +1875,12 @@
                     "startDate": "2023-05-02T18:33:48.295Z",
                     "subscription": [],
                     "thumbnailPreviewOnly": false,
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",

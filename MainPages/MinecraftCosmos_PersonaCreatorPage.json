@@ -93,7 +93,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -102,7 +106,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -148,6 +154,12 @@
                       }
                     ],
                     "startDate": "2024-05-17T15:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -188,6 +200,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -238,6 +256,12 @@
                       }
                     ],
                     "startDate": "2023-10-09T15:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -288,6 +312,12 @@
                       }
                     ],
                     "startDate": "2025-04-22T19:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -338,6 +368,12 @@
                       }
                     ],
                     "startDate": "2025-10-13T17:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -378,6 +414,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -428,6 +470,12 @@
                       }
                     ],
                     "startDate": "2024-05-06T16:30:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -478,6 +526,12 @@
                       }
                     ],
                     "startDate": "2019-12-04T00:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -518,6 +572,12 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:57:09Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -568,6 +628,12 @@
                       }
                     ],
                     "startDate": "2025-02-11T01:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -618,6 +684,12 @@
                       }
                     ],
                     "startDate": "2024-07-17T17:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -668,6 +740,12 @@
                       }
                     ],
                     "startDate": "2025-02-11T01:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -718,6 +796,12 @@
                       }
                     ],
                     "startDate": "2024-11-26T20:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -768,6 +852,12 @@
                       }
                     ],
                     "startDate": "2022-01-18T18:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -808,6 +898,12 @@
                       }
                     ],
                     "startDate": "2026-02-26T18:01:34Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -858,6 +954,12 @@
                       }
                     ],
                     "startDate": "2022-08-22T17:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -908,6 +1010,12 @@
                       }
                     ],
                     "startDate": "2023-08-01T17:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -958,6 +1066,12 @@
                       }
                     ],
                     "startDate": "2024-05-06T16:30:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1008,6 +1122,12 @@
                       }
                     ],
                     "startDate": "2021-12-10T18:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1062,6 +1182,12 @@
                       }
                     ],
                     "startDate": "2019-09-04T17:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1102,6 +1228,12 @@
                       }
                     ],
                     "startDate": "2026-06-09T03:23:51Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1152,6 +1284,12 @@
                       }
                     ],
                     "startDate": "2024-10-18T15:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1202,6 +1340,12 @@
                       }
                     ],
                     "startDate": "2025-01-08T18:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1252,6 +1396,12 @@
                       }
                     ],
                     "startDate": "2025-12-12T18:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1300,7 +1450,12 @@
                     "showOutline": false,
                     "indent": 0.0,
                     "buttonWidth": 0.0,
-                    "color": [0.70196, 0.8392, 0.8588, 0.2],
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -1318,7 +1473,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -1327,7 +1486,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -1365,6 +1526,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1405,6 +1572,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1445,6 +1618,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1485,6 +1664,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1533,6 +1718,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1573,6 +1764,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1613,6 +1810,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1653,6 +1856,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1693,6 +1902,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1733,6 +1948,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1773,6 +1994,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1813,6 +2040,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1853,6 +2086,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1893,6 +2132,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1933,6 +2178,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1973,6 +2224,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2013,6 +2270,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2057,6 +2320,12 @@
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
                     "subscription": [],
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2105,6 +2374,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2153,6 +2428,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2201,6 +2482,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2249,6 +2536,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2297,6 +2590,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2345,6 +2644,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2393,6 +2698,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2441,6 +2752,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2481,6 +2798,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2521,6 +2844,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2561,6 +2890,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2601,6 +2936,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2641,6 +2982,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2681,6 +3028,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2721,6 +3074,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2761,6 +3120,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2801,6 +3166,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2841,6 +3212,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2881,6 +3258,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2921,6 +3304,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2961,6 +3350,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3001,6 +3396,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3041,6 +3442,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3081,6 +3488,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3121,6 +3534,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3161,6 +3580,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3201,6 +3626,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3241,6 +3672,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3281,6 +3718,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3321,6 +3764,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3361,6 +3810,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3401,6 +3856,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3441,6 +3902,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3481,6 +3948,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3521,6 +3994,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3561,6 +4040,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3601,6 +4086,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3641,6 +4132,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3669,7 +4166,10 @@
           }
         ]
       },
-      { "sectionName": "navigation", "rows": [] }
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
     ]
   }
 }

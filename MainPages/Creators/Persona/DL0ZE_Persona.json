@@ -94,7 +94,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "default",
                     "showBackground": false,
                     "showOutline": false,
@@ -123,7 +127,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -132,7 +140,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -170,6 +180,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T19:31:07Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -210,6 +226,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T20:16:54Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -250,6 +272,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T20:17:27Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -290,6 +318,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T20:17:59Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -330,6 +364,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T20:19:02Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -370,6 +410,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T20:19:33Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -410,6 +456,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T20:20:04Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -450,6 +502,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T20:20:24Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -490,6 +548,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T20:20:52Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -530,6 +594,12 @@
                       }
                     ],
                     "startDate": "2026-05-12T20:21:22Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -565,7 +635,10 @@
           }
         ]
       },
-      { "sectionName": "navigation", "rows": [] }
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
     ]
   }
 }

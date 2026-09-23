@@ -94,7 +94,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -103,7 +107,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -149,6 +155,12 @@
                       }
                     ],
                     "startDate": "2024-05-17T15:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -189,6 +201,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -239,6 +257,12 @@
                       }
                     ],
                     "startDate": "2023-10-09T15:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -289,6 +313,12 @@
                       }
                     ],
                     "startDate": "2025-04-22T19:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -339,6 +369,12 @@
                       }
                     ],
                     "startDate": "2025-10-13T17:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -379,6 +415,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -429,6 +471,12 @@
                       }
                     ],
                     "startDate": "2024-05-06T16:30:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -479,6 +527,12 @@
                       }
                     ],
                     "startDate": "2019-12-04T00:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -519,6 +573,12 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:57:09Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -569,6 +629,12 @@
                       }
                     ],
                     "startDate": "2025-02-11T01:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -619,6 +685,12 @@
                       }
                     ],
                     "startDate": "2024-07-17T17:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -669,6 +741,12 @@
                       }
                     ],
                     "startDate": "2025-02-11T01:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -719,6 +797,12 @@
                       }
                     ],
                     "startDate": "2024-11-26T20:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -769,6 +853,12 @@
                       }
                     ],
                     "startDate": "2022-01-18T18:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -809,6 +899,12 @@
                       }
                     ],
                     "startDate": "2026-02-26T18:01:34Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -859,6 +955,12 @@
                       }
                     ],
                     "startDate": "2022-08-22T17:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -909,6 +1011,12 @@
                       }
                     ],
                     "startDate": "2023-08-01T17:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -959,6 +1067,12 @@
                       }
                     ],
                     "startDate": "2024-05-06T16:30:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1009,6 +1123,12 @@
                       }
                     ],
                     "startDate": "2021-12-10T18:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1063,6 +1183,12 @@
                       }
                     ],
                     "startDate": "2019-09-04T17:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1103,6 +1229,12 @@
                       }
                     ],
                     "startDate": "2026-06-09T03:23:51Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1153,6 +1285,12 @@
                       }
                     ],
                     "startDate": "2024-10-18T15:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1203,6 +1341,12 @@
                       }
                     ],
                     "startDate": "2025-01-08T18:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1253,6 +1397,12 @@
                       }
                     ],
                     "startDate": "2025-12-12T18:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
@@ -1305,7 +1455,12 @@
                     "showOutline": false,
                     "indent": 0.0,
                     "buttonWidth": 0.0,
-                    "color": [0.70196, 0.8392, 0.8588, 0.2],
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -1323,7 +1478,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -1332,7 +1491,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -1370,6 +1531,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1410,6 +1577,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1450,6 +1623,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1490,6 +1669,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1538,6 +1723,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1578,6 +1769,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1618,6 +1815,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1658,6 +1861,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1698,6 +1907,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1738,6 +1953,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1778,6 +1999,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1818,6 +2045,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1858,6 +2091,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1898,6 +2137,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1938,6 +2183,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -1978,6 +2229,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2018,6 +2275,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2062,6 +2325,12 @@
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
                     "subscription": [],
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2110,6 +2379,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2158,6 +2433,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2206,6 +2487,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2254,6 +2541,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2302,6 +2595,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2350,6 +2649,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2398,6 +2703,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2446,6 +2757,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2486,6 +2803,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2526,6 +2849,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2566,6 +2895,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2606,6 +2941,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2646,6 +2987,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2686,6 +3033,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2726,6 +3079,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2766,6 +3125,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2806,6 +3171,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2846,6 +3217,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2886,6 +3263,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2926,6 +3309,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -2966,6 +3355,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3006,6 +3401,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3046,6 +3447,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3086,6 +3493,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3126,6 +3539,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3166,6 +3585,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3206,6 +3631,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3246,6 +3677,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3286,6 +3723,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3326,6 +3769,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3366,6 +3815,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3406,6 +3861,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3446,6 +3907,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3486,6 +3953,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3526,6 +3999,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3566,6 +4045,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3606,6 +4091,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3646,6 +4137,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!MinecraftCosmos",
@@ -3687,7 +4184,12 @@
                     "showOutline": false,
                     "indent": 0.0,
                     "buttonWidth": 0.0,
-                    "color": [0.70196, 0.8392, 0.8588, 0.2],
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -3705,7 +4207,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -3714,7 +4220,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -3752,6 +4260,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:13:54Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -3796,6 +4314,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:14:45Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -3840,6 +4368,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:15:32Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -3884,6 +4422,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:17:31Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -3928,6 +4476,16 @@
                       }
                     ],
                     "startDate": "2026-08-26T21:54:15Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -3972,6 +4530,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:18:15Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4016,6 +4584,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:19:24Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4060,6 +4638,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:19:58Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4104,6 +4692,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:21:36Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4148,6 +4746,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:22:55Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4192,6 +4800,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:36:43Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4236,6 +4854,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:56:26Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4280,6 +4908,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:58:44Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4324,6 +4962,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T05:59:49Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4368,6 +5016,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:02:57Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4412,6 +5070,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:03:35Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4456,6 +5124,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:04:09Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4500,6 +5178,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:04:35Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4544,6 +5232,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:04:35Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4588,6 +5286,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:07:21Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4632,6 +5340,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:08:01Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4676,6 +5394,16 @@
                       }
                     ],
                     "startDate": "2026-06-09T03:23:21Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4720,6 +5448,16 @@
                       }
                     ],
                     "startDate": "2026-09-02T20:03:39Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4764,6 +5502,16 @@
                       }
                     ],
                     "startDate": "2026-05-01T06:08:27Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
@@ -4809,7 +5557,12 @@
                     "showOutline": false,
                     "indent": 0.0,
                     "buttonWidth": 0.0,
-                    "color": [0.70196, 0.8392, 0.8588, 0.2],
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -4827,7 +5580,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -4836,7 +5593,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -4874,6 +5633,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -4918,6 +5687,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -4962,6 +5741,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5006,6 +5795,16 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:15:45Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5050,6 +5849,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5094,6 +5903,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5138,6 +5957,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:36:09Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -5178,6 +6003,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5222,6 +6057,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5266,6 +6111,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:28:35Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -5306,6 +6157,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:32:08Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -5346,6 +6203,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:32:41Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -5386,6 +6249,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:33:36Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -5426,6 +6295,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:37:11Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -5466,6 +6341,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5510,6 +6395,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5554,6 +6449,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5598,6 +6503,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5642,6 +6557,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5686,6 +6611,16 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:16:22Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5730,6 +6665,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5774,6 +6719,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -5818,6 +6773,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:02:03Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -5858,6 +6819,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:25:17Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -5898,6 +6865,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:38:54Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -5938,6 +6911,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:39:28Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -5978,6 +6957,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6022,6 +7011,16 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:42:40Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6066,6 +7065,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6110,6 +7119,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6154,6 +7173,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6198,6 +7227,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6242,6 +7281,16 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:43:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6286,6 +7335,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6330,6 +7389,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6374,6 +7443,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6418,6 +7497,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6462,6 +7551,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6506,6 +7605,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:26:31Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -6546,6 +7651,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:27:05Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -6586,6 +7697,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6630,6 +7751,16 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:18:02Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6674,6 +7805,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6718,6 +7859,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6762,6 +7913,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6806,6 +7967,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6850,6 +8021,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6894,6 +8075,16 @@
                       }
                     ],
                     "startDate": "2026-08-18T22:10:28Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6938,6 +8129,16 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:20:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -6982,6 +8183,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -7026,6 +8237,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:34:33Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -7066,6 +8283,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:37:42Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -7110,6 +8337,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:37:42Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -7150,6 +8383,16 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:20:55Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -7194,6 +8437,16 @@
                       }
                     ],
                     "startDate": "2026-08-18T21:21:22Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -7238,6 +8491,16 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:34:33Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -7282,6 +8545,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -7326,6 +8599,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -7370,6 +8653,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -7387,7 +8680,7 @@
                     "id": "0e377825-9488-4496-b75a-21de4b008b0a",
                     "contentType": "PersonaDurable",
                     "title": "Tiny Takeover Cape",
-                    "description": "§",
+                    "description": "\u00a7",
                     "creatorName": "Essential",
                     "thumbnail": {
                       "tag": "Thumbnail",
@@ -7415,6 +8708,12 @@
                       }
                     ],
                     "startDate": "2026-03-30T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -7455,6 +8754,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -7499,6 +8808,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:23:17Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -7539,6 +8854,12 @@
                       }
                     ],
                     "startDate": "2026-04-27T11:22:32Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Essential",
@@ -7579,6 +8900,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Custom Capes",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -7624,7 +8955,12 @@
                     "showOutline": false,
                     "indent": 0.0,
                     "buttonWidth": 0.0,
-                    "color": [0.243, 0.776, 0.839, 1],
+                    "color": [
+                      0.243,
+                      0.776,
+                      0.839,
+                      1
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -7642,7 +8978,12 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [0.098, 0.247, 0.608, 1.0],
+                    "textColor": [
+                      0.098,
+                      0.247,
+                      0.608,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -7667,7 +9008,12 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [0.243, 0.776, 0.839, 1.0],
+                    "textColor": [
+                      0.243,
+                      0.776,
+                      0.839,
+                      1.0
+                    ],
                     "font": "SmoothWithEmoticons",
                     "showBackground": false,
                     "showOutline": false,
@@ -7686,7 +9032,7 @@
                     "id": "94b3e845-5721-4969-b66a-b8f7128bfbb0",
                     "contentType": "PersonaDurable",
                     "title": "BionicBen Cape",
-                    "creatorName": "BionicBen - §lCLICK HERE FOR MORE CAPES!",
+                    "creatorName": "BionicBen - \u00a7lCLICK HERE FOR MORE CAPES!",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -7713,6 +9059,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "BionicBen",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
@@ -7730,7 +9086,7 @@
                     "id": "e09f5be3-e610-4f4f-9477-2e68a5034e38",
                     "contentType": "PersonaDurable",
                     "title": "DL0ZE Cape",
-                    "creatorName": "DL0ZE - §lCLICK HERE FOR MORE CAPES!",
+                    "creatorName": "DL0ZE - \u00a7lCLICK HERE FOR MORE CAPES!",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -7757,6 +9113,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "DL0ZE",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!DL0ZE",
@@ -7774,7 +9140,7 @@
                     "id": "720e267e-ef85-4a29-a1b9-066a0c00901e",
                     "contentType": "PersonaDurable",
                     "title": "NAC Cape",
-                    "creatorName": "NAC - §lCLICK HERE FOR MORE CAPES!",
+                    "creatorName": "NAC - \u00a7lCLICK HERE FOR MORE CAPES!",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -7801,6 +9167,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "NAC",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!NAC",
@@ -7818,7 +9194,7 @@
                     "id": "88b7ad01-d26b-4b03-aee4-d0f15db6181b",
                     "contentType": "PersonaDurable",
                     "title": "Sability Cape",
-                    "creatorName": "Sability - §lCLICK HERE FOR MORE CAPES!",
+                    "creatorName": "Sability - \u00a7lCLICK HERE FOR MORE CAPES!",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -7845,6 +9221,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Sability",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Sability",
@@ -7862,7 +9248,7 @@
                     "id": "b178226d-1fe8-45bd-b2a2-b527be0f90cf",
                     "contentType": "PersonaDurable",
                     "title": "Stars Cape",
-                    "creatorName": "Stars - §lCLICK HERE FOR MORE CAPES!",
+                    "creatorName": "Stars - \u00a7lCLICK HERE FOR MORE CAPES!",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -7889,6 +9275,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Stars",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Stars",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Stars",
@@ -7906,7 +9302,7 @@
                     "id": "f49fca50-7aec-4e7d-8d41-627ba15b1c16",
                     "contentType": "PersonaDurable",
                     "title": "Wizardry Cape",
-                    "creatorName": "Wizardry - §lCLICK HERE FOR MORE CAPES!",
+                    "creatorName": "Wizardry - \u00a7lCLICK HERE FOR MORE CAPES!",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -7933,6 +9329,16 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Wizardry",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
@@ -7978,7 +9384,12 @@
                     "showOutline": false,
                     "indent": 0.0,
                     "buttonWidth": 0.0,
-                    "color": [0.243, 0.776, 0.839, 1],
+                    "color": [
+                      0.243,
+                      0.776,
+                      0.839,
+                      1
+                    ],
                     "offerControlIdType": "None"
                   }
                 },
@@ -7996,7 +9407,11 @@
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
                     "font": "MinecraftTen",
                     "showBackground": false,
                     "showOutline": false,
@@ -8005,7 +9420,9 @@
                     "color": [],
                     "offerControlIdType": "None"
                   },
-                  "replacements": ["dr.categories.capes"]
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
                 },
                 "type": "headerComp",
                 "$type": "HeaderComponent"
@@ -8043,6 +9460,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
@@ -8083,6 +9506,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_603d6be1-7745-4ad8-8af3-908ad017500f",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_603d6be1-7745-4ad8-8af3-908ad017500f",
@@ -8123,6 +9552,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_395deae8-dbe5-41da-b6cd-11657ba639c0",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_395deae8-dbe5-41da-b6cd-11657ba639c0",
@@ -8163,6 +9598,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_395deae8-dbe5-41da-b6cd-11657ba639c0",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_395deae8-dbe5-41da-b6cd-11657ba639c0",
@@ -8203,6 +9644,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_19ee6c39-d271-4bd1-b76b-6d3fca4266b7",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_19ee6c39-d271-4bd1-b76b-6d3fca4266b7",
@@ -8243,6 +9690,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_19ee6c39-d271-4bd1-b76b-6d3fca4266b7",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_19ee6c39-d271-4bd1-b76b-6d3fca4266b7",
@@ -8283,6 +9736,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b7f37821-7577-41cc-aaf3-d7fbb8844a1e",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_b7f37821-7577-41cc-aaf3-d7fbb8844a1e",
@@ -8323,6 +9782,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b7f37821-7577-41cc-aaf3-d7fbb8844a1e",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_b7f37821-7577-41cc-aaf3-d7fbb8844a1e",
@@ -8363,6 +9828,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
@@ -8403,6 +9874,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
@@ -8443,6 +9920,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
@@ -8483,6 +9966,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
@@ -8523,6 +10012,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8563,6 +10058,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8603,6 +10104,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8643,6 +10150,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8683,6 +10196,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8723,6 +10242,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8763,6 +10288,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8803,6 +10334,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8843,6 +10380,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8883,6 +10426,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8923,6 +10472,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -8963,6 +10518,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -9003,6 +10564,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -9043,6 +10610,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -9083,6 +10656,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -9123,6 +10702,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -9163,6 +10748,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
@@ -9203,6 +10794,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_NEEDSUUID-HalloweenCharity",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_NEEDSUUID-HalloweenCharity",
@@ -9243,6 +10840,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_NEEDSUUID-HalloweenCharity",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_NEEDSUUID-HalloweenCharity",
@@ -9283,6 +10886,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
@@ -9323,6 +10932,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
@@ -9363,6 +10978,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
@@ -9403,6 +11024,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
@@ -9443,6 +11070,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
@@ -9483,6 +11116,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
@@ -9523,6 +11162,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_42df0f5d-7433-4253-91cf-766e83298afd",
@@ -9563,6 +11208,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_a9725e69-66b2-4002-805a-c26867fe467b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_a9725e69-66b2-4002-805a-c26867fe467b",
@@ -9576,7 +11227,7 @@
                     "id": "378ea401-3dc4-43a6-878f-bd6f7d7745d2",
                     "contentType": "PersonaDurable",
                     "title": "Bride Sackgirl's Cape",
-                    "creatorName": "LittleBigPlanet™ Mash-up",
+                    "creatorName": "LittleBigPlanet\u2122 Mash-up",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -9603,6 +11254,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
@@ -9616,7 +11273,7 @@
                     "id": "398dad88-b181-4a5f-b3d4-9cced549eaa5",
                     "contentType": "PersonaDurable",
                     "title": "Dragon Sackboy's Cape",
-                    "creatorName": "LittleBigPlanet™ Mash-up",
+                    "creatorName": "LittleBigPlanet\u2122 Mash-up",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -9643,6 +11300,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
@@ -9656,7 +11319,7 @@
                     "id": "34213a3e-5747-4d86-a8cd-bb131dbc0bf6",
                     "contentType": "PersonaDurable",
                     "title": "Fairy Sackgirl's Cape",
-                    "creatorName": "LittleBigPlanet™ Mash-up",
+                    "creatorName": "LittleBigPlanet\u2122 Mash-up",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -9683,6 +11346,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
@@ -9696,7 +11365,7 @@
                     "id": "87f6a791-179c-4849-aeab-fb8b370ce203",
                     "contentType": "PersonaDurable",
                     "title": "Pinky Buflooms's Cape",
-                    "creatorName": "LittleBigPlanet™ Mash-up",
+                    "creatorName": "LittleBigPlanet\u2122 Mash-up",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -9723,6 +11392,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
@@ -9736,7 +11411,7 @@
                     "id": "11e6b451-9601-4580-9c59-840def60f762",
                     "contentType": "PersonaDurable",
                     "title": "The Newton's Cape",
-                    "creatorName": "LittleBigPlanet™ Mash-up",
+                    "creatorName": "LittleBigPlanet\u2122 Mash-up",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
@@ -9763,6 +11438,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
@@ -9803,6 +11484,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
@@ -9843,6 +11530,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
@@ -9883,6 +11576,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
@@ -9923,6 +11622,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
@@ -9963,6 +11668,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
@@ -10003,6 +11714,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
@@ -10043,6 +11760,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
@@ -10083,6 +11806,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
@@ -10123,6 +11852,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
@@ -10163,6 +11898,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
@@ -10203,6 +11944,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
@@ -10243,6 +11990,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
@@ -10283,6 +12036,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
@@ -10323,6 +12082,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
@@ -10363,6 +12128,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
@@ -10403,6 +12174,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
@@ -10443,6 +12220,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
@@ -10483,6 +12266,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
@@ -10523,6 +12312,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
@@ -10563,6 +12358,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
@@ -10603,6 +12404,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
@@ -10643,6 +12450,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_40fbf08d-390d-480c-9213-afb3886915eb",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_40fbf08d-390d-480c-9213-afb3886915eb",
@@ -10683,6 +12496,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_40fbf08d-390d-480c-9213-afb3886915eb",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_40fbf08d-390d-480c-9213-afb3886915eb",
@@ -10723,6 +12542,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_36b8bc1a-10a1-4405-adc1-c93086dcb317",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_36b8bc1a-10a1-4405-adc1-c93086dcb317",
@@ -10763,6 +12588,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
@@ -10803,6 +12634,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
@@ -10843,6 +12680,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
@@ -10883,6 +12726,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
@@ -10923,6 +12772,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
@@ -10963,6 +12818,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
@@ -11003,6 +12864,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_1a4a7be1-b4c4-4f19-8924-99eff553b029",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_1a4a7be1-b4c4-4f19-8924-99eff553b029",
@@ -11043,6 +12910,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_1a4a7be1-b4c4-4f19-8924-99eff553b029",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_1a4a7be1-b4c4-4f19-8924-99eff553b029",
@@ -11083,6 +12956,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_5917cc87-c880-4a41-86e9-834d18eae32d",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_5917cc87-c880-4a41-86e9-834d18eae32d",
@@ -11123,6 +13002,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_5917cc87-c880-4a41-86e9-834d18eae32d",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_5917cc87-c880-4a41-86e9-834d18eae32d",
@@ -11163,6 +13048,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
@@ -11203,6 +13094,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
@@ -11243,6 +13140,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
@@ -11283,6 +13186,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
@@ -11295,7 +13204,7 @@
                   {
                     "id": "2f4020a5-027f-4680-838c-0439bcecee90",
                     "contentType": "PersonaDurable",
-                    "title": "Senator Padmé Amidala's Cape",
+                    "title": "Senator Padm\u00e9 Amidala's Cape",
                     "creatorName": "Star Wars Prequel Skin Pack",
                     "thumbnail": {
                       "tag": "Thumbnail",
@@ -11323,6 +13232,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
@@ -11363,6 +13278,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
@@ -11403,6 +13324,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
@@ -11443,6 +13370,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_7c90a678-4077-4dee-ab22-caddf7b96ed8",
@@ -11483,6 +13416,12 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319",
