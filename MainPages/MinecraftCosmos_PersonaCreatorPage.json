@@ -568,7 +568,7 @@
                       {
                         "type": "persona_piece",
                         "uuid": "efb8e959-a115-44a4-9cc5-eaa999e10e81",
-                        "version": "1.0.1"
+                        "version": "1.0.2"
                       }
                     ],
                     "startDate": "2026-05-01T05:57:09Z",
@@ -1224,7 +1224,7 @@
                       {
                         "type": "persona_piece",
                         "uuid": "ed8b1cca-94b8-4019-9225-33de7f3d2b5a",
-                        "version": "1.0.1"
+                        "version": "1.0.2"
                       }
                     ],
                     "startDate": "2026-06-09T03:23:51Z",
