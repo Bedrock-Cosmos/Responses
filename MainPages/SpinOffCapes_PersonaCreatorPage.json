@@ -1353,7 +1353,7 @@
                       {
                         "type": "persona_piece",
                         "uuid": "977936d8-5377-4e58-ac61-1f959f4d1c8a",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                       }
                     ],
                     "startDate": "2026-08-26T21:54:15Z",
@@ -1461,7 +1461,7 @@
                       {
                         "type": "persona_piece",
                         "uuid": "15324383-6ccb-4fcd-a2f2-ba3bbfdd18b3",
-                        "version": "1.0.1"
+                        "version": "1.0.2"
                       }
                     ],
                     "startDate": "2026-06-09T03:23:21Z",
@@ -1515,7 +1515,7 @@
                       {
                         "type": "persona_piece",
                         "uuid": "d2e3c979-5c52-46ac-82cf-6590e9e20ee5",
-                        "version": "1.0.0"
+                        "version": "1.0.1"
                       }
                     ],
                     "startDate": "2026-09-02T20:03:39Z",
