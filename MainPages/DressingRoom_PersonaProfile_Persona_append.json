@@ -229,8 +229,8 @@
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png?width=800&height=450"
+        "url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/9780565a-06ac-471d-9377-a6f20831277c/hero_cape_Thumbnail_0.png",
+        "urlWithResolution": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/9780565a-06ac-471d-9377-a6f20831277c/hero_cape_Thumbnail_0.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -247,11 +247,11 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "889363ae-e3b7-442e-8a8d-aec1bc5bbb53",
-          "version": "1.0.0"
+          "uuid": "6f1ad6cf-928e-43e5-a2a4-b599dcd1a9c3",
+          "version": "1.1.0"
         }
       ],
-      "startDate": "2025-10-25T12:00:00Z",
+      "startDate": "2026-09-28T15:00:00Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
           "linksTo": "DressingRoom_Capes",

@@ -171,6 +171,60 @@
                     }
                   },
                   {
+                    "id": "f3760a5d-0cac-4839-8dbe-a6f47442b840",
+                    "contentType": "PersonaDurable",
+                    "title": "Aurora Cape",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/f63769ee-815e-43fa-8ebb-f1df69f08f65/aurora_cape_Thumbnail_0.png",
+                      "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/f63769ee-815e-43fa-8ebb-f1df69f08f65/aurora_cape_Thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "b714eea5-bc07-f508-3b67-91669e55696a",
+                        "version": "1.1.0"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/f63769ee-815e-43fa-8ebb-f1df69f08f65/aurora_cape_Thumbnail_0.png",
+                        "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/f63769ee-815e-43fa-8ebb-f1df69f08f65/aurora_cape_Thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "startDate": "2026-09-29T06:00:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "f3e77de1-3ab8-4a79-acce-b1bbf5c297a4",
                     "contentType": "PersonaDurable",
                     "title": "Builder Cape",
@@ -543,15 +597,15 @@
                     }
                   },
                   {
-                    "id": "2de148de-3196-4dac-8e2a-a28e589da380",
+                    "id": "e6c6e43e-bb56-4442-b051-919eb87ceb6a",
                     "contentType": "PersonaDurable",
                     "title": "Hero Cape",
                     "creatorName": "Minecraft",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeons/HeroCape.png"
+                      "url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/9780565a-06ac-471d-9377-a6f20831277c/hero_cape_Thumbnail_0.png",
+                      "urlWithResolution": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/9780565a-06ac-471d-9377-a6f20831277c/hero_cape_Thumbnail_0.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -568,11 +622,11 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "efb8e959-a115-44a4-9cc5-eaa999e10e81",
-                        "version": "1.0.2"
+                        "uuid": "6f1ad6cf-928e-43e5-a2a4-b599dcd1a9c3",
+                        "version": "1.1.0"
                       }
                     ],
-                    "startDate": "2026-05-01T05:57:09Z",
+                    "startDate": "2026-09-28T15:00:00Z",
                     "linksToInfo": {
                       "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                       "linkType": "external",
@@ -1199,15 +1253,15 @@
                     }
                   },
                   {
-                    "id": "435b2432-cea9-40cc-a488-995d78cded05",
+                    "id": "2d248884-5e21-4afe-95ec-8f27e84d71b8",
                     "contentType": "PersonaDurable",
                     "title": "Twisted Cape",
                     "creatorName": "Minecraft",
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/TwistedCape.png",
-                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/TwistedCape.png"
+                      "url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/6ae16c1d-3e78-40f2-9ca6-f6d52e3a1300/twisted_cape_Thumbnail_0.png",
+                      "urlWithResolution": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/6ae16c1d-3e78-40f2-9ca6-f6d52e3a1300/twisted_cape_Thumbnail_0.png"
                     },
                     "price": {
                       "listPrice": 0,
@@ -1224,11 +1278,11 @@
                     "packIdentity": [
                       {
                         "type": "persona_piece",
-                        "uuid": "ed8b1cca-94b8-4019-9225-33de7f3d2b5a",
-                        "version": "1.0.2"
+                        "uuid": "d2cb08df-c477-47a7-97ec-00771ef62586",
+                        "version": "1.0.0"
                       }
                     ],
-                    "startDate": "2026-06-09T03:23:51Z",
+                    "startDate": "2026-09-28T15:00:00Z",
                     "linksToInfo": {
                       "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                       "linkType": "external",
