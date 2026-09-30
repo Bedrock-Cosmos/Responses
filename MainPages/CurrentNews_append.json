@@ -1,59 +1,34 @@
 {
-  "id": "acaf11b4-46af-4387-87ab-b6dd85870397",
-  "instanceId": "acaf11b4-46af-4387-87ab-b6dd85870397",
-  "surface": "InboxMessage",
-  "template": "ContentListNoCTA",
-  "header": "A Special Cape is approaching...",
-  "body": "The Special Cape has been announced by Mojang for Minecraft Dungeons II! This cape is said to be shrouded in secrets... It is unknown if this cape will come to Minecraf Bedrock Edition officially, but it is now free to use in Bedrock Cosmos! Be sure to check it out!",
+  "id": "47d4cc0b-edd3-480e-9634-bdf1b4493740",
+  "instanceId": "47d4cc0b-edd3-480e-9634-bdf1b4493740",
+  "surface": "LoginAnnouncement",
+  "template": "ShowcaseAnnouncementNoCTA",
+  "header": "Minecraft Dungeons II Celebration!",
+  "body": "Happy Minecraft Dungeons II release day! The Aurora Cape is now available to claim on your account by watching Minecraft Dungeons II content on either Twitch or TikTok!\n\nAs for these capes in Bedrock Cosmos, we have gone ahead and updated each Minecraft Dungeons II cape to now use its official texture! The Aurora and Slice Slayer Capes are also now available for you to try on as well!",
   "images": {
     "Primary": {
-      "id": "92269c54-6c5a-4b4c-bbb5-57dab047a1af",
-      "url": "https://bedrock-cosmos.app/thumbnails/News/News_2026-09-02.png"
+      "id": "dcf667bc-ceec-4a6c-910c-ab62e90b2c39",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/News_2026-09-29.png"
     }
   },
-  "buttons": {
-    "Dismiss": {
-      "text": "Dismiss",
-      "action": "Dismiss",
-      "link": "",
-      "description": ""
-    }
-  },
-  "reportId": "MzlhM2NmZTktZDZiOC00OGY4LTk0ZTItZjc2MjE4MDM5MzIx",
+  "buttons": {},
+  "reportId": "YTY4MDA2M2MtNjNmYS00OWZjLWE2NWUtMWE5YWFkYzNjY2Ri",
   "isControl": false,
   "sender": "Bedrock Cosmos",
   "status": "Unread",
   "persistToInboxOnImpression": false,
   "inboxCategory": "BedrockCosmosNews",
-  "dateReceived": "2026-09-02T22:28:35.143Z",
+  "dateReceived": "2026-09-30T05:08:23.126Z",
   "itemList": [],
   "style": "Default",
   "messageTitles": [
     "BedrockVanilla"
   ],
   "associatedProducts": [],
-  "messageItemList": [
-    {
-      "button": {
-        "id": "6e51860c-f70c-4c87-b7e5-1cd1ac2143df",
-        "text": "Special Cape",
-        "action": "External",
-        "link": "https://bedrock-cosmos.app/capes/?cape=6e51860c-f70c-4c87-b7e5-1cd1ac2143df",
-        "description": "By Minecraft Dungeons II"
-      },
-      "image": {
-        "id": "6e51860c-f70c-4c87-b7e5-1cd1ac2143df",
-        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SpecialCape.png",
-        "imageSize": {
-          "height": 450,
-          "width": 450
-        }
-      }
-    }
-  ],
+  "messageItemList": [],
   "messageText": {
-    "header": "A Special Cape is approaching...",
-    "body": "The Special Cape has been announced by Mojang for Minecraft Dungeons II! This cape is said to be shrouded in secrets... It is unknown if this cape will come to Minecraf Bedrock Edition officially, but it is now free to use in Bedrock Cosmos! Be sure to check it out!"
+    "header": "Minecraft Dungeons II Celebration!",
+    "body": "Happy Minecraft Dungeons II release day! The Aurora Cape is now available to claim on your account by watching Minecraft Dungeons II content on either Twitch or TikTok!\n\nAs for these capes in Bedrock Cosmos, we have gone ahead and updated each Minecraft Dungeons II cape to now use its official texture! The Aurora and Slice Slayer Capes are also now available for you to try on as well!"
   },
   "versionConstraint": "",
   "launcherVersionConstraint": "",
