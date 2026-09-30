@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1b8b7aa2-a45a-4c96-8e3e-701c34421631",
+      "Contents": [
+        {
+          "Id": "c56e24df-29e8-46db-ab7a-f2a43b0e1e1e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/BionicBen/SpicewoodCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d339d485-2106-4a95-9f1e-081045b497de",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -308,6 +308,10 @@
     "response": "Persona\\SpinOffCapes\\SinisterCape.json"
   },
   {
+    "uuid": "7573cbfd-e733-4f31-92db-788d8b9449d7",
+    "response": "Persona\\SpinOffCapes\\SliceSlayerCape.json"
+  },
+  {
     "uuid": "a22db560-6235-4171-a286-5f86f5077bff",
     "response": "Persona\\SpinOffCapes\\SoulCape.json"
   },
@@ -542,6 +546,10 @@
   {
     "uuid": "1472a239-f11c-4462-a302-59bc9df01a8b",
     "response": "Persona\\CreatorCapes\\BionicBen\\Scythe_cape.json"
+  },
+  {
+    "uuid": "1b8b7aa2-a45a-4c96-8e3e-701c34421631",
+    "response": "Persona\\CreatorCapes\\BionicBen\\SpicewoodCape.json"
   },
   {
     "uuid": "420d9136-8916-4253-bcd1-ad6a45c983cc",

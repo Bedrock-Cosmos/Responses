@@ -119,58 +119,6 @@
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000003",
       "contentType": "PersonaDurable",
-      "title": "Crafter Cape",
-      "creatorName": "Minecraft",
-      "thumbnail": {
-        "tag": "Thumbnail",
-        "type": "Thumbnail",
-        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c2ebca1e-4951-4957-8b78-d64073838a98/crafter_cape_Thumbnail_0.png",
-        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c2ebca1e-4951-4957-8b78-d64073838a98/crafter_cape_Thumbnail_0.png?width=800&height=450"
-      },
-      "price": {
-        "listPrice": 0,
-        "realmsInfo": {
-          "inRealmsPlus": false
-        },
-        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-        "virtualCurrencyType": "Minecoin"
-      },
-      "pieceType": "persona_capes",
-      "rarity": "legendary",
-      "ownership": "NotOwned",
-      "packType": "Persona",
-      "packIdentity": [
-        {
-          "type": "persona_piece",
-          "uuid": "6f9ff976-a1a3-0b9a-118c-7604320381ef",
-          "version": "1.1.0"
-        }
-      ],
-      "startDate": "2025-10-25T12:00:00Z",
-      "namedLinksToInfoMap": {
-        "dr.persona_creator_page": {
-          "linksTo": "DressingRoom_Capes",
-          "linkType": "external",
-          "displayType": "store_layout.character_creator_screen",
-          "navigateInPlace": false
-        }
-      }
-    },
-    {
-      "linksTo": "DressingRoom_Capes",
-      "linksToInfo": {
-        "linksTo": "DressingRoom_Capes",
-        "linkType": "pageId",
-        "displayType": "store_layout.character_creator_screen",
-        "screenTitle": {
-          "value": "profileScreen.Header",
-          "replacements": []
-        },
-        "navigateInPlace": false
-      },
-      "thumbnailPreviewOnly": true,
-      "id": "00000000-0000-0000-0000-000000000004",
-      "contentType": "PersonaDurable",
       "title": "Moonlight Trail Cape",
       "creatorName": "Minecraft",
       "thumbnail": {
@@ -199,6 +147,59 @@
         }
       ],
       "startDate": "2026-02-26T18:01:34Z",
+      "namedLinksToInfoMap": {
+        "dr.persona_creator_page": {
+          "linksTo": "DressingRoom_Capes",
+          "linkType": "external",
+          "displayType": "store_layout.character_creator_screen",
+          "navigateInPlace": false
+        }
+      }
+    },
+    {
+      "linksTo": "DressingRoom_Capes",
+      "linksToInfo": {
+        "linksTo": "DressingRoom_Capes",
+        "linkType": "pageId",
+        "displayType": "store_layout.character_creator_screen",
+        "screenTitle": {
+          "value": "profileScreen.Header",
+          "replacements": []
+        },
+        "navigateInPlace": false
+      },
+      "thumbnailPreviewOnly": true,
+      "id": "00000000-0000-0000-0000-000000000004",
+      "flags": ["New"],
+      "contentType": "PersonaDurable",
+      "title": "Aurora Cape",
+      "creatorName": "Minecraft",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/f63769ee-815e-43fa-8ebb-f1df69f08f65/aurora_cape_Thumbnail_0.png",
+        "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/f63769ee-815e-43fa-8ebb-f1df69f08f65/aurora_cape_Thumbnail_0.png?width=800&height=450"
+      },
+      "price": {
+        "listPrice": 0,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "pieceType": "persona_capes",
+      "rarity": "legendary",
+      "ownership": "NotOwned",
+      "packType": "Persona",
+      "packIdentity": [
+        {
+          "type": "persona_piece",
+          "uuid": "b714eea5-bc07-f508-3b67-91669e55696a",
+          "version": "1.1.0"
+        }
+      ],
+      "startDate": "2026-09-29T06:00:00Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
           "linksTo": "DressingRoom_Capes",
@@ -277,13 +278,13 @@
       "id": "00000000-0000-0000-0000-000000000006",
       "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Special Cape",
+      "title": "Slice Slayer Cape",
       "creatorName": "Minecraft Dungeons II",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SpecialCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SpecialCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SliceSlayerCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SliceSlayerCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -300,11 +301,11 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "d2e3c979-5c52-46ac-82cf-6590e9e20ee5",
+          "uuid": "4c2240ad-da4d-4b26-8f2e-28bc7b0f296a",
           "version": "1.0.0"
         }
       ],
-      "startDate": "2026-08-26T21:54:15Z",
+      "startDate": "2026-09-30T03:34:38Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
           "linksTo": "DressingRoom_Capes",
@@ -328,7 +329,7 @@
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000007",
-      "flags": ["New"],
+      "flags": [],
       "contentType": "PersonaDurable",
       "title": "Emerald Cape",
       "creatorName": "JakeMCPE",
@@ -381,7 +382,7 @@
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000008",
-      "flags": ["New"],
+      "flags": [],
       "contentType": "PersonaDurable",
       "title": "Slime Cape",
       "description": "§",
@@ -437,13 +438,13 @@
       "id": "00000000-0000-0000-0000-000000000009",
       "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Sunset Cape",
+      "title": "Spicewood Cape",
       "creatorName": "BionicBen",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/BionicBen/SunsetCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/BionicBen/SunsetCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/BionicBen/SpicewoodCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/BionicBen/SpicewoodCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -460,7 +461,7 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "106b446b-faf1-40fd-a9ec-e9b5cd5ca19d",
+          "uuid": "d339d485-2106-4a95-9f1e-081045b497de",
           "version": "1.0.0"
         }
       ],
@@ -488,7 +489,7 @@
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000010",
-      "flags": ["New"],
+      "flags": [],
       "contentType": "PersonaDurable",
       "title": "Torii Gate Cape",
       "creatorName": "Wizardry",

@@ -1381,6 +1381,60 @@
                     }
                   },
                   {
+                    "id": "7573cbfd-e733-4f31-92db-788d8b9449d7",
+                    "contentType": "PersonaDurable",
+                    "title": "Slice Slayer Cape",
+                    "creatorName": "Minecraft Dungeons II",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SliceSlayerCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SliceSlayerCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "4c2240ad-da4d-4b26-8f2e-28bc7b0f296a",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-09-30T03:34:38Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false,
+                      "screenTitle": {
+                        "value": "Spin-Off Capes",
+                        "replacements": []
+                      }
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!SpinOffCapes",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false,
+                        "screenTitle": {
+                          "value": "Spin-Off Capes",
+                          "replacements": []
+                        }
+                      }
+                    }
+                  },
+                  {
                     "id": "a22db560-6235-4171-a286-5f86f5077bff",
                     "contentType": "PersonaDurable",
                     "title": "Soul Cape",
