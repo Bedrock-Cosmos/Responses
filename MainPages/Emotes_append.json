@@ -9,16 +9,16 @@
             "highlightColor": [],
             "alignment": "Left",
             "textColor": [
-              1,
-              1,
-              1,
-              1
+              1.0,
+              1.0,
+              1.0,
+              1.0
             ],
             "font": "MinecraftTen",
             "showBackground": false,
             "showOutline": false,
-            "indent": 0,
-            "buttonWidth": 0,
+            "indent": 0.0,
+            "buttonWidth": 0.0,
             "color": [],
             "offerControlIdType": "None"
           },
@@ -34,21 +34,21 @@
     "components": [
       {
         "text": {
-          "value": "These emotes are only visible to yourself and other Bedrock Cosmos users!",
+          "value": "These emotes are only visible to other Bedrock Cosmos users!",
           "style": {
             "highlightColor": [],
             "alignment": "Left",
             "textColor": [
-              1,
-              1,
-              1,
-              1
+              1.0,
+              1.0,
+              1.0,
+              1.0
             ],
             "font": "SmoothWithEmoticons",
             "showBackground": false,
             "showOutline": false,
-            "indent": 0,
-            "buttonWidth": 0,
+            "indent": 0.0,
+            "buttonWidth": 0.0,
             "color": [],
             "offerControlIdType": "None"
           }

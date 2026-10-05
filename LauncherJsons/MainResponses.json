@@ -25,7 +25,7 @@
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_Emotes",
-    "response": "MainPages\\Emotes.json"
+    "response": "MainPages\\Emotes_append.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_Capes",
