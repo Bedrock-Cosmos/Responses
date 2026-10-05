@@ -1,0 +1,170 @@
+[
+  {
+    "controlId": "TextRow",
+    "components": [
+      {
+        "text": {
+          "value": "Bedrock Cosmos Emotes",
+          "style": {
+            "highlightColor": [],
+            "alignment": "Left",
+            "textColor": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "font": "MinecraftTen",
+            "showBackground": false,
+            "showOutline": false,
+            "indent": 0,
+            "buttonWidth": 0,
+            "color": [],
+            "offerControlIdType": "None"
+          },
+          "replacements": []
+        },
+        "type": "headerComp",
+        "$type": "HeaderComponent"
+      }
+    ]
+  },
+  {
+    "controlId": "GridList",
+    "components": [
+      {
+        "text": {
+          "value": "These emotes are only visible to yourself and other Bedrock Cosmos users!",
+          "style": {
+            "highlightColor": [],
+            "alignment": "Left",
+            "textColor": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "font": "SmoothWithEmoticons",
+            "showBackground": false,
+            "showOutline": false,
+            "indent": 0,
+            "buttonWidth": 0,
+            "color": [],
+            "offerControlIdType": "None"
+          }
+        },
+        "type": "headerComp",
+        "$type": "HeaderComponent"
+      },
+      {
+        "items": [
+          {
+            "id": "11d1f763-b818-4485-afc1-93c2c3a29533",
+            "contentType": "PersonaDurable",
+            "title": "Cape Flex",
+            "creatorName": "Bedrock Cosmos",
+            "thumbnail": {
+              "tag": "Thumbnail",
+              "type": "Thumbnail",
+              "url": "https://capes.bedrock-cosmos.app/other/Emotes/icons/CapeFlex.png",
+              "urlWithResolution": "https://capes.bedrock-cosmos.app/other/Emotes/icons/CapeFlex.png"
+            },
+            "price": {
+              "listPrice": 0,
+              "realmsInfo": {
+                "inRealmsPlus": false
+              },
+              "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+              "virtualCurrencyType": "Minecoin"
+            },
+            "pieceType": "persona_emote",
+            "rarity": "legendary",
+            "ownership": "Purchased",
+            "packType": "Persona",
+            "packIdentity": [
+              {
+                "type": "persona_piece",
+                "uuid": "44e2c76d-5d72-4b4b-9f22-3ab64bb9fe7e",
+                "version": "1.0.0"
+              }
+            ],
+            "startDate": "2026-10-05T12:00:00Z",
+            "linksToInfo": {
+              "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+              "linkType": "external",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "namedLinksToInfoMap": {
+              "dr.persona_creator_page": {
+                "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                "linkType": "external",
+                "displayType": "store_layout.character_creator_screen",
+                "navigateInPlace": false
+              }
+            }
+          },
+          {
+            "id": "93a604f9-252b-4222-92c9-17dab54cf0f3",
+            "contentType": "PersonaDurable",
+            "title": "Spinning Showcase",
+            "creatorName": "Bedrock Cosmos",
+            "thumbnail": {
+              "tag": "Thumbnail",
+              "type": "Thumbnail",
+              "url": "https://capes.bedrock-cosmos.app/other/Emotes/icons/SpinningShowcase.png",
+              "urlWithResolution": "https://capes.bedrock-cosmos.app/other/Emotes/icons/SpinningShowcase.png"
+            },
+            "price": {
+              "listPrice": 0,
+              "realmsInfo": {
+                "inRealmsPlus": false
+              },
+              "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+              "virtualCurrencyType": "Minecoin"
+            },
+            "pieceType": "persona_emote",
+            "rarity": "legendary",
+            "ownership": "Purchased",
+            "packType": "Persona",
+            "packIdentity": [
+              {
+                "type": "persona_piece",
+                "uuid": "277f38f9-50d4-4129-abab-9a12084641ce",
+                "version": "1.0.0"
+              }
+            ],
+            "startDate": "2025-10-25T12:00:00Z",
+            "linksToInfo": {
+              "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+              "linkType": "external",
+              "displayType": "store_layout.character_creator_screen",
+              "navigateInPlace": false
+            },
+            "namedLinksToInfoMap": {
+              "dr.persona_creator_page": {
+                "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                "linkType": "external",
+                "displayType": "store_layout.character_creator_screen",
+                "navigateInPlace": false
+              }
+            }
+          }
+        ],
+        "totalItems": 400,
+        "customStoreRowConfiguration": {
+          "seeAllVisible": false,
+          "maxOffers": 400,
+          "arrowsVisible": false,
+          "visibleOffersPerRow": 6
+        },
+        "type": "itemListComp",
+        "$type": "ItemListComponent"
+      },
+      {
+        "type": "dispPreviewPieceComp",
+        "$type": "DisplayPreviewedPieceOfferComponent"
+      }
+    ]
+  }
+]

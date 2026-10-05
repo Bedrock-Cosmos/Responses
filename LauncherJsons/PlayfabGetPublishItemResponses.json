@@ -1211,6 +1211,15 @@
     "uuid": "48d3ae91-5066-40f1-83f6-0a9d56166eff",
     "response": "Persona\\CustomCapes\\Essential\\EssentialPrideCape2.json"
   },
+  // Emotes
+  {
+    "uuid": "11d1f763-b818-4485-afc1-93c2c3a29533",
+    "response": "Persona\\Emotes\\CapeFlex.json"
+  },
+  {
+    "uuid": "93a604f9-252b-4222-92c9-17dab54cf0f3",
+    "response": "Persona\\Emotes\\SpinningShowcase.json"
+  },
   // Skin Packs
   {
     "uuid": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",

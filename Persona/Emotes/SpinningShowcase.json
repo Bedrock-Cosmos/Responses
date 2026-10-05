@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "93a604f9-252b-4222-92c9-17dab54cf0f3",
+      "Contents": [
+        {
+          "Id": "be6e7d70-def3-4cbf-8908-f5bf20bdc643",
+          "Url": "https://capes.bedrock-cosmos.app/other/Emotes/zips/SpinningShowcase.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Bedrock Cosmos",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "277f38f9-50d4-4129-abab-9a12084641ce",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

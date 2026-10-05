@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "11d1f763-b818-4485-afc1-93c2c3a29533",
+      "Contents": [
+        {
+          "Id": "f7f81f33-1837-47c3-b6cb-08dd9c6d030e",
+          "Url": "https://capes.bedrock-cosmos.app/other/Emotes/zips/CapeFlex.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Bedrock Cosmos",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "44e2c76d-5d72-4b4b-9f22-3ab64bb9fe7e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
