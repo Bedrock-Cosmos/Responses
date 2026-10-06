@@ -112,8 +112,8 @@
     "response": "MainPages\\SpinOffCapes_PersonaCreatorPage.json"
   },
   {
-    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!BedrockCosmos",
-    "response": "MainPages\\BedrockCosmos_PersonaCreatorPage.json"
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!CustomCapes",
+    "response": "MainPages\\CustomCapes_PersonaCreatorPage.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/CreatorPage_master_player_account!MinecraftHidden",
@@ -800,6 +800,10 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_CreeperCrunchCereal",
     "response": "MainPages\\PersonaCategories\\CreeperCrunchCereal.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_CustomEmotes",
+    "response": "MainPages\\PersonaCategories\\CustomEmotes.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_MinecraftDungeons",

@@ -70,6 +70,43 @@
       "components": [
         {
           "text": {
+            "value": "Custom Emotes",
+            "replacements": []
+          },
+          "type": "headerComp",
+          "$type": "HeaderComponent"
+        },
+        {
+          "textureImage": {
+            "type": "Texture",
+            "localPath": "textures/ui/dressing_room_animation"
+          },
+          "textureFilterType": "InUserPackages",
+          "type": "textureComp",
+          "$type": "TextureComponent"
+        },
+        {
+          "dropdownId": 2,
+          "type": "dropdownOptionComp",
+          "$type": "DropdownOptionComponent"
+        },
+        {
+          "linksTo": {
+            "linksTo": "DressingRoom_CustomEmotes",
+            "linkType": "internal",
+            "displayType": "store_layout.character_creator_screen",
+            "navigateInPlace": false
+          },
+          "type": "redirectButtonComp",
+          "$type": "RedirectComponent"
+        }
+      ]
+    },
+    {
+      "controlId": "DarkRedirectButton",
+      "components": [
+        {
+          "text": {
             "value": "Minecraft Dungeons Items",
             "replacements": []
           },
