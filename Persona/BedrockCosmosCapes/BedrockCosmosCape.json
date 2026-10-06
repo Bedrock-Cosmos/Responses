@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4329d8af-a6aa-4452-9ef7-fc6c205db185",
+      "Contents": [
+        {
+          "Id": "38dfeb28-afda-4be0-b8fc-c2675bf0477b",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BedrockCosmos/BedrockCosmosCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Bedrock Cosmos & Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3b6b657b-fa67-4104-88f0-cfb566cb8956",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -324,6 +324,30 @@
     "response": "Persona\\SpinOffCapes\\TurtleShellCape.json"
   },
   {
+    "uuid": "4329d8af-a6aa-4452-9ef7-fc6c205db185",
+    "response": "Persona\\BedrockCosmosCapes\\BedrockCosmosCape.json"
+  },
+  {
+    "uuid": "6c563694-28b8-4c33-bb47-af78b460758a",
+    "response": "Persona\\BedrockCosmosCapes\\BedrockCosmosClassicCape.json"
+  },
+  {
+    "uuid": "a25508e2-66c7-4fd9-890f-7d3dfeb17e1b",
+    "response": "Persona\\BedrockCosmosCapes\\1KMilestoneCape.json"
+  },
+  {
+    "uuid": "a0d2d546-3432-4b2d-964e-ef61247ffff3",
+    "response": "Persona\\BedrockCosmosCapes\\5KMilestoneCape.json"
+  },
+  {
+    "uuid": "348d4385-03fc-4392-8ee6-6fb47287e062",
+    "response": "Persona\\BedrockCosmosCapes\\10KMilestoneCape.json"
+  },
+  {
+    "uuid": "f39fb836-63c6-4c54-bfac-f67d511d0a98",
+    "response": "Persona\\BedrockCosmosCapes\\50KMilestoneCape.json"
+  },
+  {
     "uuid": "5bba5540-377b-4ec2-9633-4551c4e82e37",
     "response": "Persona\\CustomCapes\\AndroidCape.json"
   },

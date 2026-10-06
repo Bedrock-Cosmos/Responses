@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6c563694-28b8-4c33-bb47-af78b460758a",
+      "Contents": [
+        {
+          "Id": "5cb89700-1f36-462e-9880-0f2d30daf02a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BedrockCosmos/BedrockCosmosClassicCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Bedrock Cosmos",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9fead541-f22c-403a-a9e2-c529739b745b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
