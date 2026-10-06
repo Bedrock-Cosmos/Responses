@@ -46,7 +46,7 @@
             "components": [
               {
                 "text": {
-                  "value": " Resource Packs\r\n",
+                  "value": " Resource Packs\r\n\n",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",
@@ -94,9 +94,9 @@
                       "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                       "virtualCurrencyType": "Minecoin"
                     },
-                    "linksTo": "ItemDetail_CreatorHub",
+                    "linksTo": "ItemDetail_be094038-1e9b-42ca-b849-7c6345f2be50",
                     "linksToInfo": {
-                      "linksTo": "ItemDetail_CreatorHub",
+                      "linksTo": "ItemDetail_be094038-1e9b-42ca-b849-7c6345f2be50",
                       "linkType": "pageId",
                       "displayType": "store_layout.store_data_driven_screen",
                       "screenTitle": {
