@@ -181,7 +181,29 @@
                   "startDate": "2026-06-03T03:16:16Z",
                   "subscription": [],
                   "thumbnailPreviewOnly": false,
-                  "namedLinksToInfoMap": {}
+                  "namedLinksToInfoMap": {},
+                  "vibrantVisuals": {
+                    "text": {
+                      "value": "Vibrant Visuals",
+                      "replacements": []
+                    },
+                    "tooltip": {
+                      "text": {
+                        "value": "The creator of this content has taken full advantage of Vibrant Visuals. Switch it on for the full experience.",
+                        "replacements": []
+                      },
+                      "icon": {
+                        "type": "Unknown",
+                        "localPath": "textures/ui/infobulb"
+                      }
+                    },
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.vibrantvisuals",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    }
+                  }
                 },
                 "type": "itemSummaryComp",
                 "$type": "ItemSummaryComponent"
