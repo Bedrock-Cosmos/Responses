@@ -179,8 +179,8 @@
                         "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BedrockCosmosExtras.jpg"
                       },
                       {
-                        "tag": "Thumbnail",
-                        "type": "Thumbnail",
+                        "tag": "screenshot",
+                        "type": "Screenshot",
                         "url": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg",
                         "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg"
                       },
