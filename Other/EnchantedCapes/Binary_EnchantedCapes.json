@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9b664e31-abc5-4d65-b99a-2515e87df717",
+      "Contents": [
+        {
+          "Id": "fb99a701-b723-495a-853d-dd0cf859add6",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/fb99a/EnchantedCapes.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "resourcebinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Bedrock Cosmos & ambient",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "resources",
+            "uuid": "fb99a701-b723-495a-853d-dd0cf859add6",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

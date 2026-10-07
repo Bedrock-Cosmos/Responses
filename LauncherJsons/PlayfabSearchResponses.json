@@ -288,5 +288,10 @@
   {
     "uuid": "7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
     "response": "Other\\CapePhysics\\Search_CapePhysics.json"
+  },
+  // Enchanted Capes
+  {
+    "uuid": "fb99a701-b723-495a-853d-dd0cf859add6",
+    "response": "Other\\CapePhysics\\Search_EnchantedCapes.json"
   }
 ]

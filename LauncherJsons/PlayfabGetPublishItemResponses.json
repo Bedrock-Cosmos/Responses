@@ -1522,5 +1522,10 @@
   {
     "uuid": "be094038-1e9b-42ca-b849-7c6345f2be50",
     "response": "Other\\CapePhysics\\Binary_CapePhysics.json"
+  },
+  // Enchanted Capes
+  {
+    "uuid": "9b664e31-abc5-4d65-b99a-2515e87df717",
+    "response": "Other\\CapePhysics\\Binary_EnchantedCapes.json"
   }
 ]

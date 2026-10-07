@@ -1,9 +1,9 @@
 {
   "result": {
-    "id": "be094038-1e9b-42ca-b849-7c6345f2be50",
-    "pageId": "ItemDetail_be094038-1e9b-42ca-b849-7c6345f2be50",
+    "id": "9b664e31-abc5-4d65-b99a-2515e87df717",
+    "pageId": "ItemDetail_9b664e31-abc5-4d65-b99a-2515e87df717",
     "addToRecentlyViewed": true,
-    "pageName": "ItemDetail For 'Cape Physics'",
+    "pageName": "ItemDetail For 'Enchanted Capes'",
     "layout": [
       {
         "sectionName": "rows",
@@ -123,15 +123,15 @@
             "components": [
               {
                 "item": {
-                  "id": "be094038-1e9b-42ca-b849-7c6345f2be50",
+                  "id": "9b664e31-abc5-4d65-b99a-2515e87df717",
                   "contentType": "MarketplaceDurableCatalog_V1.2",
-                  "title": "Cape Physics",
-                  "creatorName": "Bedrock Cosmos & Xatalyst",
+                  "title": "Enchanted Capes",
+                  "creatorName": "Bedrock Cosmos & ambient",
                   "thumbnail": {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://bedrock-cosmos.app/thumbnails/CapePhysics_thumbnail.png",
-                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/CapePhysics_thumbnail.png?width=800&height=450"
+                    "url": "https://bedrock-cosmos.app/thumbnails/EnchantedCapes_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/EnchantedCapes_thumbnail.jpg?width=800&height=450"
                   },
                   "price": {
                     "listPrice": -1,
@@ -169,7 +169,7 @@
                   "packIdentity": [
                     {
                       "type": "resources",
-                      "uuid": "7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
+                      "uuid": "fb99a701-b723-495a-853d-dd0cf859add6",
                       "version": "1.0.0"
                     }
                   ],
@@ -178,7 +178,7 @@
                   "platformRestricted": false,
                   "iconOverlay": [],
                   "descriptionLineByLine": [],
-                  "startDate": "2026-06-03T03:16:16Z",
+                  "startDate": "2026-10-06T12:00:00Z",
                   "subscription": [],
                   "thumbnailPreviewOnly": false,
                   "namedLinksToInfoMap": {}
@@ -214,51 +214,12 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "This Texture Pack adds a new, flowy animation to your capes! You are also able to toggle shoulder pieces to add to your cape, giving you even more style.\n\nThe animations within this pack were originally created by Xatalyst, and the pack was updated with support for modern Minecraft versions by Bedrock Cosmos!\n\nNOTE: This is a Texture Pack, and the cape animations will only show for yourself!",
+                "description": "This Texture Pack adds a shiny enchantment glint to your capes!\n\nThe animations within this pack were originally created by ambient.\n\nNOTE: This is a Texture Pack, and the enchantment glint animation will only show for yourself!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }
             ],
             "telemetryId": "store.mashup.description"
-          },
-          {
-            "controlId": "ImageGallery",
-            "telemetryId": "Pack Options",
-            "components": [
-              {
-                "images": [
-                  {
-                    "type": "Unknown",
-                    "url": "https://bedrock-cosmos.app/thumbnails/CapePhysics_gallery1.jpg",
-                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/CapePhysics_gallery1.jpg?width=800&height=450"
-                  }
-                ],
-                "type": "imageGalleryComp",
-                "$type": "ImageGalleryComponent"
-              },
-              {
-                "headerText": "Pack Options",
-                "text": {
-                  "value": "Pack Options",
-                  "style": {
-                    "highlightColor": [],
-                    "alignment": "Left",
-                    "textColor": [1.0, 1.0, 1.0],
-                    "font": "default",
-                    "showBackground": false,
-                    "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
-                    "color": [],
-                    "offerControlIdType": "None",
-                    "outlineColor": []
-                  },
-                  "replacements": []
-                },
-                "type": "headerComp",
-                "$type": "HeaderComponent"
-              }
-            ]
           }
         ]
       },

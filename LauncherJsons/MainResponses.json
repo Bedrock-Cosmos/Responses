@@ -847,6 +847,19 @@
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_be094038-1e9b-42ca-b849-7c6345f2be50",
     "response": "Other\\CapePhysics\\ItemDetail_CapePhysics.json"
   },
+  // Enchanted Capes
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/packId/fb99a701-b723-495a-853d-dd0cf859add6",
+    "response": "Other\\EnchantedCapes\\ItemDetail_EnchantedCapes.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/9b664e31-abc5-4d65-b99a-2515e87df717",
+    "response": "Other\\EnchantedCapes\\ItemDetail_EnchantedCapes.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_9b664e31-abc5-4d65-b99a-2515e87df717",
+    "response": "Other\\EnchantedCapes\\ItemDetail_EnchantedCapes.json"
+  },
   // Hidden DLC (Replace later with API instead)
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_HiddenDLC",

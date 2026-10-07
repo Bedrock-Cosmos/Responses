@@ -1,0 +1,38 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "9b664e31-abc5-4d65-b99a-2515e87df717",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Enchanted Capes",
+          "neutral": "Enchanted Capes"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "be094038-1e9b-42ca-b849-7c6345f2be50",
+          "7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
+          "3P"
+        ],
+        "CreationDate": "2026-06-03T03:16:16Z",
+        "LastModifiedDate": "2026-06-03T03:16:16Z",
+        "DisplayProperties": {
+          "creatorName": "Bedrock Cosmos & ambient",
+          "offerId": "9b664e31-abc5-4d65-b99a-2515e87df717",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "resources",
+              "uuid": "fb99a701-b723-495a-853d-dd0cf859add6",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}
