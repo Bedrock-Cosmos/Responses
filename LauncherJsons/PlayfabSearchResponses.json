@@ -292,6 +292,6 @@
   // Enchanted Capes
   {
     "uuid": "fb99a701-b723-495a-853d-dd0cf859add6",
-    "response": "Other\\CapePhysics\\Search_EnchantedCapes.json"
+    "response": "Other\\EnchantedCapes\\Search_EnchantedCapes.json"
   }
 ]

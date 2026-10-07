@@ -151,7 +151,7 @@
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "screenTitle": {
-                      "value": "Creator Hub",
+                      "value": "Bedrock Cosmos",
                       "replacements": []
                     },
                     "navigateInPlace": false
@@ -214,7 +214,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "This Texture Pack adds a shiny enchantment glint to your capes!\n\nThe animations within this pack were originally created by ambient.\n\nNOTE: This is a Texture Pack, and the enchantment glint animation will only show for yourself!",
+                "description": "This Texture Pack adds a shiny enchantment glint to your capes!\n\nThe animations within this pack were originally created by ambient.\n\nNote: This is a Texture Pack, and the enchantment glint animation will only show for yourself!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }

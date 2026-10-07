@@ -151,7 +151,7 @@
                     "linkType": "pageId",
                     "displayType": "store_layout.store_data_driven_screen",
                     "screenTitle": {
-                      "value": "Creator Hub",
+                      "value": "Bedrock Cosmos",
                       "replacements": []
                     },
                     "navigateInPlace": false
@@ -214,7 +214,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "This Texture Pack adds a new, flowy animation to your capes! You are also able to toggle shoulder pieces to add to your cape, giving you even more style.\n\nThe animations within this pack were originally created by Xatalyst, and the pack was updated with support for modern Minecraft versions by Bedrock Cosmos!\n\nNOTE: This is a Texture Pack, and the cape animations will only show for yourself!",
+                "description": "This Texture Pack adds a new, flowy animation to your capes! You are also able to toggle shoulder pieces to add to your cape, giving you even more style.\n\nThe animations within this pack were originally created by Xatalyst, and the pack was updated with support for modern Minecraft versions by Bedrock Cosmos!\n\nNote: This is a Texture Pack, and the cape animations will only show for yourself!",
                 "type": "itemDescriptionComp",
                 "$type": "ItemDescriptionComponent"
               }
