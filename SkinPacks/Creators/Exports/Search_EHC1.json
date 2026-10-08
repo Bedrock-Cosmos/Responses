@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "f708ffdc-8551-4c19-a8d9-53dba4a9edab",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Halloween Cosmetics 1",
+          "neutral": "Halloween Cosmetics 1"
+        },
+        "Description": {
+          "NEUTRAL": "Express your spooky side with a friend or partner using the 30 skins in this first eerie skin pack!",
+          "neutral": "Express your spooky side with a friend or partner using the 30 skins in this first eerie skin pack!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "f708ffdc-8551-4c19-a8d9-53dba4a9edab",
+          "d57ce1b4-4145-44d0-853f-0c89850cde22",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-10-08T02:31:38Z",
+        "LastModifiedDate": "2026-10-08T02:31:38Z",
+        "DisplayProperties": {
+          "creatorName": "Exports",
+          "offerId": "f708ffdc-8551-4c19-a8d9-53dba4a9edab",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "d57ce1b4-4145-44d0-853f-0c89850cde22",
+              "version": "1.0.0"
+            }
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=YhfFcEdxKfo"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f708ffdc-8551-4c19-a8d9-53dba4a9edab",
+      "Contents": [
+        {
+          "Id": "d57ce1b4-4145-44d0-853f-0c89850cde22",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/d57ce/EHC1.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Exports",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "d57ce1b4-4145-44d0-853f-0c89850cde22",
+            "version": "1.0.0"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=YhfFcEdxKfo"
+      }
+    }
+  }
+}

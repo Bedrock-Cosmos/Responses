@@ -1443,6 +1443,14 @@
     "response": "SkinPacks\\Creators\\BionicBen\\Binary_ProjectStarSkinPack.json"
   },
   {
+    "uuid": "f708ffdc-8551-4c19-a8d9-53dba4a9edab",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EHC1.json"
+  },
+  {
+    "uuid": "69a4db1a-473e-4f26-8b18-1ec8354b78cc",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EHC2.json"
+  },
+  {
     "uuid": "22688cde-3822-4bd8-9638-625713ba4dfd",
     "response": "SkinPacks\\Creators\\Exports\\Binary_EMC1.json"
   },

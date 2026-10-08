@@ -67,15 +67,15 @@
       "startDate": "2020-01-01T12:00:00Z"
     },
     {
-      "id": "fc4de45c-9d1c-4909-87be-6e3366a857ba",
+      "id": "f708ffdc-8551-4c19-a8d9-53dba4a9edab",
       "contentType": "MarketplaceDurableCatalog_V1.2",
-      "title": "Matching Cosmetics 9",
+      "title": "Halloween Cosmetics 1",
       "creatorName": "Exports",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics9_thumbnail.jpg",
-        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics9_thumbnail.jpg?width=800&height=450"
+        "url": "https://bedrock-cosmos.app/thumbnails/ExportsHalloweenCosmetics1_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsHalloweenCosmetics1_thumbnail.jpg?width=800&height=450"
       },
       "price": {
         "listPrice": -1,
@@ -85,9 +85,9 @@
         "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
         "virtualCurrencyType": "Minecoin"
       },
-      "linksTo": "ItemDetail_fc4de45c-9d1c-4909-87be-6e3366a857ba",
+      "linksTo": "ItemDetail_f708ffdc-8551-4c19-a8d9-53dba4a9edab",
       "linksToInfo": {
-        "linksTo": "ItemDetail_fc4de45c-9d1c-4909-87be-6e3366a857ba",
+        "linksTo": "ItemDetail_f708ffdc-8551-4c19-a8d9-53dba4a9edab",
         "linkType": "pageId",
         "displayType": "store_layout.store_data_driven_screen",
         "navigateInPlace": false
@@ -105,11 +105,11 @@
       "packIdentity": [
         {
           "type": "skinpack",
-          "uuid": "5fe7c32b-fd56-44ba-b2a1-a549cccc17fd",
+          "uuid": "d57ce1b4-4145-44d0-853f-0c89850cde22",
           "version": "1.0.0"
         }
       ],
-      "videoUrl": "https://www.youtube.com/watch?v=j2Djo_VPous",
+      "videoUrl": "https://www.youtube.com/watch?v=YhfFcEdxKfo",
       "startDate": "2020-01-01T12:00:00Z"
     },
     {
