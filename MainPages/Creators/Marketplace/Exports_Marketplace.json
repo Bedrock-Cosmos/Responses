@@ -772,7 +772,7 @@
                     "hardwareMemoryTier": 0
                   }
                 ],
-                "totalItems": 9,
+                "totalItems": 11,
                 "type": "pagedItemListComp",
                 "$type": "PagedItemListComponent"
               }
