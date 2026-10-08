@@ -146,7 +146,7 @@
         "behaviors": 0,
         "addOns": 0
       },
-      "flags": ["New"],
+      "flags": [],
       "ownership": "Purchased",
       "packType": "SkinPack",
       "packIdentity": [
@@ -166,8 +166,8 @@
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_Update1_thumbnail.jpg",
-        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_Update1_thumbnail.jpg?width=800&height=450"
+        "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_Update2_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_Update2_thumbnail.jpg?width=800&height=450"
       },
       "price": {
         "listPrice": -1,
@@ -192,7 +192,7 @@
         "behaviors": 0,
         "addOns": 0
       },
-      "flags": ["New"],
+      "flags": [],
       "ownership": "Purchased",
       "packType": "SkinPack",
       "packIdentity": [
