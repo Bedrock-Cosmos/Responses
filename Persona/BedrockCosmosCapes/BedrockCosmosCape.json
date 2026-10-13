@@ -7,7 +7,7 @@
       "Contents": [
         {
           "Id": "38dfeb28-afda-4be0-b8fc-c2675bf0477b",
-          "Url": "https://capes.bedrock-cosmos.app/zips/BedrockCosmos/BedrockCosmosCape.zip",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BedrockCosmosCapes/BedrockCosmosCape.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.16.0",
           "Type": "personabinary"
