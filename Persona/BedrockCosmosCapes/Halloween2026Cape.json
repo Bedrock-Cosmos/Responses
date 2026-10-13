@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e43f2e0f-d5da-480e-80a8-d91e9a30c3e3",
+      "Contents": [
+        {
+          "Id": "cc33b524-fed6-4507-b28d-c28defa4f403",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BedrockCosmos/Halloween2026Cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Bedrock Cosmos",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0de48bf8-7417-4940-b713-612b50eff267",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

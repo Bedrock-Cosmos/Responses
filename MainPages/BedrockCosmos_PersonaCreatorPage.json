@@ -266,6 +266,129 @@
             "components": [
               {
                 "text": {
+                  "value": "Seasonal Capes",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "items": [
+                  {
+                    "id": "e43f2e0f-d5da-480e-80a8-d91e9a30c3e3",
+                    "contentType": "PersonaDurable",
+                    "title": "Halloween 2026 Cape",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/BedrockCosmos/Halloween2026Cape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BedrockCosmos/Halloween2026Cape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "0de48bf8-7417-4940-b713-612b50eff267",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-13T02:04:57Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  }
+                ],
+                "totalItems": 400,
+                "customStoreRowConfiguration": {
+                  "seeAllVisible": false,
+                  "maxOffers": 400,
+                  "arrowsVisible": false,
+                  "visibleOffersPerRow": 6
+                },
+                "type": "itemListComp",
+                "$type": "ItemListComponent"
+              },
+              {
+                "type": "dispPreviewPieceComp",
+                "$type": "DisplayPreviewedPieceOfferComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "VerticalLineDivider",
+            "components": [
+              {
+                "textureImage": {
+                  "type": "Unknown",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [
+                      0.70196,
+                      0.8392,
+                      0.8588,
+                      0.2
+                    ],
+                    "offerControlIdType": "None"
+                  }
+                },
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "text": {
                   "value": "Download Milestone Capes",
                   "style": {
                     "highlightColor": [],
