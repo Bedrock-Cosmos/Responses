@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "57f456c7-5ffc-481f-909e-abb3562906c8",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "HalloRemix Skin Pack",
+          "neutral": "HalloRemix Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "Several classic Minecraft skins return in this skin pack, but with a spooky twist! Enjoy the Halloween season in style!",
+          "neutral": "Several classic Minecraft skins return in this skin pack, but with a spooky twist! Enjoy the Halloween season in style!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "57f456c7-5ffc-481f-909e-abb3562906c8",
+          "e60ba27d-9235-49c5-93be-6f7895a500a3",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-10-15T05:40:39Z",
+        "LastModifiedDate": "2026-10-15T05:40:39Z",
+        "DisplayProperties": {
+          "creatorName": "BionicBen",
+          "offerId": "57f456c7-5ffc-481f-909e-abb3562906c8",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "e60ba27d-9235-49c5-93be-6f7895a500a3",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

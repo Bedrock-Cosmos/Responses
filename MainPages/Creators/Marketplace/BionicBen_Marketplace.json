@@ -281,6 +281,69 @@
                     "hardwareMemoryTier": 0
                   },
                   {
+                    "id": "57f456c7-5ffc-481f-909e-abb3562906c8",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "HalloRemix Skin Pack",
+                    "description": "Several classic Minecraft skins return in this skin pack, but with a spooky twist! Enjoy the Halloween season in style!",
+                    "creatorName": "BionicBen",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/HalloRemixSkinPack_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/HalloRemixSkinPack_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_57f456c7-5ffc-481f-909e-abb3562906c8",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_57f456c7-5ffc-481f-909e-abb3562906c8",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!BionicBen_Marketplace",
+                    "statistics": {
+                      "skins": 11,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "e60ba27d-9235-49c5-93be-6f7895a500a3",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/HalloRemixSkinPack_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/HalloRemixSkinPack_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-10-15T05:40:39Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
                     "id": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
                     "contentType": "MarketplaceDurableCatalog_V1.2",
                     "title": "Project Star Skin Pack",
@@ -344,7 +407,7 @@
                     "hardwareMemoryTier": 0
                   }
                 ],
-                "totalItems": 4,
+                "totalItems": 5,
                 "type": "pagedItemListComp",
                 "$type": "PagedItemListComponent"
               }

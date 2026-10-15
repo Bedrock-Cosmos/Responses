@@ -1435,12 +1435,16 @@
     "response": "SkinPacks\\Creators\\BionicBen\\Binary_6thBirthdaySkinPack.json"
   },
   {
+    "uuid": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+    "response": "SkinPacks\\Creators\\BionicBen\\Binary_BionicBenSkinPack.json"
+  },
+  {
     "uuid": "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
     "response": "SkinPacks\\Creators\\BionicBen\\Binary_Deadmau5SkinPack.json"
   },
   {
-    "uuid": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
-    "response": "SkinPacks\\Creators\\BionicBen\\Binary_BionicBenSkinPack.json"
+    "uuid": "57f456c7-5ffc-481f-909e-abb3562906c8",
+    "response": "SkinPacks\\Creators\\BionicBen\\Binary_HalloRemixSkinPack.json"
   },
   {
     "uuid": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",

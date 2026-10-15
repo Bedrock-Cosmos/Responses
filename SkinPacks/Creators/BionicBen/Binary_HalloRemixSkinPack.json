@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "57f456c7-5ffc-481f-909e-abb3562906c8",
+      "Contents": [
+        {
+          "Id": "e60ba27d-9235-49c5-93be-6f7895a500a3",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/e60ba/HalloRemixSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "e60ba27d-9235-49c5-93be-6f7895a500a3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
