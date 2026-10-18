@@ -1,24 +1,58 @@
 {
-  "id": "47d4cc0b-edd3-480e-9634-bdf1b4493740",
-  "instanceId": "47d4cc0b-edd3-480e-9634-bdf1b4493740",
+  "id": "7829afbb-8c60-4e6b-accf-88723f277727",
+  "instanceId": "7829afbb-8c60-4e6b-accf-88723f277727",
   "surface": "LoginAnnouncement",
-  "template": "ShowcaseAnnouncementNoCTA",
-  "header": "Minecraft Dungeons II Celebration!",
-  "body": "Happy Minecraft Dungeons II release day! The Aurora Cape is now available to claim on your account by watching Minecraft Dungeons II content on either Twitch or TikTok!\n\nAs for these capes in Bedrock Cosmos, we have gone ahead and updated each Minecraft Dungeons II cape to now use its official texture! The Aurora and Slice Slayer Capes are also now available for you to try on as well!",
+  "template": "GameDrop",
+  "header": "Happy Halloween!",
+  "body": "The Bedrock Cosmos Halloween Update is here! Be sure to check out what's new below!",
   "images": {
     "Primary": {
-      "id": "dcf667bc-ceec-4a6c-910c-ab62e90b2c39",
-      "url": "https://bedrock-cosmos.app/thumbnails/News/News_2026-09-29.png"
+      "id": "5385a892-ce9c-4f24-8fe6-2ddaefb5c17e",
+      "url": "http://bedrock-cosmos.app/thumbnails/News/News_2026-10-18.png"
+    },
+    "UpdateOne": {
+      "id": "8fa34051-dddc-4d95-9bbd-28a13db4a6c2",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/News_Subimage1_2026-10-18.png"
+    },
+    "UpdateTwo": {
+      "id": "887625c4-b17d-4b1e-a3ad-325e867b8ddd",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/News_Subimage2_2026-10-18.png"
+    },
+    "UpdateThree": {
+      "id": "2bfd16af-6972-481c-a778-dd116dd0b84a",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/News_Subimage3_2026-10-18.png"
     }
   },
-  "buttons": {},
-  "reportId": "YTY4MDA2M2MtNjNmYS00OWZjLWE2NWUtMWE5YWFkYzNjY2Ri",
+  "buttons": {
+    "Dismiss": {
+      "text": "Dismiss",
+      "action": "Dismiss",
+      "link": "",
+      "description": "",
+      "saleBanner": ""
+    },
+    "FooterCTA": {
+      "text": "Changelog",
+      "action": "External",
+      "link": "https://bedrock-cosmos.app/changelogs/",
+      "description": "",
+      "saleBanner": ""
+    },
+    "CallToAction": {
+      "text": "Changelog",
+      "action": "External",
+      "link": "https://bedrock-cosmos.app/changelogs/",
+      "description": "",
+      "saleBanner": ""
+    }
+  },
+  "reportId": "YzFlMTFiYjMtZWIyMS00MGQwLTg3ODEtNGMyOGMwMTdkYWZk",
   "isControl": false,
   "sender": "Bedrock Cosmos",
   "status": "Unread",
   "persistToInboxOnImpression": false,
   "inboxCategory": "BedrockCosmosNews",
-  "dateReceived": "2026-09-30T05:08:23.126Z",
+  "dateReceived": "2026-10-18T05:04:43.177Z",
   "itemList": [],
   "style": "Default",
   "messageTitles": [
@@ -27,8 +61,17 @@
   "associatedProducts": [],
   "messageItemList": [],
   "messageText": {
-    "header": "Minecraft Dungeons II Celebration!",
-    "body": "Happy Minecraft Dungeons II release day! The Aurora Cape is now available to claim on your account by watching Minecraft Dungeons II content on either Twitch or TikTok!\n\nAs for these capes in Bedrock Cosmos, we have gone ahead and updated each Minecraft Dungeons II cape to now use its official texture! The Aurora and Slice Slayer Capes are also now available for you to try on as well!"
+    "header": "Happy Halloween!",
+    "body": "The Bedrock Cosmos Halloween Update is here! Be sure to check out what's new below!",
+    "subTitle": "",
+    "updateOneTitle": "New Cosmetics",
+    "updateTwoTitle": "Cape Animations",
+    "updateThreeTitle": "Custom Emotes",
+    "updateOneBody": "Several new Halloween-themed skin packs have been added to the Creator Hub. We have also added several exclusive Bedrock Cosmos capes, download milestone capes, and the new Halloween 2026 Cape!",
+    "updateTwoBody": "Smooth and enchanted cape animations have been added to the Creator Hub as well! These animation packs can be found under the new Bedrock Cosmos Extras section.",
+    "updateThreeBody": "For the first time in Bedrock Cosmos's lifespan, we have added custom emotes that are visible to other Bedrock Cosmos users! Be sure to show off your favorite capes and skins!",
+    "footerHeader": "",
+    "footerBody": "For additional information about this update, feel free to check out our changelog. Have a very happy Halloween season!"
   },
   "versionConstraint": "",
   "launcherVersionConstraint": "",
