@@ -127,7 +127,7 @@
                 "item": {
                   "id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
                   "contentType": "MarketplaceDurableCatalog_V1.2",
-                  "title": "LittleBigPlanet™ Mash-up",
+                  "title": "LittleBigPlanet\u2122 Mash-up",
                   "creatorName": "Minecraft",
                   "thumbnail": {
                     "tag": "Thumbnail",
@@ -176,12 +176,12 @@
                     {
                       "type": "resourcepack",
                       "uuid": "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
-                      "version": "1.0.75"
+                      "version": "1.0.78"
                     },
                     {
                       "type": "worldtemplate",
                       "uuid": "1dde574b-2b4d-48e6-951e-d135093bcdc9",
-                      "version": "1.0.75"
+                      "version": "1.0.78"
                     }
                   ],
                   "tags": [
@@ -288,10 +288,10 @@
                 },
                 "binaries": [
                   {
-                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f27647ee-9530-4431-aa5b-7a0ddaf2f489/primary.zip"
+                    "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/5323a888-dacd-42cc-ac6b-ebdf8ce1e0e6/primary.zip"
                   },
                   {
-                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/75aea90f-7b0b-4539-a6d4-7fe023636b18/secondary.zip"
+                    "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/e92c8f7b-49c5-45fe-9e32-fd157b60284c/secondary.zip"
                   }
                 ],
                 "type": "purchaseInfoComp",
@@ -329,7 +329,7 @@
                 "$type": "HeaderComponent"
               },
               {
-                "description": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4.",
+                "description": "Mix the crazy, non-stop creativity of LittleBigPlanet\u2122 into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy\u00ae, Sackgirl\u00ae, OddSock, Toggle and Swoop will decorate your worlds with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation\u00ae4.",
                 "genres": [
                   {
                     "linksToInfo": {
@@ -425,28 +425,28 @@
                 "images": [
                   {
                     "type": "Unknown",
-                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/344ddccb-a098-4e4e-9a9a-6e0a391d3e91/LittleBigPlanet_Screenshot_0.jpg",
-                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/344ddccb-a098-4e4e-9a9a-6e0a391d3e91/LittleBigPlanet_Screenshot_0.jpg?width=800&height=450"
+                    "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/75005d7c-b08c-41b6-a069-ce9051cdf42e/LittleBigPlanet_Screenshot_0.jpg",
+                    "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/75005d7c-b08c-41b6-a069-ce9051cdf42e/LittleBigPlanet_Screenshot_0.jpg?width=800&height=450"
                   },
                   {
                     "type": "Unknown",
-                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/983c79d9-95d2-48f0-97bb-afd228cb445c/LittleBigPlanet_Screenshot_1.jpg",
-                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/983c79d9-95d2-48f0-97bb-afd228cb445c/LittleBigPlanet_Screenshot_1.jpg?width=800&height=450"
+                    "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/03e6194e-6491-4e28-9d6a-b28081662821/LittleBigPlanet_Screenshot_1.jpg",
+                    "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/03e6194e-6491-4e28-9d6a-b28081662821/LittleBigPlanet_Screenshot_1.jpg?width=800&height=450"
                   },
                   {
                     "type": "Unknown",
-                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/66da92d6-ca02-4fb1-a1b2-f46b0223cf65/LittleBigPlanet_Screenshot_2.jpg",
-                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/66da92d6-ca02-4fb1-a1b2-f46b0223cf65/LittleBigPlanet_Screenshot_2.jpg?width=800&height=450"
+                    "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/32d37f0e-63b0-4532-824f-ca113c6f3c83/LittleBigPlanet_Screenshot_2.jpg",
+                    "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/32d37f0e-63b0-4532-824f-ca113c6f3c83/LittleBigPlanet_Screenshot_2.jpg?width=800&height=450"
                   },
                   {
                     "type": "Unknown",
-                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/327cb841-d00b-42b6-85e4-d5dd4057ce2e/LittleBigPlanet_Screenshot_3.jpg",
-                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/327cb841-d00b-42b6-85e4-d5dd4057ce2e/LittleBigPlanet_Screenshot_3.jpg?width=800&height=450"
+                    "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/4ebfcbc2-603b-49f3-a7b5-c8fe022d721f/LittleBigPlanet_Screenshot_3.jpg",
+                    "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/4ebfcbc2-603b-49f3-a7b5-c8fe022d721f/LittleBigPlanet_Screenshot_3.jpg?width=800&height=450"
                   },
                   {
                     "type": "Unknown",
-                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ebb210be-98f5-40a6-83ba-98959dadbc23/LittleBigPlanet_Screenshot_4.jpg",
-                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/ebb210be-98f5-40a6-83ba-98959dadbc23/LittleBigPlanet_Screenshot_4.jpg?width=800&height=450"
+                    "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/48e9c219-cbaa-469a-8e77-1c01b53f6e4b/LittleBigPlanet_Screenshot_4.jpg",
+                    "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/48e9c219-cbaa-469a-8e77-1c01b53f6e4b/LittleBigPlanet_Screenshot_4.jpg?width=800&height=450"
                   }
                 ],
                 "type": "imageGalleryComp",
@@ -485,11 +485,11 @@
             "controlId": "WorldView",
             "components": [
               {
-                "panoramaUrl": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ad79150a-6087-494a-a8ae-7d8a72221a73/LittleBigPlanet_panorama_0.jpg",
+                "panoramaUrl": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/8678dfa8-cf56-45b7-b6c7-85ba0725136b/LittleBigPlanet_panorama_0.jpg",
                 "panoramaImage": {
                   "type": "Panorama",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ad79150a-6087-494a-a8ae-7d8a72221a73/LittleBigPlanet_panorama_0.jpg",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/ad79150a-6087-494a-a8ae-7d8a72221a73/LittleBigPlanet_panorama_0.jpg?width=-1&height=450"
+                  "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/8678dfa8-cf56-45b7-b6c7-85ba0725136b/LittleBigPlanet_panorama_0.jpg",
+                  "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/8678dfa8-cf56-45b7-b6c7-85ba0725136b/LittleBigPlanet_panorama_0.jpg?width=-1&height=450"
                 },
                 "type": "panoramaComp",
                 "$type": "PanoramaComponent"
@@ -539,9 +539,9 @@
                 "$type": "SkinViewerComponent"
               },
               {
-                "headerText": "LittleBigPlanet™ Mash-up: %s",
+                "headerText": "LittleBigPlanet\u2122 Mash-up: %s",
                 "text": {
-                  "value": "LittleBigPlanet™ Mash-up: %s",
+                  "value": "LittleBigPlanet\u2122 Mash-up: %s",
                   "style": {
                     "highlightColor": [],
                     "alignment": "Left",

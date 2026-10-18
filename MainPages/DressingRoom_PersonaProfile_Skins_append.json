@@ -298,23 +298,23 @@
     {
       "id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
       "contentType": "MarketplaceDurableCatalog_V1.2",
-      "title": "LittleBigPlanet™ Mash-up",
-      "description": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4.",
+      "title": "LittleBigPlanet\u2122 Mash-up",
+      "description": "Mix the crazy, non-stop creativity of LittleBigPlanet\u2122 into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy\u00ae, Sackgirl\u00ae, OddSock, Toggle and Swoop will decorate your worlds with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation\u00ae4.",
       "creatorName": "Minecraft (Hidden/Delisted)",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg",
-        "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg?width=800&height=450"
+        "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/a55a2401-3daa-42b9-9631-ddda964380ba/LittleBigPlanet_Thumbnail_0.jpg",
+        "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/a55a2401-3daa-42b9-9631-ddda964380ba/LittleBigPlanet_Thumbnail_0.jpg?width=800&height=450"
       },
       "Rating": {
         "Average": 4.3,
-        "TotalCount": 18670,
-        "Count5Star": 13923,
-        "Count4Star": 1394,
-        "Count3Star": 863,
-        "Count2Star": 367,
-        "Count1Star": 2123
+        "TotalCount": 18908,
+        "Count5Star": 14122,
+        "Count4Star": 1403,
+        "Count3Star": 868,
+        "Count2Star": 375,
+        "Count1Star": 2140
       },
       "price": {
         "listPrice": 990,
@@ -333,9 +333,9 @@
       },
       "creatorPage": "CreatorPage_master_player_account!HiddenDelisted",
       "statistics": {
-        "skins": 1,
-        "worlds": 0,
-        "textures": 0,
+        "skins": 38,
+        "worlds": 1,
+        "textures": 1,
         "behaviors": 0,
         "addOns": 0
       },
@@ -350,12 +350,12 @@
         {
           "type": "resourcepack",
           "uuid": "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
-          "version": "1.0.75"
+          "version": "1.0.78"
         },
         {
           "type": "worldtemplate",
           "uuid": "1dde574b-2b4d-48e6-951e-d135093bcdc9",
-          "version": "1.0.75"
+          "version": "1.0.78"
         }
       ],
       "tags": [],
@@ -364,50 +364,50 @@
         {
           "tag": "packicon",
           "type": "Screenshot",
-          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/cca99798-f06c-4d08-be8b-e7bcc68125a0/LittleBigPlanet_packicon_0.jpg",
-          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/cca99798-f06c-4d08-be8b-e7bcc68125a0/LittleBigPlanet_packicon_0.jpg?width=800&height=450"
+          "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/efd94165-2786-4897-8c0e-18b6eaf0a915/LittleBigPlanet_packicon_0.jpg",
+          "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/efd94165-2786-4897-8c0e-18b6eaf0a915/LittleBigPlanet_packicon_0.jpg?width=800&height=450"
         },
         {
           "tag": "panorama",
           "type": "Screenshot",
-          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/adbdc2e3-e587-4dc9-ae44-e8f7c7b01716/LittleBigPlanet_panorama_0.jpg",
-          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/adbdc2e3-e587-4dc9-ae44-e8f7c7b01716/LittleBigPlanet_panorama_0.jpg?width=800&height=450"
+          "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/8678dfa8-cf56-45b7-b6c7-85ba0725136b/LittleBigPlanet_panorama_0.jpg",
+          "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/8678dfa8-cf56-45b7-b6c7-85ba0725136b/LittleBigPlanet_panorama_0.jpg?width=800&height=450"
         },
         {
           "tag": "screenshot",
           "type": "Screenshot",
-          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90f0019f-6e36-4703-b956-caf68ae936c9/LittleBigPlanet_Screenshot_0.jpg",
-          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90f0019f-6e36-4703-b956-caf68ae936c9/LittleBigPlanet_Screenshot_0.jpg?width=800&height=450"
+          "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/75005d7c-b08c-41b6-a069-ce9051cdf42e/LittleBigPlanet_Screenshot_0.jpg",
+          "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/75005d7c-b08c-41b6-a069-ce9051cdf42e/LittleBigPlanet_Screenshot_0.jpg?width=800&height=450"
         },
         {
           "tag": "screenshot",
           "type": "Screenshot",
-          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8a0ca0fc-6fa4-46f6-b74b-0b75ca3d9b46/LittleBigPlanet_Screenshot_1.jpg",
-          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8a0ca0fc-6fa4-46f6-b74b-0b75ca3d9b46/LittleBigPlanet_Screenshot_1.jpg?width=800&height=450"
+          "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/03e6194e-6491-4e28-9d6a-b28081662821/LittleBigPlanet_Screenshot_1.jpg",
+          "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/03e6194e-6491-4e28-9d6a-b28081662821/LittleBigPlanet_Screenshot_1.jpg?width=800&height=450"
         },
         {
           "tag": "screenshot",
           "type": "Screenshot",
-          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c803adc4-097f-49ae-8dd3-1f4e46e70c97/LittleBigPlanet_Screenshot_2.jpg",
-          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c803adc4-097f-49ae-8dd3-1f4e46e70c97/LittleBigPlanet_Screenshot_2.jpg?width=800&height=450"
+          "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/32d37f0e-63b0-4532-824f-ca113c6f3c83/LittleBigPlanet_Screenshot_2.jpg",
+          "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/32d37f0e-63b0-4532-824f-ca113c6f3c83/LittleBigPlanet_Screenshot_2.jpg?width=800&height=450"
         },
         {
           "tag": "screenshot",
           "type": "Screenshot",
-          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b28994c-ab09-48da-8da1-ab48c364e173/LittleBigPlanet_Screenshot_3.jpg",
-          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b28994c-ab09-48da-8da1-ab48c364e173/LittleBigPlanet_Screenshot_3.jpg?width=800&height=450"
+          "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/4ebfcbc2-603b-49f3-a7b5-c8fe022d721f/LittleBigPlanet_Screenshot_3.jpg",
+          "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/4ebfcbc2-603b-49f3-a7b5-c8fe022d721f/LittleBigPlanet_Screenshot_3.jpg?width=800&height=450"
         },
         {
           "tag": "screenshot",
           "type": "Screenshot",
-          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/45249c39-5f5f-4afd-a6bb-89cd2a6b5568/LittleBigPlanet_Screenshot_4.jpg",
-          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/45249c39-5f5f-4afd-a6bb-89cd2a6b5568/LittleBigPlanet_Screenshot_4.jpg?width=800&height=450"
+          "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/48e9c219-cbaa-469a-8e77-1c01b53f6e4b/LittleBigPlanet_Screenshot_4.jpg",
+          "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/48e9c219-cbaa-469a-8e77-1c01b53f6e4b/LittleBigPlanet_Screenshot_4.jpg?width=800&height=450"
         },
         {
           "tag": "Thumbnail",
           "type": "Thumbnail",
-          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg",
-          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg?width=800&height=450"
+          "url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/a55a2401-3daa-42b9-9631-ddda964380ba/LittleBigPlanet_Thumbnail_0.jpg",
+          "urlWithResolution": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/a55a2401-3daa-42b9-9631-ddda964380ba/LittleBigPlanet_Thumbnail_0.jpg?width=800&height=450"
         }
       ],
       "contents": [],

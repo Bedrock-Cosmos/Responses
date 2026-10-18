@@ -6,8 +6,8 @@
       "Id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
       "Contents": [
         {
-          "Id": "f27647ee-9530-4431-aa5b-7a0ddaf2f489",
-          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f27647ee-9530-4431-aa5b-7a0ddaf2f489/primary.zip",
+          "Id": "5323a888-dacd-42cc-ac6b-ebdf8ce1e0e6",
+          "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/5323a888-dacd-42cc-ac6b-ebdf8ce1e0e6/primary.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.2.10",
           "Tags": [],
@@ -36,12 +36,12 @@
           {
             "type": "resourcepack",
             "uuid": "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
-            "version": "1.0.75"
+            "version": "1.0.78"
           },
           {
             "type": "worldtemplate",
             "uuid": "1dde574b-2b4d-48e6-951e-d135093bcdc9",
-            "version": "1.0.75"
+            "version": "1.0.78"
           }
         ],
         "skinPack": {

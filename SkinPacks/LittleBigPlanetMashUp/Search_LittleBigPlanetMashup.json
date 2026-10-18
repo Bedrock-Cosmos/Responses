@@ -24,12 +24,12 @@
           }
         ],
         "Title": {
-          "NEUTRAL": "LittleBigPlanet™ Mash-up",
-          "neutral": "LittleBigPlanet™ Mash-up"
+          "NEUTRAL": "LittleBigPlanet\u2122 Mash-up",
+          "neutral": "LittleBigPlanet\u2122 Mash-up"
         },
         "Description": {
-          "NEUTRAL": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4.",
-          "neutral": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4."
+          "NEUTRAL": "Mix the crazy, non-stop creativity of LittleBigPlanet\u2122 into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy\u00ae, Sackgirl\u00ae, OddSock, Toggle and Swoop will decorate your worlds with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation\u00ae4.",
+          "neutral": "Mix the crazy, non-stop creativity of LittleBigPlanet\u2122 into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy\u00ae, Sackgirl\u00ae, OddSock, Toggle and Swoop will decorate your worlds with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation\u00ae4."
         },
         "Keywords": {
           "NEUTRAL": {
@@ -163,12 +163,12 @@
         },
         "Rating": {
           "Average": 4.3,
-          "TotalCount": 18756,
-          "Count5Star": 13997,
-          "Count4Star": 1397,
-          "Count3Star": 862,
-          "Count2Star": 370,
-          "Count1Star": 2130
+          "TotalCount": 18908,
+          "Count5Star": 14122,
+          "Count4Star": 1403,
+          "Count3Star": 868,
+          "Count2Star": 375,
+          "Count1Star": 2140
         },
         "DeepLinks": [],
         "DisplayProperties": {
@@ -186,12 +186,12 @@
             {
               "type": "resourcepack",
               "uuid": "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
-              "version": "1.0.75"
+              "version": "1.0.78"
             },
             {
               "type": "worldtemplate",
               "uuid": "1dde574b-2b4d-48e6-951e-d135093bcdc9",
-              "version": "1.0.75"
+              "version": "1.0.78"
             }
           ],
           "skinPack": {
