@@ -130,8 +130,8 @@
                   "thumbnail": {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://bedrock-cosmos.app/thumbnails/CapePhysics_thumbnail.png",
-                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/CapePhysics_thumbnail.png?width=800&height=450"
+                    "url": "https://bedrock-cosmos.app/thumbnails/CapePhysics_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/CapePhysics_thumbnail.jpg?width=800&height=450"
                   },
                   "price": {
                     "listPrice": -1,
