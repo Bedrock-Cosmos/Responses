@@ -30,11 +30,41 @@
     ]
   },
   {
-    "controlId": "GridList",
+    "controlId": "TextRow",
     "components": [
       {
         "text": {
           "value": "These emotes are only visible to other Bedrock Cosmos users!",
+          "style": {
+            "highlightColor": [],
+            "alignment": "Left",
+            "textColor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "font": "SmoothWithEmoticons",
+            "showBackground": false,
+            "showOutline": false,
+            "indent": 0.0,
+            "buttonWidth": 0.0,
+            "color": [],
+            "offerControlIdType": "None"
+          },
+          "replacements": []
+        },
+        "type": "headerComp",
+        "$type": "HeaderComponent"
+      }
+    ]
+  },
+  {
+    "controlId": "GridList",
+    "components": [
+      {
+        "text": {
+          "value": "",
           "style": {
             "highlightColor": [],
             "alignment": "Left",
