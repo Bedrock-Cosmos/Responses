@@ -3,7 +3,7 @@
     "pageId": "CreatorPage_master_player_account!MinecraftRestored",
     "addToRecentlyViewed": false,
     "pageRefresh": false,
-    "sidebarLayoutType": "None",
+    "sidebarLayoutType": "Marketplace",
     "layout": [
       {
         "sectionName": "rows",

@@ -3,7 +3,7 @@
     "pageId": "MultiItemPage_HiddenDLC",
     "addToRecentlyViewed": false,
     "pageRefresh": false,
-    "sidebarLayoutType": "None",
+    "sidebarLayoutType": "Marketplace",
     "layout": [
       {
         "sectionName": "rows",
