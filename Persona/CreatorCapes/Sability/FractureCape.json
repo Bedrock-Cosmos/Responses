@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "993be541-63ae-45d5-830b-4aba8a58b774",
+      "Contents": [
+        {
+          "Id": "79bf7df9-fc00-407f-aedb-57388765f1b3",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/FractureCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0583eb6e-53f5-4298-9d1d-68c0f26fb2a2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

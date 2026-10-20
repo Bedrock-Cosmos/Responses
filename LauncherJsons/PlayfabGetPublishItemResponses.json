@@ -728,6 +728,10 @@
     "response": "Persona\\CreatorCapes\\Sability\\SabilityCape.json"
   },
   {
+    "uuid": "ebc1d202-4951-4e72-84d3-90c9e5e1c826",
+    "response": "Persona\\CreatorCapes\\Sability\\AuroraBorealisCape.json"
+  },
+  {
     "uuid": "9ebb516e-b275-4652-a1e1-c66452d45227",
     "response": "Persona\\CreatorCapes\\Sability\\BedrockViewerCape.json"
   },
@@ -762,6 +766,10 @@
   {
     "uuid": "68f1ff9b-d021-4f31-ae50-d040eaf7fe44",
     "response": "Persona\\CreatorCapes\\Sability\\ElementalWindCape.json"
+  },
+  {
+    "uuid": "993be541-63ae-45d5-830b-4aba8a58b774",
+    "response": "Persona\\CreatorCapes\\Sability\\FractureCape.json"
   },
   {
     "uuid": "efbbb230-9cdd-49ac-9103-1c305eecefac",

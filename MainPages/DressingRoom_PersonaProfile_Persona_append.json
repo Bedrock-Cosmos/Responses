@@ -476,28 +476,28 @@
       }
     },
     {
-      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+      "linksTo": "PersonaCreatorPage_master_player_account!Sability",
       "linksToInfo": {
-        "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
         "linkType": "external",
         "displayType": "store_layout.character_creator_screen",
         "screenTitle": {
-          "value": "Wizardry",
+          "value": "Sability",
           "replacements": []
         },
         "navigateInPlace": false
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000010",
-      "flags": [],
+      "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Torii Gate Cape",
-      "creatorName": "Wizardry",
+      "title": "Fracture Cape",
+      "creatorName": "Sability",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Wizardry/ToriiGateCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Wizardry/ToriiGateCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/FractureCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/FractureCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -514,14 +514,14 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "3fb96d37-4413-48fb-a9a3-84c7170378fa",
+          "uuid": "0583eb6e-53f5-4298-9d1d-68c0f26fb2a2",
           "version": "1.0.0"
         }
       ],
-      "startDate": "2025-10-25T12:00:00Z",
+      "startDate": "2026-10-20T22:16:37Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
-          "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
+          "linksTo": "PersonaCreatorPage_master_player_account!Sability",
           "linkType": "external",
           "displayType": "store_layout.character_creator_screen",
           "navigateInPlace": false

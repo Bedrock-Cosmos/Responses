@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ebc1d202-4951-4e72-84d3-90c9e5e1c826",
+      "Contents": [
+        {
+          "Id": "3d5fae51-5656-43cb-afdf-654dd9f304d5",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/AuroraBorealisCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "32a18139-ecb1-4dd8-8290-d886f8d4c746",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
