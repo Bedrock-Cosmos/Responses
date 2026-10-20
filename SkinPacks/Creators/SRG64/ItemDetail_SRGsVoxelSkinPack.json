@@ -30,7 +30,8 @@
                       "indent": 0,
                       "buttonWidth": 0,
                       "color": [],
-                      "offerControlIdType": "None"
+                      "offerControlIdType": "None",
+                      "outlineColor": []
                     },
                     "replacements": []
                   },
@@ -39,6 +40,34 @@
                 "isVisible": true,
                 "type": "topBarMinecoinComp",
                 "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
               },
               {
                 "linksToInfo": {
