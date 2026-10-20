@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "182de6eb-f5a4-4df3-b98b-46e619bb33ff",
+      "Contents": [
+        {
+          "Id": "d60da6d6-18f8-4104-b0ef-41c7456102c0",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Oxynix/SenyawaCactusCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Oxynix",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a4b51c58-9b4f-4046-b639-a35ea185d088",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

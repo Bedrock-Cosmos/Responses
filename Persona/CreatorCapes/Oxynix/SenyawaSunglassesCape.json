@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0a5cc767-cd78-40ee-8d2c-6cd254372dfb",
+      "Contents": [
+        {
+          "Id": "2de5f743-0af1-4d34-965f-e353a0b787c2",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Oxynix/SenyawaSunglassesCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Oxynix",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f9e27f75-3a96-40a1-89eb-d2895d739a83",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

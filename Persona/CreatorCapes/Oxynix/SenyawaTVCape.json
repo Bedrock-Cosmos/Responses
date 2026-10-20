@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e2614418-a9dc-46f2-a207-ba62c0a098f5",
+      "Contents": [
+        {
+          "Id": "8705088f-763c-4933-91f0-7626db67fe19",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Oxynix/SenyawaTVCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Oxynix",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f8d17a4e-5e49-4e96-a772-7b51b8c39d3c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

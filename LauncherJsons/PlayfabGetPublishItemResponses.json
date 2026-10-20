@@ -672,6 +672,58 @@
     "response": "Persona\\CreatorCapes\\NAC\\MCCYellowYaksCape.json"
   },
   {
+    "uuid": "1688b041-9970-4f49-878b-5e47b8282e0c",
+    "response": "Persona\\CreatorCapes\\Oxynix\\OxynixCape.json"
+  },
+  {
+    "uuid": "182de6eb-f5a4-4df3-b98b-46e619bb33ff",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaCactusCape.json"
+  },
+  {
+    "uuid": "f6b11332-dcbe-4bf8-a1e6-32c85e87ea6f",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaDragonCape.json"
+  },
+  {
+    "uuid": "65ea5b25-a2d9-48d8-bd7e-a65d75105c2e",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaFoxCape.json"
+  },
+  {
+    "uuid": "5d9eb275-cc12-4a76-ad5e-48f93004fc3b",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaHeartBlueCape.json"
+  },
+  {
+    "uuid": "17fe35c6-966f-4305-a965-1fee8315e771",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaHeartCape.json"
+  },
+  {
+    "uuid": "98c1e5ba-aadd-4d0b-aa07-9f1b6bb1e5ea",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaHeartOrangeCape.json"
+  },
+  {
+    "uuid": "f936f593-85be-4a34-9ae6-6efcef4716f5",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaHeartRedCape.json"
+  },
+  {
+    "uuid": "7740cc30-0adb-461e-82bd-718e3d0b6d39",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaHeartWhiteCape.json"
+  },
+  {
+    "uuid": "1cd2c513-252a-4a14-8631-88151f0cf380",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaHeartYellowCape.json"
+  },
+  {
+    "uuid": "2901ec11-7baf-4d1e-a9fc-38e62b235c09",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaSunCape.json"
+  },
+  {
+    "uuid": "0a5cc767-cd78-40ee-8d2c-6cd254372dfb",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaSunglassesCape.json"
+  },
+  {
+    "uuid": "e2614418-a9dc-46f2-a207-ba62c0a098f5",
+    "response": "Persona\\CreatorCapes\\Oxynix\\SenyawaTVCape.json"
+  },
+  {
     "uuid": "88b7ad01-d26b-4b03-aee4-d0f15db6181b",
     "response": "Persona\\CreatorCapes\\Sability\\SabilityCape.json"
   },

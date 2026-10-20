@@ -1,0 +1,832 @@
+{
+  "result": {
+    "id": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+    "pageId": "DressingRoom_Capes",
+    "addToRecentlyViewed": false,
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "type": "personaOfferInteractionComp",
+                "$type": "PersonaOfferInteractionComponent"
+              },
+              {
+                "type": "appearanceInteractionComp",
+                "$type": "AppearanceInteractionComponent"
+              },
+              {
+                "type": "openColorPickerComp",
+                "$type": "OpenColorPickerComponent"
+              },
+              {
+                "type": "openExpandedAppearanceViewComp",
+                "$type": "OpenExpandedAppearanceViewComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_DressingRoomSearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.search.home",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  }
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "All capes here are created by Oxynix!\n\nDiscord: @oxynix_\nYouTube: youtube.com/@oxynixx",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "text": {
+                  "value": "Capes by Oxynix",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "items": [
+                  {
+                    "id": "182de6eb-f5a4-4df3-b98b-46e619bb33ff",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Cactus Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaCactusCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaCactusCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "a4b51c58-9b4f-4046-b639-a35ea185d088",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:38:18Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "f6b11332-dcbe-4bf8-a1e6-32c85e87ea6f",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Dragon Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaDragonCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaDragonCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "69bc24ae-ff19-44a6-b28e-5bc2a20fee48",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:38:44Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "65ea5b25-a2d9-48d8-bd7e-a65d75105c2e",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Fox Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaFoxCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaFoxCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "7bd742f8-f841-4e40-b376-f5e7282a589b",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:39:18Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "17fe35c6-966f-4305-a965-1fee8315e771",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Heart Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "52a2bd67-b2c0-4948-bf56-1812223fe8bf",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:39:45Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "5d9eb275-cc12-4a76-ad5e-48f93004fc3b",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Heart Blue Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartBlueCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartBlueCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "aba0f5b5-1834-4390-9ccd-1a04868dc6d3",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:40:14Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "98c1e5ba-aadd-4d0b-aa07-9f1b6bb1e5ea",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Heart Orange Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartOrangeCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartOrangeCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "1033e8a0-46d2-409f-bfd4-2990070f98a2",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:40:39Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "f936f593-85be-4a34-9ae6-6efcef4716f5",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Heart Red Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartRedCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartRedCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "43b15be5-36bc-4401-8d99-0bcfdc6904be",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:41:00Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "1cd2c513-252a-4a14-8631-88151f0cf380",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Heart Yellow Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartYellowCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartYellowCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "87d30fda-36d6-4fb3-9b80-f9a5428ea63a",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:41:23Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "7740cc30-0adb-461e-82bd-718e3d0b6d39",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Heart White Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartWhiteCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartWhiteCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "1cbd6f0c-9b6c-41ba-9c8a-81f8cb112e64",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:41:46Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "2901ec11-7baf-4d1e-a9fc-38e62b235c09",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Sun Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaSunCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaSunCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "829b305b-93bb-4949-8e93-0f841edd97a1",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:42:08Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "0a5cc767-cd78-40ee-8d2c-6cd254372dfb",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa Sunglasses Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaSunglassesCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaSunglassesCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "f9e27f75-3a96-40a1-89eb-d2895d739a83",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:42:31Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "e2614418-a9dc-46f2-a207-ba62c0a098f5",
+                    "contentType": "PersonaDurable",
+                    "title": "Senyawa TV Cape",
+                    "creatorName": "Oxynix",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaTVCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaTVCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "f8d17a4e-5e49-4e96-a772-7b51b8c39d3c",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-10-20T21:42:50Z",
+                    "linksToInfo": {
+                      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                      "linkType": "external",
+                      "displayType": "store_layout.character_creator_screen",
+                      "screenTitle": {
+                        "value": "Oxynix",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Oxynix",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  }
+                ],
+                "totalItems": 400,
+                "linksTo": "MultiItemPage_Inventory",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "marketplace_inventory",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "customStoreRowConfiguration": {
+                  "seeAllVisible": false,
+                  "maxOffers": 400,
+                  "arrowsVisible": false,
+                  "visibleOffersPerRow": 0
+                },
+                "type": "itemListComp",
+                "$type": "ItemListComponent"
+              },
+              {
+                "type": "dispPreviewPieceComp",
+                "$type": "DisplayPreviewedPieceOfferComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}

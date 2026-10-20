@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1688b041-9970-4f49-878b-5e47b8282e0c",
+      "Contents": [
+        {
+          "Id": "17ee7ded-51d3-4e56-91c1-077579371736",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Oxynix/OxynixCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Oxynix",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d0af11fd-6303-4ece-82ce-81566b2a9673",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

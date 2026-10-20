@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "98c1e5ba-aadd-4d0b-aa07-9f1b6bb1e5ea",
+      "Contents": [
+        {
+          "Id": "b26a9ceb-01cf-40e6-a652-f977410b7ec3",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Oxynix/SenyawaHeartOrangeCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Oxynix",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1033e8a0-46d2-409f-bfd4-2990070f98a2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

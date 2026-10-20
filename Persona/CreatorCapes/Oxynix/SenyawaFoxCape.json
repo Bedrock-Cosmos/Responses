@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "65ea5b25-a2d9-48d8-bd7e-a65d75105c2e",
+      "Contents": [
+        {
+          "Id": "9922148d-0fe5-46b3-bc60-f417b366303a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Oxynix/SenyawaFoxCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Oxynix",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7bd742f8-f841-4e40-b376-f5e7282a589b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

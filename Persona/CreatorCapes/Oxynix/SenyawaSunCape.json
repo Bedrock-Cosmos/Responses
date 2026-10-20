@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2901ec11-7baf-4d1e-a9fc-38e62b235c09",
+      "Contents": [
+        {
+          "Id": "fb54275b-ee3c-4721-b600-1f03d1ef21b2",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Oxynix/SenyawaSunCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Oxynix",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "829b305b-93bb-4949-8e93-0f841edd97a1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

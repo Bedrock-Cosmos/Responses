@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7740cc30-0adb-461e-82bd-718e3d0b6d39",
+      "Contents": [
+        {
+          "Id": "c3094c8b-dd61-4ec0-b893-45f9c44b0393",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Oxynix/SenyawaHeartWhiteCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Oxynix",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1cbd6f0c-9b6c-41ba-9c8a-81f8cb112e64",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

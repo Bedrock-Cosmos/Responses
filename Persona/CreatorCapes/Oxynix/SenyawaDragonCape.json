@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f6b11332-dcbe-4bf8-a1e6-32c85e87ea6f",
+      "Contents": [
+        {
+          "Id": "afa8ca58-ed9a-4eb7-b07f-8ecdf9e48d99",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Oxynix/SenyawaDragonCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Oxynix",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "69bc24ae-ff19-44a6-b28e-5bc2a20fee48",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

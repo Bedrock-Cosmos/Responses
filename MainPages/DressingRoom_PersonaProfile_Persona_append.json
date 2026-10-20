@@ -423,28 +423,28 @@
       }
     },
     {
-      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+      "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
       "linksToInfo": {
-        "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+        "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
         "linkType": "external",
         "displayType": "store_layout.character_creator_screen",
         "screenTitle": {
-          "value": "BionicBen",
+          "value": "Oxynix",
           "replacements": []
         },
         "navigateInPlace": false
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000009",
-      "flags": [],
+      "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Spicewood Cape",
-      "creatorName": "BionicBen",
+      "title": "Senyawa Heart Cape",
+      "creatorName": "Oxynix",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/BionicBen/SpicewoodCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/BionicBen/SpicewoodCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Oxynix/SenyawaHeartCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -461,14 +461,14 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "d339d485-2106-4a95-9f1e-081045b497de",
+          "uuid": "52a2bd67-b2c0-4948-bf56-1812223fe8bf",
           "version": "1.0.0"
         }
       ],
-      "startDate": "2025-10-25T12:00:00Z",
+      "startDate": "2026-10-20T21:39:45Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
-          "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
+          "linksTo": "PersonaCreatorPage_master_player_account!Oxynix",
           "linkType": "external",
           "displayType": "store_layout.character_creator_screen",
           "navigateInPlace": false
