@@ -352,6 +352,10 @@
     "response": "Persona\\BedrockCosmosCapes\\50KMilestoneCape.json"
   },
   {
+    "uuid": "c65008ae-9c2b-4f22-8bd3-61278122db60",
+    "response": "Persona\\BedrockCosmosCapes\\100KMilestoneCape.json"
+  },
+  {
     "uuid": "5bba5540-377b-4ec2-9633-4551c4e82e37",
     "response": "Persona\\CustomCapes\\AndroidCape.json"
   },

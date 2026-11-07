@@ -14,7 +14,7 @@
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000001",
-      "flags": ["New"],
+      "flags": [],
       "contentType": "PersonaDurable",
       "title": "Bedrock Cosmos Cape",
       "creatorName": "Bedrock Cosmos",
@@ -69,14 +69,14 @@
       "id": "00000000-0000-0000-0000-000000000002",
       "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Halloween 2026 Cape",
+      "title": "100k Milestone Cape",
       "description": "§",
       "creatorName": "Bedrock Cosmos",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/BedrockCosmosCapes/Halloween2026Cape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BedrockCosmosCapes/Halloween2026Cape.png"
+        "url": "https://capes.bedrock-cosmos.app/icons/BedrockCosmosCapes/100KMilestoneCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BedrockCosmosCapes/100KMilestoneCape.png"
       },
       "price": {
         "listPrice": 0,
@@ -87,17 +87,17 @@
         "virtualCurrencyType": "Minecoin"
       },
       "pieceType": "persona_capes",
-      "rarity": "legendary",
+      "rarity": "rare",
       "ownership": "Purchased",
       "packType": "Persona",
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "0de48bf8-7417-4940-b713-612b50eff267",
+          "uuid": "1c83b23f-659c-4ec6-b0e8-f133492131c7",
           "version": "1.0.0"
         }
       ],
-      "startDate": "2026-10-13T02:04:57Z",
+      "startDate": "2026-11-07T20:53:53Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
           "linksTo": "DressingRoom_Capes",
@@ -436,7 +436,7 @@
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000009",
-      "flags": ["New"],
+      "flags": [],
       "contentType": "PersonaDurable",
       "title": "Senyawa Heart Cape",
       "creatorName": "Oxynix",
@@ -489,7 +489,7 @@
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000010",
-      "flags": ["New"],
+      "flags": [],
       "contentType": "PersonaDurable",
       "title": "Fracture Cape",
       "creatorName": "Sability",

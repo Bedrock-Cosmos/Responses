@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c65008ae-9c2b-4f22-8bd3-61278122db60",
+      "Contents": [
+        {
+          "Id": "509da3aa-9d2d-4162-b205-71c24add2f8f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BedrockCosmosCapes/100KMilestoneCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Bedrock Cosmos",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1c83b23f-659c-4ec6-b0e8-f133492131c7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
