@@ -1,26 +1,14 @@
 {
-  "id": "7829afbb-8c60-4e6b-accf-88723f277727",
-  "instanceId": "7829afbb-8c60-4e6b-accf-88723f277727",
-  "surface": "LoginAnnouncement",
-  "template": "GameDrop",
-  "header": "Happy Halloween!",
-  "body": "The Bedrock Cosmos Halloween Update is here! Be sure to check out what's new below!",
+  "id": "f8962d76-173e-4d02-9bbb-3e8af2529737",
+  "instanceId": "f8962d76-173e-4d02-9bbb-3e8af2529737",
+  "surface": "InboxMessage",
+  "template": "ContentListNoCTA",
+  "header": "Thank you for 100,000 downloads!",
+  "body": "Bedrock Cosmos has reached 100,000 total downloads! To celebrate, the 100K Milestone Cape has been unlocked for you to use!",
   "images": {
     "Primary": {
-      "id": "5385a892-ce9c-4f24-8fe6-2ddaefb5c17e",
-      "url": "http://bedrock-cosmos.app/thumbnails/News/News_2026-10-18.png"
-    },
-    "UpdateOne": {
-      "id": "8fa34051-dddc-4d95-9bbd-28a13db4a6c2",
-      "url": "https://bedrock-cosmos.app/thumbnails/News/News_Subimage1_2026-10-18.png"
-    },
-    "UpdateTwo": {
-      "id": "887625c4-b17d-4b1e-a3ad-325e867b8ddd",
-      "url": "https://bedrock-cosmos.app/thumbnails/News/News_Subimage2_2026-10-18.png"
-    },
-    "UpdateThree": {
-      "id": "2bfd16af-6972-481c-a778-dd116dd0b84a",
-      "url": "https://bedrock-cosmos.app/thumbnails/News/News_Subimage3_2026-10-18.png"
+      "id": "7d3a6be1-6c5f-4ca0-9c7e-ee929b341cae",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/News_2026-11-07.png"
     }
   },
   "buttons": {
@@ -28,43 +16,44 @@
       "text": "Dismiss",
       "action": "Dismiss",
       "link": "",
-      "description": "",
-      "saleBanner": ""
-    },
-    "FooterCTA": {
-      "text": "Changelog",
-      "action": "External",
-      "link": "https://bedrock-cosmos.app/changelogs/",
-      "description": "",
-      "saleBanner": ""
+      "description": ""
     }
   },
-  "reportId": "YzFlMTFiYjMtZWIyMS00MGQwLTg3ODEtNGMyOGMwMTdkYWZk",
+  "reportId": "Y2VhMjQ3ZDItMWUwZi00Nzc1LTlkYTMtMWVkMWUxNTU0YmY4",
   "isControl": false,
   "sender": "Bedrock Cosmos",
   "status": "Unread",
   "persistToInboxOnImpression": false,
   "inboxCategory": "BedrockCosmosNews",
-  "dateReceived": "2026-10-18T05:04:43.177Z",
+  "dateReceived": "2026-11-07T21:36:52.948Z",
   "itemList": [],
   "style": "Default",
   "messageTitles": [
     "BedrockVanilla"
   ],
   "associatedProducts": [],
-  "messageItemList": [],
+  "messageItemList": [
+    {
+      "button": {
+        "id": "c65008ae-9c2b-4f22-8bd3-61278122db60",
+        "text": "100K Milestone Cape",
+        "action": "External",
+        "link": "https://bedrock-cosmos.app/capes/?cape=c65008ae-9c2b-4f22-8bd3-61278122db60",
+        "description": "By Bedrock Cosmos"
+      },
+      "image": {
+        "id": "c65008ae-9c2b-4f22-8bd3-61278122db60",
+        "url": "https://capes.bedrock-cosmos.app/icons/BedrockCosmosCapes/100KMilestoneCape.png",
+        "imageSize": {
+          "height": 450,
+          "width": 450
+        }
+      }
+    }
+  ],
   "messageText": {
-    "header": "Happy Halloween!",
-    "body": "The Bedrock Cosmos Halloween Update is here! Be sure to check out what's new below!",
-    "subTitle": "",
-    "updateOneTitle": "New Cosmetics",
-    "updateTwoTitle": "Cape Animations",
-    "updateThreeTitle": "Custom Emotes",
-    "updateOneBody": "Several new Halloween-themed skin packs have been added to the Creator Hub. We have also added several exclusive Bedrock Cosmos capes, download milestone capes, and the new Halloween 2026 Cape!",
-    "updateTwoBody": "Smooth and enchanted cape animations have been added to the Creator Hub as well! These animation packs can be found under the new Bedrock Cosmos Extras section.",
-    "updateThreeBody": "For the first time in Bedrock Cosmos's lifespan, we have added custom emotes that are visible to other Bedrock Cosmos users! Be sure to show off your favorite capes and skins!",
-    "footerHeader": "",
-    "footerBody": "For additional information about this update, feel free to check out our changelog. Have a very happy Halloween season!"
+    "header": "Thank you for 100,000 downloads!",
+    "body": "Bedrock Cosmos has reached 100,000 total downloads! To celebrate, the 100K Milestone Cape has been unlocked for you to use!"
   },
   "versionConstraint": "",
   "launcherVersionConstraint": "",
