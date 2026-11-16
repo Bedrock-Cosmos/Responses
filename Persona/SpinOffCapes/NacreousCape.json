@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d7d25b6c-2d13-4c21-b90d-461fd3f6677b",
+      "Contents": [
+        {
+          "Id": "f58a9004-5bd5-4b60-85bb-25d381afcea1",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeonsII/NacreousCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons II",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e7f3a2f8-8b6a-42b5-b947-bbd67e07123b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -383,15 +383,15 @@
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000008",
-      "flags": [],
+      "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Slice Slayer Cape",
-      "creatorName": "Minecraft Dungeons II",
+      "title": "Snow Golem Cape",
+      "creatorName": "Minecraft",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SliceSlayerCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SliceSlayerCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SnowGolemCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/SnowGolemCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -408,11 +408,11 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "4c2240ad-da4d-4b26-8f2e-28bc7b0f296a",
+          "uuid": "0ad8578c-f308-4ca0-863d-e47ed418f7af",
           "version": "1.0.0"
         }
       ],
-      "startDate": "2026-09-30T03:34:38Z",
+      "startDate": "2026-11-16T01:02:26Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
           "linksTo": "DressingRoom_Capes",
