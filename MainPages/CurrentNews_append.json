@@ -1,14 +1,14 @@
 {
-  "id": "f8962d76-173e-4d02-9bbb-3e8af2529737",
-  "instanceId": "f8962d76-173e-4d02-9bbb-3e8af2529737",
+  "id": "fc62b507-25f3-4bac-8678-834b0b1298ac",
+  "instanceId": "fc62b507-25f3-4bac-8678-834b0b1298ac",
   "surface": "InboxMessage",
-  "template": "ContentListNoCTA",
-  "header": "Thank you for 100,000 downloads!",
-  "body": "Bedrock Cosmos has reached 100,000 total downloads! To celebrate, the 100K Milestone Cape has been unlocked for you to use!",
+  "template": "HeroImageCTA",
+  "header": "New Minecraft Dungeons II capes are coming!",
+  "body": "The Nacreous and Snow Golem Capes have been revealed for Minecraft Dungeons II! These capes are expected to release on December 1st, 2026 in the upcoming The Humblers Awaken DLC.\n\nBoth of these capes are now available to use in Bedrock Cosmos as well!",
   "images": {
     "Primary": {
-      "id": "7d3a6be1-6c5f-4ca0-9c7e-ee929b341cae",
-      "url": "https://bedrock-cosmos.app/thumbnails/News/News_2026-11-07.png"
+      "id": "3616aff2-47bf-49f8-8f91-700a4c5f2625",
+      "url": "http://bedrock-cosmos.app/thumbnails/News/News_2026-11-15.png"
     }
   },
   "buttons": {
@@ -16,44 +16,27 @@
       "text": "Dismiss",
       "action": "Dismiss",
       "link": "",
-      "description": ""
+      "description": "",
+      "saleBanner": ""
     }
   },
-  "reportId": "Y2VhMjQ3ZDItMWUwZi00Nzc1LTlkYTMtMWVkMWUxNTU0YmY4",
+  "reportId": "MjZmYWViN2MtYTQ0Yi00NDg1LTgzZmUtOThmNGZhY2M5OTcx",
   "isControl": false,
   "sender": "Bedrock Cosmos",
   "status": "Unread",
   "persistToInboxOnImpression": false,
   "inboxCategory": "BedrockCosmosNews",
-  "dateReceived": "2026-11-07T21:36:52.948Z",
+  "dateReceived": "2026-11-16T01:52:55.134Z",
   "itemList": [],
   "style": "Default",
   "messageTitles": [
     "BedrockVanilla"
   ],
   "associatedProducts": [],
-  "messageItemList": [
-    {
-      "button": {
-        "id": "c65008ae-9c2b-4f22-8bd3-61278122db60",
-        "text": "100K Milestone Cape",
-        "action": "External",
-        "link": "https://bedrock-cosmos.app/capes/?cape=c65008ae-9c2b-4f22-8bd3-61278122db60",
-        "description": "By Bedrock Cosmos"
-      },
-      "image": {
-        "id": "c65008ae-9c2b-4f22-8bd3-61278122db60",
-        "url": "https://capes.bedrock-cosmos.app/icons/BedrockCosmosCapes/100KMilestoneCape.png",
-        "imageSize": {
-          "height": 450,
-          "width": 450
-        }
-      }
-    }
-  ],
+  "messageItemList": [],
   "messageText": {
-    "header": "Thank you for 100,000 downloads!",
-    "body": "Bedrock Cosmos has reached 100,000 total downloads! To celebrate, the 100K Milestone Cape has been unlocked for you to use!"
+    "header": "New Minecraft Dungeons II capes are coming!",
+    "body": "The Nacreous and Snow Golem Capes have been revealed for Minecraft Dungeons II! These capes are expected to release on December 1st, 2026 in the upcoming The Humblers Awaken DLC.\n\nBoth of these capes are now available to use in Bedrock Cosmos as well!"
   },
   "versionConstraint": "",
   "launcherVersionConstraint": "",
